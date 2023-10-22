@@ -1,0 +1,9 @@
+baseURL: https://example.org/
+languageCode: de-de
+title: All Centipede Are Beautiful
+theme: hugo-book
+
+params:
+  BookTheme: light
+  BookToC: true
+  BookSection: /
