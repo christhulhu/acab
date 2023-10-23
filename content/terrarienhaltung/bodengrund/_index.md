@@ -1,6 +1,6 @@
 ---
 title: Bodengrund
-weight: 300
+weight: 200
 ---
 
 # Bodengrund im Terrarium

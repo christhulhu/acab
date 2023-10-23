@@ -1,6 +1,6 @@
 ---
 title: Einrichtung
-weight: 350
+weight: 300
 ---
 
 # Einrichtung im Terrarium

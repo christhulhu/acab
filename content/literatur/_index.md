@@ -14,6 +14,7 @@ Erstes, umfassendes Buch über die Ordnung Scolopendromorpha. Mittlerweile stell
 * Schileyko et. all, 2020: "An overview of the extant genera and subgenera of the order Scolopendromorpha (Chilopoda): a new identification key and updated diagnoses"
 
 ## Biologie
+
 * Schläfer, 2009: "Sex determination of living centipedes"
 * Edgecombe et. all, 2010: "A common terminology for the external anatomy of centipedes (Chilopoda)"
 * Rosenberg, 2009: "Die Hundertfüßer, Chilopoda"  
