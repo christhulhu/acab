@@ -5,5 +5,5 @@ theme: hugo-book
 
 params:
   BookTheme: light
-  BookToC: true
+  BookToC: false
   BookSection: /
