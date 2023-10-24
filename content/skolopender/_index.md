@@ -7,7 +7,7 @@ weight: 100
 
 ## Die Klasse Chilopoda
 
-**Chilopoda** (Hundertfüßer) sind neben Pauropoda (Wenigfüßer), Symphyla (Zwergfüßer) und Diplopoda (Doppelfüßer) eine Klasse der **Myriapoda** (Vielfüßer). Dabei ist der Name Skolopender eher ein Sammelbegriff für Riesenläufer im allgemeinen und bezieht sich nicht ausschließlich auf die Gattung Scolopendra; vielmehr versteht man darunter Tiere der Ordnung Scolopendromporpha.
+**Chilopoda** (Hundertfüßer) sind neben Pauropoda (Wenigfüßer), Symphyla (Zwergfüßer) und Diplopoda (Doppelfüßer) eine Klasse der **Myriapoda** (Vielfüßer). Dabei ist der Name Skolopender eher ein Sammelbegriff für Riesenläufer im Allgemeinen und bezieht sich nicht ausschließlich auf die Gattung Scolopendra; vielmehr versteht man darunter Tiere der Ordnung Scolopendromporpha.
 
 Unter den Chilopoda gibt es insgesamt fünf Ordnungen:
 
@@ -23,7 +23,7 @@ Derweil in Deutschland viele Arten der Lithobiomorpha und Geophilomorpha in Gart
 
 Die Arten der Ordnung Scolopendromorpha sind vielgestaltig. Die kleinsten Arten messen gerade mal 10mm, derweil die größten deutlich über 30cm werden können. Meist haben Scolopendromorpha 4 Ocelli (Augen) auf jeder Seite. Es gibt aber auch Familien, die keine Ocelli besitzen und die kleinste Familie **Mimopidae** mit der Gattung **Mimpos**, die lediglich ein Auge auf jeder Seite haben.
 
-Auch die Anzahl der Beinpaare kann innerhalb der Ordnung variieren. Derweil die meisten Arten 21 Beinpaare besitzen, hat der Genus **Scolopendropsis** in der Regel 23 Beinpaare. Doch auch hier gibt es eine Ausnahme: [**Scolopendropsis duplicata**](https://www.theguardian.com/science/2010/apr/18/new-to-nature-scolopendropsis-duplicata) hat eine variable Anzahl von 29 bis 43 Beinpaaren.
+Auch die Anzahl der Beinpaare kann innerhalb der Ordnung variieren. Derweil die meisten Arten 21 Beinpaare besitzen, hat der Genus **Scolopendropsis** in der Regel 23 Beinpaare. Doch auch hier gibt es eine Ausnahme: [**Scolopendropsis duplicata**](https://www.theguardian.com/science/2010/apr/18/new-to-nature-scolopendropsis-duplicata) hat eine variable Anzahl von 39 bis 43 Beinpaaren.
 
 ### Übersicht über die Familien der Ordnung Scolopendromorpha
 
@@ -91,13 +91,13 @@ Die Laufbeine entspringen aus der **Coxopleura** (_Hüft-Pleura_). Das Erste Seg
 Auf der Rückseite schützen **Tergite** (_Rückenplatten_) einen Skolopender. Auf der Vorderseite die **Sternite** (_Brustplatten_). Sowohl Tergite wie auch Sternite sind aus einem harten Chitin-Panzer und somit unbeweglich. Darum müssen sich Hundertfüßer häuten um zu wachsen.  
 Seitlich werden Tergit und Sternit durch die **Pleura** verbunden. In dieser flexiblen Hautschicht befinden sich auch auch die **Stigmen**. Dies sind Öffnungen in das **Tracheen**-System, mit dem ein Skolopender atmet. Diese Öffnungen kann mit "Ventilklappen" verschlossen und eher dreieckig geformt (Scolopendrinae) oder ohne Klappen und eher oval bis rund sein (Otostigminae).
 
-Am letzten Körpersegment haben Skolopender ein verhärtetes **Coxolpleura** mit langgezogenen Fortsätzen, dem **Coxopleurenfortsatz**. Dieser kann mitunter eine Bedornung aufweisen, die für die Artbestimmung wichtig ist.
+Am letzten Körpersegment haben Skolopender ein verhärtetes **Coxolpleura** mit langgezogenen Fortsätzen, den **Coxopleurenfortsätzen**. Dieser kann mitunter eine Bedornung aufweisen, die für die Artbestimmung wichtig ist.
 
 ## Geschlechtsbestimmung bei Skolopendern
 
 Geschlechtsbestimmung ist ein schwieriges Thema bei Skolopendern. Es gibt einige Arten, die einen Geschlechtsdimorphismus aufweisen und wo man über Merkmale, wie beispielsweise der Prefemur der Schleppbeine, zwischen Männchen und Weibchen unterscheiden kann. Vielen Hundertfüßern mangelt es jedoch an sekundären Geschlechterunterschieden und man muss die primären Geschlechtsteile begutachten.
 
-Bis 2009 war dies am lebenden Tier kaum möglich. **Schläfer** entwickelte jedoch eine Methode, in der die Tiere betäubt wurden, und durch leichten Druck auf den hinteren Teil des Körpers die Geschlechtsorgane aus dem Körper herausbewegt wurden. Dort lassen sich dann Unterschiede wie Spinngriffel und Gonopoden erkennen. Was wiederum bei kleinen Arten auch nur mit Mikroskop möglich ist.  
+Bis 2009 war dies am lebenden Tier kaum möglich. **Schläfer** entwickelte jedoch eine Methode, in der die Tiere betäubt wurden, und durch leichten Druck auf den hinteren Teil des Körpers die Geschlechtsorgane aus dem Körper herausbewegt wurden. Dort lassen sich dann Unterschiede wie Spinngriffel und Gonopoden erkennen. Was wiederum bei kleinen Arten auch nur unter Mikroskop möglich ist.  
 
 Dennoch ist diese Methode nicht Zweifelsfrei, wenn die Unterschiede nicht gut sichtbar ausgeprägt sind. Und in manchen Fällen ist vielleicht eine Geschlechtsunterscheidung möglich, jedoch eine genaue Artunterscheidung unmöglich: Männliche _Scolopendra canidens_ und _Scolopendra cretica_ sind nicht voneinander zu unterscheiden.
 
@@ -105,13 +105,18 @@ Dennoch ist diese Methode nicht Zweifelsfrei, wenn die Unterschiede nicht gut si
 
 Artbestimmung bei Skolopendern ist kein triviales Thema. Man kann nicht einfach über Farbgebung oder Herkunft die genaue Art ermitteln, sondern muss mitunter auf kleine Details achten, die häufig in Relation gesetzt werden müssen.  
 
-Derweil eine Ringfurche auf dem ersten Tergit bei Südamerikanischen Tieren recht verbreitet ist, ist dies für _Scolopendra valida_ aus der alten Welt ein relativ eindeutiges Erkennungsmerkmal. Andere arten sind in der Morphologie fast deckungsgleich, und man muss die Klauensporne an den Beinpaaren oder die Bedornung der Prefemur der Schleppbeine untersuchen. Andere Arten, die kosmopolitisch sind und vielgestaltig auftreten (z.B. _Scolopendra polymorpha_ oder _Scolopendra morsitans_) haben sogar innerhalb ihrer Art starke Abweichungen. Manchmal basierend auf der Herkunft, manchmal aber auch als schlichte Variation innerhalb der Art. Lediglich bei _Scolopendra hardwickei_ kann man auf Grund des Farbmusters schnell und einfach die Art bestimmen.
+Derweil eine Ringfurche auf dem ersten Tergit bei Südamerikanischen Tieren recht verbreitet ist, ist dies für _Scolopendra valida_ aus der alten Welt ein relativ eindeutiges Erkennungsmerkmal. Andere arten sind in der Morphologie fast deckungsgleich, und man muss die Klauensporne an den Füßen oder die Bedornung der Prefemur der Schleppbeine untersuchen. Andere Arten, die kosmopolitisch sind und vielgestaltig auftreten (z.B. _Scolopendra polymorpha_ oder _Scolopendra morsitans_) haben sogar innerhalb ihrer Art starke Abweichungen. Manchmal basierend auf der Herkunft, manchmal aber auch als schlichte Variation innerhalb der Art. Lediglich bei _Scolopendra hardwickei_ kann man auf Grund des Farbmusters schnell und einfach die Art bestimmen.
 
 Hinzu kommt jedoch, dass sehr viele Skolopender noch gar nicht beschrieben wurden und entsprechend keinen offiziellen Namen haben. Das populärste Beispiel ist hier sicherilch der "Malaysian Jewel", der noch keinen wissenschaftlichen Namen hat.
 
 ## Aktueller Stand der Bestimmung und Forschung
 
+> "centipedes of the family Scolopendridae have attracted little attention from ecologists and little work has been done on their life histories".
+(Lewis, 1972)
+
 Scolopendromporha sind ein relativ unerforschtes Gebiet. **Dr. Graf Attems** hat 1930 als Teil der Zusammenstellung "_Das Tierreich_" eine (seinerzeit) umfassende Aufstellung über diese Ordnung publiziert, die lange Zeit als Referenz galt. Zwischenzeitlich gab es immer wieder kleinere Betrachtung, teils auf Lokalitäten oder einzelne Geni beschränkt. Seit den frühen 2000er Jahren kamen wieder einige essenzielle Publikationen hinzu. Gerade **Lewis** hat 2010 mit "_A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus_" eine gute Übersicht über den Genus Scolopendra erstellt, derweil **Schileyko**, **Vahtera** und **Edgecombe** 2020 "_An overview of the extant genera and subgenera of the order Scolopendromorpha (Chilopoda)_" veröffentlichten.  
+
+Über die Biologie und Verhaltensweisen hat **Rosenberg** 2009 das umfassende Buch "_Die Hundertfüßer, Chilopoda_" veröffentlicht.
 
 Einig sind sich die Publikationen aber leider auch in einem Punkt: Es gibt noch viel zu erforschen und aufzuräumen!  
 Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entsprechend nicht statistisch repräsentativ. Andere Artbeschreibungen weichen voneinander ab. Manche Arten unterscheiden sich nichtmal voneinander - unter gewissen Bedingungen. So sind _Scolopendra canidens_ und _Scolopendra cretica_ als Männchen nicht voneinander zu unterscheiden. Oder der türkische Fund von _Scolopendra clavipes_ ist vermeintlich _Scolopendra canidens_. Und _Scolopendra morsitans_ hat einen sehr ähnlichen endemischen "Doppelgänger" _Scolopendra laeta_ in Austraieln, mit dem jedoch auch Tiere außerhalb der Insel viele Charakteristika teilen.
