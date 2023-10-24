@@ -93,6 +93,12 @@ Seitlich werden Tergit und Sternit durch die **Pleura** verbunden. In dieser fle
 
 Am letzten Körpersegment haben Skolopender ein verhärtetes **Coxolpleura** mit langgezogenen Fortsätzen, den **Coxopleurenfortsätzen**. Dieser kann mitunter eine Bedornung aufweisen, die für die Artbestimmung wichtig ist.
 
+## Häutung und Wachstum
+
+Im ersten Nymphenstadium haben junge Skolopender, auch Pedelings genannt, keinen festen Chitinpanzer. Zu diesem Zeitpunkt sollten die Tiere jedoch auch noch nicht von der Mutter separiert werden. Später entwickelt sich ein fester Chitinpanzer an den Tergiten und Sterniten. Obwohl die Pleura zwischen diesen Platten elastisch ist, muss sich der Huntertfüßer häuten um zu wachsen.
+
+Nach der erfolgreichen Häutung frisst ein Skolopender seine Haut, da sie ihm wertvolle Nährstoffe liefert, die er nach der körperlichen Anstrengung und zur Aushärtung der neuen Panzerung braucht. Aus diesem Grund bekommt man als Halter vielleicht gar nicht mit, ob sich ein Tier gehäutet hat. Aber im Vorfeld gibt es bereits deutliche Anzeichen: Die Färbung des Hundertfüßers wird blass und fahl, weil sich Luft zwischen der alten und neuen Haut ansammelt. Nach der Häutung hat der Pflegling wieder kräftige Farben und hat ein merklich größeres Körpervolumen.
+
 ## Geschlechtsbestimmung bei Skolopendern
 
 Geschlechtsbestimmung ist ein schwieriges Thema bei Skolopendern. Es gibt einige Arten, die einen Geschlechtsdimorphismus aufweisen und wo man über Merkmale, wie beispielsweise der Prefemur der Schleppbeine, zwischen Männchen und Weibchen unterscheiden kann. Vielen Hundertfüßern mangelt es jedoch an sekundären Geschlechterunterschieden und man muss die primären Geschlechtsteile begutachten.
