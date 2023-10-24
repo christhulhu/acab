@@ -1,5 +1,5 @@
 ---
-title: ACAB - All Centipedes Are Beautiful!
+title: ACAB - All Centipedes Are Beautiful
 ---
 # ACAB - All Centipedes Are Beautiful!
 
