@@ -61,6 +61,13 @@ Aber hierzu gibt es zwei Anmerkungen:
 
 Gerade subtropische und tropische Arten scheinen Obst gelegentlich nicht abgeneigt. Darum kann man regelmäßig (einmal pro Monat o.ä.) tropisches Obst beifüttern. Bisher zeigte sich gerade **Banane** als äußerst beliebt bei Scolopendra gigantea, aber auch Scolopendra dehaani.
 
+Obst, was nach Berichten angenommen wurde:
+
+- Banane  
+S. gigantea, S. dehaani
+- Papaya  
+S. dehaani, S. oraniensis, S. cingulata
+
 ## Supplemente
 
 Durch die Futtertiere alleine nimmt ein Skolopender leider nicht alle Nährstoffe auf, die er braucht. So wurde in der Vergangenheit schon beobachtet, dass der Chitin-Panzer von einigen Tieren nach der Häutung nicht richtig aushärten konnte, was wiederum auf Calcium-Mangel zurückgeführt wurde. Darum bietet es sich an, dass man die Futtertiere vor Verfütterung zusätzlich mit Ergänzungsmitteln anreichert.
