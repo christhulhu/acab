@@ -13,3 +13,5 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
   * ["Cherry Red"]({{< ref "scolopendra_dehaani_cherry_red">}})
   * ["Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg"]({{< ref "scolopendra_dehaani">}})
 * [Scolopendra sp. "Malaysian Jewel"]({{< ref "scolopendra_sp_malaysian_jewel">}})
+* [Scolopendra sp. piceoflava]({{< ref "scolopendra_sp_piceoflava">}})
+* [Scolopendra sp. "Toraja"]({{< ref "scolopendra_sp_toraja">}})

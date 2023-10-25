@@ -1,5 +1,5 @@
 ---
-title: Scolopendra dehaani
+title: Scolopendra sp. "Malaysian Jewel"
 bookHidden: true
 authors:
 - "Alessandro Hoechtlen"
@@ -16,7 +16,7 @@ authors:
 **Verhalten**: aggressiv, schnell und können hoch springen  
 **Sexualdimorphismus**: nein  
 **Anspruch in der Terrarienhaltung**: mittel  
-**Verfügbarkeit im Hobby**: gut verfügbar
+**Verfügbarkeit im Hobby**: gelegentlich verfügbar
 
 ## Haltungsparameter
 
@@ -33,7 +33,7 @@ authors:
 - **Substratfeuchtigkeit**: leicht feucht
 - **Bodenbedeckung**: Moos, Laub
 
-**Terrarien-Einrichtung**: eine Versteckmöglichkeit (z.B: Korkrinde) und eine Wasserschale muss gegeben sein.   Äste oder Wurzeln zum Klettern werden gerne angenommen.  
+**Terrarien-Einrichtung**: eine Versteckmöglichkeit (z.B: Korkrinde) und eine Wasserschale muss gegeben sein.
 
 **Ernährung**: 
 
