@@ -1,7 +1,7 @@
 ---
 title: ACAB - All Centipedes Are Beautiful
 ---
-# ACAB - All Centipedes Are Beautiful!
+# All Centipedes Are Beautiful
 
 Diese Seite entsteht aus der Notwendigkeit, eine zentrale Informationsquelle für die Haltung von Skolopendern im Terrarium zu schaffen. In den letzten Jahren haben sich die bestehenden Ressourcen im Internet, wie beispielsweise die Foren von Scolopendra.eu, weitgehend zurückgezogen, und viele wertvolle Informationen scheinen verloren gegangen zu sein.
 

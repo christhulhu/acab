@@ -1,6 +1,13 @@
-# All Centipedes Are Beautiful
+---
+title: Über
+weight: 999
+---
 
-Eine offene Wissensdatenbank über die Haltung von Riesenläufern der Ordnung Scolopendromorpha als Terrarientiere.
+# Über dieses Projekt
+
+## Version
+
+0.0.1
 
 ## Motivation
 
@@ -18,6 +25,12 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 
 Jeder ist gerne dazu aufgerufen, sich an der Gestaltung und Erweiterung dieser Wissensdatenbank zu beteiligen. Entweder über direkte Bearbeitung der Webseite über Github mit Pull-Request oder über direkte Kontaktaufnahme beim technischen Maintainer [Christian Gehlen](mailto:chr.schmitz01@gmail.com).
 
-## Technisches
+## Technisches 
 
-Zur Übersetzung aus den Markdown-Dateien in eine Webseite wird der Static-Site-Generator [Hugo](https://gohugo.io) verwendet. Das Theme ist [hugo-book](https://github.com/alex-shpak/hugo-book), eingebunden als Git-submodule.
+Der Quellcode dieser Webseite steht auf [Github](https://github.com/christhulhu/acab). Jeder kann und soll sich an dieser Informationssammlung beteiligen, darum sind Forks und Pull-Requests gerne gesehen.
+
+Zur Übersetzung in eine Webseite wird der Static-Site-Generator [Hugo](https://gohugo.io) verwendet. Das Theme ist [hugo-book](https://github.com/alex-shpak/hugo-book).
+
+## Changelog
+
+* 2023-10-25: 0.0.1: Peer-Review vor Veröffentlichung
