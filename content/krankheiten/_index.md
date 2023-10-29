@@ -7,8 +7,12 @@ weight: 400
 
 tbd.
 
+## Verletzungen
+
+## Mykose
+
 ## Milben
 
 ## Gregarinen
 
-## Mykose
+
