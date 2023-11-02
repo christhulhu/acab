@@ -95,6 +95,20 @@ Am letzten Körpersegment haben Skolopender ein verhärtetes **Coxolpleura** mit
 
 In der Vergangenheit wurden oft unterschiedliche Begriffe in den Artenbeschreibungen verwendet, die zuweilen ungenau, falsch oder irreführend waren. Auch waren viele der ersten Artenbeschreibungen lediglich auf deutsch verfasst. Innerhalb der englischen Wissenschaften wurden deswegen einige Begriffe als Empfehlung harmonisiert.[^2]
 
+{{< columns >}}
+
+![Skolopendra dorsal](./img/scolopendra_dorsal_beschriftet.png)
+
+Dorsale (rückseitige) Ansicht Scolopendra
+
+<--->
+
+<!-- ![Skolopendra dorsal](./img/scolopendra_ventral_beschriftet.png) -->
+
+ventrale (vorderseitige) Ansicht Scolopendra
+
+{{< / columns >}}
+
 ## Häutung und Wachstum
 
 Im ersten Nymphenstadium haben junge Skolopender, auch Pedelings genannt, keinen festen Chitinpanzer. Zu diesem Zeitpunkt sollten die Tiere jedoch auch noch nicht von der Mutter separiert werden. Später entwickelt sich ein fester Chitinpanzer an den Tergiten und Sterniten. Obwohl die Pleura zwischen diesen Platten elastisch ist, muss sich der Huntertfüßer häuten um zu wachsen.
