@@ -97,15 +97,35 @@ In der Vergangenheit wurden oft unterschiedliche Begriffe in den Artenbeschreibu
 
 {{< columns >}}
 
-![Skolopendra dorsal](./img/scolopendra_dorsal_beschriftet.png)
+[![Skolopendra dorsal](./img/scolopendra_dorsal_beschriftet.png)](./img/scolopendra_dorsal_beschriftet.png)
 
-Dorsale (rückseitige) Ansicht Scolopendra
+dorsale (rückseitige) Ansicht Scolopendra
 
 <--->
 
-<!-- ![Skolopendra dorsal](./img/scolopendra_ventral_beschriftet.png) -->
+[![Skolopendra ventral](./img/scolopendra_ventral_beschriftet.png)](./img/scolopendra_ventral_beschriftet.png)
 
-ventrale (vorderseitige) Ansicht Scolopendra
+ventrale (vorderseitige) Detailansicht Kopf Scolopendra 
+
+[![Skolopendra Kopf dorsal](./img/kopf_dorsal.png)](./img/kopf_dorsal.png)
+
+dorsaler (rückseitige) Detailansicht Kopf Scolopendra 
+
+{{< / columns >}}
+
+{{<  columns >}}
+
+[![Schleppbeine dorsal](./img/schleppbeine_dorsal.png)](./img/schleppbeine_dorsal.png)
+
+dorsale (rückseitige) Detailansicht Schleppbeine  
+Scolopendra morsitans
+
+<--->
+
+[![Schleppbeine ventral](./img/schleppbeine_ventral.png)](./img/schleppbeine_ventral.png)
+
+ventrale (vorderseitige) Detailansicht Schleppbeine  
+Scolopendra morsitans
 
 {{< / columns >}}
 
