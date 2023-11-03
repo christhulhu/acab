@@ -7,7 +7,7 @@ weight: 999
 
 ## Version
 
-0.0.1
+0.1.0
 
 ## Motivation
 
@@ -31,6 +31,9 @@ Der Quellcode dieser Webseite steht auf [Github](https://github.com/christhulhu/
 
 Zur Übersetzung in eine Webseite wird der Static-Site-Generator [Hugo](https://gohugo.io) verwendet. Das Theme ist [hugo-book](https://github.com/alex-shpak/hugo-book).
 
+Hosted on Github-Pages.
+
 ## Changelog
 
+* 2023-11-03: 0.1.0: Public Beta auf scoloHub.com
 * 2023-10-25: 0.0.1: Peer-Review vor Veröffentlichung
