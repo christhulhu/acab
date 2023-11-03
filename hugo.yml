@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://scolohub.com/
 languageCode: de-de
-title: All Centipede Are Beautiful
+title: ScoloHub
 theme: hugo-book
 
 params:
