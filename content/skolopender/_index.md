@@ -131,7 +131,7 @@ Scolopendra morsitans
 
 ## Häutung und Wachstum
 
-Im ersten Nymphenstadium haben junge Skolopender, auch Pedelings genannt, keinen festen Chitinpanzer. Zu diesem Zeitpunkt sollten die Tiere jedoch auch noch nicht von der Mutter separiert werden. Später entwickelt sich ein fester Chitinpanzer an den Tergiten und Sterniten. Obwohl die Pleura zwischen diesen Platten elastisch ist, muss sich der Huntertfüßer häuten um zu wachsen.
+Im ersten Nymphenstadium haben junge Skolopender, auch Pedelings genannt, keinen festen Chitinpanzer. Zu diesem Zeitpunkt sollten die Tiere jedoch auch noch nicht von der Mutter separiert werden. Später entwickelt sich ein fester Chitinpanzer an den Tergiten und Sterniten. Obwohl die Pleura zwischen diesen Platten elastisch ist, muss sich der Hundertfüßer häuten um zu wachsen.
 
 Nach der erfolgreichen Häutung frisst ein Skolopender seine Haut (Exuvie), da sie ihm wertvolle Nährstoffe liefert, die er nach der körperlichen Anstrengung und zur Aushärtung der neuen Panzerung braucht. Aus diesem Grund bekommt man als Halter vielleicht gar nicht mit, ob sich ein Tier gehäutet hat. Aber im Vorfeld gibt es bereits deutliche Anzeichen: Die Färbung des Hundertfüßers wird blass und fahl, weil sich Luft zwischen der alten und neuen Haut ansammelt. Auch kleine Verhaltensänderungen, wie die Verweigerung von Futter können Anzeichen für eine anstehende Häutung sein.[^3] Nach der Häutung hat der Pflegling wieder kräftige Farben und hat ein merklich größeres Körpervolumen.
 

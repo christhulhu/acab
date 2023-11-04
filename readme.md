@@ -4,7 +4,7 @@ Eine offene Wissensdatenbank über die Haltung von Riesenläufern der Ordnung Sc
 
 ## Motivation
 
-Dieses Projekt ist entstanden, weil einst wertvolle Resourcen wie das Forum Scolopendra.eu oder die Webseite Scolopendra.be ihren Dienst eingestellt haben, und viele der dort gesammelten Informationen über die Terrarienhaltung von Hundertfüßern verloren gegangen ist. Auch das seither erschienene Buch "Huntertfüßer" (2013, Kronmüller) ist nicht mehr im Handel erhältlich, eine Neuauflage zum aktuellen Zeitpunkt nicht absehbar. Weiterhin sind seit der Veröffentlichung des Buches viele neue Erkenntnisse gewonnen worden, und die Arten der aktuell im Hobby befindlichen Tiere hat sich stark verändert.  
+Dieses Projekt ist entstanden, weil einst wertvolle Resourcen wie das Forum Scolopendra.eu oder die Webseite Scolopendra.be ihren Dienst eingestellt haben, und viele der dort gesammelten Informationen über die Terrarienhaltung von Hundertfüßern verloren gegangen ist. Auch das seither erschienene Buch "Hundertfüßer" (2013, Kronmüller) ist nicht mehr im Handel erhältlich, eine Neuauflage zum aktuellen Zeitpunkt nicht absehbar. Weiterhin sind seit der Veröffentlichung des Buches viele neue Erkenntnisse gewonnen worden, und die Arten der aktuell im Hobby befindlichen Tiere hat sich stark verändert.  
 
 Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich bringen, und es keine zentrale Stelle für Wissen und Informationen gibt, wurde diese Webseite geschaffen.
 
