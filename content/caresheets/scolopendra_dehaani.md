@@ -2,7 +2,7 @@
 title: Scolopendra dehaani
 bookHidden: true
 authors:
-- "Alessandro Hoechtlen"
+- "Alessandro Tinella"
 ---
 
 # Scolopendra dehaani   
@@ -45,4 +45,4 @@ Die Variante "_Cherry Red_" hat andere [Haltungsbedingungen]({{< ref "scolopendr
 - Sonst eine ausgewogene Ernährung durch Wirbellose und Wirbeltiere.
 
 ---
-_Von: Alessandro Hoechtlen_
+_Von: Alessandro Tinella_

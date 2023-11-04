@@ -2,7 +2,7 @@
 title: Scolopendra dehaani
 bookHidden: true
 authors:
-- "Alessandro Hoechtlen"
+- "Alessandro Tinella"
 ---
 # Scolopendra dehaani   
 "Cherry Red"
@@ -44,4 +44,4 @@ Die Farbvarianten "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_" 
 - Sonst eine ausgewogene Ernährung durch Wirbellose und Wirbeltiere.
 
 ---
-_Von: Alessandro Hoechtlen_
+_Von: Alessandro Tinella_

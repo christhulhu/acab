@@ -2,7 +2,7 @@
 title: Scolopendra sp. "Malaysian Jewel"
 bookHidden: true
 authors:
-- "Alessandro Hoechtlen"
+- "Alessandro Tinella"
 ---
 
 # Scolopendra sp. "Malaysian Jewel"   
@@ -41,4 +41,4 @@ authors:
 - Sonst eine ausgewogene Ernährung durch Wirbellose und Wirbeltiere.
 
 ---
-_Von: Alessandro Hoechtlen_
+_Von: Alessandro Tinella_
