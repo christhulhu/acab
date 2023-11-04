@@ -5,6 +5,15 @@ weight: 999
 
 # Über dieses Projekt
 
+## Impressum
+
+Verantwortlicher für diese Seite gemäß § 5 Telemediengeset (TMG)
+
+Christian Gehlen  
+Dr.-Gilles-Str. 20a  
+52249 Eschweiler  
+[christian.gehlen@gmx.net](mailto:christian.gehlen@gmx.net)
+
 ## Version
 
 0.1.0
@@ -17,13 +26,21 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 
 ## Beteiligte
 
-- Alessandro Hoechtlen
-<!--- Marcel Kettermann -->
+- Alessandro Tinella ([@centipede_.tv](https://www.instagram.com/centipede_.tv/))
 - Christian Gehlen
+<!--- Marcel Kettermann -->
 
 ## Beteiligung
 
-Jeder ist gerne dazu aufgerufen, sich an der Gestaltung und Erweiterung dieser Wissensdatenbank zu beteiligen. Entweder über direkte Bearbeitung der Webseite über Github mit Pull-Request oder über direkte Kontaktaufnahme beim technischen Maintainer [Christian Gehlen](mailto:chr.schmitz01@gmail.com).
+Jeder ist gerne dazu aufgerufen, sich an der Gestaltung und Erweiterung dieser Wissensdatenbank zu beteiligen. Entweder über direkte Bearbeitung der Webseite über Github mit Pull-Request oder über direkte Kontaktaufnahme beim technischen Maintainer [Christian Gehlen](mailto:christian.gehlen@gmx.net).
+
+**Wie kann man unterstützen?**
+
+Wenn Du Erfahrung mit Skolopendern hast, kannst Du jederzeit Dein Wissen hier einbringen! Egal ob mit einer kleinen Anmerkung oder Ergänzungen zu bestehenden Texten, Hinweise auf Fehler oder Falschaussagen, einem Erfahrungsbericht zur Krankheitstherapie oder einer Pflegeanleitung für eine spezielle Art, die hier noch nicht aufgeführt wurde.
+
+Für Pflegeanleitungen gibt es eine [Vorlage](/caresheets/template/), die ausgefüllt werden kann. Dabei sind nicht alle Angaben notwendig, es wäre aber schön, wenn so viele Informationen wie möglich hier zusammengetragen werden könnten.
+
+Auch sind Fotos immer willkommen! Gerade Vergleichsbilder von Pedeling zum adulten Tier, Bilder aus dem natürlichen Habitat, Bilder von Gesundheitsproblemen oder von idealen Terrarieneinrichtungen für eine bestimmte Art.
 
 ## Technisches 
 
