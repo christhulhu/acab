@@ -18,7 +18,7 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 ## Beteiligte
 
 - Alessandro Hoechtlen
-- Marcel K.
+<!--- Marcel Kettermann -->
 - Christian Gehlen
 
 ## Beteiligung
