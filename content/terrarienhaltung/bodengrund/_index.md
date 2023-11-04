@@ -51,6 +51,8 @@ Toft ist Bodengrund aus zersetzten Pflanzen aus Hochmoren. Im Weißtorf ist mehr
 
 ### Humus
 
+{{< figure src="/img/substrat_humus.jpg" title="Wald-Humus für Tausendfüßer" attr="Christian Gehlen" class="fig-right"  width="400px" >}}
+
 Wie auch Torf ist Humus ein Bodengrund aus zersetzten Pflanzen. Für Skolopender eignet sich am besten Wald-Humus aus Buchen- oder Eichen-Wäldern. Es gibt jedoch auch dedizierten Wald-Humus für Asseln oder Tausendfüßer, der durchaus auch für Hundertfüßer geeignet ist.
 
 ### Wald- oder Gartenerde
@@ -67,6 +69,8 @@ Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute st
 Obschon nicht für alle Skolopender geeignet, ist für einige Arten Lehm ein großer Bestandteil des natürlichen Habitats. Beispielsweise Scolopendra dehaani aus Vietnam lebt u.a. in lehmreichen Gebieten. Darum sollte für manche Arten Lehm einen Teil des Substrates ausmachen.
 
 ### Sand
+
+{{< figure src="/img/substrat_sand.jpg" title="Sand" attr="Christian Gehlen" class="fig-right"  width="300px" >}}
 
 Auch wenn nur einige Arten aus Wüstenregionen (z.B. Scolopendra heros) einen Bodengrund mit hohem Sand-Anteil benötigen, so hilft dieser Bestandteil bei der Auflockerung des Bodengrundes und verbessert die Wasserleitfähigkeit. 
 

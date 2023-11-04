@@ -1,0 +1,21 @@
+figcaption {
+    h4 {
+        margin: 0 !important;
+        font-size: 0.8em;
+    }
+    p {
+        font-size: 0.8em;
+    }
+}
+
+.fig-right {
+    float: right;
+
+    padding-left: 1em;
+    margin: 0 !important;
+
+    &:after {
+        content: "";
+        clear: both;
+    }
+}

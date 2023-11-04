@@ -32,6 +32,8 @@ Dabei wird die Höhe bewusst großzügig gestaltet, damit man ausreichend Substr
 
 ## Unterbringung von juvenilen Skolopender
 
+{{< figure src="/img/terrarium_500ml.jpg" title="Aufzuchtdose 500ml" attr="Christian Gehlen" class="fig-right" width="300px" >}}
+
 Damit man junge Hundertfüßer nicht aus den Augen verliert - sofern das bei der versteckten Lebensweise der Tiere überhaupt möglich ist - sollte man die Pedelings in kleinen Plastikdosen halten. Dabei gibt es entsprechende Möglichkeiten für die jeweilige Körpergröße der Jungtiere:
 
 - ["Tzatziki-Dosen"](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-250ml), 250ml, Maße ca. 100mm (L) x 75mm (B) x 50mm (H).  
