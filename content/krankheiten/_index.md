@@ -38,7 +38,7 @@ Schwerwiegender sind hingegen Verletzungen an Tergiten, Sterniten oder Pleuren. 
 
 ## Milben
 
-{{< figure src="/img/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="Alessandro Tinella" class="fig-right"  width="400px" >}}
+{{< figure src="/img/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="Alessandro Tinella" class="fig-right"  width="400px" link="/img/krankheiten_milben.jpg" >}}
 
 Skolopender scheinen im Vergleich zu anderen Terrarientieren besonders anfällig für Milben zu sein. Und die Haltungsform vieler Arten begünstigt diese kleinen Parasiten zusätzlich. Egal ob Wildfang, der mit Milben bereits in das Terrarium kam, oder durch Übertragung durch andere (Futter-)Tiere, kann die die schiere Anzahl der kleinen Spinnentiere für einen Hundertfüßer schnell zur Gefahr werden: Die Tracheenöffnungen können verstopft werden, und der Skolopender erstickt am Befall.
 

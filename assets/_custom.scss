@@ -8,14 +8,29 @@ figcaption {
     }
 }
 
-.fig-right {
-    float: right;
+@media screen and (min-width: $container-max-width) {
+    .fig-right {
+        float: right;
+        padding-left: 1em;
+        margin: 0 !important;
 
-    padding-left: 1em;
-    margin: 0 !important;
-
-    &:after {
-        content: "";
-        clear: both;
+        &:after {
+            content: "";
+            clear: both;
+        }
     }
+}
+
+@media screen and (max-width: $mobile-breakpoint) {
+
+    .fig-right {
+        display: block;
+        padding-left: 0;
+        margin: 0 !important;
+
+        img {
+            width: 100%;
+        }
+    }
+
 }
