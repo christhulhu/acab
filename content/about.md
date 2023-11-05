@@ -26,7 +26,7 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 
 ## Beteiligte
 
-- Alessandro Tinella ([@centipede_.tv](https://www.instagram.com/centipede_.tv/))
+- {{< contributors/alessandro >}}
 - Christian Gehlen
 <!--- Marcel Kettermann -->
 

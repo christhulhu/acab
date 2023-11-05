@@ -137,6 +137,18 @@ Nach der erfolgreichen Häutung frisst ein Skolopender seine Haut (Exuvie), da s
 
 Bei der Häutung haben Skolopender zwei Besonderheiten. Zum einen können sie, wie eine vielzahl anderer Arthropoden auch, verlorene Gliedmaßen bei der Häutung regenerieren.[^4] Zum anderen können befruchtete Weibchen Spermien bei der Häutung mitnehmen, im Gegensatz zu beispielsweise Vogelspinnen, und erst nach der Häutung Eier legen.[^3]
 
+{{< columns >}}
+
+![Anfang einer Häutung von Scolopendra dehaani](/img/haeutung_01.jpg)
+
+<--->
+
+![Mitten in der Häutung von Scolopendra dehaani](/img/haeutung_02.jpg)
+
+{{< / columns >}}
+_Scolopendra dehaani "Cherry Red" Pedeling während der Häutung_
+
+
 ## Geschlechtsbestimmung bei Skolopendern
 
 Geschlechtsbestimmung ist ein schwieriges Thema bei Skolopendern. Es gibt einige Arten, die einen Geschlechtsdimorphismus aufweisen und wo man über Merkmale, wie beispielsweise der Prefemur der Schleppbeine, zwischen Männchen und Weibchen unterscheiden kann. Vielen Hundertfüßern mangelt es jedoch an sekundären Geschlechterunterschieden und man muss die primären Geschlechtsteile begutachten.

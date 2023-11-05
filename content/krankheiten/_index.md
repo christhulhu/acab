@@ -30,7 +30,7 @@ Wenn man einen großen Bestand hat, ist eine Quarantäne auch für Neuankömmlin
 
 ## Verletzungen
 
-Verletzungen sind bei Skolopendern leider sehr häufig. Angefangen von Wildfängen, die eher ruppig eingefangen wurden über Tiere, die sich einfach durch ihre ungestüme Art selber an Terrariendekoration verletzt haben hin zu Problemen bei der Häutung, die zu verlorenen Gliedmaßen führten.
+Verletzungen sind bei Skolopendern leider sehr häufig. Angefangen von Wildfängen, die eher ruppig eingefangen wurden, über Tiere, die sich einfach durch ihre ungestüme Art selber an Terrariendekoration verletzt haben hin zu Problemen bei der Häutung, die zu verlorenen Gliedmaßen führten.
 
 Doch sind die meisten Verletzungen kein Problem. Abgerissene Beine oder Antennensegmente verheilen schnell und ohne das Zutun des Halters. Und mit kommenend Häutungen regenieren diese Körperteile auch wieder. Gleiches gilt für abgeworfene Schleppbeine von autonomen Arten wie Alipes oder Rhysida. 
 
@@ -38,7 +38,7 @@ Schwerwiegender sind hingegen Verletzungen an Tergiten, Sterniten oder Pleuren. 
 
 ## Milben
 
-{{< figure src="/img/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="Alessandro Tinella" class="fig-right"  width="400px" link="/img/krankheiten_milben.jpg" >}}
+{{< figure src="/img/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="{{< contributors/alessandro >}}" class="fig-right"  width="400px" link="/img/krankheiten_milben.jpg" >}}
 
 Skolopender scheinen im Vergleich zu anderen Terrarientieren besonders anfällig für Milben zu sein. Und die Haltungsform vieler Arten begünstigt diese kleinen Parasiten zusätzlich. Egal ob Wildfang, der mit Milben bereits in das Terrarium kam, oder durch Übertragung durch andere (Futter-)Tiere, kann die die schiere Anzahl der kleinen Spinnentiere für einen Hundertfüßer schnell zur Gefahr werden: Die Tracheenöffnungen können verstopft werden, und der Skolopender erstickt am Befall.
 
@@ -57,15 +57,15 @@ Als Prävention für Milben empfiehlt sich eine gute Ventilation im Terrarium un
 
 ## Mykose
 
+{{< figure src="/img/krankheiten_lethale_mykose.jpg" title="Lethale Mykose an den Maxillipeden von S. morsitans" attr="{{< contributors/christian >}}" class="fig-right"  width="400px" link="/img/krankheiten_lethale_mykose.jpg" >}}
+
 Zu feuchte Haltung und Staunässe kann zu Mykose führen. Das ist eine Pilzinfektion, die sich durch schwarz verfärbte Stellen oder Körperteile bemerkbar macht. Gerade Beine können hier regelrecht abfaulen.
 
 Obwohl es durchaus diverse Videos auf Youtube gibt, die eine Reinigung der befallenen Stellen zeigen, ist von solchen Aktionen eher abzuraten, weil man den Pilzbefall eh nur oberflächlich abschaben kann. Die bessere Alternative ist eine permanente Anpassung der Haltungsbedingungen, also Verringerung der Feuchtigkeit. Notfalls muss das Tier in Quarantäne auch komplett trocken gehalten werden - mit einer Trinkschale zur Wasseraufnahme versteht sich. Mit etwas Glück hat sich die Mykose bei der nächsten Häutung auch wieder erledigt - sofern die anderen Parameter wie Luft- und Bodenfeuchtigkeit denn weiterhin passen.
 
 Das größte Problem ist ein Mykosebefall an den Mundwerkzeugen oder Maxillipeden. Dies hindert die Nahrungsaufnahme, wodurch der Skolopender verhungern kann. Auch hier kann man recht wenig machen, außer den zuvor genannten Änderungen der Haltungsparameter und die Erleichterung der Nahrungsaufnahme durch Totfutter.
 
-
 <!-- ## Gregarinen -->
-
-
 ---
-Hinweis: Alle Links dienen nur der Veranschaulichung. Es sind keine "Affiliate-Links" und es existiert keine Partnerschaft zu den verlinkten Seiten. 
+
+{{< no-affiliate >}}

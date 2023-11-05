@@ -43,5 +43,11 @@ Die Farbvarianten "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_" 
 - Obst wie Banane einmal monatlich.
 - Sonst eine ausgewogene Ernährung durch Wirbellose und Wirbeltiere.
 
+## Bilder
+
+{{< figure src="../img/scolopendra_dehaani_cherry_red_pedeling.jpg" title="'Cherry Red' als Pedeling" attr="{{< contributors/christian >}}" link="../img/scolopendra_dehaani_cherry_red_pedeling.jpg" width="400" >}}
+
+{{< figure src="../img/scolopendra_dehaani_cherry_red_subadult.jpg" title="'Cherry Red' subadult" attr="{{< contributors/christian >}}" link="../img/scolopendra_dehaani_cherry_red_subadult.jpg" width="400" >}}
+
 ---
-_Von: Alessandro Tinella_
+_Von: {{< contributors/alessandro >}}_

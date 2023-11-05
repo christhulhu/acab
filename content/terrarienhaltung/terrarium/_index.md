@@ -54,4 +54,4 @@ Natürlich kann man auch größere Plastikbehälter mit Deckel für die Haltung 
 Für manche arboreale oder semi-aquatische Arten kann die Gestaltung eines vollständigen Paludarium sinnvoll sein und einen Blickfang in der Wohnung bieten.
 
 ---
-Hinweis: Alle Links dienen nur der Veranschaulichung. Es sind keine "Affiliate-Links" und es existiert keine Partnerschaft zu den verlinkten Seiten. 
+{{< no-affiliate >}}

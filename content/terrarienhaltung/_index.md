@@ -50,3 +50,6 @@ Wenn man verantwortungsvoll und nachhaltig im Hobby agieren will, sollte man bei
 
 Die Legalität der Haltung von Skolopendern in Deutschland unterliegt den Gifttiergesetzen einzelner Bundesländer, genauer NRW,  Hessen, Bayern, Thüringen, Berlin und Hamburg. EIne bundeseinheitliche Regelung mit dem Umgang mit gefährlichen oder giftigen Tieren gibt es nicht.  
 Diese Gesetze variieren von Bundesland zu Bundesland und können die Haltung bestimmter Tiere, einschließlich Skolopender, reglementieren oder verbieten. Einige Bundesländer erfordern spezielle Genehmigungen und Auflagen für die Haltung von Gifttieren, während andere sie gänzlich untersagen. Es ist daher äußerst wichtig, sich vor der Haltung von Skolopendern in Deutschland über die spezifischen Gesetze und Vorschriften in dem jeweiligen Bundesland zu informieren und sicherzustellen, dass man sämtliche rechtlichen Anforderungen erfüllt, um sowohl den Artenschutz als auch den Tierschutz zu gewährleisten.
+
+---
+{{< no-affiliate >}}

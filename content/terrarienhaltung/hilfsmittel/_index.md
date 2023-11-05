@@ -65,4 +65,4 @@ Und wenn man kein passendes Terrarium findet, muss man vielleicht selber basteln
 Mit dieser Attitüde findet man auch immer wieder Einsatzzwecke für fast jedweden Lebensmittel-Behälter. Eine spitze Nadel oder ein feiner Lötkolben macht schnell und einfach aus einer Harribo-Dose, einer Röstzwiebel-Dose oder der Verpackung von getrockneten Pilzen aus dem Discounter ein kleines Aufzuchtbecken. 
 
 ---
-Hinweis: Alle Links dienen nur der Veranschaulichung. Es sind keine "Affiliate-Links" und es existiert keine Partnerschaft zu den verlinkten Seiten.
+{{< no-affiliate >}}

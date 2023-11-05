@@ -8,6 +8,10 @@ figcaption {
     }
 }
 
+.small {
+    font-size: 0.8em;    
+}
+
 @media screen and (min-width: $container-max-width) {
     .fig-right {
         float: right;

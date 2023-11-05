@@ -44,5 +44,9 @@ Die Variante "_Cherry Red_" hat andere [Haltungsbedingungen]({{< ref "scolopendr
 - Obst wie Banane einmal monatlich.
 - Sonst eine ausgewogene Ernährung durch Wirbellose und Wirbeltiere.
 
+## Bilder
+
+{{< figure src="../img/scolopendra_dehaani_yellow_leg_adult.jpg" title="'Yellow Leg' adult" attr="{{< contributors/christian >}}" link="../img/scolopendra_dehaani_yellow_leg_adult.jpg" width="400" >}}
+
 ---
-_Von: Alessandro Tinella_
+_Von: {{< contributors/alessandro >}}_

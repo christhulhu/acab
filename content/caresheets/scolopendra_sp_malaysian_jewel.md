@@ -41,4 +41,4 @@ authors:
 - Sonst eine ausgewogene Ernährung durch Wirbellose und Wirbeltiere.
 
 ---
-_Von: Alessandro Tinella_
+_Von: {{< contributors/alessandro >}}_
