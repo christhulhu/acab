@@ -1,4 +1,4 @@
-# All Centipedes Are Beautiful
+# Scolohub.com
 
 Eine offene Wissensdatenbank über die Haltung von Riesenläufern der Ordnung Scolopendromorpha als Terrarientiere.
 
@@ -11,7 +11,6 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 ## Beteiligte
 
 - Alessandro Hoechtlen
-- Marcel K.
 - Christian Gehlen
 
 ## Beteiligung
