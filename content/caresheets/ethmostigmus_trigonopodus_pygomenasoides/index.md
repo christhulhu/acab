@@ -44,6 +44,24 @@ Eine Verpaarung der Art erfolgt entsprechend relativ früh in einem subadultem S
 
 - Ausgewogene Ernährung durch Wirbellose.
 
+## Geschlechtsunterscheidung
+
+{{< columns >}}
+
+![Weibliche Geschlechtsorgane](img/pygomenasoides_w.jpg)
+
+Weibliche Geschlechtsorgane von E. pygomenasoides  
+Foto von: {{< contributors/alessandro >}}
+
+<--->
+
+![Männliche Geschlechtsorgane](img/pygomenasoides_m.jpg)
+
+Männliche Geschlechtsorgane von E. pygomenasoides  
+Foto von: {{< contributors/alessandro >}}
+
+{{< / columns >}}
+
 ## Bilder
 
 {{< figure src="img/ethmostigmus_pygomenasoides_pedeling.jpg" title="Ethmostigmus pygomenasoides Pedeling, ca. 4 Monate alt" attr="{{< contributors/christian >}}" link="img/ethmostigmus_pygomenasoides_pedeling.jpg" width="400" >}}

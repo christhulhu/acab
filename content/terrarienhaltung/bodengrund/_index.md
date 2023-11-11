@@ -49,20 +49,24 @@ Die meiste Blumenerde ist mit Düngemitteln angereichert, damit Pflanzen darin b
 
 Toft ist Bodengrund aus zersetzten Pflanzen aus Hochmoren. Im Weißtorf ist mehr unzersetztes Torfmoos, das eine bessere Wasserspeicherung ermöglicht. Allerdings ist Weißtorf mit einem pH-Wert von 3-4 auch sauer. Schwarztorf ist älter als Weißtorf und findet sich in tieferen Bodenschichten. Im Schwarztorf sind keine Pflanzenreste mehr erkennbar, da die Zersetzung weiter fortgeschritten ist.
 
+Torf eignet sich hervorragend zur Haltung von Skolopendern, weil es im Gegensatz zu Humus keine Trauermücken anzieht. Gemischt mit Sand und Lehmpulver ist es trocken und nicht komplett hydrophob, hält die Feuchtigkeit gut und bleibt sowohl nass als auch trocken grabfähig.
+
 ### Humus
 
-{{< figure src="/img/substrat_humus.jpg" title="Wald-Humus für Tausendfüßer" attr="Christian Gehlen" class="fig-right"  width="400px" >}}
+{{< figure src="/img/substrat_humus.jpg" title="Wald-Humus für Tausendfüßer" class="fig-right"  width="400px" >}}
 
 Wie auch Torf ist Humus ein Bodengrund aus zersetzten Pflanzen. Für Skolopender eignet sich am besten Wald-Humus aus Buchen- oder Eichen-Wäldern. Es gibt jedoch auch dedizierten Wald-Humus für Asseln oder Tausendfüßer, der durchaus auch für Hundertfüßer geeignet ist.
+
+Kleiner Hinweis: Kauft man nicht-sterilisierten Humus, können aus diesem Bodengrund ungebetene Gäste ins Terrarium wandern. Asseln, Geophilomorpha und ähnliches kann Eier in dem Humus abgelegt haben, die im Terrarienklima schlüpfen und gedehien. In der Regel stellen diese Gäste jedoch kein Problem im Zusammenleben mit dem Skolopender dar.
 
 ### Wald- oder Gartenerde
 
 Bodengrund aus dem Wald- oder Garten kann nur mit einigen Hinweisen empfolen werden:
 
-- Entnahme von Bodengrund oder Pflanzen aus dem Wald sollte in Maßen und Respektvoll erfolgen! Es ist immernoch ein Lebensraum für Tiere, den man so wenig wie möglich stören sollte! Außerdem stehen viele Tier- und Pflanzenarten unter Schutz und dürfen nicht entnommen werden. Darum sollte man verantwortungsvoll mit der Ressource Wald umgehen!
+- Entnahme von Bodengrund oder Pflanzen aus dem Wald sollte in Maßen und respektvoll erfolgen! Es ist immernoch ein Lebensraum für Tiere, den man so wenig wie möglich stören sollte! Außerdem stehen viele Tier- und Pflanzenarten unter Schutz und dürfen nicht entnommen werden. Darum sollte man verantwortungsvoll mit der Ressource Wald umgehen!
 - Im Waldboden leben diverse Organismen! Von mikroskopisch kleinen Bodenbewohner hin zu Hundertfüßer (Geophilomorpha, Lithobiomorpha), Asseln, Spinnen und auch Ameisen. Diese nimmt man mit in sein Terrarium! Wo ein gutes Ökosystem im Terrarium häufig durch eine "Bodenpolizei" aus Springschwänzen und Asseln ergänzt wird, sollte man sich dennoch bewusst sein, dass nicht alles für das Haustier gut ist. Gerade eingeschleppte Ameisen oder andere Hundertfüßer können juvenilen Skolopendern auch Schaden zufügen.
 
-Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute sterilizieren die Erde im Tiefkühlschrank oder im Backofen, bevor sie diesen Bodengrund verwenden. Andere schwören auf die Zusammensetzung und das Ökosystem. 
+Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute sterilisieren die Erde im Tiefkühlschrank oder im Backofen, bevor sie diesen Bodengrund verwenden. Andere schwören auf die Zusammensetzung und das Ökosystem. 
 
 ### Lehm
 
@@ -70,7 +74,7 @@ Obschon nicht für alle Skolopender geeignet, ist für einige Arten Lehm ein gro
 
 ### Sand
 
-{{< figure src="/img/substrat_sand.jpg" title="Sand" attr="Christian Gehlen" class="fig-right"  width="300px" >}}
+{{< figure src="/img/substrat_sand.jpg" title="Sand" class="fig-right"  width="300px" >}}
 
 Auch wenn nur einige Arten aus Wüstenregionen (z.B. Scolopendra heros) einen Bodengrund mit hohem Sand-Anteil benötigen, so hilft dieser Bestandteil bei der Auflockerung des Bodengrundes und verbessert die Wasserleitfähigkeit. 
 

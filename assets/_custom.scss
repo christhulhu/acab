@@ -12,6 +12,11 @@ figcaption {
     font-size: 0.8em;    
 }
 
+.clearfix {
+    display: block;
+    clear: both;
+}
+
 @media screen and (min-width: $container-max-width) {
     .fig-right {
         float: right;
@@ -23,11 +28,32 @@ figcaption {
             clear: both;
         }
     }
+
+
+    .fig-left {
+        float: left;
+        padding-right: 1.3em;
+        margin: 0 !important;
+
+        &:after {
+            content: "";
+            clear: both;
+        }
+    }
 }
 
 @media screen and (max-width: $mobile-breakpoint) {
-
     .fig-right {
+        display: block;
+        padding-left: 0;
+        margin: 0 !important;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .fig-left {
         display: block;
         padding-left: 0;
         margin: 0 !important;

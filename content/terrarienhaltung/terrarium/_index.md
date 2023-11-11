@@ -18,6 +18,8 @@ Gleichermaßen können sich Hundertfüßer durch relativ kleine Öffnungen zwän
 Da Skolopender aber auch kräftige Mandibeln haben, und auch ihre Maxillipeden als Werkzeuge einsetzen, sollte man bei Plastikgaze vorsichtig sein; ein Hundertfüßer kann diese eventuell zerstören und durch die neu geschaffene Öffnung entfliehen. Gleiches Schicksal kann bei größeren Arten auch bei der (temporären) Unterbringung in Heimchendosen oder ähnlich dünnwandigen Plastikbehältern passieren: Das Tier kann sich ein Loch in den Behälter "fressen".  
 Bei solchen leichten Plastikdosen kann es auch passieren, dass ein kräftiger Hundertfüßer den Deckel selber aufdrückt. Aber die Gefahr von "Lochfrass" oder selbstständigem Öffnen ist bei jungtieren und kleinen Arten relativ gering.
 
+Als Alternative zu Plastikgaze für die Abdeckung von Belüftungslöchern gibt es noch Metalgaze, Streckmetal oder Lochblech. Dies hat sich bei sehr vielen Arten bewährt, da es wirklich ausbruchsicher ist. Doch bei südamerikanischen Arten sollte man aufpassen, diese scheinen grobe Metalgaze als Einladung zum Ausbruchsversuch zu verstehen und können sich daran die Klauen abbrechen. Hier scheint man mit Lochblech auf der sicheren Seite zu sein.
+
 ### Die richtige Größe
 
 Derweil junge Skolopender durchaus in kleineren Behältern gehalten werden sollten, damit man einen besseren Überblick behält, und das Fluchtrisiko durch zu große Ventilationsöffnungen minimiert wird, sollten adulte Skolopender in einem Terrarium mit angemessener Größe gehalten werden.
@@ -43,6 +45,14 @@ Eine kostengünstige Alternative, wenn man bereits Heimchen als Futtertiere geka
 - Runde Aufzuchtdosen mit bereits installierter Gaze im Deckel.  
 Diese Dosen sind etwas stabiler als die zuvorgenannten Behälter und können in unterschiedlichen Größen gekauft werden. Beispielsweise  
 550ml, ca. 110mm (Durchmesser) x 85mm (H), Kosten ca. EUR 0,90 bei [Kerf.de](https://kerf.de/Aufzuchtdosen-mit-Gaze-im-Deckel-rund-klein) oder EUR 1,30 bei [Insektenliebe.com](https://insektenliebe.com/de/shop/aufzuchtdosen-mit-gaze-im-deckel/)
+
+{{< hint "warning" >}}
+Dünne Plastikbehälter wie Tzatziki- oder Heimchendosen eigenen sich nicht für alle Arten! Gerade Südamerikaner sind forsche Tiere, die sich schnell durch die dünnen Wände des Behälters durchbeißen können. 
+
+Prinzipiell kann man sagen, dass solche Dosen für alles ab Fingerlänge nicht tauglich sind. 
+
+Weiterhin sollte man die Haltungsparameter der individuellen Art beachten. Bei kleinen Grundflächen erschwert das Erstellen von trockenen und feuchten Bodenzonen. 
+{{< / hint >}}
 
 ## Unterbringung von adulten Skolopendern
 
