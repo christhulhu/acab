@@ -1,6 +1,6 @@
 name: Ethmostigmus trigonopodus pygomenasoides
 adult_size: 10cm (m) / 18cm (w)
-distribution: Nigeria / China, Nepal, Kashmir
+distribution: Afrika / China, Nepal, Kashmir
 climate: subtropisch
 way_of_life: bodenbewohnend
 behavior: relativ ruhig
@@ -15,7 +15,7 @@ humidity: 60-90% (abhängig von Regenzeiten)
 simulation_periods: ja  
 
 substrate:
-  ingredients: Humus
+  ingredients: 80 % Humus / 20 % Lehm
   height: 10cm hoch leicht angedrückt
   humidity: angepasst an aride und humide Monate des Herkunftlandes, eine Ecke permanent leicht feucht.
   cover: Moos, Laub

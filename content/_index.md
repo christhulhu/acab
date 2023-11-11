@@ -9,6 +9,19 @@ Unsere Seite konzentriert sich vorerst auf grundlegende Informationen, die in er
 
 Bitte beachte, dass unsere Seite sich noch im Aufbau befindet, und wir ermutigen dich aktiv dazu, an der [Weiterentwicklung teilzunehmen]({{< ref "about" >}}). Deine Expertise und Erfahrung sind uns äußerst wertvoll, um diese Seite zu einer umfassenden Ressource für alle Skolopender-Enthusiasten zu machen. Wir freuen uns auf deine Beiträge und hoffen, dass du hier hilfreiche Informationen findest, die deiner Leidenschaft für diese faszinierenden Tiere gerecht werden.
 
+{{< hint "good" >}}
+
+![WhatsApp](img/whatsapp.png)
+
+{{< img-left alt="WhatsApp" src="img/whatsapp.png" >}}
+
+Wenn du Austausch mit anderen Skolopender-Enthusiasten suchst, ist vielleicht unsere WhatsApp-Gruppe was für dich!
+
+- [Deutschsprachige "Hundertfüßer Gruppe"](https://chat.whatsapp.com/Iuaha2CLQHo0KUhx9DAVos)
+- [Englischsprachige "Centipede breeders international"](https://chat.whatsapp.com/Ip1MuQEs4IF4heItn3cJKf)
+
+{{< / hint >}}
+
 ---
 
 ## Überblick

@@ -14,6 +14,9 @@ Ethmostigmus pygomenasoides ist eine langsam wachsende Art. Von der Nymphe bis z
 
 Eine Verpaarung der Art erfolgt entsprechend relativ früh in einem subadultem Stadium mit ca. 2-3 Jahren Alter. Nach der Verpaarung speichern die Weibchen das Sperma für weitere drei Jahre bis zum Adultstadium und legen ab dann jährlich Eier. Adulte Tiere verpaaren sich nicht mehr und reagieren aggressiv auf männliche Artgenossen.
 
+Während des Wachstums haben Ethmostigmus pygomenasoides eine Besonderheit: Die Jungtiere passen die Farbe ihrer Beine an die Farbe des Substrats an. Hält man die Tiere auf rotem Bodengrund, so färben sich auch ihre Beine rot, etc.  
+Dies ist auch ein Indiz dafür, wann die pygomenasoides erwachsen sind: Mit Eintritt in das Adultstadium färben sich die Beine braun, passend zu den Rückenplatten.
+
 ---
 
 ## Informationen

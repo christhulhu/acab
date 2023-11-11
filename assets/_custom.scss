@@ -41,6 +41,11 @@ figcaption {
     clear: both;
 }
 
+blockquote.good {
+    border-color: #0F0;
+    background-color: rgba(0,255,0, 0.1);
+}
+
 @media screen and (min-width: $container-max-width) {
     .fig-right {
         float: right;
