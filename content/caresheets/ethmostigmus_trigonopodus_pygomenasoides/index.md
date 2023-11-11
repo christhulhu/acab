@@ -48,14 +48,14 @@ Eine Verpaarung der Art erfolgt entsprechend relativ früh in einem subadultem S
 
 {{< columns >}}
 
-![Weibliche Geschlechtsorgane](img/pygomenasoides_w.jpg)
+![Weibliche Geschlechtsorgane](images/pygomenasoides_w.jpg)
 
 Weibliche Geschlechtsorgane von E. pygomenasoides  
 Foto von: {{< contributors/alessandro >}}
 
 <--->
 
-![Männliche Geschlechtsorgane](img/pygomenasoides_m.jpg)
+![Männliche Geschlechtsorgane](images/pygomenasoides_m.jpg)
 
 Männliche Geschlechtsorgane von E. pygomenasoides  
 Foto von: {{< contributors/alessandro >}}
@@ -64,13 +64,8 @@ Foto von: {{< contributors/alessandro >}}
 
 ## Bilder
 
-{{< figure src="img/ethmostigmus_pygomenasoides_pedeling.jpg" title="Ethmostigmus pygomenasoides Pedeling, ca. 4 Monate alt" attr="{{< contributors/christian >}}" link="img/ethmostigmus_pygomenasoides_pedeling.jpg" width="400" >}}
 
-{{< figure src="img/ethmostigmus_pygomenasoides_pedeling_02.jpg" title="Ethmostigmus pygomenasoides Pedeling, ca. 5 Monate alt" attr="{{< contributors/christian >}}" link="img/ethmostigmus_pygomenasoides_pedeling_02.jpg" width="400" >}}
-
-{{< figure src="img/ethmostigmus_pygomenasoides_pedeling_03.jpg" title="Ethmostigmus pygomenasoides Pedeling, ca. 5 Monate alt" attr="{{< contributors/christian >}}" link="img/ethmostigmus_pygomenasoides_pedeling_03.jpg" width="400" >}}
-
-{{< figure src="img/ethmostigmus_pygomenasoides_adult.jpg" title="Ethmostigmus pygomenasoides adult" attr="{{< contributors/alessandro >}}" link="img/ethmostigmus_pygomenasoides_adult.jpg" width="400" >}}
+{{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
 
 ---
 Von: 

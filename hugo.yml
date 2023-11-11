@@ -1,7 +1,9 @@
 baseURL: https://scolohub.com/
 languageCode: de-de
 title: ScoloHub
-theme: hugo-book
+theme: 
+  - hugo-book
+  - hugo-shortcode-gallery
 
 params:
   BookTheme: light
