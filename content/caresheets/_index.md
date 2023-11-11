@@ -9,7 +9,7 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
 
 ## Übersicht der Pflegeanleitungen
 
-* [Ethmostigmus trigonopodus pygomenasoides]({{< ref "ethmostigmus_trigonopodus_pygomenasoides" >}})
+* [Ethmostigmus pygomenasoides]({{< ref "ethmostigmus_trigonopodus_pygomenasoides" >}})
 * Scolopendra dehaani
   * ["Cherry Red"]({{< ref "scolopendra_dehaani_cherry_red">}})
   * ["Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg"]({{< ref "scolopendra_dehaani">}})

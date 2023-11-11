@@ -1,0 +1,29 @@
+{{ $data := .Page.Resources.GetMatch (.Get 0) }}
+{{ $data := $data | unmarshal  }}
+
+
+<div class="cs-key">Ausgewachsene Größe</div>    
+<div class="cs-value">{{ $data.adult_size}}</div>
+
+<div class="cs-key">Lebensweise</div>    
+<div class="cs-value">{{ $data.way_of_life}}</div>
+
+<div class="cs-key">Verhaltensweise</div>    
+<div class="cs-value">{{ $data.behavior}}</div>
+
+
+<div class="cs-key">Verbreitung</div>    
+<div class="cs-value">{{ $data.distribution}}</div>
+
+<div class="cs-key">Klimazone</div>    
+<div class="cs-value">{{ $data.climate}}</div>
+
+<div class="cs-key">Geschlechtsmerkmale</div>    
+<div class="cs-value">{{ $data.behavior}}</div>
+
+<div class="cs-key">Anspruch</div>    
+<div class="cs-value">{{ $data.experience}}</div>
+
+<div class="cs-key">Verfügbarkeit</div>    
+<div class="cs-value">{{ $data.availability}}</div>
+

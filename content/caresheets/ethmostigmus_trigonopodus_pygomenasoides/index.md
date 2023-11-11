@@ -14,35 +14,11 @@ Ethmostigmus pygomenasoides ist eine langsam wachsende Art. Von der Nymphe bis z
 
 Eine Verpaarung der Art erfolgt entsprechend relativ früh in einem subadultem Stadium mit ca. 2-3 Jahren Alter. Nach der Verpaarung speichern die Weibchen das Sperma für weitere drei Jahre bis zum Adultstadium und legen ab dann jährlich Eier. Adulte Tiere verpaaren sich nicht mehr und reagieren aggressiv auf männliche Artgenossen.
 
-**Ausgewachsene Größe**: 10cm (m) / 18cm (w)  
-**Herkunft**: Nigeria / China, Nepal, Kashmir  
-**Klimazone**: subtropisch  
-**Lebensweise**: bodenbewohnend  
-**Verhalten**: relativ ruhig  
-**Sexualdimorphismus**: nein  
-**Anspruch in der Terrarienhaltung**: einfach  
-**Verfügbarkeit im Hobby**: gut verfügbar
+---
 
-## Haltungsparameter
+## Informationen
 
-**Terrarien-Größe (LxBxH)**: 40×30×30cm  
-**Belüftung**: Doppelbelüftung  
-**Temperaturbereich**: 22-34°C  
-**rel. Luftfeuchtigkeit**: 50-90% (abhängig von Regenzeiten)  
-**Simulation von Jahreszeiten / Regenzeiten notwendig**: ja  
-
-**Substrat**:
-
-- **Zusammensetzung**: Humus
-- **Substrathöhe**: 10cm hoch leicht angedrückt
-- **Substratfeuchtigkeit**: angepasst an aride und humide Monate des Herkunftlandes, eine Ecke permanent leicht feucht.
-- **Bodenbedeckung**: Moos, Laub
-
-**Terrarien-Einrichtung**: eine Versteckmöglichkeit (z.B: Korkrinde) und eine Wasserschale muss gegeben sein.
-
-**Ernährung**:
-
-- Ausgewogene Ernährung durch Wirbellose.
+{{< caresheet/caresheet "data/ethmostigmus_pygomenasoides.yml" >}}
 
 ## Geschlechtsunterscheidung
 

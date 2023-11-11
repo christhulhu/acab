@@ -12,6 +12,30 @@ figcaption {
     font-size: 0.8em;    
 }
 
+.cs-key {
+    font-weight: bold;
+    font-size: 0.8em;
+    border-bottom: solid 1px #EEE;  
+    margin-bottom: 0.5em;
+    color: #555;
+}
+.cs-flex-key {
+    font-weight: bold;
+    border-bottom: solid 1px #EEE;
+    margin-left: 1em;
+    color: #555;
+    font-size: 0.8em;
+}
+.cs-value {
+    margin-top: 0.3em;
+    padding-left: 1em;
+    margin-bottom: 1.2em;
+}
+.cs-flex-value {
+    padding-left: 2em;
+    margin-bottom: 1em;
+}
+
 .clearfix {
     display: block;
     clear: both;
@@ -50,6 +74,15 @@ figcaption {
         flex: 1 1;
     }
 
+    .cs-wrap {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .cs-column {
+        flex: 1 1;
+    }
+
 }
 
 @media screen and (max-width: $mobile-breakpoint) {
@@ -82,4 +115,12 @@ figcaption {
         flex-grow: 2;
     }
 
+    .cs-wrap {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .cs-column {
+        flex-grow: 2;
+    }
 }
