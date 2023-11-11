@@ -27,6 +27,7 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 ## Beteiligte
 
 - {{< contributors/alessandro >}}
+- Katharina Schmidt
 - Christian Gehlen
 <!--- Marcel Kettermann -->
 
