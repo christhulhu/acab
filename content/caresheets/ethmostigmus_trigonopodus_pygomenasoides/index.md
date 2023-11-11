@@ -46,21 +46,14 @@ Eine Verpaarung der Art erfolgt entsprechend relativ früh in einem subadultem S
 
 ## Geschlechtsunterscheidung
 
-{{< columns >}}
+{{< sexing 
+    species="Ethmostigmus trigonopodus pygomenasoides"
+    f_pic="images/pygomenasoides_w.jpg" 
+    f_attr="{{< contributors/alessandro >}}"
+    m_pic="images/pygomenasoides_m.jpg" 
+    m_attr="{{< contributors/alessandro >}}"
+>}}
 
-![Weibliche Geschlechtsorgane](images/pygomenasoides_w.jpg)
-
-Weibliche Geschlechtsorgane von E. pygomenasoides  
-Foto von: {{< contributors/alessandro >}}
-
-<--->
-
-![Männliche Geschlechtsorgane](images/pygomenasoides_m.jpg)
-
-Männliche Geschlechtsorgane von E. pygomenasoides  
-Foto von: {{< contributors/alessandro >}}
-
-{{< / columns >}}
 
 ## Bilder
 

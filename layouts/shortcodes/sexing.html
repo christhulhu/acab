@@ -1,0 +1,25 @@
+<div class="book-columns sexing-wrap"><!--  flex flex-wrap  -->
+    <div class="sexing-column markdown-inner"><!-- flex-even-->
+        <figure>
+            <a class="galleryImg" href="{{ .Get "f_pic" }}">
+                <img src="{{ .Get "f_pic" }}" alt="Weibliche Geschlechtsorgane {{.Get "species"}}" />
+            </a>
+            <figcaption>
+                <h4>Weibliche Geschlechtsorgane {{.Get "species"}}</h4>
+                {{ with ( .Get "f_attr") }}<p>{{ . | markdownify }}<p>{{ end }}    
+            </figcaption>
+        </figure>
+    </div>
+
+    <div class="sexing-column markdown-inner"><!-- flex-even-->
+        <figure>
+            <a class="galleryImg" href="{{ .Get "m_pic" }}">
+                <img src="{{ .Get "m_pic" }}" alt="Männliche Geschlechtsorgane {{.Get "species"}}" />
+            </a>
+            <figcaption>
+                <h4>Männliche Geschlechtsorgane {{.Get "species"}}</h4>
+                {{ with ( .Get "m_attr") }}<p>{{ . | markdownify }}<p>{{ end }}    
+            </figcaption>
+        </figure>
+    </div>
+</div>

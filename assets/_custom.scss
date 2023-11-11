@@ -40,6 +40,16 @@ figcaption {
             clear: both;
         }
     }
+
+    .sexing-wrap {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .sexing-column {
+        flex: 1 1;
+    }
+
 }
 
 @media screen and (max-width: $mobile-breakpoint) {
@@ -61,6 +71,15 @@ figcaption {
         img {
             width: 100%;
         }
+    }
+
+    .sexing-wrap {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .sexing-column {
+        flex-grow: 2;
     }
 
 }
