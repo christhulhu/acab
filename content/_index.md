@@ -19,3 +19,7 @@ Bitte beachte, dass unsere Seite sich noch im Aufbau befindet, und wir ermutigen
 * [**Krankheiten**]({{< ref "krankheiten" >}}) enthält Tipps und Hinweise zu den gängigen Krankheiten und Gesundheitsproblemen von Skolopendern.
 * [**Pflegeanleitungen**]({{< ref "caresheets" >}}) geht auf die individuellen Anforderungen einzelner Arten in der Terrarienhaltung ein: Bodengrund, Temperatur, Luftfeuchtigkeit und so weiter.
 * [**Literatur**]({{< ref "literatur" >}}) verweist auf lesenswerte, wissenschaftliche Artikel, Bücher oder Webseiten, die für Skolopender-Halter interessant sind.
+
+---
+
+Letztes Update: {{< build-date >}}

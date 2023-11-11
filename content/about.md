@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-0.1.0
+0.1.1
 
 ## Motivation
 
@@ -55,5 +55,11 @@ Hosted on Github-Pages.
 
 ## Changelog
 
-* 2023-11-03: 0.1.0: Public Beta auf scoloHub.com
-* 2023-10-25: 0.0.1: Peer-Review vor Veröffentlichung
+* 2023-11-11: 0.1.1
+  * Rechtschreibkorrekturen
+  * Anmerkungen durch Peer-Review
+  * Care-Sheet: Etmostigmus trigonopodus pygomenasoides
+* 2023-11-03: 0.1.0
+  * Public Beta auf scoloHub.com
+* 2023-10-25: 0.0.1
+  * Peer-Review vor Veröffentlichung
