@@ -9,6 +9,12 @@ authors:
 
 "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_"
 
+{{< hero-img 
+    src="images/yellow-leg-hero.jpg" 
+    alt="Scolopendra dehaani 'Yellow Leg'" 
+    attr="{{< contributors/christian >}}" 
+>}}
+
 {{< hint info>}}
 
 Diese Anleitung gilt für die Farbvarianten "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_".  
@@ -38,7 +44,5 @@ Mehr Informationen über Scolopendra dehaani und seine Farbvarianten auf der [Ü
 {{< gallery match="images/scolopendra_dehaani_*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
 
 ---
-_Von: {{< contributors/alessandro >}}_
 
----
-[^1]: 2016 - Siriwut, Edgecombe, Sutcharit, Tongkerd, Panha - A taxonomic review of the centipede genus Scolopendra in mainland Southeast Asia, with description of a new species from Laos
+{{< contributors "{{< contributors/alessandro >}}" >}}

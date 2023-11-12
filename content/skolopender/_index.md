@@ -189,10 +189,6 @@ Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entspreche
 
 Gleichsam zweifelt man im Hobby ob der Vielgestalt von _Scolopendra cingulata_ an einer eindeutigen Art. Insgesamt muss hier noch viel wissenschaftliche Arbeit geleistet werden - die allerdings auch bezahlt werden will.
 
---- 
-
-## Fussnoten und Referenzen
-
 [^1]: Schileyko et. all, 2020: "An overview of the extant genera and subgenera of the order Scolopendromorpha (Chilopoda): a new identification key and updated diagnoses"
 
 [^2]: Edgecombe et. all, 2010: "A common terminology for the external anatomy of centipedes (Chilopoda)"

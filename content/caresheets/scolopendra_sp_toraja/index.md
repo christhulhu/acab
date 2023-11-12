@@ -7,8 +7,13 @@ authors:
 
 # Scolopendra sp "Toraja"
 
-## Über die Art
+{{< hero-img 
+    src="images/toraja-hero.jpg" 
+    alt="Scolopendra sp. Toraja" 
+    attr="{{< contributors/alessandro >}}" 
+>}}
 
+## Über die Art
 
 ---
 
@@ -17,6 +22,11 @@ authors:
 {{< caresheet/caresheet "data/toraja.yml" >}}
 
 --- 
+## Bilder
+
+
+{{< gallery match="images/scolopendra_toraja*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
 
 ---
-_Von: {{< contributors/alessandro >}}_
+{{< contributors "{{< contributors/alessandro >}}" >}}
+

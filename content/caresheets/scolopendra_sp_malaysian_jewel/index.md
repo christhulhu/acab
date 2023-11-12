@@ -24,6 +24,5 @@ Auch wenn man gelegentlich Wildfänge und sogar nachzuchten im Hobby bekommt, si
 {{< caresheet/caresheet "data/malaysian_jewel.yml" >}}
 
 --- 
+{{< contributors "{{< contributors/alessandro >}}" >}}
 
----
-_Von: {{< contributors/alessandro >}}_

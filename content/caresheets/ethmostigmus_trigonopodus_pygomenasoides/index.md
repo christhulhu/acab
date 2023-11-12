@@ -6,6 +6,13 @@ authors:
 ---
 # Ethmostigmus trigonopodus pygomenasoides
 
+{{< hero-img 
+    src="images/pygomenasoides-hero.jpg" 
+    alt="Ethmostigmus trigonopodus pygomenasoides" 
+    attr="{{< contributors/alessandro >}}" 
+>}}
+
+
 ## Über die Art
 
 Die Erstbeschreibung von Ethmostigmus trigonopodus pygomenasoides wurde für Tiere aus der Region Nepal und Kashmir angefertigt. Die Art heißt so, weil sie Ethmostigmus pygomegas ähnlich sieht. Doch insgesamt ist sie morphologisch näher an Etmostimus trigonopodus, weshalb sie als Unterart geführt wird.  Jiang, et all (2022) nennt Ethmostigmus pygomenasoides als eigenständige Art in einem Nachweis aus China. Aktuell scheint noch offen, ob es sich wirklich um eine Unterart von Ethmostigmus trigonopodus (mit Verbreitung in Afrika) handelt, oder ob die asiatischen Tiere eine eigenständige Art darstellen.
@@ -42,6 +49,4 @@ Dies ist auch ein Indiz dafür, wann die pygomenasoides erwachsen sind: Mit Eint
 {{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
 
 ---
-Von: 
-* {{< contributors/alessandro >}}
-* {{< contributors/christian >}}
+{{< contributors "{{< contributors/alessandro >}}" "{{< contributors/christian >}}" >}}

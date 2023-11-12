@@ -46,6 +46,62 @@ blockquote.good {
     background-color: rgba(0,255,0, 0.1);
 }
 
+.hero-figure {
+    display: flex;
+    flex-flow: column;
+
+    position: relative;
+
+    width: 100%;
+
+    .hero-img {
+        width: 100%;
+        margin: 0;
+    }
+
+    figcaption {
+        background-color: rgba(0,0,0, 0.5);
+        margin: 0 0 0 0;
+        padding: 1em;
+        
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+
+        text-align: right;
+
+        color: #CCC;
+        h4 {
+            font-size: 2em;
+        }
+    }
+}
+
+.authors {
+    font-size: 0.8em;
+    color: #555;
+    .author-list{
+        margin-top: 0;
+        list-style: none;
+        .author {
+
+        }
+    }
+}
+
+.footnotes {
+
+    ol::before {
+        content: "Fussnoten";
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+    }
+
+    font-size: 0.8em;
+    color: #333;
+}
+
 @media screen and (min-width: $container-max-width) {
     .fig-right {
         float: right;
@@ -88,6 +144,36 @@ blockquote.good {
         flex: 1 1;
     }
 
+    .hero-figure {
+        display: flex;
+        flex-flow: column;
+    
+        position: relative;
+    
+        width: 100%;
+    
+        .hero-img {
+            width: 100%;
+            margin: 0;
+        }
+    
+        figcaption {
+            background-color: rgba(0,0,0, 0.5);
+            margin: 0 0 0 0;
+            padding: 1em;
+            
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+    
+            text-align: right;
+    
+            color: #CCC;
+            h4 {
+                font-size: 2em;
+            }
+        }
+    }
 }
 
 @media screen and (max-width: $mobile-breakpoint) {
@@ -127,5 +213,36 @@ blockquote.good {
 
     .cs-column {
         flex-grow: 2;
+    }
+
+    .hero-figure {
+        display: flex;
+        flex-flow: column;
+    
+        position: relative;
+    
+        width: 100%;
+    
+        .hero-img {
+            width: 100%;
+            margin: 0;
+        }
+    
+        figcaption {
+            background-color: rgba(0,0,0, 0.4);
+            margin: 0 0 0 0;
+            padding: 0.5em;
+            
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+    
+            text-align: right;
+    
+            color: #CCC;
+            h4 {
+                font-size: 1em;
+            }
+        }
     }
 }

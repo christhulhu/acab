@@ -1,0 +1,7 @@
+<figure class="hero-figure">
+    <img src="{{ .Get "src"}}" alt="{{.Get "alt"}}" class="hero-img" />
+    <figcaption>
+        <h4>{{.Get "alt" }}</h4>
+        {{ with ( .Get "attr") }}<p>{{ . | markdownify }}<p>{{ end }} 
+    </figcaption>
+</figure>

@@ -1,0 +1,8 @@
+<div class="authors">
+<strong>Autoren:</strong>
+<ul class="author-list">
+{{ range $.Params }}
+    <li class="author">{{ . | markdownify }}</li>
+{{ end }}
+</ul>
+</div>
