@@ -23,6 +23,8 @@ Dies ist auch ein Indiz dafür, wann die pygomenasoides erwachsen sind: Mit Eint
 
 {{< caresheet/caresheet "data/ethmostigmus_pygomenasoides.yml" >}}
 
+--- 
+
 ## Geschlechtsunterscheidung
 
 {{< sexing 

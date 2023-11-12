@@ -3,10 +3,10 @@ adult_size: 10cm (m) / 18cm (w)
 distribution: Afrika / China, Nepal, Kashmir
 climate: subtropisch
 way_of_life: bodenbewohnend
-behavior: relativ ruhig
-dimorphism: keine äußerlichen Geschlechtsmerkmale
-experience: einfach
-availability: gut verfügbar
+behavior: Relativ ruhig Art
+dimorphism: Keine äußerlichen Geschlechtsmerkmale
+experience: einfache Haltung
+availability: Gut verfügbar im Hobby
 
 terrarium_size: 40x30x30cm
 ventilation: Doppelbelüftung
@@ -16,10 +16,10 @@ simulation_periods: ja
 
 substrate:
   ingredients: 80 % Humus / 20 % Lehm
-  height: 10cm hoch leicht angedrückt
-  humidity: angepasst an aride und humide Monate des Herkunftlandes, eine Ecke permanent leicht feucht.
+  height: 10cm hoch, leicht angedrückt
+  humidity: Angepasst an aride und humide Monate des Herkunftlandes, eine Ecke permanent leicht feucht.
   cover: Moos, Laub
 
-decoration: "eine Versteckmöglichkeit (z.B: Korkrinde) und eine Wasserschale muss gegeben sein."
+decoration: "Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein."
 
 nutrition: Ausgewogene Ernährung durch Wirbellose.

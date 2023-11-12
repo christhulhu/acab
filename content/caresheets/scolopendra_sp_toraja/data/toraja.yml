@@ -1,0 +1,25 @@
+name: Scolopendra sp "Toraja"
+adult_size: 18-22cm
+distribution: Toraja (Sulawesi, Indonesien)
+climate: subtropisch
+way_of_life: bodenbewohnend
+behavior: Aggressiv, schnell und kann hoch springen.
+dimorphism: Keine äußerlichen Geschlechtsmerkmale
+experience: Mittelmäßig anspruchsvoll.
+availability: Gelegentlich verfügbar im Hobby
+
+terrarium_size: 40x30x30cm
+ventilation: Doppelbelüftung
+temperature: 20-28°C
+humidity: 50-70%
+simulation_periods: nein
+
+substrate:
+  ingredients: 60% Lehm / 40% Torf
+  height: 15cm hoch, leicht angedrückt
+  humidity: Leicht feucht.
+  cover: Moos, Laub
+
+decoration: "Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein."
+
+nutrition: Obst (wie z.B. Banane) einmal monatlich. Sonst ausgewogene Ernährung durch Wirbellose.
