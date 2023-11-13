@@ -65,7 +65,16 @@ Obwohl es durchaus diverse Videos auf Youtube gibt, die eine Reinigung der befal
 
 Das größte Problem ist ein Mykosebefall an den Mundwerkzeugen oder Maxillipeden. Dies hindert die Nahrungsaufnahme, wodurch der Skolopender verhungern kann. Auch hier kann man recht wenig machen, außer den zuvor genannten Änderungen der Haltungsparameter und die Erleichterung der Nahrungsaufnahme durch Totfutter.
 
-<!-- ## Gregarinen -->
+## Endoparasiten
+
+{{< figure src="endoparasiten/images/dehaani_oozysten_1.jpg" title="Kot dehaani mit Adelina spp Oozysten" attr="{{< contributors/marcel >}}" class="fig-right"  width="400px" >}}
+
+Endoparasiten sind Parasiten, die sich innerhalb des Körpers von Hundertfüßern befinden. Das Thema ist komplexer und daher ein eigenes [Kapitel]({{< ref "endoparasiten" >}}) auf dieser Seite.
+
+[Zur Erkennung und Behandlung von Endoparasiten]({{< ref "endoparasiten" >}})
+
+{{< clearfix >}}
+
 ---
 
 {{< no-affiliate >}}
