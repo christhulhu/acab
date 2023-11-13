@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-0.1.1
+0.1.3
 
 ## Motivation
 
@@ -55,6 +55,11 @@ Hosted on Github-Pages.
 
 ## Changelog
 
+* 2023-11-13: 0.1.3
+  * Neues Care-Sheet: Otostigmus sp. "Cameroon Violett"
+  * Informationen zu Endoparasiten
+* 2023-11-12: 0.1.2
+  * Technisches Refactoring für Pflegeanleitungen (Hero-Image, Darstellung von Informationen)
 * 2023-11-11: 0.1.1
   * Rechtschreibkorrekturen
   * Anmerkungen durch Peer-Review
