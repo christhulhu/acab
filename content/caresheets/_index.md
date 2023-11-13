@@ -13,6 +13,10 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
 
 * [Ethmostigmus pygomenasoides]({{< ref "ethmostigmus_trigonopodus_pygomenasoides" >}})
 
+### Genus Otostigmus
+
+* [Otostigmus sp. "Cameroon Violet"]({{< ref "otostigmus_sp_cameroon_violet" >}})
+
 ### Genus Scolopendra
 
 * [Scolopendra dehaani]({{< ref "scolopendra_dehaani">}})
