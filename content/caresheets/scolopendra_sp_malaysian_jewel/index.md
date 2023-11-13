@@ -5,7 +5,13 @@ authors:
 - "Alessandro Tinella"
 ---
 
-# Scolopendra sp. "Malaysian Jewel"   
+# Scolopendra sp. "Malaysian Jewel"
+
+{{< hero-img 
+    src="images/malaysian_jewel-hero.jpg" 
+    alt="Scolopendra sp. 'Malaysian Jewel'" 
+    attr="{{< contributors/marcel >}}" 
+>}}
 
 ## Über die Art
 
@@ -22,6 +28,13 @@ Auch wenn man gelegentlich Wildfänge und sogar nachzuchten im Hobby bekommt, si
 ## Informationen
 
 {{< caresheet/caresheet "data/malaysian_jewel.yml" >}}
+
+--- 
+
+## Bilder
+
+{{< gallery match="images/scolopendra_sp_malaysian_jewel*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
+
 
 --- 
 {{< contributors "{{< contributors/alessandro >}}" >}}
