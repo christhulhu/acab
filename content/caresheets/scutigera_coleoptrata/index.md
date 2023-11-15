@@ -1,5 +1,5 @@
 ---
-title: Scutigera coleoptrata"
+title: Scutigera coleoptrata
 bookHidden: true
 authors:
 - "Marcel K."
