@@ -1,0 +1,25 @@
+name: Scutigera coleoptrata
+adult_size: Gesamtlänge bis 13cm, Köper max. 3–3,5cm
+distribution: Ursprünglich Mittelmeerraum, durch Verschleppung mittlerweile auch in Nordamerika, Südamerika, Afrika, Asien und Australien etabliert, in Deutschland auf die südwestlichen Bundesländer beschränkt.
+climate: mediterran, synanthrop
+way_of_life: Nachtaktiv, in steinigem Gelände, an Trockenmauern und in Gebäuden.
+behavior: Flinke und hektische Art.
+dimorphism: Weibchen mit verlängerten Gonopoden.
+experience: Einfache Haltung.
+availability: Eher selten verfügbar.
+
+terrarium_size: 20x20x30cm
+ventilation: Doppelbelüftung
+temperature: 20-26°C
+humidity: 40-50%
+simulation_periods: Entsprechend der ursprünglichen Verbreitung. Gegebenenfalls Abkühlung im Winter.
+
+substrate:
+  ingredients: 60% Lehm / 40% Torf
+  height: Unbedeutend da die Tiere nicht graben.
+  humidity: Leicht feucht.
+  cover: Unbedeutend.
+
+decoration: "Schräg aufgestellte und übereinander liegende Korkstücke um Verstecke und Klettermöglichkeiten zu schaffen."
+
+nutrition: Ausgewogene Ernährung durch Wirbellose wie Ofenfischchen, kleinen Grillen, Frucht- und Stubenfliegen. Man sollte einmal die Woche leicht sprühen, da die Tiere beim Trinken beobachtet wurden.

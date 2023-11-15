@@ -17,6 +17,10 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
 
 * [Otostigmus sp. "Cameroon Violet"]({{< ref "otostigmus_sp_cameroon_violet" >}})
 
+### Genus Scutigera
+
+* [Scutigera coleoptrata]({{< ref "scutigera_coleoptrata" >}})
+
 ### Genus Scolopendra
 
 * [Scolopendra dehaani]({{< ref "scolopendra_dehaani">}})
