@@ -92,3 +92,5 @@ Die Lebensqualität des Skolopenders hängt sehr stark an der Qualität der Futt
 Aus diesem Grund sollte man die Futtertiere auch ordentlich pflegen, abwechslungsreich füttern und mit Wasser versorgen. Wenn man schon mal Heimchen aus der Transportbox in ein haltungsgerechtes Terrarium umgesetzt hat, sieht man sehr oft, dass die Tiere gierig am Wassernapf trinken. So ausgetrocknete Futtertiere sollen gut für unseren Schützling sein? Wohl eher nicht...
 
 Je nach Futtertierart kann Katzentrockenfutter eine zusätzliche Quelle für Protein darstellen, die wiederum auch den Skolopender zugutekommt. Gleichsam liefern frisches Obst und Gemüse Feuchtigkeit und Vitamine. Weitere Zusätze wie Haferflocken, Spirulina oder spezielles Vitaminfutter für die Futtertiere liefern wichtige Nährstoffe, die schlussendlich gut für unser eigentliches Terrarientier sind.
+
+Wer seine Futtertiere mit einem vollständigen Nährstoff-Cocktail füttern will, findet hier auch ein [Rezept für Futter für Futtertiere](grillenfutter) wie Grillen, Heimchen, etc.
