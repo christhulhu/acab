@@ -1,0 +1,25 @@
+<div class="book-columns sexing-wrap"><!--  flex flex-wrap  -->
+    <div class="sexing-column markdown-inner"><!-- flex-even-->
+        <figure>
+            <a class="galleryImg" href="{{ .Get "f_pic" }}">
+                <img src="{{ .Get "f_pic" }}" alt="Weibliches {{.Get "species"}}" />
+            </a>
+            <figcaption>
+                <h4>Weibliches {{.Get "species"}}: {{.Get "f_dimorphism" }}</h4>
+                {{ with ( .Get "f_attr") }}<p>{{ . | markdownify }}<p>{{ end }}    
+            </figcaption>
+        </figure>
+    </div>
+
+    <div class="sexing-column markdown-inner"><!-- flex-even-->
+        <figure>
+            <a class="galleryImg" href="{{ .Get "m_pic" }}">
+                <img src="{{ .Get "m_pic" }}" alt="Männliches {{.Get "species"}}" />
+            </a>
+            <figcaption>
+                <h4>Männliches {{.Get "species"}}:  {{.Get "m_dimorphism" }}</h4>
+                {{ with ( .Get "m_attr") }}<p>{{ . | markdownify }}<p>{{ end }}    
+            </figcaption>
+        </figure>
+    </div>
+</div>

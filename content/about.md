@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-0.1.4
+0.1.5
 
 ## Motivation
 
@@ -55,6 +55,8 @@ Hosted on Github-Pages.
 
 ## Changelog
 
+* 2023-11-19: 0.1.5
+  * Futter für Futtertiere
 * 2023-11-15: 0.1.4
   * Neues Care-Sheet Scutigera coleoptrata
 * 2023-11-13: 0.1.3

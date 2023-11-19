@@ -11,21 +11,22 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
 
 ### Genus Ethmostigmus
 
-* [Ethmostigmus pygomenasoides]({{< ref "ethmostigmus_trigonopodus_pygomenasoides" >}})
+* [Ethmostigmus pygomenasoides](ethmostigmus_trigonopodus_pygomenasoides)
+* [Ethmostigmus sp. "Borneo Blue"](ethmostigmus_sp_borneo_blue)
 
 ### Genus Otostigmus
 
-* [Otostigmus sp. "Cameroon Violet"]({{< ref "otostigmus_sp_cameroon_violet" >}})
+* [Otostigmus sp. "Cameroon Violet"](otostigmus_sp_cameroon_violet)
 
 ### Genus Scutigera
 
-* [Scutigera coleoptrata]({{< ref "scutigera_coleoptrata" >}})
+* [Scutigera coleoptrata](scutigera_coleoptrata)
 
 ### Genus Scolopendra
 
-* [Scolopendra dehaani]({{< ref "scolopendra_dehaani">}})
-  * ["Cherry Red"]({{< ref "scolopendra_dehaani/cherry_red" >}})
-  * ["Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg"]({{< ref "scolopendra_dehaani/leg_morphs" >}})
-* [Scolopendra sp. "Malaysian Jewel"]({{< ref "scolopendra_sp_malaysian_jewel">}})
-* [Scolopendra sp. piceoflava]({{< ref "scolopendra_sp_piceoflava">}})
-* [Scolopendra sp. "Toraja"]({{< ref "scolopendra_sp_toraja">}})
+* [Scolopendra dehaani](scolopendra_dehaani)
+  * ["Cherry Red"](scolopendra_dehaani/cherry_red)
+  * ["Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg"](scolopendra_dehaani/leg_morphs)
+* [Scolopendra sp. "Malaysian Jewel"](scolopendra_sp_malaysian_jewel)
+* [Scolopendra sp. piceoflava](scolopendra_sp_piceoflava)
+* [Scolopendra sp. "Toraja"](scolopendra_sp_toraja)
