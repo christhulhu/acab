@@ -9,15 +9,13 @@ authors:
 {{< hero-img 
     src="images/borneo_blue-hero.jpg" 
     alt="Ethmostigmus sp. 'Borneo Blue'" 
-    attr="{{< contributors/alessandro >}}" 
+    attr="[© Chien Lee auf iNaturalist.org](https://www.inaturalist.org/observations/68133409)" 
 >}}
 
 
 ## Über die Art
 
 
-1.0 lange dünne endbeine  
-0.1 dicke, kräftige Endbeine
 
 ---
 
@@ -40,9 +38,9 @@ authors:
 >}}
 
 
-## Bilder
+<!-- ## Bilder
 
-{{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
+{{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}} -->
 
 ---
-{{< contributors "{{< contributors/alessandro >}}" "{{< contributors/christian >}}" >}}
+{{< contributors "{{< contributors/alessandro >}}" >}}
