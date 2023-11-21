@@ -97,4 +97,18 @@ Je nach Futtertierart kann Katzentrockenfutter eine zusätzliche Quelle für Pro
 
 Wer seine Futtertiere mit einem vollständigen Nährstoff-Cocktail füttern will, findet hier auch ein [Rezept für Futter für Futtertiere](grillenfutter) wie Grillen, Heimchen, etc.
 
+## Übersicht an nachgewiesen angenommenen Futtertieren
+
+Auch wenn die potentielle Auswahl an Futtertieren für Skolopender groß ist, stellen sich Halter dennoch immer wieder die Frage, welches Futter angenommen wird, und ob es für das Tier empfehlenswert ist. Darum an dieser Stelle eine kleine, unvollständige Übersicht.
+
+| Futtertier | Beispielsbeleg | Bemerkungen |
+| :--- | :--- | :--- |
+| Rosenkäferlarven (Cetoniinae) | Scolopendra alternans  | |
+| Regenwürmer | diverse Scolopendra sp.  | Regenwürmer bekommt man beispielsweise im Angelbedarf. Man sollte die Würmer jedoch abkochen, da diese viele Parasiten beherbergen, die auf den Skolopender übergehen kännen  |
+| Ofenfische (Thermobia domestica) | kleine Pedelings, z.B. Scolopendra cingulata ||
+| Heimchen (Acheta domesticus) | diverse Scolopendra sp. | Durch die unterschiedlichen verfügbaren Größen, eignen sich Heimchen universell für alle Wachstumsstufen von Skolopendern. Für große Arten sollten mehr Tiere verfüttert werden, um den Energiebedarf zu decken.  |
+| Argentinische Waldschabe (Blaptica dubia) | Mittelgroße Arten wie Scolopendra dehaani | Nymphen von Blaptica dubia eignen sich auch für kleine Arten oder Pedelings |
+| Papaya | Scolopendra subspinipes | Generell scheinen Skolopendern Obst nicht abgeneigt... |
+| Banane | Scolopendra cingulata, Scolopendra dehaani, Scolopendra gigantea | Generell scheinen Skolopendern Obst nicht abgeneigt... |
+
 [^1]: 1933 - Lawrence - Notes on the Feeding Habits of Scolopendra subspinipes
