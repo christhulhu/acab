@@ -28,6 +28,12 @@ Coccidia, auch als Kokzidien bezeichnet, sind parasitäre Einzeller, die die Dar
 Über die Behandlung von Apicomplexa bei Chilopoden ist bisher wenig bekannt. Es gibt diverse Antibiotika, die sowohl bei Wirbellosen (Fumagillin bei Honigbienen) als auch bei Wirbeltieren (Toltrazuril bei Hühnern) zum Einsatz kommen. Jedoch ist völlig unklar, wie sich solche Medikamente bei Hundertfüßern und deren Darmflora auswirken.
 Eine bisher vielversprechende Methode ist die Zugabe von pulverisierter Chinarinde (Cinchona sp.). Diese enthält Chinin welches als Mittel gegen Malaria hilft und dadurch bekannt geworden ist (Tonic Water). Bereits Rosenberg (2009)[^2] verwiesen auf die Wirkung von Chinin bei Kokzidien. In einer Versuchsphase wurde über 7 Tage, tote, mit Chinarindenpulver gefüllte, Steppengrillen verfüttert. Die Zahl nachgewiesener Oozysten hatte sich daraufhin deutlich reduziert. Der Zusammenhang bedarf jedoch weiterer Versuche, vor allem über längere Zeit, um auszuschließen, dass es sich nur um eine Phase der Parasiten handelt, in der weniger Oozysten produziert werden.
 
+{{< hint info >}}
+
+**Tipp**: Chinarinde bekommt man in der Apotheke für ca. EUR 6 / 100g. Meist bekommt man große Stücke, die man mit einem Mörser fein pulverisieren kann.
+
+{{< /hint >}}
+
 ---
 {{< contributors "{{< contributors/marcel >}}" >}}
 
