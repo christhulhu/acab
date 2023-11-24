@@ -29,4 +29,4 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
   * ["Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg"](scolopendra_dehaani/leg_morphs)
 * [Scolopendra sp. "Malaysian Jewel"](scolopendra_sp_malaysian_jewel)
 * [Scolopendra sp. piceoflava](scolopendra_sp_piceoflava)
-* [Scolopendra sp. "Toraja"](scolopendra_sp_toraja)
+* [Scolopendra sp. "Toraja Red"](scolopendra_sp_toraja)
