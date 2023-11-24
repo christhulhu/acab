@@ -1,15 +1,15 @@
 ---
-title: Scolopendra sp "Toraja"
+title: Scolopendra sp "Toraja Red"
 bookHidden: true
 authors:
 - "Alessandro Tinella"
 ---
 
-# Scolopendra sp "Toraja"
+# Scolopendra sp "Toraja Red"
 
 {{< hero-img 
     src="images/toraja-hero.jpg" 
-    alt="Scolopendra sp. Toraja" 
+    alt="Scolopendra sp. Toraja Red" 
     attr="{{< contributors/alessandro >}}" 
 >}}
 
