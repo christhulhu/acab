@@ -9,3 +9,4 @@ params:
   BookTheme: light
   BookToC: false
   BookSection: /
+  BookLogo: img/logo.png
