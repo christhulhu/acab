@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-0.1.6
+0.1.7
 
 ## Motivation
 
@@ -29,7 +29,7 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 - {{< contributors/alessandro >}}
 - {{< contributors/marcel >}}
 - {{< contributors/jonas >}}
-- Katharina Schmidt
+- Katharina S.
 - {{< contributors/christian >}}
 <!--- Marcel Kettermann -->
 
@@ -55,6 +55,10 @@ Hosted on Github-Pages.
 
 ## Changelog
 
+Info: Hier werden nur größere Änderungen protokolliert. Kleinere redaktionelle Änderungen lassen sich im [Git-Log](https://github.com/christhulhu/scolohub.com/commits/main) nachlesen.
+
+* 2023-11-29: 0.1.7
+  * Care-Sheets für S. gigantea, S. galapagoensis, S. "White Legs"
 * 2023-11-23: 0.1.6
   * Care-Sheet: Borneo Blue
 * 2023-11-19: 0.1.5
