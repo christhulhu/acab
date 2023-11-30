@@ -17,7 +17,7 @@ authors:
 
 Scolopendra sp. "White Legs" wurde und wird im Hobby häufig als "Scolopendra gigantea" angeboten. Doch gibt es signifikante Unterschiede zwischen den beiden Arten, und der "White Leg" passt mit keiner aktuellen morphologischen Beschreibung zusammen. Es handelt sich aktuell um eine unbeschriebene Art, die lediglich unter ihrem Trivialnamen bekannt ist.
 
-Das Substrat sollte stets trocken sein, aber eine feuchte Ecke zum verstecken vorhanden sein. Um die nach einer Verpaarung zur Eiablage zu animieren, muss man ihnen eine feuchtere Umgebung bieten.
+Das Substrat sollte stets trocken sein, aber eine feuchte Ecke zum verstecken vorhanden sein. Um den "White Legs" nach einer Verpaarung zur Eiablage zu animieren, muss man den Tieren eine feuchtere Umgebung bieten.
 
 ---
 
