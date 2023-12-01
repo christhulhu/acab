@@ -26,6 +26,7 @@ Diese markante Art scheint seit 2020 nicht mehr im europäischen Hobby vertreten
 {{< caresheet/caresheet "data/cameroon_violet.yml" >}}
 
 --- 
+
 ## Bilder
 
 

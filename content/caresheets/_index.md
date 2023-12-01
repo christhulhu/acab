@@ -18,9 +18,9 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
 
 * [Otostigmus sp. "Cameroon Violet"](otostigmus_sp_cameroon_violet)
 
-### Genus Scutigera
+### Genus Rhysida
 
-* [Scutigera coleoptrata](scutigera_coleoptrata)
+* [Rhysida longipes](rhysida_longipes)
 
 ### Genus Scolopendra
 
@@ -29,7 +29,12 @@ Derweil es allgemeingültige Hinweise zu [Terrarium]({{< ref "/terrarienhaltung/
   * ["Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg"](scolopendra_dehaani/leg_morphs)
 * [Scolopendra galapagoensis](scolopendra_galapagoensis)
 * [Scolopendra gigantea](scolopendra_gigantea)
+* [Scolopendra gracillima](scolopendra_gracillima)
 * [Scolopendra sp. "Malaysian Jewel"](scolopendra_sp_malaysian_jewel)
 * [Scolopendra sp. piceoflava](scolopendra_sp_piceoflava)
 * [Scolopendra sp. "Toraja Red"](scolopendra_sp_toraja)
 * [Scolopendra sp. "White Legs"](scolopendra_sp_white_legs)
+
+### Genus Scutigera
+
+* [Scutigera coleoptrata](scutigera_coleoptrata)

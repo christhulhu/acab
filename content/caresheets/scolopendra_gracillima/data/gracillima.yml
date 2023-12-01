@@ -1,0 +1,25 @@
+name: Scolopendra gracillima
+adult_size: 6-7cm
+distribution: Indonesia (Java, Bali, Seram), Malaysia (Sarawak), Vietnam.
+climate: subtropisch
+way_of_life: Nachtaktiv, versteckte Lebensweise im Boden und Streu.
+behavior: Ruhig.
+dimorphism: Keine äußerlichen Geschlechtsmerkmale.
+experience: Einfache Haltung.
+availability: Eher selten verfügbar.
+
+terrarium_size: 20x20x20cm
+ventilation: Doppelbelüftung
+temperature: 20-28°C
+humidity: 70-80%
+simulation_periods: nein.
+
+substrate:
+  ingredients: 60% Torf / 30% Lehm / 10% Sand
+  height: Mindestens 10cm.
+  humidity: Leicht feucht.
+  cover: Laub, Moos und Rindenstücke
+
+decoration: Größte Bedeutung kommt dem Boden zuteil, da die Art sich gerne vergräbt. Versteckmöglichkeiten durch eine ordentliche Laubschicht und Rindenstücken, sowie eine Wasserschale müssen gegeben sein.
+
+nutrition: Ausgewogene Ernährung durch Wirbellose. 

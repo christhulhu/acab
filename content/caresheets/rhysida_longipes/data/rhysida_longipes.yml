@@ -1,0 +1,25 @@
+name: Rhysida longipes
+adult_size: 8cm
+distribution: Lateinamerika, Florida, Ostafrika, Chagos-Archipel, Mauritius, Ostasien, Indo-Malaysia, Südamerika.
+climate: subtropisch
+way_of_life: Nachtaktiv, versteckte Lebensweise im Boden und Streu.
+behavior: Schnell und nervös.
+dimorphism: Keine äußerlichen Geschlechtsmerkmale.
+experience: Einfache Haltung.
+availability: Gut verfügbar im Hobby.
+
+terrarium_size: 20x20x20cm
+ventilation: Doppelbelüftung
+temperature: 20-28°C
+humidity: 50-70%
+simulation_periods: nein
+
+substrate:
+  ingredients: 60% Torf / 30% Lehm / 10% Sand
+  height: 10 cm hoch, leicht angedrückt
+  humidity: Leicht feucht.
+  cover: Moos, Laub
+
+decoration: Die Art vergräbt sich gerne. Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein.
+
+nutrition: Ausgewogene Ernährung durch Wirbellose. 
