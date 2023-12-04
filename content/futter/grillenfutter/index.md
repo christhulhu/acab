@@ -93,7 +93,7 @@ Bestimmte Zutaten bieten sich je nach Saison an wie z.B. Melone im Sommer oder K
 
 {{< figure 
     src="images/grillenfutter-fertig.jpg"
-    title="Elektrischer Gemüseschneider"
+    title="Fertige Futtermischung"
     attr="{{< contributors/marcel >}}"
     class="fig-right"
     width="400"
