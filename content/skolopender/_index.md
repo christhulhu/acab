@@ -17,7 +17,7 @@ Unter den Chilopoda gibt es insgesamt fünf Ordnungen:
 - **Geophilomorpha** (Erdläufer)
 - **Scolopendromorpha** (Riesenläufer)
 
-Derweil in Deutschland viele Arten der Lithobiomorpha und Geophilomorpha in Garten und Wald zu finden sind, findet man nur vereinzelt einige Tiere aus den Ordnungen Scutigeromorpha und auch Scolopendromorpha in einzelnen Regionen. Wer sich mehr für die einheimischen Hundertfüßer interessiert, bekommt auf der Webseite [bodentierhochvier.de](https://bodentierhochvier.de/) weitere Informationen.
+Derweil findet man in ganz Deutschland viele Arten der Lithobiomorpha und Geophilomorpha in Garten und Wald, während man Tiere aus den Ordnungen Scutigeromorpha und auch Scolopendromorpha nur in einzelnen Regionen nachweisen kann. Wer sich mehr für die einheimischen Hundertfüßer interessiert, bekommt auf der Webseite [bodentierhochvier.de](https://bodentierhochvier.de/) weitere Informationen.
 
 ## Die Ordnung Scolopendromorpha
 
@@ -88,7 +88,7 @@ Die **Maxillipeden** werden nicht zu den Beinpaaren gezählt. Neben den 20 Laufb
 
 Die Laufbeine entspringen aus der **Coxopleura** (_Hüft-Pleura_). Das erste Segment nach der **Coxa** (_Hüfte_) ist das **Prefemur**, gefolgt von **Femur**, **Tibia** (_Schienbein_), **Tarsus** (_Fuß_) und **Pretarsus**, an dem die **Klauen** ansetzen. Neben der Klaue gibt es noch den **Klauensporn**, der parallel zur Klaue aus dem Pretarsus entspringt.
 
-Auf der Rückseite schützen **Tergite** (_Rückenplatten_) einen Skolopender. Auf der Vorderseite die **Sternite** (_Brustplatten_). Sowohl Tergite wie auch Sternite sind aus einem harten Chitin-Panzer und somit unbeweglich. Darum müssen sich Hundertfüßer häuten um zu wachsen.  
+Auf der Rückseite schützen **Tergite** (_Rückenplatten_) einen Skolopender. Auf der Bauchseite die **Sternite** (_Brustplatten_). Sowohl Tergite wie auch Sternite sind aus einem harten Chitin-Panzer und somit unbeweglich. Darum müssen sich Hundertfüßer häuten um zu wachsen.  
 Seitlich werden Tergit und Sternit durch die **Pleura** verbunden. In dieser flexiblen Hautschicht befinden sich auch die **Stigmen**. Dies sind Öffnungen in das **Tracheen**-System, mit dem ein Skolopender atmet. Diese Öffnungen kann mit "Ventilklappen" verschlossen und eher dreieckig geformt (Scolopendrinae) oder ohne Klappen und eher oval bis rund sein (Otostigminae).
 
 Am letzten Körpersegment haben Skolopender ein verhärtetes **Coxolpleura** mit langgezogenen Fortsätzen, den **Coxopleurenfortsätzen**. Diese können mitunter eine Bedornung aufweisen, die für die Artbestimmung wichtig ist.
@@ -135,7 +135,7 @@ Im ersten Nymphenstadium haben junge Skolopender, auch Pedelings genannt, keinen
 
 Nach der erfolgreichen Häutung frisst ein Skolopender seine Haut (Exuvie), da sie ihm wertvolle Nährstoffe liefert, die er nach der körperlichen Anstrengung und zur Aushärtung der neuen Panzerung braucht. Aus diesem Grund bekommt man als Halter vielleicht gar nicht mit, ob sich ein Tier gehäutet hat. Aber im Vorfeld gibt es bereits deutliche Anzeichen: Die Färbung des Hundertfüßers wird blass und fahl, weil sich Luft zwischen der alten und neuen Haut ansammelt. Auch kleine Verhaltensänderungen, wie die Verweigerung von Futter, können Anzeichen für eine anstehende Häutung sein.[^3] Nach der Häutung hat der Pflegling wieder kräftige Farben und ein merklich größeres Körpervolumen.
 
-Bei der Häutung haben Skolopender zwei Besonderheiten. Zum einen können sie, wie eine Vielzahl anderer Arthropoden auch, verlorene Gliedmaßen bei der Häutung regenerieren.[^4] Zum anderen können befruchtete Weibchen Spermien bei der Häutung mitnehmen, im Gegensatz zu beispielsweise Vogelspinnen, und erst nach der Häutung Eier legen.[^3]
+Bei der Häutung haben Skolopender zwei Besonderheiten. Zum einen können sie, wie eine Vielzahl anderer Arthropoden auch, verlorene Gliedmaßen bei der Häutung regenerieren.[^4] Zum anderen gehen Spermien begatteter Weibchen durch den Häutungsprozess nicht verloren, im Gegensatz zu beispielsweise Vogelspinnen. Daher können diese auch nach der Häutung befruchtete Eier legen.[^3]
 
 {{< columns >}}
 
@@ -151,7 +151,7 @@ _Scolopendra dehaani "Cherry Red" Pedeling während der Häutung_
 
 ## Geschlechtsbestimmung bei Skolopendern
 
-Geschlechtsbestimmung ist ein schwieriges Thema bei Skolopendern. Es gibt einige Arten, die einen Geschlechtsdimorphismus aufweisen und wo man über Merkmale, wie beispielsweise der Prefemur der Schleppbeine, zwischen Männchen und Weibchen unterscheiden kann. Vielen Hundertfüßern mangelt es jedoch an sekundären Geschlechterunterschieden und man muss die primären Geschlechtsteile begutachten.
+Geschlechtsbestimmung ist ein schwieriges Thema bei Skolopendern. Es gibt einige Arten, die einen Geschlechtsdimorphismus aufweisen und wo man über Merkmale, wie beispielsweise der Prefemur der Schleppbeine, zwischen Männchen und Weibchen unterscheiden kann. Vielen Hundertfüßer weisen jedoch keine sekundären Geschlechtsmerkmale auf und man muss die primären Geschlechtsteile begutachten.
 
 Bis 2009 war dies am lebenden Tier kaum möglich. **Schläfer** entwickelte jedoch eine Methode, in der die Tiere betäubt wurden und durch leichten Druck auf den hinteren Teil des Körpers die Geschlechtsorgane aus dem Körper herausbewegt wurden. Dort lassen sich dann Unterschiede wie Spinngriffel und Gonopoden erkennen.[^4] Was wiederum bei kleinen Arten auch nur unter dem Mikroskop möglich ist.  
 
@@ -161,7 +161,8 @@ Dennoch ist diese Methode nicht zweifelsfrei, wenn die Unterschiede nicht gut si
 
 Auch ohne bekannte Verpaarung können Wildfänge in Gefangenschaft auf einmal Nachwuchs bekommen. Das liegt zum einen daran, dass befruchtete Skolopender das Sperma auch nach der Häutung noch in sich tragen. Zum anderen können Hundertfüßer prinzipiell sehr lange das Sperma speichern und unzählige Faktoren bestimmen die schlussendliche Eiablage: Klima, Nahrungsangebot, Gesundheitszustand, etc.[^3]
 
-Nach der Eiablage verhalten sich unterschiedliche Gattungen gleichsam unterschiedlich. Derweil Scolopendra sich versteckt und zur Brutpflege um die Eier wickelt, kann Alipes die Eier und Jungtiere mit einigen der Laufbeine halten und weiterhin agil durch das Terrarium streifen. Ethmostigmus verhält sich genau dazwischen, betreibt stationäre Brutpflege, nimmt seinen Nachwuchs bei Störung jedoch auf die Suche nach einem neuen Unterschlupf aktiv mit. Doch egal welche Gattung man hält, während der Brutpflege sollten die Tiere so wenig wie möglich gestört werden, damit die Aufzucht erfolgreich wird. Wenn die Mutter die Eier oder Nymphen verlässt, sterben diese sehr schnell ab. Gleichsam kann Störung auch in Kannibalismus enden. Darum: Lieber die Mutter mit den Kindern in Ruhe lassen!
+Während Vertreter der Gattung Scolopendra sich versteckten und sichzur Brutpflege um die Eier wickeln, kann Alipes die Eier und Jungtiere mit einigen der Laufbeine halten und weiterhin agil durch das Terrarium streifen. Ethmostigmus wiederum betreibt stationäre Brutpflege, nimmt seinen
+Nachwuchs bei Störung jedoch auf die Suche nach einem neuen Unterschlupf aktiv mit. Doch egal welche Gattung man hält, während der Brutpflege sollten die Tiere so wenig wie möglich gestört werden, damit die Aufzucht erfolgreich wird. Wenn die Mutter die Eier oder Nymphen verlässt, sterben diese sehr schnell ab. Gleichsam kann Störung auch in Kannibalismus enden. Darum: Lieber die Mutter mit den Kindern in Ruhe lassen!
 
 Wenn die Jungtiere eigenständig im Terrarium laufen, sollte man sie noch einige Zeit bei der Mutter lassen, bevor man sie trennt. Die Pedelings können dann noch mehrere Tage und Wochen zusammen gehalten werden, bis man sie separieren muss.[^3]
 
@@ -171,9 +172,9 @@ Dabei gibt es noch einen wichtigen Unterschied zwischen Skolopendern aus "der al
 
 Artbestimmung bei Skolopendern ist kein triviales Thema. Man kann nicht einfach über Farbgebung oder Herkunft die genaue Art ermitteln, sondern muss mitunter auf kleine Details achten, die häufig in Relation gesetzt werden müssen.  
 
-Derweil eine Ringfurche auf dem ersten Tergit bei südamerikanischen Tieren recht verbreitet ist, ist dies für _Scolopendra valida_ aus der alten Welt ein relativ eindeutiges Erkennungsmerkmal. Andere Arten sind in der Morphologie fast deckungsgleich und man muss die Klauensporne an den Füßen oder die Bedornung der Prefemur der Schleppbeine untersuchen. Andere Arten, die kosmopolitisch sind und vielgestaltig auftreten (z.B. _Scolopendra polymorpha_ oder _Scolopendra morsitans_), haben sogar innerhalb ihrer Art starke Abweichungen. Manchmal basierend auf der Herkunft, manchmal aber auch als schlichte Variation innerhalb der Art. Lediglich bei _Scolopendra hardwickei_ kann man auf Grund des Farbmusters schnell und einfach die Art bestimmen.[^5]
+Derweil eine Ringfurche auf dem ersten Tergit bei südamerikanischen Tieren recht verbreitet ist, ist dies für _Scolopendra valida_ aus der alten Welt ein relativ eindeutiges Erkennungsmerkmal. Andere Arten sind in der Morphologie fast deckungsgleich und man muss die Klauensporne an den Füßen oder die Bedornung der Prefemur der Schleppbeine untersuchen. Andere Arten, die kosmopolitisch sind und vielgestaltig auftreten (z.B. _Scolopendra polymorpha_ oder _Scolopendra morsitans_), haben sogar innerhalb ihrer Art starke Abweichungen. Manchmal basierend auf der Herkunft, manchmal aber auch als schlichte Variation innerhalb der Art. Lediglich bei _Scolopendra hardwickei_ kann man auf Grund des Farbmusters schnell und einfach die Art bestimmen.[^5] Wobei es bei morphologische Variationen von S. hardwickei wieder komplizierter wird.
 
-Hinzu kommt jedoch, dass sehr viele Skolopender noch gar nicht beschrieben wurden und entsprechend keinen offiziellen Namen haben. Das populärste Beispiel ist hier sicherlich der "Malaysian Jewel", der noch keinen wissenschaftlichen Namen hat.
+Hinzu kommt jedoch, dass sehr viele Skolopender noch gar nicht beschrieben wurden und entsprechend keinen offiziellen Namen haben. Das populärste Beispiel ist hier sicherlich der "Malaysian Jewel", der noch keinen wissenschaftlichen Namen hat, aber bereits seit 2008 in der Hobbyhaltung bekannt ist.
 
 ## Aktueller Stand der Bestimmung und Forschung
 
@@ -185,7 +186,8 @@ Scolopendromporha sind ein relativ unerforschtes Gebiet. **Dr. Graf Attems** hat
 Über die Biologie und Verhaltensweisen hat **Rosenberg** 2009 das umfassende Buch "_Die Hundertfüßer, Chilopoda_" veröffentlicht.
 
 Einig sind sich die Publikationen aber leider auch in einem Punkt: Es gibt noch viel zu erforschen und aufzuräumen!  
-Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entsprechend nicht statistisch repräsentativ. Andere Artbeschreibungen weichen voneinander ab. Manche Arten unterscheiden sich nichtmal voneinander - unter gewissen Bedingungen. So sind _Scolopendra canidens_ und _Scolopendra cretica_ als Männchen nicht voneinander zu unterscheiden. Oder der türkische Fund von _Scolopendra clavipes_ ist vermeintlich _Scolopendra canidens_. Und _Scolopendra morsitans_ hat einen sehr ähnlichen endemischen "Doppelgänger" _Scolopendra laeta_ in Australien, mit dem jedoch auch Tiere außerhalb der Insel viele Charakteristika teilen.[^5]
+Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entsprechend nicht statistisch repräsentativ. Andere Artbeschreibungen weichen voneinander ab. Manche Arten unterscheiden sich äußerlich nicht oder kaum - aufgrund
+überschneidender Variabilität. So lassen sich Männchen von Scolopendra canidens und Scolopendra cretica rein morphologisch nicht differenzieren. Oder der türkische Fund von _Scolopendra clavipes_ ist vermeintlich _Scolopendra canidens_. Und _Scolopendra morsitans_ hat einen sehr ähnlichen endemischen "Doppelgänger" _Scolopendra laeta_ in Australien, mit dem jedoch auch Tiere außerhalb der Insel viele Charakteristika teilen.[^5]
 
 Gleichsam zweifelt man im Hobby ob der Vielgestalt von _Scolopendra cingulata_ an einer eindeutigen Art. Insgesamt muss hier noch viel wissenschaftliche Arbeit geleistet werden - die allerdings auch bezahlt werden will.
 
