@@ -4,9 +4,3 @@ title: ScoloHub
 theme: 
   - hugo-book
   - hugo-shortcode-gallery
-
-params:
-  BookTheme: light
-  BookToC: false
-  BookSection: /
-  BookLogo: img/logo.png
