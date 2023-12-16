@@ -8,9 +8,29 @@ description: Die Lebensweise von Riesenläufer. Über Jagdverhaltens und Beutesp
 
 ## Einzelgänger
 
+Die Riesenläufer sind in der Regel Einzelgänger. Versuche, sie zu paaren, führen oft nicht zum Erfolg, sondern enden in Kannibalismus, selbst wenn die Geschlechter klar unterschieden sind. Es gibt auch Fälle von Pädophagie, bei denen das Muttertier seine Jungen frisst und umgekehrt, bei denen die Jungen südamerikanischer Arten ihre Mutter fressen.
+
+Daher ist es ratsam, Skolopender immer einzeln zu halten!
+
+Es gibt allerdings auch Ausnahmen. Es gibt Berichte von Haltern, die Rhysida longipes oder Scolopendra multidens erfolgreich in Gemeinschaftshaltung gehalten haben.
+
 ## Bodenbewohnend, semiaquatisch, arboreal
 
+Hundertfüßer sind in der Regel Bodenbewohner, was sich in gebräuchlichen Namen wie Erdläufer und Steinläufer widerspiegelt. Diese Arten sind hauptsächlich im Erdboden oder unter Steinen zu finden. Riesenläufer aus der Gattung Scolopendromorpha leben meist versteckt am oder im Boden, und Arten wie Rhysida longipes verbringen den Großteil ihrer Zeit vergraben im Erdreich.
+
+Es gibt jedoch Ausnahmen. Einige Arten wie Scolopendra dehaani leben zwar hauptsächlich versteckt am Boden und graben gerne, klettern aber auch gerne. Scolopendra gigantea lässt sich bei seinen Raubzügen von Höhlendecken hängen, um Fledermäuse im Flug zu erbeuten. Scolopendra subcrutalis lebt sogar hauptsächlich in Bäumen, also arboreal.
+
+In jüngerer Zeit wurden auch semiaquatische Arten entdeckt, die sich gerne und häufig im Wasser aufhalten, wie zum Beispiel Scolopendra cataracta oder Scolopendra paradoxa.
+
+Durch die weite Verbreitung von Hundertfüßer über alle Regionen, außer der Antarktis, ist diese Klasse äußerst vielfältig und anpassungsfähig.
+
 ## Jagdverhalten
+
+Hundertfüßer sind bekannt für ihr umgewandeltes erstes Beinpaar, das als Giftklauen, auch Maxilipeden genannt, dient. Sie nutzen diese Klauen, um Gift in ihre Beute zu injizieren, das sowohl zur außerkörperlichen Verdauung als auch zur Lähmung und Tötung ihrer Beute beiträgt.
+
+Ihr Jagdverhalten ist vielfältig und reicht von stillen Lauerangriffen bis hin zu aktiven Beutezügen. Ein bekanntes Beispiel ist Scolopendra gigantea, der sich von Höhlendecken herabhängen lässt und Fledermäuse im Flug erbeutet. Ähnliches Verhalten wurde auch bei Scolopendra alternans beobachtet.
+
+Obwohl die Nahrung von Skolopendern hauptsächlich aus anderen Wirbellosen wie Grillen, Spinnen und Schaben besteht, gibt es Berichte über die Erbeutung von Wirbeltieren, einschließlich Mäusen, Fröschen, Echsen und Schlangen. Es gibt sogar Gerüchte, dass der “Goat Killer” Scolopendra alternans aus Hispaniola junge Ziegen töten würde, obwohl wissenschaftliche Beweise dafür noch ausstehen. Im Gegensatz dazu ist bekannt, dass der semiaquatische Scolopendra paradoxa aktiv nach Garnelen und Krabben jagt.
 
 ## Paarung
 

@@ -7,7 +7,7 @@ description: Über die äußeren anatomischen Merkmale von Riesenläufern.
 # Äußere Anatomie
 
 {{< hint "info" >}}
-An dieser Stelle wird _nur_ auf die externe Anatomie von Skolopendern eingegangen, da die interne Anatomie sehr komplex und meist für den Hobby-Halter wenig relevant ist.
+An dieser Stelle wird _nur_ auf die externe Anatomie von Skolopendern eingegangen, da die interne Anatomie sehr komplex und meist für den Hobby-Halter wenig relevant ist. Wer sich für weitere Details zur externen und internen Anatomie interessiert, dem sei Rosenberg "Die Hundertfüßer" nahegelegt.
 {{< / hint >}}
 
 Skolopender haben einen schlanken bis mäßig gedrungenen Körper, der sich in im Verhältnis zwischen Länge zu Breite zwischen Lithobiomorpha und Geophilomorpha befindet.  Die kleinsten Arten sind ca. 10mm, derweil die größten Arten deutlich über 30cm werden können.  Die Anzahl von Segmenten und Beinpaaren ist konstant. Die meisten Skolopender haben 21 Beinpaare. Dabei entspringt aus jedem Körpersegment ein Beinpaar, was den Unterschied zu den Diplopoda ausmacht, die verbundene Segmente haben, aus denen jeweils 2 Beinpaare entspringen.

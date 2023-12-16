@@ -23,9 +23,33 @@ Auch sprechen neuere toxologische Erkenntnisse für eine Wirkung der Gifte gegen
 
 Auch wenn Hundertfüßergift heute noch weitestgehend unerforscht ist, brachten jüngste Entwicklungen in der Wissenschaft neues Interesse an den Bestandteilen der Toxine.[^fn-2022-yadav][^fn-2015-undheim] So sind aktuell Antimikrobielle und insektizidische Komponenten aus dem Gift von Scolopendra mutilans aktuell interessant für Medizin und biologische Insektizide[^fn-2022-yadav]. Auch soll das Protein ShSPI von Scolopendra hainanum für Medikamente von Relevanz sein[^fn-2019-luan]. Doch insgesamt steht die Forschung hier noch weit am Anfang und ein entsprechender Nutzen ist noch nicht wirklich abzusehen.
 
+## Allgemeiner Stand der Forschung
+
+> "centipedes of the family Scolopendridae have attracted little attention from ecologists and little work has been done on their life histories".
+(Lewis, 1972)
+
+Scolopendromporha sind ein relativ unerforschtes Gebiet. **Dr. Graf Attems** hat 1930 als Teil der Zusammenstellung "_Das Tierreich_" eine (seinerzeit) umfassende Aufstellung über diese Ordnung publiziert, die lange Zeit als Referenz galt. Zwischenzeitlich gab es immer wieder kleinere Betrachtungen, teils auf Lokalitäten oder einzelne Genera beschränkt. Seit den frühen 2000er Jahren kamen wieder einige essenzielle Publikationen hinzu. Gerade **Lewis** hat 2010 mit "_A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus_" eine gute Übersicht über den Genus Scolopendra erstellt, derweil **Schileyko**, **Vahtera** und **Edgecombe** 2020 "_An overview of the extant genera and subgenera of the order Scolopendromorpha (Chilopoda)_" veröffentlichten.  
+
+Über die Biologie und Verhaltensweisen hat **Rosenberg** 2009 das umfassende Buch "_Die Hundertfüßer, Chilopoda_" veröffentlicht.
+
+Einig sind sich die Publikationen aber leider auch in einem Punkt: Es gibt noch viel zu erforschen und aufzuräumen!  
+Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entsprechend nicht statistisch repräsentativ. Andere Artbeschreibungen weichen voneinander ab. Manche Arten unterscheiden sich äußerlich nicht oder kaum - aufgrund überschneidender Variabilität. So lassen sich Männchen von Scolopendra canidens und Scolopendra cretica rein morphologisch nicht differenzieren. Oder der türkische Fund von _Scolopendra clavipes_ ist vermeintlich _Scolopendra canidens_. Und _Scolopendra morsitans_ hat einen sehr ähnlichen endemischen "Doppelgänger" _Scolopendra laeta_ in Australien, mit dem jedoch auch Tiere außerhalb der Insel viele Charakteristika teilen.[^5]
+
+Gleichsam zweifelt man im Hobby ob der Vielgestalt von _Scolopendra cingulata_ an einer eindeutigen Art. Und natürlich gibt es noch einige unbeschriebene Arten wie den "Malaysian Jewel" oder den "White Legs". Dazu wurden erst in jüngster Vergangenheit semiaquatische Arten wie Scolopendra paradoxa (2018) entdeckt. Doch insgesamt erscheinen Hundertfüßer weiterhin relativ uninteressant in der Biologie. Auch wurden molekulare Bestimmungen der Tiere erst in jüngster Vergangenheit überhaupt durchgeführt. Von weiteren Forschungen um Verhalten oder Toxizität ganz zu schweigen. Insgesamt muss hier noch viel wissenschaftliche Arbeit geleistet werden - die allerdings auch bezahlt werden will.
+
 ## Alte Kulturen
 
-## Japan: Ōmukade
+### Japan: Ōmukade
+
+{{< figure 
+    src="./images/omukade.jpg"
+    alt="Omukade"
+    title="Omukade"
+    attr="Quelle: Fandom"
+    attrlink="https://animals-are-cool.fandom.com/wiki/%C5%8Cmukade"
+    class="fig-right"
+    width=400
+>}}
 
 Ōmukade ist eine faszinierende Kreatur der japanischen Folklore, die oft als riesiger, giftiger Riesenskolopender beschrieben wird. Der Name "Ōmukade" (大百足) selbst bedeutet wörtlich "großer zentaurischer Käfer". Diese mystische Kreatur hat ihren Platz in zahlreichen Geschichten, in denen sie als mächtiger und gefährlicher Gegner dargestellt wird. Inspiration für diese Sagengestalt war wohl Scolopendra japonica.
 
@@ -46,35 +70,32 @@ Dieses Motiv findet sich auf verschiedenen Artefakten wie Sarkophagdeckeln und S
 
 ### Film
 
-Natürlich ist der erste Film mit Hundertfüßer-Bezug an den man denkt "[The Human Centipede](https://de.wikipedia.org/wiki/Human_Centipede_%E2%80%93_Der_menschliche_Tausendf%C3%BC%C3%9Fler)" aus dem Jahr 2009. Aber es gibt noch andere Filme, die sich direkt auf Hundertfüßer beziehen: "[Centipede - Sie Fressen Dich (2004)](https://www.filmstarts.de/kritiken/288317.html) oder "[Creepy Crawl (Ursprünglich The 100, 2023)](https://www.filmfutter.com/news/creepy-crawly-trailer/)".
+Wenn man an Filme mit Bezug zu Hundertfüßern denkt, fällt einem sofort "[The Human Centipede](https://de.wikipedia.org/wiki/Human_Centipede_%E2%80%93_Der_menschliche_Tausendf%C3%BC%C3%9Fler)" aus dem Jahr 2009 ein. Es gibt jedoch auch andere Filme, die sich explizit auf Hundertfüßer beziehen, wie "[Centipede - Sie Fressen Dich (2004)](https://www.filmstarts.de/kritiken/288317.html)" und "[Creepy Crawl (ursprünglich "The 100", 2023)](https://www.filmfutter.com/news/creepy-crawly-trailer/)".
 
-Aber auch in anderen Filmen kommen Hundertfüßer für den Schreck- und Ekelfaktor vor: "Indiana Jones und das Rad des Schicksals", "Jumanii (2017)", "Nightmare (1984)", "Ring (2002)", "Die Reise zur geheimnisvollen Insel" oder "Naked Lunch". Auf der IMDB finden sich aktuell ca. 200 Einträge zu dem [Schlagwort](https://www.imdb.com/search/keyword/?keywords=centipede).
+Hundertfüßer werden auch in anderen Filmen für den Schreck- und Ekelfaktor eingesetzt, wie in "Indiana Jones und das Rad des Schicksals", "Jumanii (2017)", "Nightmare (1984)", "Ring (2002)", "Die Reise zur geheimnisvollen Insel" und "Naked Lunch". Aktuell gibt es auf der IMDB etwa 200 Einträge mit dem [Schlagwort "Hundertfüßer"](https://www.imdb.com/search/keyword/?keywords=centipede).
 
-Zusammenfassend scheinen Skolopender besonders beliebt in Abenteuerfilmen in exotischen Ländern und eben Horrorfilmen zu sein.
+Im Allgemeinen scheinen Skolopender besonders in Abenteuerfilmen in exotischen Ländern und natürlich in Horrorfilmen beliebt zu sein.
 
 ### Musik
 
-Progressive Rock Band Gli Alluminogeni aus Italien veröffentlichte 1972 ihr Album [Scolopendra](https://www.discogs.com/de/master/139139-Gli-Alluminogeni-Scolopendra). Die Tech-Grinder Cephalic Carnage (USA) hatten auf ihrem 2003er Album "[Lucid Interval](https://www.discogs.com/de/release/1542469-Cephalic-Carnage-Lucid-Interval)" den Opener "Scolopendra cingulata".
+Die italienische Progressive Rock Band Gli Alluminogeni hat 1972 ihr Album "[Scolopendra](https://www.discogs.com/de/master/139139-Gli-Alluminogeni-Scolopendra)" veröffentlicht. Die Tech-Grind Band Cephalic Carnage aus den USA hat auf ihrem 2003er Album "[Lucid Interval](https://www.discogs.com/de/release/1542469-Cephalic-Carnage-Lucid-Interval)" den Opener "Scolopendra cingulata".
 
-Die vielen Mythen um die Gefährlichkeit von Skolopendern und das große Unwissen um diese Tiere scheint besonders im extremen Heavy Metal attraktiv. So finden sich hier eine Reihe von Bands mit Bezug auf Hundertfüßer: [Scolopendra (FR)](https://www.metal-archives.com/bands/Scolopendra/3540337846), [Scolopendra (IT)](https://www.metal-archives.com/bands/Scolopendra/3540468953), [Scolopendra cingulata (KAZ)](https://www.metal-archives.com/bands/Scolopendra_Cingulata/3540376416), [Rise Of The Scolopendra (IT)](https://www.metal-archives.com/bands/Rise_of_the_Scolopendra/3540464382)
+Die Mythen um die Gefährlichkeit von Skolopendern und das allgemeine Unwissen über diese Tiere scheinen besonders im extremen Heavy Metal attraktiv zu sein. Es gibt eine Reihe von Bands, die einen Bezug zu Hundertfüßern haben: [Scolopendra (FR)](https://www.metal-archives.com/bands/Scolopendra/3540337846), [Scolopendra (IT)](https://www.metal-archives.com/bands/Scolopendra/3540468953), [Scolopendra cingulata (KAZ)](https://www.metal-archives.com/bands/Scolopendra_Cingulata/3540376416) und [Rise Of The Scolopendra (IT)](https://www.metal-archives.com/bands/Rise_of_the_Scolopendra/3540464382).
 
-Aber auch abseits von harten Gitarren finden Musiker gefallen an Hundertfüßer, wie der [IDM / Elektro Act Skolopender (AUT)](https://www.facebook.com/Skolopender.Official/).
+Aber nicht nur in der Welt der harten Gitarren finden Musiker Gefallen an Hundertfüßern. Der [IDM / Elektro Act Skolopender (AUT)](https://www.facebook.com/Skolopender.Official/) ist ein weiteres Beispiel dafür.
 
-Im April 2019 wurde ein britisches Platten-Label mit Namen [Scolopendra](https://www.discogs.com/de/label/1644043-Scolopendra-2) gegründet.
+Im April 2019 wurde sogar ein britisches Platten-Label mit dem Namen [Scolopendra](https://www.discogs.com/de/label/1644043-Scolopendra-2) gegründet.
 
 ### Tattoo
 
 Das Motiv des Hundertfüßers hat in japanischer Kunst immer wieder Verwendung gefunden. Aus der traditionellen Kunst ging das Motiv auch in die japanische Tattoo-Kunst über. So ist es wenig verwunderlich, dass es auch Studios mit Bezug zu Skolopendern gibt, wie etwa [Scolopender Tattoo](https://www.facebook.com/scolopendertattoo) aus Italien.
 
-## Backup
-
-Die traditionelle chinesische Sicht auf Hundertfüßer ist beispielsweise, dass sie Glück und Langlebigkeit bringen.[^fn-zauber-magie.de]
-
-[^fn-zauber-magie.de]: https://zauber-magie.de/9-spirituelle-bedeutungen-des-tausendfuslers-verborgene-macht-aufdecken/
-
-https://www.geo.de/natur/tierwelt/10149-rtkl-aegyptologie-heiliges-getier
-
-https://de.wikipedia.org/wiki/%C5%8Cmukade
+{{< figure 
+    src="./images/scolopendra_tattoo.jpg"
+    alt="Scolopendra tattoo"
+    title="Scolopendra Tattoo"
+    attr="gestochen von Csaba Mullner"
+>}}
 
 [^2014-coltman]: 2014 - Coltman - A Study Of Classic Maya Cave Iconography
 [^2018-ciura]: 2018 - Ciura - The Centipede in the Maya Art and Culture
@@ -86,3 +107,4 @@ https://de.wikipedia.org/wiki/%C5%8Cmukade
 [^fn-2015-undheim]: [2015 - Undheim, Fry, King - Centipede Venom: Recent Discoveries and Current State of Knowledge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4379518/)
 [^fn-2019-luan]: [2019 - Luan, Zhao, Duan, Ji, Xing, Zhu, Mwangi, Rong, Liu, Lai - Identification and Characterization of ShSPI, a Kazal-Type Elastase Inhibitor from the Venom of Scolopendra Hainanum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950245/)
 [^wikipedia-omukade]: [Ōmukade in der Wikipedia](https://de.wikipedia.org/wiki/%C5%8Cmukade)
+[^5]: Lewis, 2010: "A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus (Chilopoda: Scolopendromorpha: Scolopendridae)"
