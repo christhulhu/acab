@@ -6,10 +6,6 @@ description: Zum bisherigen Wissensstand um die Toxikologie und Toxizität der R
 
 # Toxizität
 
-Über den aktuellen Wissensstand um Skolopendergift.
-
-## Einleitung
-
 Um das Gift von Skolopendern existieren viele Mythen. Oftmals wird Hundertfüßern nachgesagt, dass sie extrem gefährlich, gar tödlich seien. Doch sprechen viele Untersuchungen gegen diese Behauptungen.
 
 Alleine in der Türkei werden jährlich an die 5000 Stichverletzungen im Krankenhaus behandelt. Man geht jedoch von einer hohen Dunnkelziffer aus, werden die Tiere dort im allgemeinen nicht für gefährlich gehalten.[^fn-2004-serinken] Auch Untersuchungen aus anderen Regionen, beispielsweise  aus Sao Paolo (Brasilien)[^fn-1998-knysak] oder Hongkong[^fn-2011-fung] sehen die primäre Aufgabe nach einem Skolopenderstich in Wundversorgung und Schmerztherapie.
