@@ -38,7 +38,7 @@ Schwerwiegender sind hingegen Verletzungen an Tergiten, Sterniten oder Pleuren. 
 
 ## Milben
 
-{{< figure src="/img/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="{{< contributors/alessandro >}}" class="fig-right"  width="400px" link="/img/krankheiten_milben.jpg" >}}
+{{< figure src="images/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="{{< contributors/alessandro >}}" class="fig-right"  width="400px" link="images/krankheiten_milben.jpg" >}}
 
 Skolopender scheinen im Vergleich zu anderen Terrarientieren besonders anfällig für Milben zu sein. Und die Haltungsform vieler Arten begünstigt diese kleinen Parasiten zusätzlich. Egal ob Wildfang, der mit Milben bereits in das Terrarium kam, oder durch Übertragung durch andere (Futter-)Tiere, kann die die schiere Anzahl der kleinen Spinnentiere für einen Hundertfüßer schnell zur Gefahr werden: Die Tracheenöffnungen können verstopft werden, und der Skolopender erstickt am Befall.
 
@@ -57,7 +57,7 @@ Als Prävention für Milben empfiehlt sich eine gute Ventilation im Terrarium un
 
 ## Mykose
 
-{{< figure src="/img/krankheiten_lethale_mykose.jpg" title="Lethale Mykose an den Maxillipeden von S. morsitans" attr="{{< contributors/christian >}}" class="fig-right"  width="400px" link="/img/krankheiten_lethale_mykose.jpg" >}}
+{{< figure src="images/krankheiten_lethale_mykose.jpg" title="Lethale Mykose an den Maxillipeden von S. morsitans" attr="{{< contributors/christian >}}" class="fig-right"  width="400px" link="images/krankheiten_lethale_mykose.jpg" >}}
 
 Zu feuchte Haltung und Staunässe kann zu Mykose führen. Das ist eine Pilzinfektion, die sich durch schwarz verfärbte Stellen oder Körperteile bemerkbar macht. Gerade Beine können hier regelrecht abfaulen.
 

@@ -49,7 +49,7 @@ Für große Skolopender kann man die Menge an Futtertieren von kleinen und mitte
 
 ## Fleisch und Wirbeltiere
 
-{{< figure src="img/animonda_carny.jpg" title="Animonda CARNY Katzenfutter" width="300" class="fig-right" >}}
+{{< figure src="images/animonda_carny.jpg" title="Animonda CARNY Katzenfutter" width="300" class="fig-right" >}}
 
 Einige Skolopender-Arten sind auch spezialisiert auf Wirbeltiere. So ist bekannt, dass Scolopendra gigantea aktiv auf die Jagd nach Fledermäusen geht. Aber auch andere Arten jagen und verspeisen andere Wirbeltiere wie Mäuse, Frösche oder Schlangen. Darum kann man seinem Skolopender gelegentlich auch Stücke Fleisch oder Mäuse / Ratten verfüttern.
 
@@ -66,7 +66,7 @@ Eine gute Alternative zu Frischfleisch oder Wirbeltieren stellt Katzenassfutter 
 
 ## Obst
 
-{{< figure src="img/subspinipes_banane.jpg" title="Scolopendra subspinipes Pedeling frisst Banane" attr="{{< contributors/marcel >}}" link="img/subspinipes_banane.jpg" width="300" class="fig-right" >}}
+{{< figure src="images/subspinipes_banane.jpg" title="Scolopendra subspinipes Pedeling frisst Banane" attr="{{< contributors/marcel >}}" link="images/subspinipes_banane.jpg" width="300" class="fig-right" >}}
 
 Obschon Skolopender gemeinhin als karnivore Jäger gelten, gab es bereits 1933 Berichte über Scolopendra subspinipes, der sich an Papaya genährt hat.[^1]
 
