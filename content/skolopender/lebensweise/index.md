@@ -36,6 +36,35 @@ Nichtsdestotrotz gab es bereits 1933 Beobachtungen an __Scolopendra subspinipes_
 
 ## Paarung
 
+Das Paarungsritual von Hundertfüßern kann bis zu 14 Stunden andauern[^3]. Dabei durchläuft die Paarung verschiedene Phasen[^3]:
+
+{{<figure
+    src="images/paarung_betrillern.jpg"
+    alt="Betrillern bei Kontaktaufnahme von Scolopendra dehaani"
+    title="Kontaktaufnahme bei Scolopendra dehaani"
+    attr="{{< contributors/alessandro >}}"
+>}}
+
+**Kontaktaufnahme**: Männchen und Weibchen betrillern sich gegenseitig mit Antennen und Schleppläufen.
+
+**Imponiergehabe**: Das Männchen unterkriecht das weibchen, bis der Kopf des Weibchens die Schleppbeinde des Männchens berührt.
+
+**Netzbau**: Das Männchen baut mit seinem Spinngriffel ein Spermanetz. Dazu benötigt es ein geeignetes Versteck wie ein Stück Korkrinde, oder es gräbt sich einen unterirdischen Bau für sein Netz.
+
+**Ablage der Spamatophore**: Das Männchen legt sein Spermapaket in das soeben gesponnene Netz.
+
+**Übertragung der Spermatophore**: Das Männchen macht Platz im Versteck für das Weibchen. Es hält weiterhin Kontakt zum Weibchen, vornehmlich über die Antennen, damit das Weibchen nicht das Spermapaket frist, sondern mit den Geschlechtsorganen aufnimmt.
+
+{{<figure
+    src="images/paarung_aufnahme_spermatophore.jpg"
+    alt="Aufgenommene Spermatophore bei Scolopendra galapagoensis"
+    title="Aufgenommene Spermatophore bei Scolopendra galapagoensis"
+    attr="{{< contributors/alessandro >}}"
+>}}
+
+
+Derweil viele Scolopendra diesen Akt der kontaktlosen Befruchtung praktizieren, ist eine direkte Befruchtung bei Ethmostigmus-Arten nicht unüblich.
+
 ## Häutung und Wachstum
 
 Im ersten Nymphenstadium haben junge Skolopender, auch Pedelings genannt, keinen festen Chitinpanzer. Zu diesem Zeitpunkt sollten die Tiere jedoch auch noch nicht von der Mutter separiert werden. Später entwickelt sich ein fester Chitinpanzer an den Tergiten und Sterniten. Obwohl die Pleura zwischen diesen Platten elastisch ist, muss sich der Hundertfüßer häuten um zu wachsen.

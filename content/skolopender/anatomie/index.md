@@ -15,6 +15,10 @@ Skolopender haben einen schlanken bis mäßig gedrungenen Körper, der sich in i
 Der Kopf eines Skolopenders besteht aus dem dorsalen **Kopfschild** und den ventralen **Clypeus** (_Stirnplatte_) und dem **Kopfpleurit**. Vorne befinden sich die **Antennen**, deren Grundglieder häufig kahl sind. Meist bestehen die Antennen aus 17 kugelförmigen Gliedern. Seitlich vorne, etwas hinter den Antennen, befinden sich die 4 **Ocellen** (_Augen_).
 Ventral befinden sich am Kopf die **Mandibeln** (zum _Mundwerkzeug_ umgewandeltes 3. Beinpaar) und **Maxillen** (_Mundwerkzeuge_). Diese sind meist von den **Maxillipeden** (_Kieferfüße_) überdeckt. Diese vermeintlichen Mundwerkzeuge sind umgewandelte Beine, in denen auch die Giftdrüsen von Skolopendern sitzen. Ein "Biss" ist eigentlich kein Biss im wörtlichen Sinne, sondern ein "Greifen" mit den Giftklauen.
 
+{{< internal-ref >}}
+[Mehr über die Giftklauen und das Gift von Skolopendern](../toxizitat)
+{{< / internal-ref >}}
+
 Die **Maxillipeden** werden nicht zu den Beinpaaren gezählt. Neben den 20 Laufbeinen haben Skolopender als 21. Beinpaar die sogenannten **Schleppläufe** oder Endbeine, die nicht zur Fortbewegung dienen. Sie erfüllen andere Zwecke, wie Feindabwehr oder auch Kommunikation in der Paarung. Manche Arten verfügen über sogenannte Autonomie und können die Schleppbeine bei Bedrohung abwerfen oder Stridulationsgeräusche damit verursachen.
 
 Die Laufbeine entspringen aus der **Coxopleura** (_Hüft-Pleura_). Das erste Segment nach der **Coxa** (_Hüfte_) ist das **Prefemur**, gefolgt von **Femur**, **Tibia** (_Schienbein_), **Tarsus** (_Fuß_) und **Pretarsus**, an dem die **Klauen** ansetzen. Neben der Klaue gibt es noch den **Klauensporn**, der parallel zur Klaue aus dem Pretarsus entspringt.
@@ -60,4 +64,9 @@ Scolopendra morsitans
 
 {{< / columns >}}
 
+## Funktion der Schleppläufe
+
+
+
 [^2]: [2010 - Edgecombe et. al. - "A common terminology for the external anatomy of centipedes (Chilopoda)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3088443/)
+[^2015-kronmüller]: [2015 - Kronmüller - On the function of the ultimate legs of some Scolopendridae (Chilopoda, Scolopendromorpha)](https://www.researchgate.net/publication/280908902_On_the_function_of_the_ultimate_legs_of_some_Scolopendridae_Chilopoda_Scolopendromorpha)

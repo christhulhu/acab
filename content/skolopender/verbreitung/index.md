@@ -15,6 +15,10 @@ description: Über die geografische Verbreitung und die verschiedenen Lebensräu
 
 Hundertfüßer aus der Klasse __Chilopoda__ sind allgemein weltweit verbreitet. Obwohl sie in der Antarktis nicht nachgewiesen wurden, gibt es Belege über ihre Existenz jenseits der Polarkreise. Die Klasse der Hundertfüßer ist äußerst vielfältig und umfasst etwa 3300[^chilobase] bis 3700[^wikipedia] bekannte Arten, die sich über verschiedene Ordnungen erstrecken, darunter __Scutigeromorpha__, __Lithobiomorpha__, __Craterostigmomorpha__, __Geophilomorpha__ und __Scolopendromorpha__. In Deutschland allein sind rund 60 Arten bekannt, vorwiegend aus den Gruppen der Stein- und Erdläufer. Eine umfassende Behandlung aller dieser Arten würde den Rahmen dieser Seite sprengen, weshalb der Fokus vor allem auf der Ordnung der Riesenläufer (__Scolopendromorpha__) liegt, die in der Terraristik wohl am weitesten verbreitet ist. Unter den Scolopendromorpha sind in Deutschland vier Arten beheimatet, alle aus der Gattung __Cryptops__[^bodentier].
 
+{{< internal-ref >}}
+[Mehr über die Systematik und Taxonomie von Hundertfüßern](../taxonomie)
+{{< / internal-ref >}}
+
 Die am weitesten verbreitete Gattung der __Scolopendromorpha__ ist zweifellos der Genus __Scolopendra__. Diese Gattung ist hauptsächlich in subtropischen und tropischen Gebieten anzutreffen. Es gibt jedoch auch Arten, die in mediterranen Gebieten vorkommen, wie zum Beispiel __Scolopendra cingulata__, __Scolopendra dalmatica__, __Scolopendra clavipes__ oder __Scolopendra canidens__.
 
 Einige Arten sind dabei endemisch. Zum Beispiel kommt __Scolopendra dalmatica pantokratis__ ausschließlich auf Korfu vor, während __Scolopendra cretica__ nur auf Kreta lebt. __Scolopendra laeta__ hingegen findet sich ausschließlich in Australien.

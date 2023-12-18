@@ -28,6 +28,10 @@ In diesen Klauen befinden sich auch die Drüsen, die das Gift produzieren. Die G
 
 Solche Veränderungen in den Zangen und gifttragenden Gliedmaßen sind bei keinem anderen Gliederfüßer zu finden.
 
+{{< internal-ref >}}
+[Mehr über die Anatomie von Skolopendern](../anatomie)
+{{< / internal-ref >}}
+
 ## Allgemeine Giftwirkung
 
 Zum Nahrungsangebot von Skolopendern gehören verschiedene Tiere. Angefangen bei anderen Wirbellosen, gibt es belegte Studien zur Ernährung durch kleine Säugetiere, Reptilien[^fn-2020-deimezis], Amphibien[^fn-1984-carpenter] hin zum dedizierten Jagen von fliegenden Fledermäusen[^fn-2005-molinari]. Entsprechend vielseitig ist ihr Gift und seine Aufgaben.
