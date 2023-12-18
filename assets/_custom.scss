@@ -29,6 +29,29 @@ figcaption {
     font-size: 0.8em;    
 }
 
+h1 {
+    border: solid 1px #000;
+    padding-top: 1em;
+    padding-bottom: 1.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    position: relative;
+    &::before {
+        position: absolute;
+        bottom: -15px;
+        right: -5px;
+        width: 100px;
+        content: "  ";
+        background-image: url("img/logo_border.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 160px;
+        height: 50px;
+        clear: both;
+    }
+}
+
+
 .cs-key {
     font-weight: bold;
     font-size: 0.8em;
