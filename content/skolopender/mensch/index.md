@@ -41,6 +41,10 @@ Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entspreche
 
 Gleichsam zweifelt man im Hobby ob der Vielgestalt von _Scolopendra cingulata_ an einer eindeutigen Art. Und natürlich gibt es noch einige unbeschriebene Arten wie den "Malaysian Jewel" oder den "White Legs". Dazu wurden erst in jüngster Vergangenheit semiaquatische Arten wie Scolopendra paradoxa (2018) entdeckt. Doch insgesamt erscheinen Hundertfüßer weiterhin relativ uninteressant in der Biologie. Auch wurden molekulare Bestimmungen der Tiere erst in jüngster Vergangenheit überhaupt durchgeführt. Von weiteren Forschungen um Verhalten oder Toxizität ganz zu schweigen. Insgesamt muss hier noch viel wissenschaftliche Arbeit geleistet werden - die allerdings auch bezahlt werden will.
 
+## Lebensmittel
+
+Als Lebensmittel werden in China bestimmte große Hundertfüßer konsumiert, in der Regel aufgespießt und gegrillt oder frittiert. Man sieht sie oft an Straßenverkaufsständen in großen Städten, einschließlich der Märkte Donghuamen und Wangfujing in Peking.[^wikipedia-en]
+
 ## Alte Kulturen
 
 ### Japan: Ōmukade
@@ -112,3 +116,4 @@ Das Motiv des Hundertfüßers hat in japanischer Kunst immer wieder Verwendung g
 [^fn-2019-luan]: [2019 - Luan, Zhao, Duan, Ji, Xing, Zhu, Mwangi, Rong, Liu, Lai - Identification and Characterization of ShSPI, a Kazal-Type Elastase Inhibitor from the Venom of Scolopendra Hainanum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950245/)
 [^wikipedia-omukade]: [Ōmukade in der Wikipedia](https://de.wikipedia.org/wiki/%C5%8Cmukade)
 [^5]: Lewis, 2010: "A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus (Chilopoda: Scolopendromorpha: Scolopendridae)"
+[^wikipedia-en]: [https://en.wikipedia.org/wiki/Centipede](https://en.wikipedia.org/wiki/Centipede)

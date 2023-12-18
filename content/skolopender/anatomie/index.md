@@ -66,7 +66,16 @@ Scolopendra morsitans
 
 ## Funktion der Schleppläufe
 
+Die Schleppläufe von Skolopendern dienen nicht der Fortbewegung und haben verschiedene andere Funktionen.
 
+**Distraktion**: Die federförmigen Hinterläufe der Gattung __Alipes__ können mitunter zur Stridulation (Lauterzeugung) verwendet werden, und Arten der Gattung __Rhysida__ verfügen über Autonomie und können die letzten Beine abwerfen, um Fressfeinde dadurch abzulenken. Aus der Gattung __Scolopendra__ ist bekannt, dass die Tiere zuweilen die Schleppläufe aufstellen, und damit in Drohhaltung gehen[^2015-kronmüller].
+
+**Verankerung und Klettern**: Das mitunter populärste Beispiel liefert sicherlich __Scolopendra gigantea__, der sich mit den Schleppläufen kopfüber von Höhlendecken hängen lässt, um Fledermäuse im Flug zu erbeuten[^fn-2005-molinari]. Aber auch bei anderen Arten wie __Scolopendra subspinipes__ oder __Scolopendra dehaani__ wurde dieses Verhalten beobachtet[^2015-kronmüller].
+
+**Kommunikation**: Während es Paarungsrituals wwerden die Schleppläufe auch zur Kommunikation zwischen den Geschlechtern verwendet[^2015-kronmüller].
+
+**Täuschung**: Bei manchen Arten wie __Scolopendra heros__ sind die ersten und letzten Körpersegmente gleich gefärbt. Hier kann der Skolopender mit den Schleppläufen seinen "Kopf" vortäuschen und hat gegenüber Fressfeinden so einen Angriffsvorteil[^2015-kronmüller].
 
 [^2]: [2010 - Edgecombe et. al. - "A common terminology for the external anatomy of centipedes (Chilopoda)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3088443/)
 [^2015-kronmüller]: [2015 - Kronmüller - On the function of the ultimate legs of some Scolopendridae (Chilopoda, Scolopendromorpha)](https://www.researchgate.net/publication/280908902_On_the_function_of_the_ultimate_legs_of_some_Scolopendridae_Chilopoda_Scolopendromorpha)
+[^fn-2005-molinari]: [2005 - Molinari - Predation by Giant Centipedes, Scolopendra gigantea, on Three Species of Bats in a Venezuelan Cave](https://www.researchgate.net/publication/228372837_Predation_by_giant_centipedes_Scolopendra_gigantea_on_three_species_of_bats_in_a_Venezuelan_cave)
