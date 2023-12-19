@@ -1,0 +1,9 @@
+<div class="section_summary">
+    <div class="section_summary_head"><h2>{{.Get "title"}}</h2></div>
+    <div class="section_summary_inner">
+        <div class="section_summary_text">{{ .Inner | markdownify }}</div>
+    </div>
+    <div class="more">
+        {{.Get "more_link" | markdownify }}
+    </div>
+</div>
