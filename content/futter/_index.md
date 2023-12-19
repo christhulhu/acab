@@ -95,7 +95,9 @@ Aus diesem Grund sollte man die Futtertiere auch ordentlich pflegen, abwechslung
 
 Je nach Futtertierart kann Katzentrockenfutter eine zusätzliche Quelle für Protein darstellen, die wiederum auch den Skolopender zugutekommt. Gleichsam liefern frisches Obst und Gemüse Feuchtigkeit und Vitamine. Weitere Zusätze wie Haferflocken, Spirulina oder spezielles Vitaminfutter für die Futtertiere liefern wichtige Nährstoffe, die schlussendlich gut für unser eigentliches Terrarientier sind.
 
+{{< internal-ref >}}
 Wer seine Futtertiere mit einem vollständigen Nährstoff-Cocktail füttern will, findet hier auch ein [Rezept für Futter für Futtertiere](grillenfutter) wie Grillen, Heimchen, etc.
+{{< / internal-ref >}}
 
 ## Übersicht an nachgewiesen angenommenen Futtertieren
 
