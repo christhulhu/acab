@@ -56,11 +56,38 @@ h2 {
     border-bottom: solid 1px #CCC;
 }
 
+.caresheet_section {
+    .section_thumbnail {
+        border-radius: 100%;
+        //flex-basis: content;
+        min-width: 150px;
+    }
+    .section_content {
+        display: flex;
+        align-items: flex-start;
+        .species_list {
+            list-style-type: none;
+            li.species {
+                .species_title a {
+                    font-weight: bold;
+                    font-size: 1.2em;
+                }
+                margin-bottom: 1.3em;
+                .description {
+                    padding-left: 1em;
+                    font-size: 0.8em;
+                }
+            }
+            .variations {
+                list-style-type: none;
+            }
+        }
+    }
+
+}
+
 .section_summary {
     padding-left: 1em;
-    .section_summary_head  {
-        
-    }
     .section_summary_inner {
         height: 100%;
         
@@ -336,5 +363,32 @@ blockquote.good {
                 font-size: 1em;
             }
         }
+    }
+
+    .caresheet_section {
+        .section_thumbnail {
+            display: block;
+            margin: auto;
+        }
+        .section_content {
+            display: block;
+            align-items: flex-start;
+            .species_list {
+                list-style-type: none;
+                li.species {
+                    .species_title a {
+                        font-weight: bold;
+                    }
+                    margin-bottom: 1.3em;
+                    .description {
+                        padding-left: 1em;
+                    }
+                }
+                .variations {
+                    list-style-type: none;
+                }
+            }
+        }
+    
     }
 }

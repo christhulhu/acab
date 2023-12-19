@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="markdown">
+  {{ partial "docs/post-meta" . }}
+  
+  {{- .Content -}}
+
+  {{ range sort .Site.Data.caresheets.caresheets "name"  }}
+    {{ partial "caresheet_section.html" . }}
+  {{end}}
+  
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

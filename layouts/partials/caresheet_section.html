@@ -1,0 +1,23 @@
+<div class="caresheet_section">
+    <div class="section_header">
+        <h2>Genus {{.name}}</h2>
+    </div>
+    <div class="section_content">
+        <img class="section_thumbnail" src="{{.thumbnail}}" width="150" height="150" />
+        <ul class="species_list">
+        {{range .species }}
+            <li class="species">
+                <div class="species_title"><a href="{{.link}}">{{.name}}</a></div>
+                <span class="description">{{.description}}</span>
+                {{if isset . "variations" }}
+                    <ul class="variations">
+                        {{range .variations}}
+                            <li><a href="{{.link}}">{{.name}}</a></li>
+                        {{end }}
+                    </ul>
+                {{end}}
+            </li>
+        {{ end }}
+        </ul>
+    </div>
+</div>
