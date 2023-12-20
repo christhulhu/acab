@@ -13,6 +13,13 @@
     p {
         quotes: "„" "“" "‚" "‘";
     }
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+
+    th:empty {
+        display: none;
+    }
 }
 
 figcaption {
@@ -60,9 +67,13 @@ h2 {
     .section_thumbnail {
         border-radius: 100%;
         //flex-basis: content;
-        min-width: 150px;
+        width: 150px;
+    }
+    .species_title {
+        text-align: left;
     }
     .section_content {
+        min-height: 200px;
         display: flex;
         align-items: flex-start;
         .species_list {
@@ -83,7 +94,15 @@ h2 {
             }
         }
     }
-
+    .section_footer {
+        a {
+            font-size: 0.8em;
+            border: solid 1px #ccc;
+            background-color: #fff;
+            border-radius: 0.5em;
+            padding: 0.5em;
+        }
+    }
 }
 
 .section_summary {
@@ -366,6 +385,7 @@ blockquote.good {
     }
 
     .caresheet_section {
+        padding-left: 0;
         .section_thumbnail {
             display: block;
             margin: auto;
@@ -375,13 +395,14 @@ blockquote.good {
             align-items: flex-start;
             .species_list {
                 list-style-type: none;
+                padding-left: 0;
                 li.species {
                     .species_title a {
                         font-weight: bold;
                     }
                     margin-bottom: 1.3em;
                     .description {
-                        padding-left: 1em;
+                        padding-left: 0;
                     }
                 }
                 .variations {
