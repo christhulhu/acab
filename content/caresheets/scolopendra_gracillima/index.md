@@ -1,8 +1,8 @@
 ---
 title: Scolopendra gracillima
 bookHidden: true
-authors:
-- 
+author:
+- Marcel K.
 ---
 # Scolopendra gracillima
 
@@ -12,25 +12,17 @@ authors:
     attr="{{< contributors/marcel >}}" 
 >}}
 
-
 ## Über die Art
 
 Bei Scolopendra gracillima handelt es sich um kleinere Art mit gedrungenem Körperbau. Es sind aktuell zwei Unterarten bekannt: S. gracillima gracillima (Attems, 1898)[^1930-attems] und S. gracillima sternostriata (Schileyko, 1995). Letztere wurde bisher nur in Vietnam nachgewiesen[^2018-tran]. Zudem besteht große Ähnlichkeit aufgrund überlappender Variabilität zu Scolopendra pinguis[^2015-siriwut][^2010-lewis]. Markant ist bei S. gracillima die größtenteils hell gefärbte Kopfplatte, welche jedoch nicht als typisches Bestimmungsmerkmal zu betrachten ist und auch bei Tieren aus Java einfarbig grau sein kann.
-
----
 
 ## Informationen
 
 {{< caresheet/caresheet "data/gracillima.yml" >}}
 
----
-
 ## Bilder
 
 {{< gallery match="images/scolopendra_gracillima*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-{{< contributors "{{< contributors/marcel >}}" >}}
 
 [^1930-attems]: 1930 - Attems - Das Tierreich, Myriapoda 2. Scolopendromorpha
 [^2018-tran]: [2018 - Tran, Hung, Loan, Ha - Preliminary data on centipedes (Chilopoda: Scolopendromorpha and Scutigeromorpha) in Ta Xua natural reserve, Son La Province, Vietnam](https://www.researchgate.net/publication/328932151_Preliminary_data_on_centipedes_Chilopoda_Scolopendromorpha_and_Scutigeromorpha_in_Ta_Xua_natural_reserve_Son_La_Province_Vietnam)

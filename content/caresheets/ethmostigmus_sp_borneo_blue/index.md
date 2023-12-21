@@ -1,7 +1,7 @@
 ---
 title: Ethmostigmus sp. "Borneo Blue"
 bookHidden: true
-authors:
+author:
 - "Alessandro Tinella"
 ---
 # Ethmostigmus sp. "Borneo Blue"
@@ -45,9 +45,6 @@ Der "Borneo Blue" verträgt keine zu trockene Haltung. Das Substrat muss immer f
 ## Bilder
 
 {{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-{{< contributors "{{< contributors/alessandro >}}" >}}
 
 [^1]: 2022 - Jiang, Liu, Pan, Chen, Luqi - Molecular and morphological description of four new Ethmostigmus Pocock, 1898 (Chilopoda, Scolopendromorpha, Scolopendridae) species from China, with a key to Chinese species
 [^2]: 2004 - Schileyko, Stagl - The collection of scolopendromorph Centipedes (Chilopoda) in the Natural History Museum in Vienna: a critical re-evaluation of former taxonomic identifications

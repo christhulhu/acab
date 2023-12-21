@@ -1,8 +1,8 @@
 ---
 title: Scolopendra dehaani
 bookHidden: true
-authors:
-- "Alessandro Tinella"
+author:
+- Alessandro Tinella
 ---
 # Scolopendra dehaani "Cherry Red"
 
@@ -30,21 +30,12 @@ Alle Abschnitte, einschließlich des Kopfpanzers, sind rötlich-braun. Die Fühl
 
 Mehr Informationen über Scolopendra dehaani und seine Farbvarianten auf der [Übersichtsseite der Art]({{< ref ".." >}}).
 
----
-
 ## Informationen
 
 {{< caresheet/caresheet "data/cherry_red.yml" >}}
 
---- 
-
-
 ## Bilder
 
 {{< gallery match="images/scolopendra_dehaani_cherry_red*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-{{< contributors "{{< contributors/alessandro >}}" >}}
-
 
 [^1]: 2016 - Siriwut, Edgecombe, Sutcharit, Tongkerd, Panha - A taxonomic review of the centipede genus Scolopendra in mainland Southeast Asia, with description of a new species from Laos

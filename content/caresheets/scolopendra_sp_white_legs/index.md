@@ -1,8 +1,8 @@
 ---
 title: Scolopendra sp "White legs"
 bookHidden: true
-authors:
-- 
+author:
+- Alessandro Tinella
 ---
 # Scolopendra sp "White legs"
 
@@ -19,19 +19,12 @@ Scolopendra sp. "White Legs" wurde und wird im Hobby häufig als "Scolopendra gi
 
 Das Substrat sollte stets trocken sein, aber eine feuchte Ecke zum verstecken vorhanden sein. Um den "White Legs" nach einer Verpaarung zur Eiablage zu animieren, muss man den Tieren eine feuchtere Umgebung bieten.
 
----
-
 ## Informationen
 
 {{< caresheet/caresheet "data/white_leg.yml" >}}
-
----
 
 <!-- ## Geschlechtsunterscheidung -->
 
 ## Bilder
 
 {{< gallery match="images/scolopendra_sp*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-{{< contributors "{{< contributors/alessandro >}}" >}}

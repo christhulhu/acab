@@ -1,8 +1,9 @@
 ---
 title: Ethmostigmus trigonopodus pygomenasoides
 bookHidden: true
-authors:
-- "Alessandro Tinella"
+author:
+- Christian Gehlen
+- Alessandro Tinella
 ---
 # Ethmostigmus trigonopodus pygomenasoides
 
@@ -52,5 +53,3 @@ In späteren Abendstunden kann man hingegen häufig beobachten, die pygomenasoid
 
 {{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
 
----
-{{< contributors "{{< contributors/alessandro >}}" "{{< contributors/christian >}}" >}}

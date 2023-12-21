@@ -1,6 +1,8 @@
 ---
 title: Endoparasiten
 bookHidden: true
+author: 
+- Marcel K.
 ---
 
 # Endoparasiten
@@ -34,8 +36,6 @@ Eine bisher vielversprechende Methode ist die Zugabe von pulverisierter Chinarin
 
 {{< /hint >}}
 
----
-{{< contributors "{{< contributors/marcel >}}" >}}
 
 [^1]: https://www.msd-tiergesundheit.de/fokusthemen/kokzidiose-beim-huhn/kokzidiose-des-huhns/vermehrungszyklus/
 [^2]: Rosenberg, 2009: "Die Hundertfüßer, Chilopoda"  

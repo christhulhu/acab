@@ -2,6 +2,8 @@
 title: Toxizität
 weight: 500
 description: Zum bisherigen Wissensstand um die Toxikologie und Toxizität der Riesenläufer.
+author: 
+- Christian Gehlen
 ---
 
 # Toxizität
@@ -93,9 +95,6 @@ Generell erscheinen verschiedene Peptide (z.B. Scolopendrasin) durch ihre Stabil
 Weiterhin wurden in Scolopendra mutilans antimikrobielle (AMP) und insektizidische Bestandteile gefunden, die für Medizin und biologische Insektizide sowohl auf wissenschaftliches wie auch kommerzielles Interesse stoßen können.[^fn-2022-yadav]
 
 Abseits der Wissenschaft stellten die Gifte von Skolopendern einen Bestandteil für traditionelle Medizin in  China, Indien, Vietnam, Südkorea und Japan,[^fn-2022-yadav] werden für Schmerztherapie, Herzprobleme oder Arthritis eingesetzt.
-
----
-Von: {{< contributors/christian >}}
 
 [^fn-2004-serinken]: [2004 - Serinken, Erdur, Sener, Kabay, Cevik - A Case of Mortal Necrotizing Fasciitis of the Trunk Resulting From a Centipede (Scolopendra moritans) Bite](https://ispub.com/IJEM/2/2/12582)
 [^fn-2011-fung]: [2011 - Fung, Lam, Wong - Centipede bite victQims: a review of patients presenting to two emergency departments in Hong Kong](https://www.hkmj.org/abstracts/v17n5/381.htm)

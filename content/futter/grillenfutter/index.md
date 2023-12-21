@@ -1,6 +1,8 @@
 ---
 title: Futtermischung für Futtertiere
 bookHidden: true
+author: 
+- Marcel K.
 ---
 
 # Futtermischung für Futtertiere

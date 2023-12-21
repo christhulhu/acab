@@ -1,8 +1,8 @@
 ---
 title: Scutigera coleoptrata
 bookHidden: true
-authors:
-- "Marcel K."
+author:
+- Marcel K.
 ---
 
 # Scutigera coleoptrata
@@ -19,17 +19,10 @@ Scutigera coleoptrata, auch oft als Spinnenassel bezeichnet, fällt wie alle Ver
 
 Ein vorsichtiger Umgang mit den Tieren ist dennoch zu empfehlen, da Gliedmaßen leicht abbrechen bzw. abgeworfen werden. Diese können sich nach ein paar Häutungen wieder regenerieren.
 
----
-
 ## Informationen
 
 {{< caresheet/caresheet "data/scutigera_coleoptrata.yml" >}}
 
----
-
 ## Bilder
 
 {{< gallery match="images/scutigera_coleoptrata*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-{{< contributors "{{< contributors/marcel >}}" >}}

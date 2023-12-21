@@ -1,8 +1,8 @@
 ---
 title: Scolopendra sp. "Malaysian Jewel"
 bookHidden: true
-authors:
-- "Alessandro Tinella"
+author:
+- Alessandro Tinella
 ---
 
 # Scolopendra sp. "Malaysian Jewel"
@@ -23,19 +23,10 @@ Die Haltung der Art ist nicht trivial, gerade zu hohe Temperaturen mag der "Mala
 
 Auch wenn man gelegentlich Wildfänge und sogar nachzuchten im Hobby bekommt, sind diese meist vergleichsweise teuer. Für ein Jungtier zahlt man gerne ca. EUR 150, adulte Tiere kosten auch gut schon mal das doppelte.
 
----
-
 ## Informationen
 
 {{< caresheet/caresheet "data/malaysian_jewel.yml" >}}
 
---- 
-
 ## Bilder
 
 {{< gallery match="images/scolopendra_sp_malaysian_jewel*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
-
---- 
-{{< contributors "{{< contributors/alessandro >}}" >}}
-

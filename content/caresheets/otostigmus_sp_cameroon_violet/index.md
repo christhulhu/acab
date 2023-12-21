@@ -1,8 +1,8 @@
 ---
 title: Otostigmus sp. "Cameroon Violet"
 bookHidden: true
-authors:
-- "Marcel K."
+author:
+- Marcel K.
 ---
 
 # Otostigmus sp. "Cameroon Violet"
@@ -19,19 +19,10 @@ Otostigmus sp. "Cameroon Violet" ist bzw. war im Hobby fälschlicherweise der Ga
 
 Diese markante Art scheint seit 2020 nicht mehr im europäischen Hobby vertreten zu sein.
 
----
-
 ## Informationen
 
 {{< caresheet/caresheet "data/cameroon_violet.yml" >}}
 
---- 
-
 ## Bilder
 
-
 {{< gallery match="images/otostigmus_sp_*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-{{< contributors "{{< contributors/marcel >}}" >}}
-

@@ -1,8 +1,8 @@
 ---
 title: Scolopendra dehaani
 bookHidden: true
-authors:
-- "Alessandro Tinella"
+author:
+- Alessandro Tinella
 ---
 
 # Scolopendra dehaani "Leg"-Morphs
@@ -30,19 +30,10 @@ Im Hobby sind die "Yellow Leg" und "Orange Leg" am verbreitetsten. Darum ist ihr
 
 Mehr Informationen über Scolopendra dehaani und seine Farbvarianten auf der [Übersichtsseite der Art]({{< ref ".." >}}).
 
----
-
 ## Informationen
 
 {{< caresheet/caresheet "data/leg_morphs.yml" >}}
 
---- 
-
-
 ## Bilder
 
 {{< gallery match="images/scolopendra_dehaani_*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
-
----
-
-{{< contributors "{{< contributors/alessandro >}}" >}}
