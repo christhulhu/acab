@@ -1,0 +1,9 @@
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">
+  {{ .Text | safeHTML }}
+  <a class="anchor" href="#{{ .Anchor | safeURL }}">#</a>
+
+  {{if and  (isset .Page.Params "author") (eq .Level 1) }}
+    <small>Von: {{ delimit .Page.Params.author ", " }} </small>
+  {{end}}
+
+</h{{ .Level }}>
