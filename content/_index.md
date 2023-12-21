@@ -3,6 +3,7 @@ title: ScoloHub.com
 ---
 # ScoloHub.com
 
+![ScoloHub.com](img/scolohub-hero.jpg)
 
 Hundertfüßer sind faszinierende und einzigartige Wesen, jedoch genießen sie in der Wissenschaft und Terrarienhaltung nicht die erhoffte Aufmerksamkeit. Stattdessen existieren zahlreiche Mythen und Vorurteile über diese Tiere, und konkrete Informationen sind in der Literatur und im Internet leider nur spärlich vorhanden.
 
