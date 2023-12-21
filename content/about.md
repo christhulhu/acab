@@ -47,6 +47,16 @@ Für Pflegeanleitungen gibt es eine [Vorlage](/caresheets/template/), die ausgef
 
 Auch sind Fotos immer willkommen! Gerade Vergleichsbilder von Pedeling zum adulten Tier, Bilder aus dem natürlichen Habitat, Bilder von Gesundheitsproblemen oder von idealen Terrarieneinrichtungen für eine bestimmte Art.
 
+## Danksagungen
+
+**Chilobase** für die freiwillige Pflege einer freien und offenen Datenbank über Hundertfüßer Taxonomie.
+
+**Scolopendra.be** für die erste Informationsquelle um die Haltung von Hundertfüßern. RIP.
+
+**Scolopendra.eu** für das erste und einzige Forum für den Austausch um Hundertfüßerhaltung. RIP.
+
+**Schileyko**, **Edgecombe**, **Lewis** für die unglaubliche Hingabe in das Studium der Hundertfüßer und die unzähligen wertvollen Veröffentlichungen.
+
 ## Technisches 
 
 Der Quellcode dieser Webseite steht auf [Github](https://github.com/christhulhu/acab). Jeder kann und soll sich an dieser Informationssammlung beteiligen, darum sind Forks und Pull-Requests gerne gesehen.
