@@ -1,7 +1,7 @@
 - name: cf
   description: In wissenschaftlichen Namen steht die Abkürzung "cf." für den lateinischen Ausdruck "confer," was so viel bedeutet wie "vergleiche" oder "siehe." Wenn in einem wissenschaftlichen Namen eines Organismus "cf." verwendet wird, deutet dies darauf hin, dass es Unsicherheiten bezüglich der genauen Identifikation oder Zuordnung gibt. Es wird verwendet, um anzuzeigen, dass der benannte Organismus wahrscheinlich, aber nicht sicher, der beschriebenen Art oder Taxon entspricht.
-- name: CB
-  description: '"Capture Breed", Diese Bezeichnung gibt an, dass das betreffende Tier in Gefangenschaft gezüchtet wurde'
+- name: CB / WFNZ
+  description: '"Capture Breed" / "Wildfang Nachzucht", Diese Bezeichnung gibt an, dass das betreffende Tier in Gefangenschaft gezüchtet wurde'
 - name: Clypeus
   description: Strinplatte, ventral am Kopf eines Skolopenders.
 - name: ventral
@@ -74,3 +74,5 @@
   description: Ein Protein, was im Gift von Scolopendra hainanum entdeckt wurde
 - name: Ssm Spooky Toxin / SsTx
   description: Ein Neurotoxin, das im Gift von Scolopendra mutilans oder Scolopendra dehaani nachgewiesen wurde
+- name: WF / WC
+  description: '"Wildfang" / "Wild Caught". Das Tier wurde in der freien Wildbahn gefangen.'
