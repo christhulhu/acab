@@ -56,5 +56,8 @@ Literatur über Hundertfüßer ist eher knapp. Spezifische Werke zur Terrarienha
 {{< /section_summary >}}
 
 ---
+{{< small >}}
+Bildnachweis Hero-Image: {{< contributors/marcel >}}, 2023: Scolopendra subspinipes, juvenil, Detailaufnahmen
 
 Letztes Update: {{< build-date >}}
+{{< / small >}}
