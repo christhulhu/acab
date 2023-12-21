@@ -64,6 +64,65 @@ Scolopendra morsitans
 
 {{< / columns >}}
 
+## Fotos von anatomischen Details
+
+{{<  columns >}}
+
+### Ocelli
+[![Ocelli](./images/foto_ocelli_thumb.jpg)](./images/foto_ocelli.jpg)
+
+Ocelli von Scolopendra subspinipes.
+<--->
+### Antennen
+
+[![Antennen](./images/foto_antennen_thumb.jpg)](./images/foto_antennen.jpg)
+
+Antennen von Scolopendra subspinipes. Man erkennt deutlich die kahlen Segmente in Richtung Kopfplatte, und die behaarten Segmente weiter entfernt vom Körper.
+
+{{< / columns >}}
+
+{{<  columns >}}
+### Maxillipeden
+[![Maxillipeden](./images/foto_maxillipeden_thumb.jpg)](./images/foto_maxillipeden.jpg)
+
+Maxillipeden und Zahnplatte von Scolopendra gigantea.
+
+<--->
+
+### Tergite
+
+[![Tergite](./images/foto_tergite_thumb.jpg)](./images/foto_tergite.jpg)
+
+Tergite von Scolopendra subspinipes.
+{{< / columns >}}
+
+{{<  columns >}}
+### Prefemuralbedornung
+[![Prefemuralbedornung](./images/foto_prefemuralbedornung_thumb.jpg)](./images/foto_prefemuralbedornung.jpg)
+
+Prefemuralbedornung von Scolopendra subspinipes.
+
+<--->
+
+### Prefemuralbedornung
+[![Prefemuralbedornung](./images/foto_prefemuralbedornung_ethmostigmus_thumb.jpg)](./images/foto_prefemuralbedornung_ethmostigmus.jpg)
+
+Prefemuralbedornung und Coxopleuralfortsätze von Ethmostigmus trigonopodus.
+{{< / columns >}}
+
+{{<  columns >}}
+### Stigmen
+[![Stigmen](./images/foto_stigmen_pleura_ethmostigmus_thumb.jpg)](./images/foto_stigmen_pleura_ethmostigmus.jpg)
+
+Pleuren und Stigmen von Ethmostigmus trigonopodus. Man erkennt die fehlenden Klappen und die eher ovale bis runde Form der Öffnungen.
+<--->
+### Stigmen
+[![Stigmen](./images/foto_stigmen_pleura_scolopendra_thumb.jpg)](./images/foto_stigmen_pleura_scolopendra.jpg)
+
+Pleuren und Stigmen von Scolopendra cingulata. Die Stigmen sind eher dreieckig und haben klappenarrtige Umrandungen.
+
+{{< / columns >}}
+
 ## Funktion der Schleppläufe
 
 Die Schleppläufe von Skolopendern dienen nicht der Fortbewegung und haben verschiedene andere Funktionen.
