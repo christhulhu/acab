@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="markdown glossary">
+  {{ partial "docs/post-meta" . }}
+
+  {{- .Content -}}
+
+  <dl>
+    {{ range sort .Site.Data.glossary "name" }}
+      {{ partial "glossary_entry.html" . }}
+    {{end}}
+  </dl>
+  
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

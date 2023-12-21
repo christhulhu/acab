@@ -1,6 +1,6 @@
 ---
 title: Literatur
-weight: 900
+weight: 950
 ---
 
 # Literatur

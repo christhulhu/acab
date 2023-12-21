@@ -1,0 +1,76 @@
+- name: cf
+  description: In wissenschaftlichen Namen steht die Abkürzung "cf." für den lateinischen Ausdruck "confer," was so viel bedeutet wie "vergleiche" oder "siehe." Wenn in einem wissenschaftlichen Namen eines Organismus "cf." verwendet wird, deutet dies darauf hin, dass es Unsicherheiten bezüglich der genauen Identifikation oder Zuordnung gibt. Es wird verwendet, um anzuzeigen, dass der benannte Organismus wahrscheinlich, aber nicht sicher, der beschriebenen Art oder Taxon entspricht.
+- name: CB
+  description: '"Capture Breed", Diese Bezeichnung gibt an, dass das betreffende Tier in Gefangenschaft gezüchtet wurde'
+- name: Clypeus
+  description: Strinplatte, ventral am Kopf eines Skolopenders.
+- name: ventral
+  description: "medizinische Richtungsangabe: an der Bauchseite"
+- name: dorsal
+  description: "medizinische Richtungsangabe: An der Rückenseite"
+- name: lateral
+  description: "medizinische Richtungsangabe: An der Seite"
+- name: Ocelle / Ocelli
+  description: Punktaugen.
+- name: Maxille
+  description: Mundwerkzeuge
+- name: Mandibel
+  description: Zu Mundwerkzeugen umgewandeltes 3. Beinpaar von Hundertfüßern
+- name: Maxillipeden
+  description: Kieferfüße, zu Grifklauen umgewandelte erste Beinpaar von Hundertfüßern.
+- name: Schleppläufe
+  description: Letztes Beinpaar von Hundertfüßern, dass nicht zur Fortbewegung dient.
+- name: LBS
+  description: In englischer Literatur häufig die Abkürzung für "Leg bearing segment"
+- name: Coxopleura
+  description: Hürft-Pleura
+- name: Coxa
+  description: Hürfte
+- name: Prefemur
+  description: Erste Segment der Beine nach der Hüfte
+- name: Femur
+  description: Zweite Segment der Beine nach der Hüfte
+- name: Tibia
+  description: Schienbein, dritte Segment nach der Hüfte
+- name: Tarsus
+  description: Fuß, vierte Segment der Beine nach der Hüfte
+- name: Pretarsus
+  description: Fünfte Segment der Beine nach der Hüfte
+- name: Tergit
+  description: Rückenplatten des Körpers eines Hundertfüßers
+- name: Sternit
+  description: Brustplatten des Körpers eines Hundertfüßers
+- name: Pleura
+  description: Seitenhaut, die Tergit und Sternit verbindet. In der Pleura befinden sich bei den beintragenden Segmenten auch die Coxopleura, aus der die Hüfte entspringt.
+- name: Stigma
+  description: Körperöffnung in den Pleuren, die zum Tracheensystem führen
+- name: Tracheen
+  description: Atemsystem der Hundertfüßer
+- name: Coxopleuralfortsatz
+  description: Langgezogener Fortsatz am letzten Körpersegments eines Hundertfüßerts.
+- name: Prefemuralbedornung
+  description: Dornen an der Prefemur der Schleppläufe. Die Anzahl und Anordnung der Dornen sind wichtiges Merkmal für die Artbestimmung von Skolopendern.
+- name: Ringfurche
+  description: Halbmondförmige Vertiefung im ersten Körpersegment des Skolopenders. Besonders bei amerikanischen Arten ein weit verbreitetes anatomisches Merkmal, in der alten Welt bei Scolopendra valida einmalig.
+- name: Gonopoden
+  description: Bestandteil der primären Geschlechtsorgane von männlichen Skolopendern.
+- name: Spinngriffel
+  description: Bestandteil der primären Geschlechtsorgane von männlichen Skolopendern.
+- name: Dimorphismus / Sexualdimorphismus
+  description: Äußerlich erkennbare sekundäre Geschlechtsmerkmale von Hunderfüßern.
+- name: Trivialname
+  description: Umgangssprachlicher Name eines Hundertfüßers. Beispielsweise "Europäischer Riesenläufer" für den wissenschaftlichen Namen Scolopendra cingulata. Einige Arten, die noch nicht wissenschaftlich beschrieben wurden, und entsprechend keinen offiziellen Namen haben, existieren im Hobby lediglich unter ihrem Trivialnamen. Beispielsweise "White Legs" oder "Malaysian Jewel"
+- name: NZ / ENZ / DNZ
+  description: Nachzucht / Europäische Nachzucht / Deutsche Nachzucht. Für Tiere, die in Gefangenschaft verpaart und nachgezüchtet wurden. Siehe CB.
+- name: WB
+  description: Wildfangnachzucht. Das Tier wurde nicht in Gefangenschaft verpaart, sondern befruchtet eingefangen und hat in Gefangenschaft ihre Eier gelegt.
+- name: var.
+  description: Variation. Einige Hundertfüßer haben offiziell anerkannte Variationen, z.B. Scolopendra cingulata var. obscuripes. Wird oftmals aber auch in Kombination mit Trivialnamen verwendet, wie bei Scolopendra dehaani var. "Cherry Red"
+- name: Taxonomie
+  description: In der Biologie bezieht sich der Begriff "Taxonomie" auf die Wissenschaft der Klassifizierung, Benennung und Systematisierung von Organismen basierend auf gemeinsamen Merkmalen. Meist sind diese Merkmale rein morphologischer Natur, in der modernen Taxonomie werden jedoch auch DNA und molekulare Analysen zur bestimmung von Gemeinsamkeiten herangezogen.
+- name: sp.
+  description: Abkürzung nach dem wissenschaftlichen Gattungsnamen, wenn man die genaue Art nicht zuordnen kann. Beispielsweise "Scolopendra sp.". Hat man bereits eine Vermutung, wird häufig die Abkürzung cf. vor den Artennamen angegeben, beispielsweise Scolopendra cf. piceoflava.
+- name: ShSPI
+  description: Ein Protein, was im Gift von Scolopendra hainanum entdeckt wurde
+- name: Ssm Spooky Toxin / SsTx
+  description: Ein Neurotoxin, das im Gift von Scolopendra mutilans oder Scolopendra dehaani nachgewiesen wurde

@@ -240,6 +240,31 @@ blockquote.good {
     color: #333;
 }
 
+.glossary {
+    /* Stil für die Definition List */
+    dl {
+        margin-bottom: 20px;
+        padding-left: 1em;
+    }
+    
+    /* Stil für die Definition List Titel */
+    dt {
+        font-weight: bold;
+        color: #333;
+        border-bottom: 1px solid #ddd;
+        //padding: 10px;
+    }
+
+    /* Stil für die Definition List Definitionen */
+    dd {
+        padding: 10px;
+        margin-left: 0;
+        margin-bottom: 10px;
+        padding-left: 1em;
+    }
+
+}
+
 @media screen and (min-width: $container-max-width) {
     .fig-right {
         float: right;
