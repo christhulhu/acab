@@ -17,16 +17,15 @@ Auch passiert es nicht selten, dass Skolopender unter falschem Namen angeboten w
 **Beispiel für die kleinen Details, die Artbestimmung bei Skolopendern so schwierig machen**
 {{<columns>}}
 
-Scolopendra polymorpha
+Scolopendra morsitans
 
-tbd
+![Scolopendra morsitans](./images/scolopendra_morsitans.jpg)
 
 <--->
 
 Scolopendra pomacea
 
 ![Scolopendra polymorpha](./images/scolopendra_pomacea.jpg)
-({{< contributors/alessandro >}})
 
 {{</columns>}}
 
