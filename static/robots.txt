@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scolohub.com/sitemap.xml

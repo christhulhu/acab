@@ -1,0 +1,27 @@
+/* TEAM */
+    Webmaster + Editor: Christian Gehlen
+    Contact: christian.gehlen@gmx.net
+
+    Photos + Editor + Experience: Alessandro Tinella
+    Instagram: @centipede_.tv
+
+    Photos + Editor: Marcel K.
+
+    Feedback + Consulting: Yuma Hampjes
+    Instagram: @overmydeadcorpse
+
+/* THANKS */
+    Feedback: Kahtarina S.
+
+    Scolopendra.eu: Robert SKF
+
+    Scolopendra.be: Steven Laenarts
+
+    Dedicated scientific work on Scolopendromorpha: Lewis, Edgecombe, Schileyko, Kronmüller
+
+/* SITE */
+    Languages: DE
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    SSC: goHugo.io
+    Code + Hosting: Github.com
