@@ -2,8 +2,17 @@
     <div class="section_header">
         <h2>Genus {{.name}}</h2>
     </div>
+
+    <div class="section_footer">
+        {{if isset . "more"}}
+        <blockquote class="book-hint info">
+            {{.more | markdownify}}        
+        </blockquote>
+        {{end}}
+    </div>
+
     <div class="section_content">
-        <img class="section_thumbnail" src="{{.thumbnail}}" width="150" height="150" />
+        <img class="section_thumbnail" src="{{.thumbnail}}" width="200" height="200" />
         <ul class="species_list">
         {{range .species }}
             <li class="species">
@@ -20,7 +29,5 @@
         {{ end }}
         </ul>
     </div>
-    <div class="section_footer">
-        {{.more | markdownify}}        
-    </div>
+
 </div>

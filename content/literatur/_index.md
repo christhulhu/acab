@@ -92,5 +92,3 @@ Da es um Skolopender nur wenige Informationen für den Hobbyhalter gibt, sind di
 * [2020 - Deimezis-Tsikoutas, Kapsalas, Pafilis - A rare case of saurophagy by Scolopendra cingulata in the central Aegean Archipelago: A role for insularity?](https://www.researchgate.net/publication/343135032_A_rare_case_of_saurophagy_by_Scolopendra_cingulata_Chilopoda_Scolopendridae_in_the_central_Aegean_Archipelago_A_role_for_insularity)
 * [2022 - Tanaka, Mato, Fujiya, Furuhashi, Takanosu, Watanabe, Shinjo, Matsumura, Izawa, Yonekawa, Kato - Necrotizing Soft-Tissue Infection of the Trunk Resulting From Wound Caused by a Centipede: A Case Report.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9662074/)
 * [2022 - Yadav, Upadhyay - Centipede Venom Toxins and its Biomedial and Pharmacological Properties](https://journals.innovareacademics.in/index.php/ijpps/article/view/45488/26888)
-* [https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer](https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer)
-* [Ōmukade in der Wikipedia](https://de.wikipedia.org/wiki/%C5%8Cmukade)

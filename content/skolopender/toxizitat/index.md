@@ -30,9 +30,9 @@ In diesen Klauen befinden sich auch die Drüsen, die das Gift produzieren. Die G
 
 Solche Veränderungen in den Zangen und gifttragenden Gliedmaßen sind bei keinem anderen Gliederfüßer zu finden.
 
-{{< internal-ref >}}
+{{<hint info>}}
 [Mehr über die Anatomie von Skolopendern](../anatomie)
-{{< / internal-ref >}}
+{{</hint>}}
 
 ## Allgemeine Giftwirkung
 

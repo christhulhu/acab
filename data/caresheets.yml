@@ -1,7 +1,7 @@
 caresheets:
   - name: Ethmostigmus
     thumbnail: images/ethmostigmus_thumb.png
-    more: "[Mehr über den Genus Ethmostigmus unter Taxonomie](/skolopender/taxonomie/ethmostigmus)"
+    more: "[Mehr über den Genus **Ethmostigmus** unter Taxonomie](/skolopender/taxonomie/ethmostigmus)"
     species:
       - name: Ethmostigmus trigonopodus pygomenasoides
         link: ethmostigmus_trigonopodus_pygomenasoides
@@ -11,21 +11,21 @@ caresheets:
         description: Wunderschöne, bisher nicht beschriebene blaue Art aus Borneo.
   - name: Rhysida
     thumbnail: images/rhysida_thumb.png
-    more: "[Mehr über den Genus Rhysida unter Taxonomie](/skolopender/taxonomie/rhysida)"
+    more: "[Mehr über den Genus **Rhysida** unter Taxonomie](/skolopender/taxonomie/rhysida)"
     species:
       - name: Rhysida longipes
         link: rhysida_longipes
         description: Weit verbreitete kleine Art, die sehr anspruchslos in der Haltung ist.
   - name: Otostigmus
     thumbnail: images/otostigmus_thumb.png
-    more: "[Mehr über den Genus Otostigmus unter Taxonomie](/skolopender/taxonomie/otostigmus)"
+    more: "[Mehr über den Genus **Otostigmus** unter Taxonomie](/skolopender/taxonomie/otostigmus)"
     species: 
       - name: Otostigmus sp. "Cameroon Violet"
         link: otostigmus_sp_cameroon_violet
         description: Markante, kleine Art, die häufig als Rhysida verkauft wurde.
   - name: Scolopendra
     thumbnail: images/scolopendra_thumb.png
-    more: "[Mehr über den Genus Scolopendra unter Taxonomie](/skolopender/taxonomie/scolopendra)"
+    more: "[Mehr über den Genus **Scolopendra** unter Taxonomie](/skolopender/taxonomie/scolopendra)"
     species:
       - name: Scolopendra dehaani
         link: scolopendra_dehaani

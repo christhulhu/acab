@@ -12,9 +12,9 @@ Obschon Hundertfüßer eigentilch sehr versteckt in Naturgebieten wie Wäldern o
 
 Selbst in Deutschland scheint man nicht ganz sicher, 2017 wurde ein Biss durch Scolopendra morsitans beschrieben, der als blinder Passagier aus dem Urlaub mitgebracht wurde, und einen Nachbarn verletzt hat.[^2017-decker]
 
-{{< internal-ref >}}
+{{<hint info>}}
 [Mehr über das Gift von Skolopendern](../toxizitat)
-{{< / internal-ref >}}
+{{</hint>}}
 
 ## Betrachtung in Medizin und Forschung
 
@@ -55,7 +55,7 @@ Als Lebensmittel werden in China bestimmte große Hundertfüßer konsumiert, in 
     title="Omukade"
     attr="Quelle: Fandom"
     attrlink="https://animals-are-cool.fandom.com/wiki/%C5%8Cmukade"
-    class="fig-right"
+    class="fig-left"
     width=400
 >}}
 
@@ -64,6 +64,8 @@ Als Lebensmittel werden in China bestimmte große Hundertfüßer konsumiert, in 
 In vielen Erzählungen wird Ōmukade als monströses Wesen beschrieben, das eine beeindruckende Größe und tödliche Klauen besitzt. Seine giftigen Bisse und seine schnelle Beweglichkeit machen es zu einem Schrecken für Reisende und Helden gleichermaßen. Ōmukade wird oft als Symbol für Herausforderungen und Prüfungen gesehen, die auf dem Weg zu einem Ziel überwunden werden müssen.
 
 Trotz seiner schaurigen Darstellung in der Folklore hat Ōmukade auch in der Popkultur Einzug gehalten, insbesondere in Filmen, Büchern und Videospielen. In einigen Interpretationen wird diese mythische Kreatur als eine Art Test angesehen, den Helden bestehen müssen, um ihre wahre Stärke zu zeigen oder um eine wichtige Lektion zu lernen.[^wikipedia-omukade]
+
+{{<clearfix>}}
 
 ### Maya
 
@@ -96,14 +98,18 @@ Im April 2019 wurde sogar ein britisches Platten-Label mit dem Namen [Scolopendr
 
 ### Tattoo
 
-Das Motiv des Hundertfüßers hat in japanischer Kunst immer wieder Verwendung gefunden. Aus der traditionellen Kunst ging das Motiv auch in die japanische Tattoo-Kunst über. So ist es wenig verwunderlich, dass es auch Studios mit Bezug zu Skolopendern gibt, wie etwa [Scolopender Tattoo](https://www.facebook.com/scolopendertattoo) aus Italien.
-
 {{< figure 
     src="./images/scolopendra_tattoo.jpg"
     alt="Scolopendra tattoo"
     title="Scolopendra Tattoo"
     attr="gestochen von Csaba Mullner"
+    class="fig-left"
 >}}
+Das Motiv des Hundertfüßers hat in japanischer Kunst immer wieder Verwendung gefunden. Aus der traditionellen Kunst ging das Motiv auch in die japanische Tattoo-Kunst über. So ist es wenig verwunderlich, dass es auch Studios mit Bezug zu Skolopendern gibt, wie etwa [Scolopender Tattoo](https://www.facebook.com/scolopendertattoo) aus Italien.
+
+
+
+{{<clearfix>}}
 
 [^2014-coltman]: 2014 - Coltman - A Study Of Classic Maya Cave Iconography
 [^2018-ciura]: 2018 - Ciura - The Centipede in the Maya Art and Culture

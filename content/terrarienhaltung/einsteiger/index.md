@@ -39,7 +39,7 @@ Derweil erfahrene Halter das Verhalten ihrer Tiere kennen und einschätzen könn
 Sollte man kein Glassterrarium für die Unterbringung wählen, etwas aus Gewichtsgründen, oder weil der Skolopender noch im Wachstum ist, und noch nicht die passende Größe für sein finales Terrarium erreicht hat, so bieten sich Plastikdosen mit fest verschließendem Deckel, wie etwa die bekannten BraPlast-Dosen, oder mit Verschlussclips für den Deckel an.
 
 {{<hint info>}}
-Mehr Informationen zur optimalen Größe und den Anforderungen an ein Terrarium findet sich auf der [entsprechenden Unterseite](../terrarium/).
+Mehr Informationen zur optimalen Größe und den Anforderungen an ein [Terrarium für Skolopender](../terrarium/).
 {{</hint>}}
 
 {{<clearfix>}}
@@ -117,7 +117,7 @@ Scolopendra cingulata aus Israel
 >}}
 **Scolopendra morsitans** ist eine kosmopolitische Art, die in allen subtropischen und tropischen Regionen vorkommt. Allerdings findet sie sogar Verbreitung in mediterranen Gebieten und teilt sich zuweilen die gleichen Habitate wie **Scolopendra cingulata**, beispielsweise in der Türkei findet man beide Arten.
 
-Entsprechend sind **Scolopendra morsitans** anpassungsfähig und robust in der Haltung. Lediglich bei zu viel Feuchtigkeit in Luft und Substrat neigt die Art gerne zu Mykose, weswegen man sie etwas trockener halten sollte.
+Entsprechend sind **Scolopendra morsitans** anpassungsfähig und robust in der Haltung. Lediglich bei zu viel Feuchtigkeit in Luft und Substrat neigt die Art gerne zu [Mykose](/krankheiten), weswegen man sie etwas trockener halten sollte.
 
 {{<clearfix>}}
 

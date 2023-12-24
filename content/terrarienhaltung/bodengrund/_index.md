@@ -20,7 +20,66 @@ Meist besteht der richtige Bodengrund für Skolopender in der Terrarienhaltung n
 Auf das eigentliche Substrat sollte man zusätzlich **Laub** auslegen. Dies dient der Feuchtigkeitsspeicherung im Substrat selber, imitiert den natürlichen Lebensraum des Tieres und dient zuweilen gar als Nahrung für manche Arten.  
 Geeignetes Laub kommt z.B. von **Buche** oder **Eiche**.
 
-Da die meisten Skolopender grabende Bodenbewohner sind, sollte die Substrathöhe dieser Lebensweise gerecht werden. 
+Da die meisten Skolopender grabende Bodenbewohner sind, sollte die Substrathöhe dieser Lebensweise gerecht werden.
+
+## Gute Bestandteile für Bodengrund
+
+### Torf
+
+Toft ist Bodengrund aus zersetzten Pflanzen aus Hochmoren. Im Weißtorf ist mehr unzersetztes Torfmoos, das eine bessere Wasserspeicherung ermöglicht. Allerdings ist Weißtorf mit einem pH-Wert von 3-4 auch sauer. Schwarztorf ist älter als Weißtorf und findet sich in tieferen Bodenschichten. Im Schwarztorf sind keine Pflanzenreste mehr erkennbar, da die Zersetzung weiter fortgeschritten ist.
+
+Torf eignet sich hervorragend zur Haltung von Skolopendern, weil es im Gegensatz zu Humus keine Trauermücken anzieht. Gemischt mit Sand und Lehmpulver ist es trocken und nicht komplett hydrophob, hält die Feuchtigkeit gut und bleibt sowohl nass als auch trocken grabfähig.
+
+{{<clearfix>}}
+
+### Humus
+
+{{< figure 
+    src="./images/substrat_humus.jpg" 
+    title="Wald-Humus für Tausendfüßer" 
+    class="fig-left"  
+    width="400px" 
+>}}
+
+Wie auch Torf ist Humus ein Bodengrund aus zersetzten Pflanzen. Für Skolopender eignet sich am besten Wald-Humus aus Buchen- oder Eichen-Wäldern. Es gibt jedoch auch dedizierten Wald-Humus für Asseln oder Tausendfüßer, der durchaus auch für Hundertfüßer geeignet ist.
+
+Kleiner Hinweis: Kauft man nicht-sterilisierten Humus, können aus diesem Bodengrund ungebetene Gäste ins Terrarium wandern. Asseln, Geophilomorpha und ähnliches kann Eier in dem Humus abgelegt haben, die im Terrarienklima schlüpfen und gedeihen. In der Regel stellen diese Gäste jedoch kein Problem im Zusammenleben mit dem Skolopender dar.
+
+{{<clearfix>}}
+
+### Wald- oder Gartenerde
+
+Bodengrund aus dem Wald- oder Garten kann nur mit einigen Hinweisen empfohlen werden:
+
+- Entnahme von Bodengrund oder Pflanzen aus dem Wald sollte in Maßen und respektvoll erfolgen! Es ist immer noch ein Lebensraum für Tiere, den man so wenig wie möglich stören sollte! Außerdem stehen viele Tier- und Pflanzenarten unter Schutz und dürfen nicht entnommen werden. Darum sollte man verantwortungsvoll mit der Ressource Wald umgehen!
+- Im Waldboden leben diverse Organismen! Von mikroskopisch kleinen Bodenbewohner hin zu Hundertfüßer (Geophilomorpha, Lithobiomorpha), Asseln, Spinnen und auch Ameisen. Diese nimmt man mit in sein Terrarium! Wo ein gutes Ökosystem im Terrarium häufig durch eine "Bodenpolizei" aus Springschwänzen und Asseln ergänzt wird, sollte man sich dennoch bewusst sein, dass nicht alles für das Haustier gut ist. Gerade eingeschleppte Ameisen oder andere Hundertfüßer können juvenilen Skolopendern auch Schaden zufügen.
+
+Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute sterilisieren die Erde im Tiefkühlschrank oder im Backofen, bevor sie diesen Bodengrund verwenden. Andere schwören auf die Zusammensetzung und das Ökosystem.
+
+{{<hint info>}}
+Mehr zu den [Mitbewohnern im Terrarium](../mitbewohner).
+{{</hint>}}
+
+{{<clearfix>}}
+
+### Lehm
+
+Obschon nicht für alle Skolopender geeignet, ist für einige Arten Lehm ein großer Bestandteil des natürlichen Habitats. Beispielsweise **Scolopendra dehaani** aus Vietnam lebt u.a. in lehmreichen Gebieten. Darum sollte für manche Arten Lehm einen Teil des Substrates ausmachen.
+
+{{<clearfix>}}
+
+### Sand
+
+{{< figure 
+  src="./images/substrat_sand.jpg" 
+  title="Sand" 
+  class="fig-left"  
+  width="400px" 
+>}}
+
+Auch wenn nur einige Arten aus Wüstenregionen (z.B. **Scolopendra heros** oder **Scolopendra polymorpha** aus Arizona) einen Bodengrund mit hohem Sand-Anteil benötigen, so hilft dieser Bestandteil bei der Auflockerung des Bodengrundes und verbessert die Wasserleitfähigkeit. 
+
+{{<clearfix>}}
 
 ## Nicht tauglich als Bodengrund
 
@@ -42,40 +101,3 @@ Darum sollte man Terrarien-Erde _nur_ verwenden, wenn man ganz sicher ist, dass 
 ### Blumenerde
 
 Die meiste Blumenerde ist mit Düngemitteln angereichert, damit Pflanzen darin besser wachsen. Je nach Art des Düngers sind die Inhaltsstoffe jedoch schädlich für Terrarientiere. 
-
-## Gute Bestandteile für Bodengrund
-
-### Torf
-
-Toft ist Bodengrund aus zersetzten Pflanzen aus Hochmoren. Im Weißtorf ist mehr unzersetztes Torfmoos, das eine bessere Wasserspeicherung ermöglicht. Allerdings ist Weißtorf mit einem pH-Wert von 3-4 auch sauer. Schwarztorf ist älter als Weißtorf und findet sich in tieferen Bodenschichten. Im Schwarztorf sind keine Pflanzenreste mehr erkennbar, da die Zersetzung weiter fortgeschritten ist.
-
-Torf eignet sich hervorragend zur Haltung von Skolopendern, weil es im Gegensatz zu Humus keine Trauermücken anzieht. Gemischt mit Sand und Lehmpulver ist es trocken und nicht komplett hydrophob, hält die Feuchtigkeit gut und bleibt sowohl nass als auch trocken grabfähig.
-
-### Humus
-
-{{< figure src="/img/substrat_humus.jpg" title="Wald-Humus für Tausendfüßer" class="fig-right"  width="400px" >}}
-
-Wie auch Torf ist Humus ein Bodengrund aus zersetzten Pflanzen. Für Skolopender eignet sich am besten Wald-Humus aus Buchen- oder Eichen-Wäldern. Es gibt jedoch auch dedizierten Wald-Humus für Asseln oder Tausendfüßer, der durchaus auch für Hundertfüßer geeignet ist.
-
-Kleiner Hinweis: Kauft man nicht-sterilisierten Humus, können aus diesem Bodengrund ungebetene Gäste ins Terrarium wandern. Asseln, Geophilomorpha und ähnliches kann Eier in dem Humus abgelegt haben, die im Terrarienklima schlüpfen und gedehien. In der Regel stellen diese Gäste jedoch kein Problem im Zusammenleben mit dem Skolopender dar.
-
-### Wald- oder Gartenerde
-
-Bodengrund aus dem Wald- oder Garten kann nur mit einigen Hinweisen empfolen werden:
-
-- Entnahme von Bodengrund oder Pflanzen aus dem Wald sollte in Maßen und respektvoll erfolgen! Es ist immernoch ein Lebensraum für Tiere, den man so wenig wie möglich stören sollte! Außerdem stehen viele Tier- und Pflanzenarten unter Schutz und dürfen nicht entnommen werden. Darum sollte man verantwortungsvoll mit der Ressource Wald umgehen!
-- Im Waldboden leben diverse Organismen! Von mikroskopisch kleinen Bodenbewohner hin zu Hundertfüßer (Geophilomorpha, Lithobiomorpha), Asseln, Spinnen und auch Ameisen. Diese nimmt man mit in sein Terrarium! Wo ein gutes Ökosystem im Terrarium häufig durch eine "Bodenpolizei" aus Springschwänzen und Asseln ergänzt wird, sollte man sich dennoch bewusst sein, dass nicht alles für das Haustier gut ist. Gerade eingeschleppte Ameisen oder andere Hundertfüßer können juvenilen Skolopendern auch Schaden zufügen.
-
-Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute sterilisieren die Erde im Tiefkühlschrank oder im Backofen, bevor sie diesen Bodengrund verwenden. Andere schwören auf die Zusammensetzung und das Ökosystem. 
-
-### Lehm
-
-Obschon nicht für alle Skolopender geeignet, ist für einige Arten Lehm ein großer Bestandteil des natürlichen Habitats. Beispielsweise Scolopendra dehaani aus Vietnam lebt u.a. in lehmreichen Gebieten. Darum sollte für manche Arten Lehm einen Teil des Substrates ausmachen.
-
-### Sand
-
-{{< figure src="/img/substrat_sand.jpg" title="Sand" class="fig-right"  width="300px" >}}
-
-Auch wenn nur einige Arten aus Wüstenregionen (z.B. Scolopendra heros) einen Bodengrund mit hohem Sand-Anteil benötigen, so hilft dieser Bestandteil bei der Auflockerung des Bodengrundes und verbessert die Wasserleitfähigkeit. 
-
-

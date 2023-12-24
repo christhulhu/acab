@@ -10,6 +10,10 @@ weight: 200
 Je nach Art weisen Skolopender eine vielfältige Lebensweise auf. Die meisten Arten bevorzugen ein bodenbewohnendes Leben und verbringen viel Zeit vergraben. Einige von ihnen sind äußerst zurückgezogen und verstecken sich geschickt, wie **Rhysida longipes**, wodurch sie selten im Terrarium zu sehen sind und man lediglich die Erde in ihrem Behälter bewundern kann.  
 Im Gegensatz dazu gibt es Arten wie **Scolopendra dehaani**, die vergleichsweise aktiv sind, sich gerne zeigen und sogar Klettermöglichkeiten nutzen. Einige Skolopenderarten leben arboreal, wie **Scolopendra subcrutalis**, während andere, wie **Scolopendra paradoxa**, semi-aquatisch sind – jede Art erfordert spezifisches Know-how und Aufmerksamkeit.
 
+{{<hint info>}}
+Mehr Informationen über die [Lebensweise von Skolopendern](/skolopender/lebensweise).
+{{</hint>}}
+
 ## Verhaltensweise
 
 Die Verhaltensweise von Skolopendern ist in der Regel zurückgezogen und versteckt. Viele Arten neigen dazu, eher mit Drohung oder Flucht auf Bedrohungen zu reagieren, anstatt aggressiv anzugreifen. Dennoch gibt es auch nervöse bis äußerst aggressive Arten, die bei Reizung blitzschnell mit einem Angriff reagieren oder aus dem Terrarium abhauen können.
@@ -34,7 +38,7 @@ Skolopender als Terrarientiere sind gelegentlich auf Fachbörsen für Exoten und
 Durch die Schwierigkeit der Nachzucht und der geringen Verbreitung der Tiere im Hobby sind die Preise zuweilen ordentlich. Da bezahlt man schnell für kleine Pedelings von "Malaysian Jewel" seine EUR 250. Auch für Arten aus Ländern mit Exportverboten, wie z.B. **Scolopendra gigantea** aus Südamerika, zahlt man gerne mal über EUR 1000 für ein erwachsenes Tier.  
 Doch es gibt auch kostengünstigere Arten. **Scolopendra dehaani** (Vietnam) bekommt man zwischen EUR 40-60, **Scolopendra cingulata** (Mittelmeerregion) bekommt man zuweilen unter EUR 20. Bei manchen der verbreiteteren Arten bekommt man auch schon mal Jungtiere für etwas mehr als EUR 10.  
 
-{{<hint warning>}}
+{{<hint good>}}
 Wenn man verantwortungsvoll und nachhaltig im Hobby agieren will, sollte man bei günstigen Angeboten für Jungtiere direkt eine größere Anzahl (ca. 5 oder mehr) kaufen und sich gut um die Aufzucht bemühen. So kann man mit den Tieren vielleicht später selber die Nachzucht probieren und zum Artbestand im Hobby beitragen.
 {{</hint>}}
 

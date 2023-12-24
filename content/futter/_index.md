@@ -9,17 +9,19 @@ Skolopender sind primär karnivore Jäger. Auch wenn sie teilweise Beute überw�
 
 ## Allgemeine Warnhinweise
 
-{{< hint "warning" >}}
-Gewisse Futtertiere bergen ein hohes Verletzungsrisiko für den Skolopender. Teilweise unmittelbar, da beispielsweise große Schabenarten wie Gromphadorhina sp. kräftige Beine und spitze Dornen an diesen haben, aber auch lebende Wirbeltiere können sich im Todeskampf durchaus kräftig wehren und den Skolopender verletzen.
+{{<hint "danger">}}
+Gewisse Futtertiere bergen ein hohes Verletzungsrisiko für den Skolopender. Teilweise unmittelbar, da beispielsweise große Schaben-Arten wie **Gromphadorhina sp.** kräftige Beine und spitze Dornen an diesen haben, aber auch lebende Wirbeltiere können sich im Todeskampf durchaus kräftig wehren und den Skolopender verletzen.
+
+**Allgemein ist das Verfüttern von lebenden Wirbeltieren in Deutschland verboten.**
 
 Generell sollten nicht gefressene Futtertiere nach einem Tag wieder aus dem Terrarium entfernt werden, da diese einen Skolopender während und kurz nach der Häutung verletzen können. 
-{{< / hint >}}
+{{</hint>}}
 
 ## Juvenile Skolopender / Pedelings
 
-{{< hint "info" >}}
+{{<hint "info" >}}
 Um Verletzungen der Jungtiere zu vermeiden, aber auch um die Nahrungsaufnahme zu gewährleisten, empfiehlt es sich, juvenile Skolopender mit Totfutter zu versorgen. 
-{{< / hint >}}
+{{</hint>}}
 
 Je nach Art, sind die Jungtiere von Skolopendern gerade mal 2 bis 3cm lang. Mit dieser Größe kann man wohl kaum eine ausgewachsene Schabe mit 4cm verfüttern.
 
@@ -42,35 +44,49 @@ Kleine bis mittelgroße Skolopender kann man mit einer vielzahl Futtertieren ver
 
 ## Große Arten
 
-Für große Skolopender kann man die Menge an Futtertieren von kleinen und mittelgroßen Arten erhöhen und weitere Futtertiere in das Repertoir aufnehmen.
+Für große Skolopender kann man die Menge an Futtertieren von kleinen und mittelgroßen Arten erhöhen und weitere Futtertiere in das Repertoire aufnehmen.
 
 - Große Schaben
 - Wüstenheuschrecken
 
 ## Fleisch und Wirbeltiere
 
-{{< figure src="images/animonda_carny.jpg" title="Animonda CARNY Katzenfutter" width="300" class="fig-right" >}}
-
-Einige Skolopender-Arten sind auch spezialisiert auf Wirbeltiere. So ist bekannt, dass Scolopendra gigantea aktiv auf die Jagd nach Fledermäusen geht. Aber auch andere Arten jagen und verspeisen andere Wirbeltiere wie Mäuse, Frösche oder Schlangen. Darum kann man seinem Skolopender gelegentlich auch Stücke Fleisch oder Mäuse / Ratten verfüttern.
+Einige Skolopender-Arten sind auch spezialisiert auf Wirbeltiere. So ist bekannt, dass **Scolopendra gigantea** aktiv auf die Jagd nach Fledermäusen geht. Aber auch andere Arten jagen und verspeisen andere Wirbeltiere wie Mäuse, Frösche oder Schlangen. Darum kann man seinem Skolopender gelegentlich auch Stücke Fleisch oder Mäuse / Ratten verfüttern.
 
 Aber hierzu gibt es zwei Anmerkungen:
 
-- Nach Möglichkeit Mäuse und Ratten nicht lebend verfüttern! Lebende Nager bieten eine Verletzungsgefahr für den Skolopender!
+- Nach Möglichkeit Mäuse und Ratten nicht lebend verfüttern! Lebende Nager bieten eine Verletzungsgefahr für den Skolopender und das Verfüttern von lebenden Wirbeltieren ist in Deutschland verboten.
 - Nicht verzehrte Futterreste von Wirbeltieren sollten alsbald auch wieder aus dem Terrarium entfernt werden, um Schimmel, Bakterien und ziemlich üblen Geruch zu vermeiden.
 
 **Katzennassfutter**
 
+{{<figure 
+    src="images/animonda_carny.jpg" 
+    title="Animonda CARNY Katzenfutter" 
+    width="400" 
+    class="fig-left" 
+>}}
+
 Eine gute Alternative zu Frischfleisch oder Wirbeltieren stellt Katzenassfutter dar. Marken mit hohem Fleischanteil (über 70%, beispielsweise die Marken **Animonda CARNY**) enthalten alle Nährstoffe, die ein Skolopender braucht, birgt keinerlei Verletzungsgefahr und eignet sich gleichsam zum Aufpäppeln von schwachen oder verletzten Hundertfüßern, beispielsweise nach Fehlhäutungen oder bei Verletzungen der Klauen oder Mundwerkzeuge.
 
-{{< clearfix >}}
+{{<clearfix>}}
 
 ## Obst
 
-{{< figure src="images/subspinipes_banane.jpg" title="Scolopendra subspinipes Pedeling frisst Banane" attr="{{< contributors/marcel >}}" link="images/subspinipes_banane.jpg" width="300" class="fig-right" >}}
+{{<figure 
+    src="images/subspinipes_banane_thumb.jpg" 
+    title="Scolopendra subspinipes Pedeling frisst Banane" 
+    attr="{{< contributors/marcel >}}" 
+    link="images/subspinipes_banane.jpg" 
+    width="400" 
+    class="fig-left" 
+>}}
 
-Obschon Skolopender gemeinhin als karnivore Jäger gelten, gab es bereits 1933 Berichte über Scolopendra subspinipes, der sich an Papaya genährt hat.[^1]
+Obschon Skolopender gemeinhin als karnivore Jäger gelten, gab es bereits 1933 Berichte über **Scolopendra subspinipes**, der sich an Papaya genährt hat.[^1]
 
-Gerade subtropische und tropische Arten scheinen also Obst zuweilen nicht abgeneigt. Darum kann man regelmäßig (einmal pro Monat o.ä.) tropisches Obst beifüttern. Bisher zeigte sich gerade **Banane** als äußerst beliebt bei Scolopendra gigantea, aber auch Scolopendra dehaani, Scolopendra subspinipes oder auch dem Mittelmeer-Hundertfüßer Scolopendra cingulata.
+Gerade subtropische und tropische Arten scheinen also Obst zuweilen nicht abgeneigt. Darum kann man regelmäßig (einmal pro Monat o.ä.) tropisches Obst beifüttern. Bisher zeigte sich gerade **Banane** als äußerst beliebt bei **Scolopendra gigantea**, aber auch **Scolopendra dehaani**, **Scolopendra subspinipes** oder auch dem Mittelmeer-Hundertfüßer **Scolopendra cingulata**.
+
+{{<clearfix>}}
 
 Obst, was nach Berichten angenommen wurde:
 
@@ -95,9 +111,9 @@ Aus diesem Grund sollte man die Futtertiere auch ordentlich pflegen, abwechslung
 
 Je nach Futtertierart kann Katzentrockenfutter eine zusätzliche Quelle für Protein darstellen, die wiederum auch den Skolopender zugutekommt. Gleichsam liefern frisches Obst und Gemüse Feuchtigkeit und Vitamine. Weitere Zusätze wie Haferflocken, Spirulina oder spezielles Vitaminfutter für die Futtertiere liefern wichtige Nährstoffe, die schlussendlich gut für unser eigentliches Terrarientier sind.
 
-{{< internal-ref >}}
+{{<hint info>}}
 Wer seine Futtertiere mit einem vollständigen Nährstoff-Cocktail füttern will, findet hier auch ein [Rezept für Futter für Futtertiere](grillenfutter) wie Grillen, Heimchen, etc.
-{{< / internal-ref >}}
+{{</hint>}}
 
 ## Übersicht an nachgewiesen angenommenen Futtertieren
 

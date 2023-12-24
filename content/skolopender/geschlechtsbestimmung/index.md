@@ -34,6 +34,6 @@ Von der Betäubung mit Eiswasser wird allgemein abgeraten, da das Wasser in die 
 Zur Anwendung einer CO2 Betäubung gibt es wiederum unterschiedliche Ansätze. Die allgemein bevorzugte Methode ist über CO2-Katuschen, wie sie in Wasseraufsprudlern (z.B. Sodastream) verwendet werden. Die Methode mit Backpulver ist langwieriger und birgt dadurch weitere Gefahren für das Tier.
 {{</hint>}}
 
-Dennoch ist diese Methode nicht zweifelsfrei, wenn die Unterschiede nicht gut sichtbar ausgeprägt sind. Und in manchen Fällen ist vielleicht eine Geschlechtsunterscheidung möglich, jedoch eine genaue Artunterscheidung unmöglich: Männliche _Scolopendra canidens_ und _Scolopendra cretica_ sind nicht voneinander zu unterscheiden.
+Dennoch ist diese Methode nicht zweifelsfrei, wenn die Unterschiede nicht gut sichtbar ausgeprägt sind. Und in manchen Fällen ist vielleicht eine Geschlechtsunterscheidung möglich, jedoch eine genaue Artunterscheidung unmöglich: Männliche **Scolopendra canidens** und **Scolopendra cretica** sind nicht voneinander zu unterscheiden.
 
 [^4]: [2009 - Schläfer - "Sex determination of living centipedes"](https://hochzeitsfotograf-reneschlaefer.de/Latrodecta_Scolopendomorpha_englisch_30_11_09-2.pdf)

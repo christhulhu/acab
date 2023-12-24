@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-0.1.8
+1.0.0
 
 ## Motivation
 
@@ -69,6 +69,8 @@ Hosted on Github-Pages.
 
 Info: Hier werden nur größere Änderungen protokolliert. Kleinere redaktionelle Änderungen lassen sich im [Git-Log](https://github.com/christhulhu/scolohub.com/commits/main) nachlesen.
 
+* 20??-??-??: 1.0.0
+  * Massive Überarbeitung der bisherigen Informationen, Ergänzungen und Eye-Candy.
 * 2023-12-01: 0.1.8
   * Care-Sheets für Rhysida longipes, S. gracillima
 * 2023-11-29: 0.1.7

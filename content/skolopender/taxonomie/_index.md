@@ -6,9 +6,9 @@ description: Systematik und Taxonomie von Skolopendern.
 
 # Systematik und Taxonomie
 
-{{< hint "info" >}}
+{{<hint "info">}}
 Wissenschaftliche Namen in der Biologie sind nicht ausschließlich lateinisch, obwohl sie oft so bezeichnet werden. Sie basieren auf dem binären Nomenklatursystem, das von Carl Linnaeus (1707-1778) eingeführt wurde, einem schwedischen Naturforscher, der oft als Vater der modernen Taxonomie bezeichnet wird. Dieses System verwendet eine Kombination aus Gattungs- und Artnamen (beide oft in Latein oder Griechisch), um eine eindeutige Bezeichnung für jede Art zu schaffen. Es ist wichtig zu beachten, dass, obwohl viele dieser Namen lateinische Wurzeln haben, sie oft "Lateinisierungen" von Wörtern aus anderen Sprachen sind, einschließlich der Namen von Personen (z.B. Scolopendra dawydoffi) und Orten (z.B. Scolopendra japonica). Daher sind sie nicht streng lateinisch, sondern eine Mischung aus vielen Sprachen, die in einer Weise strukturiert sind, die der lateinischen Grammatik ähnelt.
-{{< / hint >}}
+{{</hint>}}
 
 ## Die Klasse Chilopoda
 
@@ -76,6 +76,6 @@ Unterfamilie **Otostigminae**
 - Stamm **Sterropristini**
   - Gattung **Sterropristes**
 
-In der Terraristik stammen die meisten Tiere aus den Gattungen Scolopendra, Cormocephalus, Alipes, Ethmostigmus und Rhysida. Doch zuweilen findet man auch schon mal andere Gattungen wie Otostigmus.
+In der Terraristik stammen die meisten Tiere aus den Gattungen Scolopendra, Alipes, Ethmostigmus und Rhysida. Doch zuweilen findet man auch schon mal andere Gattungen wie Otostigmus oder Cormocephalus.
 
 [^1]: Schileyko et. all, 2020: "An overview of the extant genera and subgenera of the order Scolopendromorpha (Chilopoda): a new identification key and updated diagnoses"

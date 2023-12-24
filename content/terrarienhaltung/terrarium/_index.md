@@ -9,7 +9,9 @@ weight: 100
 
 ### Sicherheit
 
+{{<hint danger>}}
 Skolopender sind Ausbruchskünstler!
+{{</hint>}}
 
 Darum sollte ein Terrarium für einen Skolopender besonders gesichert sein. Für Anfänger werden keine Terrarien mit Front- oder Falltüren empfohlen, die häufig in der Spinnenhaltung verwendet werden. Vielmehr sollte ein Terrarium für Hundertfüßer von oben zu öffnen sein, damit die flinken Tiere nicht schnell durch die geöffnete Türe abhauen können. Da Hundertfüßer nicht an glatten Flächen klettern können, kann eine Öffnung im Terrariendeckel allerhöchstens erreicht werden, wenn der Skolopender Klettermöglichkeiten hat, oder an der Silikonnaht des Beckens hochklettert.
 
@@ -32,23 +34,29 @@ Eine simple Faustformel für die minimale Terrariengröße ist:
 
 Dabei wird die Höhe bewusst großzügig gestaltet, damit man ausreichend Substrat zum Vergraben bereitstellen kann, und der Skolopender nicht einfach durch die Öffnung im Deckel herausklettern kann.
 
+{{<hint info>}}
+Größenempfehlungen für einige Arten finden sich in unseren [Pflegeanleitungen](/caresheets).
+{{</hint>}}
+
 ## Unterbringung von juvenilen Skolopender
 
 {{< figure 
-    src="/img/terrarium_500ml.jpg"
+    src="./images/terrarium_500ml.jpg"
     alt="Aufzuchtdose 500ml"
     title="Aufzuchtdose 500ml"
-    class="fig-right" 
-    width="300px" 
+    class="fig-left"
+    width="300px"
 >}}
 
 Damit man junge Hundertfüßer nicht aus den Augen verliert - sofern das bei der versteckten Lebensweise der Tiere überhaupt möglich ist - sollte man die Pedelings in kleinen Plastikdosen halten. Dabei gibt es entsprechende Möglichkeiten für die jeweilige Körpergröße der Jungtiere:
 
-- ["Tzatziki-Dosen"](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-250ml), 250ml, Maße ca. 100mm (L) x 75mm (B) x 50mm (H).  
+["**Tzatziki-Dosen**"](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-250ml), 250ml, Maße ca. 100mm (L) x 75mm (B) x 50mm (H).  
 Diese Dosen sind günstig und Belüftungslöcher können mit einer Nadel schnell und einfach selber gemacht werden.  Kosten ca. EUR 0,15.
-- [Heimchendose](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-heimchendose-500ml), 500ml, Maße ca. 110mm (L) x 110mm (B) x 60mm (H).  
+
+[**Heimchendose**](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-heimchendose-500ml), 500ml, Maße ca. 110mm (L) x 110mm (B) x 60mm (H).  
 Eine kostengünstige Alternative, wenn man bereits Heimchen als Futtertiere gekauft und die Dose dadurch eh schon im Haus hat. Ansonsten ca. EUR 0,30.
-- Runde Aufzuchtdosen mit bereits installierter Gaze im Deckel.  
+
+**Runde Aufzuchtdosen mit bereits installierter Gaze im Deckel**.  
 Diese Dosen sind etwas stabiler als die zuvorgenannten Behälter und können in unterschiedlichen Größen gekauft werden. Beispielsweise  
 550ml, ca. 110mm (Durchmesser) x 85mm (H), Kosten ca. EUR 0,90 bei [Kerf.de](https://kerf.de/Aufzuchtdosen-mit-Gaze-im-Deckel-rund-klein) oder EUR 1,30 bei [Insektenliebe.com](https://insektenliebe.com/de/shop/aufzuchtdosen-mit-gaze-im-deckel/)
 
@@ -62,6 +70,14 @@ Weiterhin sollte man die Haltungsparameter der individuellen Art beachten. Bei k
 
 ## Unterbringung von adulten Skolopendern
 
+{{< figure
+    src="../einsteiger/images/terrarium_reptiplanet.jpg"
+    alt="ReptiPlanet Terrarium"
+    title="ReptiPlanet Terrarium"
+    attr="Insektenliebe.de"
+    attrlink="https://insektenliebe.com/de/produkt/reptiplanet-terrarium/"
+    class="fig-left"
+>}}
 Für kleine und mittelgroße Arten gibt es mittlerweile kommerzielle Terrarien mit Schiebedeckel, beispielsweise von ReptiPlanet in den Größen 20cm (L) x 20cm (B) x 20cm (H) (ca. EUR 40,-) oder 30cm (L) x 30cm (B) x 30cm (H) (ca. EUR 55,-).  (Beispiel [ReptiPlanet Terrarium bei Insektenliebe.com](https://insektenliebe.com/de/shop/reptiplanet-terrarium/))  
 Solche Terrarien mit Schiebedeckel lassen sich allerdings auch kostengünstig aus Aquarien selberbauen.
 
@@ -69,5 +85,6 @@ Natürlich kann man auch größere Plastikbehälter mit Deckel für die Haltung 
 
 Für manche arboreale oder semi-aquatische Arten kann die Gestaltung eines vollständigen Paludarium sinnvoll sein und einen Blickfang in der Wohnung bieten.
 
+{{<clearfix>}}
 ---
 {{< no-affiliate >}}

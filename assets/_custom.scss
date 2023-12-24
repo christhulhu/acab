@@ -26,6 +26,12 @@ img {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
+.img-round {
+    img {
+        border-radius: 100%;
+    }
+}
+
 .wa-image {
     img {
         box-shadow: none;
@@ -84,7 +90,7 @@ h2 {
     .section_thumbnail {
         border-radius: 100%;
         //flex-basis: content;
-        width: 150px;
+        width: 200px;
     }
     .species_title {
         text-align: left;
@@ -113,11 +119,7 @@ h2 {
     }
     .section_footer {
         a {
-            font-size: 0.8em;
-            border: solid 1px #ccc;
-            background-color: #fff;
-            border-radius: 0.5em;
-            padding: 0.5em;
+            &::after { content: " ⇨"}
         }
     }
 }
@@ -146,11 +148,6 @@ h2 {
         padding-left: 0.5em;
     }
     .more a {        
-        //border: solid 2px #CCC;
-        //background-color: rgba(200,200,200, 0.3);
-        //padding: 0.5em;
-        //border-radius: 0.3em;
-        font-weight: bold;
         &::after { content: " ⇨"}
     }
 }

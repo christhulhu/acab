@@ -19,11 +19,29 @@ Gregarinen sind Protozoen die vorwiegend Wirbellose, besonders Insekten und ande
 
 ### Kokzidien
 
-{{< figure src="images/dehaani_oozysten_1.jpg" link="images/dehaani_oozysten_1.jpg" title="Kot von Scolopendra dehaani mit Adelina spp Oozysten" attr="{{< contributors/marcel >}}" class="fig-right"  width="400px" >}}
+{{<figure 
+    src="images/dehaani_oozysten_1_thumb.jpg" 
+    link="images/dehaani_oozysten_1.jpg" 
+    title="Kot von Scolopendra dehaani mit Adelina spp Oozysten" 
+    attr="{{< contributors/marcel >}}"
+    class="fig-left"  
+    width="400px" 
+>}}
 
 Coccidia, auch als Kokzidien bezeichnet, sind parasitäre Einzeller, die die Darmwand von Tieren, einschließlich Menschen (wenn auch selten), infizieren können. Bei Skolopendern nachgewiesene Kokzidien beschränken sich auf die Familie der Adeleidae, die die Epithelzellen der mittleren Region des Mitteldarms besiedeln und sich intrazellulär entwickeln. Auch bei diesen Protozoen findet ein komplexer Lebenszyklus statt, der asexuelle und sexuelle Vermehrungsphasen umfasst. Die asexuelle Phase findet in den Darmzellen des Wirts statt, während die sexuelle Vermehrung in der Regel außerhalb des Darmtrakts stattfindet. Infektiöse Stadien werden in der Regel über den Kot ausgeschieden [^1]. Darüber, wie sich Skolopender infizieren, ist wenig bekannt. Jedoch ist davon auszugehen, dass Neuinfektionen entweder durch Aufnahme der infektiösen Stadien (Oozysten) über den Kot oder über den Verzehr infizierter Tiere stattfinden. Eine feuchte Umgebung könnte dabei die Übertragung begünstigen. Die Oozysten der Kokzidien sind sehr widerstandsfähig und können im Erdboden sowie Kot über sehr lange Zeit infektiös bleiben.
 
-{{< figure src="images/dehaani_oozysten_2.jpg" link="images/dehaani_oozysten_2.jpg" title="Kot von Scolopendra dehaani mit Adelina spp Oozysten" attr="{{< contributors/marcel >}}">}}
+{{<clearfix>}}
+
+{{<figure 
+    src="images/dehaani_oozysten_2_thumb.jpg" 
+    link="images/dehaani_oozysten_2.jpg" 
+    title="Kot von Scolopendra dehaani mit Adelina spp Oozysten" 
+    attr="{{< contributors/marcel >}}"
+    width="400px"
+    class="fig-left"
+>}}
+
+{{<clearfix>}}
 
 ## Behandlung
 

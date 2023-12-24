@@ -15,9 +15,9 @@ Skolopender haben einen schlanken bis mäßig gedrungenen Körper, der sich in i
 Der Kopf eines Skolopenders besteht aus dem dorsalen **Kopfschild** und den ventralen **Clypeus** (_Stirnplatte_) und dem **Kopfpleurit**. Vorne befinden sich die **Antennen**, deren Grundglieder häufig kahl sind. Meist bestehen die Antennen aus 17 kugelförmigen Gliedern. Seitlich vorne, etwas hinter den Antennen, befinden sich die 4 **Ocellen** (_Augen_).
 Ventral befinden sich am Kopf die **Mandibeln** (zum _Mundwerkzeug_ umgewandeltes 3. Beinpaar) und **Maxillen** (_Mundwerkzeuge_). Diese sind meist von den **Maxillipeden** (_Kieferfüße_) überdeckt. Diese vermeintlichen Mundwerkzeuge sind umgewandelte Beine, in denen auch die Giftdrüsen von Skolopendern sitzen. Ein "Biss" ist eigentlich kein Biss im wörtlichen Sinne, sondern ein "Greifen" mit den Giftklauen.
 
-{{< internal-ref >}}
+{{<hint info>}}
 [Mehr über die Giftklauen und das Gift von Skolopendern](../toxizitat)
-{{< / internal-ref >}}
+{{</hint>}}
 
 Die **Maxillipeden** werden nicht zu den Beinpaaren gezählt. Neben den 20 Laufbeinen haben Skolopender als 21. Beinpaar die sogenannten **Schleppläufe** oder Endbeine, die nicht zur Fortbewegung dienen. Sie erfüllen andere Zwecke, wie Feindabwehr oder auch Kommunikation in der Paarung. Manche Arten verfügen über sogenannte Autonomie und können die Schleppbeine bei Bedrohung abwerfen oder Stridulationsgeräusche damit verursachen.
 
@@ -66,62 +66,107 @@ Scolopendra morsitans
 
 ## Fotos von anatomischen Details
 
-{{<  columns >}}
-
 ### Ocelli
-[![Ocelli](./images/foto_ocelli_thumb.jpg)](./images/foto_ocelli.jpg)
+{{<figure
+    alt="Ocelli"
+    src="./images/foto_ocelli_thumb.jpg"
+    link="./images/foto_ocelli.jpg"
+    width="400px"
+    title="Ocelli von Scolopendra subspinipes"
+    attr="{{<contributors/marcel>}}"
+    class="fig-left"
+>}}
+Die Punktaugen von Scolopendra subspinipes.
+{{<clearfix>}}
 
-Ocelli von Scolopendra subspinipes.
-<--->
 ### Antennen
-
-[![Antennen](./images/foto_antennen_thumb.jpg)](./images/foto_antennen.jpg)
-
+{{<figure
+    alt="Antennen"
+    src="./images/foto_antennen_thumb.jpg"
+    link="./images/foto_antennen.jpg"
+    width="400px"
+    title="Antennen von Scolopendra subspinipes"
+    attr="{{<contributors/marcel>}}"
+    class="fig-left"
+>}}
 Antennen von Scolopendra subspinipes. Man erkennt deutlich die kahlen Segmente in Richtung Kopfplatte, und die behaarten Segmente weiter entfernt vom Körper.
+{{<clearfix>}}
 
-{{< / columns >}}
-
-{{<  columns >}}
 ### Maxillipeden
-[![Maxillipeden](./images/foto_maxillipeden_thumb.jpg)](./images/foto_maxillipeden.jpg)
-
+{{<figure
+    alt="Maxillipeden"
+    src="./images/foto_maxillipeden_thumb.jpg"
+    link="./images/foto_maxillipeden.jpg"
+    width="400px"
+    title="Antennen von Scolopendra gigantea"
+    attr="{{<contributors/alessandro>}}"
+    class="fig-left"
+>}}
 Maxillipeden und Zahnplatte von Scolopendra gigantea.
-
-<--->
+{{<clearfix>}}
 
 ### Tergite
-
-[![Tergite](./images/foto_tergite_thumb.jpg)](./images/foto_tergite.jpg)
-
+{{<figure
+    alt="Tergite"
+    src="./images/foto_tergite_thumb.jpg"
+    link="./images/foto_tergite.jpg"
+    width="400px"
+    title="Tergite von Scolopendra subspinipes"
+    attr="{{<contributors/marcel>}}"
+    class="fig-left"
+>}}
 Tergite von Scolopendra subspinipes.
-{{< / columns >}}
+{{<clearfix>}}
 
-{{<  columns >}}
 ### Prefemuralbedornung
-[![Prefemuralbedornung](./images/foto_prefemuralbedornung_thumb.jpg)](./images/foto_prefemuralbedornung.jpg)
-
+{{<figure
+    alt="Prefemuralbedornung"
+    src="./images/foto_prefemuralbedornung_thumb.jpg"
+    link="./images/foto_prefemuralbedornung.jpg"
+    width="400px"
+    title="Prefemuralbedornung von Scolopendra subspinipes"
+    attr="{{<contributors/marcel>}}"
+    class="fig-left"
+>}}
 Prefemuralbedornung von Scolopendra subspinipes.
+{{<clearfix>}}
 
-<--->
-
-### Prefemuralbedornung
-[![Prefemuralbedornung](./images/foto_prefemuralbedornung_ethmostigmus_thumb.jpg)](./images/foto_prefemuralbedornung_ethmostigmus.jpg)
-
+{{<figure
+    alt="Prefemuralbedornung"
+    src="./images/foto_prefemuralbedornung_ethmostigmus_thumb.jpg"
+    link="./images/foto_prefemuralbedornung_ethmostigmus.jpg"
+    width="400px"
+    title="Prefemuralbedornung von Ethmostigmus trigonopodus"
+    attr="{{<contributors/christian>}}"
+    class="fig-left"
+>}}
 Prefemuralbedornung und Coxopleuralfortsätze von Ethmostigmus trigonopodus.
-{{< / columns >}}
+{{<clearfix>}}
 
-{{<  columns >}}
 ### Stigmen
-[![Stigmen](./images/foto_stigmen_pleura_ethmostigmus_thumb.jpg)](./images/foto_stigmen_pleura_ethmostigmus.jpg)
-
+{{<figure
+    alt="Stigmen"
+    src="./images/foto_stigmen_pleura_ethmostigmus_thumb.jpg"
+    link="./images/foto_stigmen_pleura_ethmostigmus.jpg"
+    width="400px"
+    title="Stigmen von Ethmostigmus trigonopodus"
+    attr="{{<contributors/christian>}}"
+    class="fig-left"
+>}}
 Pleuren und Stigmen von Ethmostigmus trigonopodus. Man erkennt die fehlenden Klappen und die eher ovale bis runde Form der Öffnungen.
-<--->
-### Stigmen
-[![Stigmen](./images/foto_stigmen_pleura_scolopendra_thumb.jpg)](./images/foto_stigmen_pleura_scolopendra.jpg)
+{{<clearfix>}}
 
+{{<figure
+    alt="Stigmen"
+    src="./images/foto_stigmen_pleura_scolopendra_thumb.jpg"
+    link="./images/foto_stigmen_pleura_scolopendra.jpg"
+    width="400px"
+    title="Stigmen von Scolopendra cingulata"
+    attr="{{<contributors/christian>}}"
+    class="fig-left"
+>}}
 Pleuren und Stigmen von Scolopendra cingulata. Die Stigmen sind eher dreieckig und haben klappenarrtige Umrandungen.
-
-{{< / columns >}}
+{{<clearfix>}}
 
 ## Funktion der Schleppläufe
 

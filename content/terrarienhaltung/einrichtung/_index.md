@@ -5,10 +5,17 @@ weight: 300
 
 # Einrichtung im Terrarium
 
-Eigentlich legen Skolopender keinen besonderen Anspruch auf die Einrichtung im Terrarium. Doch es gibt Ausnahmen. Einige Arten klettern gerne, leben gar arborikol. Andere Arten leben semi-aquatisch und man muss zur Haltung fast ein Paludarium einrichten.  
+Eigentlich legen Skolopender keinen besonderen Anspruch auf die Einrichtung im Terrarium. Doch es gibt Ausnahmen. Einige Arten klettern gerne, leben gar arboreal. Andere Arten leben semi-aquatisch und man muss zur Haltung fast ein Paludarium einrichten.  
 Dennoch gibt es ein paar grundsätzliche Einrichtungshinweise, die weitestgehend für alle Skolopender gelten.
 
 ## Verstecke
+
+{{< figure 
+  src="./images/korkrinde.jpg" 
+  title="Korkrinde" 
+  class="fig-left"  
+  width="300px" 
+>}}
 
 Die meisten Skolopender leben als Bodenbewohner. Meist versteckt und vergraben. Darum sollten ausreichend geeignete Versteckmöglichkeiten für das Tier vorhanden sein.
 
@@ -37,6 +44,6 @@ Natürlich sollten die Trinkmöglichkeiten so dimensioniert sein, dass der Skolo
 
 ## Klettermöglichkeiten
 
-Nicht alle Skolopender klettern gerne. Es gibt einige Arten, die leben ausschließlich auf oder gar im Boden. Aber es gibt auch einige Arten, die sehr gerne klettern oder gar hauptsächlich auf Bäumen leben. Für diese Arten empfielt sich mindestens das Hinzufügen von Wurzeln oder Ästen in das Terrarium. Wenn nicht sogar das Gestalten einer kompletten Kletter-Rückwand.  
+Nicht alle Skolopender klettern gerne. Es gibt einige Arten, die leben ausschließlich auf oder gar im Boden. Aber es gibt auch einige Arten, die sehr gerne klettern oder gar hauptsächlich auf Bäumen leben. Für diese Arten empfiehlt sich mindestens das Hinzufügen von Wurzeln oder Ästen in das Terrarium. Wenn nicht sogar das Gestalten einer kompletten Kletter-Rückwand.  
 
 Hier sollte jedoch kein falscher Aktionismus vom Halter erfolgen, sondern man sollte sich über die Anforderungen der jeweiligen Art informieren.

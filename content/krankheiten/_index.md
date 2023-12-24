@@ -32,17 +32,26 @@ Wenn man einen großen Bestand hat, ist eine Quarantäne auch für Neuankömmlin
 
 Verletzungen sind bei Skolopendern leider sehr häufig. Angefangen von Wildfängen, die eher ruppig eingefangen wurden, über Tiere, die sich einfach durch ihre ungestüme Art selber an Terrariendekoration verletzt haben hin zu Problemen bei der Häutung, die zu verlorenen Gliedmaßen führten.
 
-Doch sind die meisten Verletzungen kein Problem. Abgerissene Beine oder Antennensegmente verheilen schnell und ohne das Zutun des Halters. Und mit kommenend Häutungen regenieren diese Körperteile auch wieder. Gleiches gilt für abgeworfene Schleppbeine von autonomen Arten wie Alipes oder Rhysida. 
+Doch sind die meisten Verletzungen kein Problem. Abgerissene Beine oder Antennensegmente verheilen schnell und ohne das Zutun des Halters. Und mit kommender Häutungen regenerieren diese Körperteile auch wieder. Gleiches gilt für abgeworfene Schleppbeine von autonomen Arten wie **Alipes** oder **Rhysida**.
 
 Schwerwiegender sind hingegen Verletzungen an Tergiten, Sterniten oder Pleuren. Diese können zwar auch bei einer Häutung wieder repariert werden, doch je nach Intensität der Verletzung besteht durchaus Lebensgefahr für den Hundertfüßer. Eine schnelle und einfache Hilfe für den Halter gibt es aktuell leider nicht...
 
 ## Milben
 
-{{< figure src="images/krankheiten_milben.jpg" title="Schwerer Milbenbefall an S. polymorpha" attr="{{< contributors/alessandro >}}" class="fig-right"  width="400px" link="images/krankheiten_milben.jpg" >}}
+{{<figure 
+    src="images/krankheiten_milben_thumb.jpg" 
+    title="Schwerer Milbenbefall an S. polymorpha"
+    attr="{{< contributors/alessandro >}}" 
+    class="fig-left" 
+    width="400px" 
+    link="images/krankheiten_milben.jpg" 
+>}}
 
 Skolopender scheinen im Vergleich zu anderen Terrarientieren besonders anfällig für Milben zu sein. Und die Haltungsform vieler Arten begünstigt diese kleinen Parasiten zusätzlich. Egal ob Wildfang, der mit Milben bereits in das Terrarium kam, oder durch Übertragung durch andere (Futter-)Tiere, kann die die schiere Anzahl der kleinen Spinnentiere für einen Hundertfüßer schnell zur Gefahr werden: Die Tracheenöffnungen können verstopft werden, und der Skolopender erstickt am Befall.
 
 Im Frühstadium sieht man einen Milbenbefall zunächst am Kopf und an den Übergängen zwischen den ersten Tergiten. Bei einem schweren Befall können gar die kompletten ersten Tergite komplett von Milben befallen sein.
+
+{{<clearfix>}}
 
 Die Behandlung von Milben an Hundertfüßern kann auf unterschiedliche Arten erfolgen:
 
@@ -57,7 +66,14 @@ Als Prävention für Milben empfiehlt sich eine gute Ventilation im Terrarium un
 
 ## Mykose
 
-{{< figure src="images/krankheiten_lethale_mykose.jpg" title="Lethale Mykose an den Maxillipeden von S. morsitans" attr="{{< contributors/christian >}}" class="fig-right"  width="400px" link="images/krankheiten_lethale_mykose.jpg" >}}
+{{<figure 
+    src="images/krankheiten_lethale_mykose_thumb.jpg"
+    title="Lethale Mykose an den Maxillipeden von S. morsitans" 
+    attr="{{< contributors/christian >}}" 
+    class="fig-left"  
+    width="400px" 
+    link="images/krankheiten_lethale_mykose.jpg" 
+>}}
 
 Zu feuchte Haltung und Staunässe kann zu Mykose führen. Das ist eine Pilzinfektion, die sich durch schwarz verfärbte Stellen oder Körperteile bemerkbar macht. Gerade Beine können hier regelrecht abfaulen.
 
@@ -67,13 +83,23 @@ Das größte Problem ist ein Mykosebefall an den Mundwerkzeugen oder Maxillipede
 
 ## Endoparasiten
 
-{{< figure src="endoparasiten/images/dehaani_oozysten_1.jpg" title="Kot dehaani mit Adelina spp Oozysten" attr="{{< contributors/marcel >}}" class="fig-right"  width="400px" >}}
+{{<figure 
+    src="endoparasiten/images/dehaani_oozysten_1_thumb.jpg" 
+    title="Kot dehaani mit Adelina spp Oozysten" 
+    attr="{{< contributors/marcel >}}" 
+    class="fig-left"  
+    width="400px" 
+>}}
 
 Endoparasiten sind Parasiten, die sich innerhalb des Körpers von Hundertfüßern befinden. Das Thema ist komplexer und daher ein eigenes [Kapitel]({{< ref "endoparasiten" >}}) auf dieser Seite.
 
-[Zur Erkennung und Behandlung von Endoparasiten]({{< ref "endoparasiten" >}})
+{{<clearfix>}}
 
-{{< clearfix >}}
+{{<hint info>}}
+[Zur Erkennung und Behandlung von Endoparasiten]({{< ref "endoparasiten" >}})
+{{</hint>}}
+
+
 
 ---
 

@@ -22,7 +22,7 @@ In der Regel werden Klimadiagramme so dargestellt, dass Temperatur und Niedersch
 
 ## Bedeutung in der Haltung von Skolopendern
 
-Ein Verständnis des jeweiligen Klimas hilft bei der artgerechten Haltung von Hundertfüßern. Es gibt sicherlich genug Arten, die innerhalb einer Klimazone leben, die keinen jahreszeitlichen Wechseln unterliegt und permanent humid oder arid leben. Bei anderen Arten ist es jedoch wichtig, dass man einen Wechsel der Jahreszeite simuliert. Gerade Scolopendra cingulata brauchen die Simulation von Wintermonaten, damit eine Verpaarung überhaupt möglich ist. Doch auch hier sind die klimatischen Bedingungen deutlich zu beachten! Wo eine spanische Art vielleicht einen merklichen Winter durchleben möchte, kann eine zpyrische Art ein konstantes Klima bevorzugen.  
+Ein Verständnis des jeweiligen Klimas hilft bei der artgerechten Haltung von Hundertfüßern. Es gibt sicherlich genug Arten, die innerhalb einer Klimazone leben, die keinen jahreszeitlichen Wechseln unterliegt und permanent humid oder arid leben. Bei anderen Arten ist es jedoch wichtig, dass man einen Wechsel der Jahreszeite simuliert. Gerade **Scolopendra cingulata** brauchen die Simulation von Wintermonaten, damit eine Verpaarung überhaupt möglich ist. Doch auch hier sind die klimatischen Bedingungen deutlich zu beachten! Wo eine spanische Art vielleicht einen merklichen Winter durchleben möchte, kann eine zpyrische Art ein konstantes Klima bevorzugen.  
 
 ## Probleme durch ungenaue Herkunftsangaben
 
@@ -38,8 +38,12 @@ Aus einem Klimadiagramm erkennen wir humide und aride Monate. Daraus sollte man 
 
 Doch leider hängt die Bodenfeuchtigkeit noch von anderen Faktoren ab: Zusammensetzung und Beschaffenheit des Bodengrundes, Schutz vor Regen durch Vegetation, etc. 
 
-Schlussendlich muss man auch hier wieder auf Erfahrungswerte zurückgreifen, oder den Bodengrund in feuchte und trockene Zonen aufteilen. Anschließend kann man beobachten, wo sich das Tier am liebsten aufhält und die Parameter anpassen. Doch vorsicht: Dauerhaft feuchtes Substrat oder gar Staunässe birkt die Gefahr von Mykose!
+Schlussendlich muss man auch hier wieder auf Erfahrungswerte zurückgreifen, oder den Bodengrund in feuchte und trockene Zonen aufteilen. Anschließend kann man beobachten, wo sich das Tier am liebsten aufhält und die Parameter anpassen. Doch vorsicht: Dauerhaft feuchtes Substrat oder gar Staunässe birgt die Gefahr von Mykose!
 
 ## Relativierung von Klimainformationen in der Terrarienhaltung
 
-Klimadiagramme sind ein wichtiger Anhaltspunkt für die Haltung von Skolopendern. Allerdings darf man die gewonnenen Informationen auch nicht zu dogmatisch übersetzen. Man muss auch immer die Lebensweise des Tieres mit in die Rechnung nehmen. Und die meisten Hundertfüßer sind bodenbewohnend und vergraben sich gerne. Diese Arten flüchten meist vor den hohen Temperaturen an der Oberfläche in ein kühleres Erdreich. Durch ihre nachtaktive Lebensweise sind die Tiere dazu in der kühleren Tageszeit in ihrem natürlichen Habitat unterwegs. Entsprechend kann man von den Durchschnittstemperaturen des Herkunftslandes durchaus ein paar Grad abziehen, ohne dass der Pflegling daran Schaden nimmt. Eher im Gegenteil, wie man am Beispiel Scolopendra dehaani "Cherry Red" sieht. Diesen hält man am besten bei 18-22°C, derweil in seinem Herkunftsland Malaysia eigentlich eine Durchschnittstemperatur von 23-31°C herrschen.
+Klimadiagramme sind ein wichtiger Anhaltspunkt für die Haltung von Skolopendern. Allerdings darf man die gewonnenen Informationen auch nicht zu dogmatisch übersetzen. Man muss auch immer die Lebensweise des Tieres mit in die Rechnung nehmen. Und die meisten Hundertfüßer sind bodenbewohnend und vergraben sich gerne. Diese Arten flüchten meist vor den hohen Temperaturen an der Oberfläche in ein kühleres Erdreich. Durch ihre nachtaktive Lebensweise sind die Tiere dazu in der kühleren Tageszeit in ihrem natürlichen Habitat unterwegs. Entsprechend kann man von den Durchschnittstemperaturen des Herkunftslandes durchaus ein paar Grad abziehen, ohne dass der Pflegling daran Schaden nimmt. Eher im Gegenteil, wie man am Beispiel **Scolopendra dehaani** "Cherry Red" sieht. Diesen hält man am besten bei 18-22°C, derweil in seinem Herkunftsland Malaysia eigentlich eine Durchschnittstemperatur von 23-31°C herrschen.
+
+{{<hint info>}}
+Mehr Informationen zur Haltung von [Scolopendra dehaani "Cherry Red"](/caresheets/scolopendra_dehaani/cherry_red/) in unseren [Pflegeanleitungen](/caresheets).
+{{</hint>}}
