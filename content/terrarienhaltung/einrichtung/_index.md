@@ -5,13 +5,21 @@ weight: 300
 
 # Einrichtung im Terrarium
 
+{{<figure 
+  src="./images/dekoration-hero.jpg" 
+  alt="Einrichtung eines Beckens für Scolopendra dehaani" 
+  title="Einrichtung eines Beckens für Scolopendra dehaani"
+>}}
+
+
 Eigentlich legen Skolopender keinen besonderen Anspruch auf die Einrichtung im Terrarium. Doch es gibt Ausnahmen. Einige Arten klettern gerne, leben gar arboreal. Andere Arten leben semi-aquatisch und man muss zur Haltung fast ein Paludarium einrichten.  
 Dennoch gibt es ein paar grundsätzliche Einrichtungshinweise, die weitestgehend für alle Skolopender gelten.
 
 ## Verstecke
 
-{{< figure 
+{{<figure 
   src="./images/korkrinde.jpg" 
+  alt="Korkrinde"
   title="Korkrinde" 
   class="fig-left"  
   width="300px" 
@@ -26,6 +34,12 @@ Alternativ können auch andere **Rindenstücke**, beispielsweise aus dem Wald, a
 Flache **Steine** oder **Schiefer** sind als Versteck ebenso möglich. Hier sollte aber darauf geachtet werden, dass diese beim Untergraben keine Verletzungsgefahr für das Tier darstellen. Auch Bruchstücke von **Tontöpfen** für Pflanzen kann man verwenden. 
 
 **Wurzelholz** oder auch **Ast-Stücke** können gleichzeitig als Verstecke dienen, wie sie auch aktiven Arten eine Möglichkeit zum Klettern geben. Gerade Scolopendra dehaani nutzt diese Möglichkeiten sehr gerne.
+
+{{<figure 
+  src="./images/wurzelholz.jpg" 
+  alt="Scolopendra dehaani versteckt sich in Wurzelholz" 
+  title="Scolopendra dehaani versteckt sich in Wurzelholz" 
+>}}
 
 ## Bepflanzung
 
@@ -44,6 +58,14 @@ Natürlich sollten die Trinkmöglichkeiten so dimensioniert sein, dass der Skolo
 
 ## Klettermöglichkeiten
 
+{{<figure 
+  src="./images/klettermoglichkeit.jpg" 
+  alt="Wurzelholz als Klettermöglichkeit für Scolopendra dehaani" 
+  title="Wurzelholz als Klettermöglichkeit für Scolopendra dehaani"
+  width="400"
+  class="fig-left"
+>}}
 Nicht alle Skolopender klettern gerne. Es gibt einige Arten, die leben ausschließlich auf oder gar im Boden. Aber es gibt auch einige Arten, die sehr gerne klettern oder gar hauptsächlich auf Bäumen leben. Für diese Arten empfiehlt sich mindestens das Hinzufügen von Wurzeln oder Ästen in das Terrarium. Wenn nicht sogar das Gestalten einer kompletten Kletter-Rückwand.  
 
 Hier sollte jedoch kein falscher Aktionismus vom Halter erfolgen, sondern man sollte sich über die Anforderungen der jeweiligen Art informieren.
+

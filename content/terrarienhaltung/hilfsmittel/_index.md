@@ -64,5 +64,12 @@ Und wenn man kein passendes Terrarium findet, muss man vielleicht selber basteln
 
 Mit dieser Attitüde findet man auch immer wieder Einsatzzwecke für fast jedweden Lebensmittel-Behälter. Eine spitze Nadel oder ein feiner Lötkolben macht schnell und einfach aus einer Harribo-Dose, einer Röstzwiebel-Dose oder der Verpackung von getrockneten Pilzen aus dem Discounter ein kleines Aufzuchtbecken. 
 
+{{<figure
+    src="images/dyi_terrarium.jpg"
+    alt="DYI Terrarium aus einem Aquarium"
+    title="DYI Terrarium aus einem Aquarium"
+    attr="Gebaut aus einem 30x20x20cm Aquarium mit Aluminium L-Profilen, Sperrholzplatte und Lochblech. Aus dem Altbestand von Christian Gehlen"
+>}}
+
 ---
 {{< no-affiliate >}}

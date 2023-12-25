@@ -86,5 +86,37 @@ Natürlich kann man auch größere Plastikbehälter mit Deckel für die Haltung 
 Für manche arboreale oder semi-aquatische Arten kann die Gestaltung eines vollständigen Paludarium sinnvoll sein und einen Blickfang in der Wohnung bieten.
 
 {{<clearfix>}}
+
+### Plastikboxen
+
+{{<figure
+    src="images/plastikboxen.jpg"
+    alt="Umgebaute Plastikboxen"
+    title="Umgebaute Plastikboxen"
+    attr="Aus dem Altbestand von Christian Gehlen"
+    width="400"
+    class="fig-left"
+>}}
+Im Baumarkt oder Möbelhaus gibt es allerlei Plastikboxen zur Lagerhaltung. Viele dieser Boxen haben praktische Verschlussclips, die den Deckel gegen ein Öffnen durch den Skolopender schützen. Somit eignen sich diese Boxen ideal für die Haltung von Hundertfüßern, obschon sie natürlich nicht sonderlich schön aussehen. Doch die mangelnde Optik wird durch die Funktionalität wieder wett gemacht, in solchen Behältern kann man hervorragend das Feuchtigkeitsniveau halten und kontrollieren. Man muss lediglich die Belüftungslöcher entsprechend der Anforderungen selber in die Box bohren.
+
+Zur Herstellung von Belüftungsfläche kann man entweder die gewünschte Anzahl Belüftungslöcher mit einem Bohrer oder Lötkolben in Dose und Deckel einbringen. Alternativ kann man auch mit einem Cuttermesser größere Belüftungsflächen aus der Dose schneiden, und diese dann mit Lochblech, Streckmetall oder Metalgaze wieder verkleben. Dies kann wiederum mit Heißkleber oder Silikon erfolgen. Oder man brennt eine Gaze mit einem Lötkolben direkt in die Dose ein.
+
+Größere Plastikboxen haben einen Griff am Deckel. Dieser hat in seiner Anbringung eventuell Spaltmaße, die mögliche Ausbruchsstellen für den Skolopender bieten. Darum empfiehlt sich die Entfernung des Griffs, und die Versiegelung der Löcher mit Alugaze oder Streckmetal.
+
+{{<clearfix>}}
+
+### DYI Terrarien aus Aquarien
+
+Aus Aquarien lassen sich mit etwas handwerklichem Geschick und ein paar Werkstoffen aus dem Baumarkt schnell und einfach skolopendersichere Terrarien herstellen. Mit U- oder L-Profilen kann man Führungsschienen für einen Schiebedeckel mit Silikon (Aquarien- oder lebensmittelechtes Küchensilikon) an die Oberseite des Aquariums kleben. Als Deckel kann eine Sperrholzplatte in der geeigneten Stärke herhalten, in die man große Belüftungslöcher reinsägt. Diese werden mit Streckmetal oder Lochblech verklebt, damit der Hundertfüßer nicht ausbrechen kann. 
+
+Weitere L-Profile an dem Schiebedeckel dichten Spaltmaße und eventuelle Ausbruchsstellen ab.
+
+{{<figure
+    src="../hilfsmittel/images/dyi_terrarium.jpg"
+    alt="DYI Terrarium aus einem Aquarium"
+    title="DYI Terrarium aus einem Aquarium"
+    attr="Gebaut aus einem 30x20x20cm Aquarium mit Aluminium L-Profilen, Sperrholzplatte und Lochblech. Aus dem Altbestand von Christian Gehlen"
+>}}
+
 ---
 {{< no-affiliate >}}
