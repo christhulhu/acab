@@ -10,11 +10,11 @@ author:
 
 Um das Gift von Skolopendern existieren viele Mythen. Oftmals wird Hundertfüßern nachgesagt, dass sie extrem gefährlich, gar tödlich seien. Doch sprechen viele Untersuchungen gegen diese Behauptungen.
 
-Alleine in der Türkei werden jährlich an die 5000 Stichverletzungen im Krankenhaus behandelt. Man geht jedoch von einer hohen Dunnkelziffer aus, werden die Tiere dort im allgemeinen nicht für gefährlich gehalten.[^fn-2004-serinken] Auch Untersuchungen aus anderen Regionen, beispielsweise  aus Sao Paolo (Brasilien)[^fn-1998-knysak] oder Hongkong[^fn-2011-fung] sehen die primäre Aufgabe nach einem Skolopenderstich in Wundversorgung und Schmerztherapie.
+Alleine in der Türkei werden jährlich an die 5000 Stichverletzungen im Krankenhaus behandelt. Man geht jedoch von einer hohen Dunkelziffer aus, werden die Tiere dort im allgemeinen nicht für gefährlich gehalten.[^fn-2004-serinken] Auch Untersuchungen aus anderen Regionen, beispielsweise  aus Sao Paolo (Brasilien)[^fn-1998-knysak] oder Hongkong[^fn-2011-fung] sehen die primäre Aufgabe nach einem Skolopenderstich in Wundversorgung und Schmerztherapie.
 
 Unterschiedliche Studien kommen zu dem Schluss, dass ein Skolopenderstich prinzipiell nicht tödlich ist.[^fn-2015-undheim] Den Großteil der Symptome machen lokale Schmerzen aus (71%), bei unter 10% der untersuchten Fälle kam es zu systemischen Symptomen wie Kopfschmerzen, Schwindel, Erbrechen oder Brustschmerzen und Herzrasen.[^fn-2011-fung] Systemische oder ernsthafte lokale Symptome werden entsprechend als "selten" eingestuft[^fn-2015-undheim]; die meisten Stiche aus freier Wildbahn würden gar nicht erst gemeldet. Obwohl alle Hundertfüßer den Ruf haben, gefährlich zu sein, neigen sie eher dazu zu fliehen anstatt anzugreifen.
 
-Obwohl in jüngstern Vergangenheit einige Durchbrüche in der Forschung um die Zusammensetzung von Skolopendergift erreicht wurden, ist es noch weitestgehend unerforscht und viele funktionale Eigenschaften sind weiterhin uncharakterisiert.[^fn-2022-yadav]
+Obwohl in jüngster Vergangenheit einige Durchbrüche in der Forschung um die Zusammensetzung von Skolopendergift erreicht wurden, ist es noch weitestgehend unerforscht und viele funktionale Eigenschaften sind weiterhin uncharakterisiert.[^fn-2022-yadav]
 
 ## Giftapparate
 
@@ -44,7 +44,7 @@ Zusätzlich sind in den Giften noch allergenbezogene Proteine[^fn-2015-undheim] 
 
 ## Zusammensetzung
 
-Die Giftarsenale der Hundertfüßer waren bis vor kurzem größtenteils unbekannt. Fortschritte in der Sequenzierung und Massenspektrometrie haben jedoch detailliertere Einblicke ermöglicht.[^fn-2015-undheim] Hundertfüßergift besteht aus einer Vielzahl von Komponenten mit verschiedenen biochemischen und pharmakologischen Eigenschaften.[^fn-2022-yadav] Allein für Scolopendra dehaani wurden 1122 genetische Sequenzen gefunden, die das Erbgut für 543 verschiedene Proteine codieren, darunter das neue Protein Spooky Toxin SsTx.[^fn-2012-liu] Ein besonderes Protein namens ShSPI wurde im Gift von Scolopendra hainanum entdeckt.[^fn-2019-luan] Undheim (2015) beschreibt 11 Arten von Enzymen aus den Giften von Scolopendromorpha und Scutigeromorpha, die nach bisherigen Erkenntnissen der außerkörperlichen Verdauung von Beute dienen.[^fn-2015-undheim]
+Die Giftarsenale der Hundertfüßer waren bis vor kurzem größtenteils unbekannt. Fortschritte in der Sequenzierung und Massenspektrometrie haben jedoch detailliertere Einblicke ermöglicht.[^fn-2015-undheim] Hundertfüßergift besteht aus einer Vielzahl von Komponenten mit verschiedenen biochemischen und pharmakologischen Eigenschaften.[^fn-2022-yadav] Allein für **Scolopendra dehaani** wurden 1122 genetische Sequenzen gefunden, die das Erbgut für 543 verschiedene Proteine codieren, darunter das neue Protein Spooky Toxin SsTx.[^fn-2012-liu] Ein besonderes Protein namens ShSPI wurde im Gift von **Scolopendra hainanum** entdeckt.[^fn-2019-luan] Undheim (2015) beschreibt 11 Arten von Enzymen aus den Giften von Scolopendromorpha und Scutigeromorpha, die nach bisherigen Erkenntnissen der außerkörperlichen Verdauung von Beute dienen.[^fn-2015-undheim]
 
 Zu den eigentlichen Giftbestandteilen gehören unter anderem zytotoxische Peptidtoxine[^fn-2014-morales], antimikrobiellen und antikarzinogenen Komponenten[^fn-2022-yadav], analgetische Peptide[^fn-2022-yadav], insektizide Moleküle[^fn-2022-yadav] und eine vielzahl weiterer myotoxischer und neurotoxischer Bestandteile.[^fn-2022-yadav]
 
@@ -90,9 +90,9 @@ Ein wenig kontrovers wirken Empfehlungen aus Stichberichten und der Therapie aus
 
 Nachdem Hundertfüßergifte lange Zeit funktionell uncharakterisiert waren, und viele Bestandteile weiterhin unbekannt sind, haben Fortschritte der jüngsten Vergangenheit zu gestiegenem wissenschaftlichen Interesse geführt.[^fn-2022-yadav]
 
-Generell erscheinen verschiedene Peptide (z.B. Scolopendrasin) durch ihre Stabilität und inhärente Anpassungsfähigkeiten an Aminosäuremutationen für weitere Forschungen interessant[^fn-2015-undheim][^fn-2022-yadav], aber auch neuentdeckte Proteine wie ShSPI (Scolopendra hainanum)[^fn-2019-luan] oder das Spooky Toxin (SsTx) (Scolopendra dehaani)[^fn-2012-liu].
+Generell erscheinen verschiedene Peptide (z.B. Scolopendrasin) durch ihre Stabilität und inhärente Anpassungsfähigkeiten an Aminosäuremutationen für weitere Forschungen interessant[^fn-2015-undheim][^fn-2022-yadav], aber auch neuentdeckte Proteine wie ShSPI (**Scolopendra hainanum**)[^fn-2019-luan] oder das Spooky Toxin (SsTx) (**Scolopendra dehaani**)[^fn-2012-liu].
 
-Weiterhin wurden in Scolopendra mutilans antimikrobielle (AMP) und insektizidische Bestandteile gefunden, die für Medizin und biologische Insektizide sowohl auf wissenschaftliches wie auch kommerzielles Interesse stoßen können.[^fn-2022-yadav]
+Weiterhin wurden in **Scolopendra mutilans** antimikrobielle (AMP) und insektizidische Bestandteile gefunden, die für Medizin und biologische Insektizide sowohl auf wissenschaftliches wie auch kommerzielles Interesse stoßen können.[^fn-2022-yadav]
 
 Abseits der Wissenschaft stellten die Gifte von Skolopendern einen Bestandteil für traditionelle Medizin in  China, Indien, Vietnam, Südkorea und Japan,[^fn-2022-yadav] werden für Schmerztherapie, Herzprobleme oder Arthritis eingesetzt.
 

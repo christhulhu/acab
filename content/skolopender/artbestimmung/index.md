@@ -14,6 +14,7 @@ Hinzu kommt jedoch, dass sehr viele Skolopender noch gar nicht beschrieben wurde
 
 Auch passiert es nicht selten, dass Skolopender unter falschem Namen angeboten werden. Gelegentlich passiert das bewusst, um dem Käufer eine seltene Art zu suggerieren, häufig basiert es jedoch schlicht auf Unwissenheit des Verkäufers. Hundertfüßer sind und bleiben einfach eine Nische im Hobby, mit der sich wenige Leute intensiv beschäftigen. Umso wichtiger ist es für jeden ambitionierten Hobbyhalter, dass er sich selber mit Taxonomie und den morphologischen Beschreibungen der Arten auseinander setzt.
 
+<!-- 
 **Beispiel für die kleinen Details, die Artbestimmung bei Skolopendern so schwierig machen**
 {{<columns>}}
 
@@ -22,7 +23,7 @@ Scolopendra morsitans
 ![Scolopendra morsitans](./images/scolopendra_morsitans.jpg)
 
 <--->
-
+<!--
 Scolopendra pomacea
 
 ![Scolopendra polymorpha](./images/scolopendra_pomacea.jpg)
@@ -30,6 +31,6 @@ Scolopendra pomacea
 {{</columns>}}
 
 Auf den ersten Blick sehen Scolopendra polymorpha und Scolopendra pomacea sehr ähnlich aus. Der größte Unterschied ist jedoch die Ringfurche, die bei S. polymorpha abwesend ist. Weiterhin sind die Schleppbeine ein Unterschied. S. polymorpha beginnen recht dünn, werden dann jedoch "keulenartig". S. pomacea hat hingegen lange und dünne Endbeine.
-
+-->
 
 [^5]: Lewis, 2010: "A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus (Chilopoda: Scolopendromorpha: Scolopendridae)"

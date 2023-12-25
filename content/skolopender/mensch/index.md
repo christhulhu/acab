@@ -8,9 +8,9 @@ description:  Die Beziehung zwischen Riesenläufern und Menschen. Kulturelle Ref
 
 ## Stichunfälle
 
-Obschon Hundertfüßer eigentilch sehr versteckt in Naturgebieten wie Wäldern oder Höhlen leben, gibt es immer wieder Überschneidungspunkte mit Menschen. Manchen Arten wie Parotostigmus rex oder Scolopendra gracillima sagt man gar regelrechte Naturfolgung nach. Und auch Scolopendra cingulata ist durchaus schon mal ungebetener Gast in Haus und Grundstück. So sind Stichunfälle gar nicht so selten, alleine in der Türkei werden wohl an die 5000 Stiche jährlich im Krankenhaus behandelt. Da Hundertfüßer dort jedoch als nicht sonderlich gefährlich angesehen werden, soll die Dunkelziffer unbehandelter Stiche deutlich höher liegen.[^fn-2004-serinken]. Auch in anderen Gebieten wie Sao Paolo[^fn-1998-knysak] oder Hong Kong[^fn-2011-fung] werden Behandlungen von Stichen in dreistelliger Zahl genannt, allerdings für einen deutlich größeren Zeitraum von ca. 10 Jahren.
+Obschon Hundertfüßer eigentilch sehr versteckt in Naturgebieten wie Wäldern oder Höhlen leben, gibt es immer wieder Überschneidungspunkte mit Menschen. Manchen Arten wie **Parotostigmus rex** oder **Scolopendra gracillima** sagt man gar regelrechte Naturfolgung nach. Und auch **Scolopendra cingulata** ist durchaus schon mal ungebetener Gast in Haus und Grundstück. So sind Stichunfälle gar nicht so selten, alleine in der Türkei werden wohl an die 5000 Stiche jährlich im Krankenhaus behandelt. Da Hundertfüßer dort jedoch als nicht sonderlich gefährlich angesehen werden, soll die Dunkelziffer unbehandelter Stiche deutlich höher liegen.[^fn-2004-serinken]. Auch in anderen Gebieten wie Sao Paolo[^fn-1998-knysak] oder Hong Kong[^fn-2011-fung] werden Behandlungen von Stichen in dreistelliger Zahl genannt, allerdings für einen deutlich größeren Zeitraum von ca. 10 Jahren.
 
-Selbst in Deutschland scheint man nicht ganz sicher, 2017 wurde ein Biss durch Scolopendra morsitans beschrieben, der als blinder Passagier aus dem Urlaub mitgebracht wurde, und einen Nachbarn verletzt hat.[^2017-decker]
+Selbst in Deutschland scheint man nicht ganz sicher, 2017 wurde ein Biss durch **Scolopendra morsitans** beschrieben, der als blinder Passagier aus dem Urlaub mitgebracht wurde, und einen Nachbarn verletzt hat.[^2017-decker]
 
 {{<hint info>}}
 [Mehr über das Gift von Skolopendern](../toxizitat)
@@ -19,13 +19,13 @@ Selbst in Deutschland scheint man nicht ganz sicher, 2017 wurde ein Biss durch S
 ## Betrachtung in Medizin und Forschung
 
 ### Traditionelle Medizin
-In traditioneller Medizin werden Hundertfüßer seit Jahrhunderten verwendet. So finden sich Nachweise über die Nutzung in alter Heilkunst aus China, Indien, Vietnam, Südkorea und Japan[^fn-2022-yadav]. Wo viele Einsatzzwecke vielleicht durchaus fragwürdig sind, scheinen neue Studien hingegen zu belegen, dass der Einsatz des Giftes von Scolopendra mutilans durchaus begründet gegen Arthritis eingesetzt werden kann.[^fn-2022-yadav]
+In traditioneller Medizin werden Hundertfüßer seit Jahrhunderten verwendet. So finden sich Nachweise über die Nutzung in alter Heilkunst aus China, Indien, Vietnam, Südkorea und Japan[^fn-2022-yadav]. Wo viele Einsatzzwecke vielleicht durchaus fragwürdig sind, scheinen neue Studien hingegen zu belegen, dass der Einsatz des Giftes von **Scolopendra mutilans** durchaus begründet gegen Arthritis eingesetzt werden kann.[^fn-2022-yadav]
 
 Auch sprechen neuere toxologische Erkenntnisse für eine Wirkung der Gifte gegen Herzprobleme und für eine Schmerztherapie.
 
 ### Moderne Medizin und Forschung
 
-Auch wenn Hundertfüßergift heute noch weitestgehend unerforscht ist, brachten jüngste Entwicklungen in der Wissenschaft neues Interesse an den Bestandteilen der Toxine.[^fn-2022-yadav][^fn-2015-undheim] So sind aktuell Antimikrobielle und insektizidische Komponenten aus dem Gift von Scolopendra mutilans aktuell interessant für Medizin und biologische Insektizide[^fn-2022-yadav]. Auch soll das Protein ShSPI von Scolopendra hainanum für Medikamente von Relevanz sein[^fn-2019-luan]. Doch insgesamt steht die Forschung hier noch weit am Anfang und ein entsprechender Nutzen ist noch nicht wirklich abzusehen.
+Auch wenn Hundertfüßergift heute noch weitestgehend unerforscht ist, brachten jüngste Entwicklungen in der Wissenschaft neues Interesse an den Bestandteilen der Toxine.[^fn-2022-yadav][^fn-2015-undheim] So sind aktuell Antimikrobielle und insektizidische Komponenten aus dem Gift von **Scolopendra mutilans** aktuell interessant für Medizin und biologische Insektizide[^fn-2022-yadav]. Auch soll das Protein ShSPI von **Scolopendra hainanum** für Medikamente von Relevanz sein[^fn-2019-luan]. Doch insgesamt steht die Forschung hier noch weit am Anfang und ein entsprechender Nutzen ist noch nicht wirklich abzusehen.
 
 ## Allgemeiner Stand der Forschung
 
@@ -37,9 +37,9 @@ Scolopendromporha sind ein relativ unerforschtes Gebiet. **Dr. Graf Attems** hat
 Über die Biologie und Verhaltensweisen hat **Rosenberg** 2009 das umfassende Buch "_Die Hundertfüßer, Chilopoda_" veröffentlicht.
 
 Einig sind sich die Publikationen aber leider auch in einem Punkt: Es gibt noch viel zu erforschen und aufzuräumen!  
-Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entsprechend nicht statistisch repräsentativ. Andere Artbeschreibungen weichen voneinander ab. Manche Arten unterscheiden sich äußerlich nicht oder kaum - aufgrund überschneidender Variabilität. So lassen sich Männchen von Scolopendra canidens und Scolopendra cretica rein morphologisch nicht differenzieren. Oder der türkische Fund von _Scolopendra clavipes_ ist vermeintlich _Scolopendra canidens_. Und _Scolopendra morsitans_ hat einen sehr ähnlichen endemischen "Doppelgänger" _Scolopendra laeta_ in Australien, mit dem jedoch auch Tiere außerhalb der Insel viele Charakteristika teilen.[^5]
+Einige Artbeschreibungen basieren lediglich auf einem Tier - und sind entsprechend nicht statistisch repräsentativ. Andere Artbeschreibungen weichen voneinander ab. Manche Arten unterscheiden sich äußerlich nicht oder kaum - aufgrund überschneidender Variabilität. So lassen sich Männchen von **Scolopendra canidens** und **Scolopendra cretica** rein morphologisch nicht differenzieren. Oder der türkische Fund von **Scolopendra clavipes** ist vermeintlich **Scolopendra canidens**. Und **Scolopendra morsitans** hat einen sehr ähnlichen endemischen "Doppelgänger" **Scolopendra laeta** in Australien, mit dem jedoch auch Tiere außerhalb der Insel viele Charakteristika teilen.[^5]
 
-Gleichsam zweifelt man im Hobby ob der Vielgestalt von _Scolopendra cingulata_ an einer eindeutigen Art. Und natürlich gibt es noch einige unbeschriebene Arten wie den "Malaysian Jewel" oder den "White Legs". Dazu wurden erst in jüngster Vergangenheit semiaquatische Arten wie Scolopendra paradoxa (2018) entdeckt. Doch insgesamt erscheinen Hundertfüßer weiterhin relativ uninteressant in der Biologie. Auch wurden molekulare Bestimmungen der Tiere erst in jüngster Vergangenheit überhaupt durchgeführt. Von weiteren Forschungen um Verhalten oder Toxizität ganz zu schweigen. Insgesamt muss hier noch viel wissenschaftliche Arbeit geleistet werden - die allerdings auch bezahlt werden will.
+Gleichsam zweifelt man im Hobby ob der Vielgestalt von **Scolopendra cingulata** an einer eindeutigen Art. Und natürlich gibt es noch einige unbeschriebene Arten wie den "Malaysian Jewel" oder den "White Legs". Dazu wurden erst in jüngster Vergangenheit semiaquatische Arten wie **Scolopendra paradoxa** (2018) entdeckt. Doch insgesamt erscheinen Hundertfüßer weiterhin relativ uninteressant in der Biologie. Auch wurden molekulare Bestimmungen der Tiere erst in jüngster Vergangenheit überhaupt durchgeführt. Von weiteren Forschungen um Verhalten oder Toxizität ganz zu schweigen. Insgesamt muss hier noch viel wissenschaftliche Arbeit geleistet werden - die allerdings auch bezahlt werden will.
 
 ## Lebensmittel
 
