@@ -42,10 +42,10 @@ def resize_and_add_watermark(input_dir, output_dir, watermark_text1, watermark_t
             resized_image.save(output_path)
 
 if __name__ == "__main__":
-    input_directory = "img"
-    output_directory = "images"
+    input_directory = "in"
+    output_directory = "out"
     watermark_text1 = "ScoloHub.com"
-    watermark_text2 = "© Marcel K."
+    watermark_text2 = "© Christian Gehlen"
     font_size = 50
 
     resize_and_add_watermark(input_directory, output_directory, watermark_text1, watermark_text2, font_size)
