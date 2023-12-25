@@ -1,6 +1,6 @@
 ---
 title: Endoparasiten
-bookHidden: true
+bookHidden: false
 author: 
 - Marcel K.
 ---

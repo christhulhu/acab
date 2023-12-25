@@ -1,13 +1,13 @@
 ---
-title: Futtermischung für Futtertiere
-bookHidden: true
+title: Futtertierfutter
+bookHidden: false
 author: 
 - Marcel K.
 ---
 
 # Futtermischung für Futtertiere
 
-{{< hero-img 
+{{<hero-img 
     src="images/grillenfutter-hero.jpg" 
     alt="Futtermischung für Futtertiere" 
     attr="{{< contributors/marcel >}}" 
@@ -19,16 +19,13 @@ Im Folgenden wurde eine kurze Übersicht erstellt, wie man eine reichhaltige Fut
 
 Da Grillen sich omnivor ernähren empfiehlt es sich die Futtermischung aus frischen, vitaminreichen sowie trockenen, proteinhaltigen Zutaten zu erstellen und mit Mineralien anzureichern. Das Vermischen hat den Großen Vorteil, dass die Grillen von allem etwas zu sich nehmen, was wiederum deren Nährwert deutlich erhöht. Auch mineralische Zusätze können so viel effektiver "untergejubelt" werden.
 
-{{< figure 
+{{<figure 
     src="images/grillenfutter-zutaten.jpg"
     title="Auswahl an verschiedenen Zutaten"
     attr="{{< contributors/marcel >}}"
-    class="fig-right"
+    class="fig-left"
     width="400"
 >}}
-
----
-
 **Frische Zutaten**
 
 {{< u >}}Obst und Gemüse{{< /u >}} wie z.B. Kürbis, Paprika, Süßkartoffel, Zucchini, Gurke, rote Beete (Wurzel und Laub), Karotte (Wurzel und Laub), Knollensellerie, Apfel, Birne, Banane, Mango, Papaya, Kiwi, Melone, Haselnüsse
@@ -43,12 +40,11 @@ Fischfutter (Granulat und/oder Flocken), getrocknete Seidenraupenpuppen, getrock
 
 Vitamin- bzw. Mineralpulver, Spirulina, Leinöl
 
----
-{{< figure 
+{{<figure 
     src="images/grillenfutter-mixer.jpg"
     title="Elektrischer Gemüseschneider"
     attr="{{< contributors/marcel >}}"
-    class="fig-right"
+    class="fig-left"
     width="400"
 >}}
 
@@ -63,7 +59,7 @@ Bestimmte Zutaten bieten sich je nach Saison an wie z.B. Melone im Sommer oder K
 ## Beispiel
 (ergibt ca. 550g bzw. 1 Liter)
 
-{{< columns >}}
+{{<columns>}}
 
 **Frisches**
 
@@ -91,29 +87,25 @@ Bestimmte Zutaten bieten sich je nach Saison an wie z.B. Melone im Sommer oder K
 * ½ Teelöffel Spirulina
 * ½ Teelöffel Vitaminpulver
 
-{{< /columns >}}
+{{</columns>}}
 
-{{< figure 
+{{<figure 
     src="images/grillenfutter-fertig.jpg"
     title="Fertige Futtermischung"
     attr="{{< contributors/marcel >}}"
-    class="fig-right"
+    class="fig-left"
     width="400"
 >}}
-
 Beim Vermengen ist es sinnvoll mit den trockenen Zutaten beginnen, da diese erst ordentlich zerkleinert werden müssen. Als nächstes nimmt man die Kräuter und Zusätze. Mit den frischen Zutaten, die am meisten Feuchtigkeit enthalten (wie Kiwi, Banane Melone etc.) kann man zum Schluss die Konsistenz der Mischung regulieren, welche nicht zu breiig sein sollte. Optimal ist es, wenn die Masse feucht und gut knetbar ist.
 
 Die Futtermischung kann man dann in Gefrierbeutel füllen und einfrieren. 
 
 {{<clearfix>}}
 
-{{< hint info >}}
+{{<hint "info">}}
 
 **Tipp:** Wenn man den Beutel nur zur Hälfte befüllt und flachdrückt, hat dies den Vorteil, dass man das gefrorene Futter stückweise abbrechen und so viel besser portionieren kann.
 
 ![Gefrorenes Grillenfutter](images/grillenfutter-gefroren.jpg?width=200)
 
-{{< /hint >}}
-
----
-Von: {{< contributors/marcel >}}
+{{</hint>}}
