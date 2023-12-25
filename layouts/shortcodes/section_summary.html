@@ -4,6 +4,8 @@
         <div class="section_summary_text">{{ .Inner | markdownify }}</div>
     </div>
     <div class="more">
-        {{.Get "more_link" | markdownify }}
+        <blockquote class="book-hint info">
+            {{.Get "more_link" | markdownify }}
+        </blockquote>
     </div>
 </div>

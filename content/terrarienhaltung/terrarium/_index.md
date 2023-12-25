@@ -84,7 +84,6 @@ Solche Terrarien mit Schiebedeckel lassen sich allerdings auch kostengünstig au
 Natürlich kann man auch größere Plastikbehälter mit Deckel für die Haltung von adulten Hundertfüßern nutzen. Und wenn man etwas Erfahrung mit den Tieren hat und deren Verhalten einschätzen kann, sind Terrarien mit Front- oder Falltüren auch eine Möglichkeit.
 
 Für manche arboreale oder semi-aquatische Arten kann die Gestaltung eines vollständigen Paludarium sinnvoll sein und einen Blickfang in der Wohnung bieten.
-
 {{<clearfix>}}
 
 ### Plastikboxen
@@ -102,8 +101,6 @@ Im Baumarkt oder Möbelhaus gibt es allerlei Plastikboxen zur Lagerhaltung. Viel
 Zur Herstellung von Belüftungsfläche kann man entweder die gewünschte Anzahl Belüftungslöcher mit einem Bohrer oder Lötkolben in Dose und Deckel einbringen. Alternativ kann man auch mit einem Cuttermesser größere Belüftungsflächen aus der Dose schneiden, und diese dann mit Lochblech, Streckmetall oder Metalgaze wieder verkleben. Dies kann wiederum mit Heißkleber oder Silikon erfolgen. Oder man brennt eine Gaze mit einem Lötkolben direkt in die Dose ein.
 
 Größere Plastikboxen haben einen Griff am Deckel. Dieser hat in seiner Anbringung eventuell Spaltmaße, die mögliche Ausbruchsstellen für den Skolopender bieten. Darum empfiehlt sich die Entfernung des Griffs, und die Versiegelung der Löcher mit Alugaze oder Streckmetal.
-
-{{<clearfix>}}
 
 ### DYI Terrarien aus Aquarien
 

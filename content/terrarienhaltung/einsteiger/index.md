@@ -42,8 +42,6 @@ Sollte man kein Glassterrarium für die Unterbringung wählen, etwas aus Gewicht
 Mehr Informationen zur optimalen Größe und den Anforderungen an ein [Terrarium für Skolopender](../terrarium/).
 {{</hint>}}
 
-{{<clearfix>}}
-
 ## Fütterungsintervalle und Futterauswahl
 
 Die Frage nach dem Fütterungsintervall wird oft gestellt. Leider kann man keine pauschale Antwort dazu geben, hängt diese von unterschiedlichen Faktoren ab: Wachstumsstadium des Skolopender, verwendetes Futter oder gar saisonales Klima.
@@ -80,7 +78,6 @@ Doch das soll nun niemanden abschrecken mit Pedelings in das Hobby einzusteigen!
 Um die Gefahren für den jungen Hundertfüßer durch Verletzungen durch Futtertiere zu minimieren, empfehlen wir das Verfüttern von toten Futtertieren.
 {{</hint>}}
 
-{{<clearfix>}}
 
 ## Geeignet Arten für den Einstieg in die Skolopenderhaltung
 
@@ -90,21 +87,19 @@ Dennoch sind einige Arten besonders empfehlenswert für den Einstieg in die Terr
 
 ### Scolopendra cingulata
 
+{{< figure
+    src="./images/scolopendra_cingulata_athen_thumb.jpg"
+    link="./images/scolopendra_cingulata_athen.jpg"
+    alt="Scolopendra cingulata"
+    title="Scolopendra cingulata aus Athen"
+    class="fig-left"
+>}}
 Der europäische Riesenläufer, so der Trivialname von **Scolopendra cingulata**, ist im gesamten Mittelmeerraum verbreitet. Man findet die Art im europäischen Südland, mittlerweile sogar in Österreich und Ungarn, sowie dem westlichen Asien und nördlichen Afrika. Durch die weite Verbreitung finden sich immer wieder Wildfänge bei einschlägigen Händlern oder auf Terraristikbörsen. Auch wurde die Art schon in Gefangenschaft nachgezüchtet, was sie insgesamt gut verfügbar macht.
 
 Die weite Verbreitung sorgt für eine vielzahl an morphologischen Variationen. Es gibt verschiedene Färbungen und Farbmuster und auch die Größe variiert je nach Herkunft. So sind die kleinsten Arten ca. 8cm lang, derweil die größten Wildfunde bis zu 15cm werden. Tiere in Gefangenschaft erreichten sogar deutlich über 18cm.
 
 Insgesamt mögen **Scolopendra cingulata** trockenes und warmes Klima. Durch ihre mediterrane Herkunft ist die Art allerdings auch an kältere Winterperioden gewöhnt und benötigt diese sogar für eine erfolgreiche Verpaarung und Nachzucht. Je nach Herkunft empfiehlt sich ein Blick auf die entsprechenden Klimadaten, damit man die notwendige Temperaturabsenkung in den Wintermonaten gewährleisten kann. Einige Arten lassen sich aber durchaus permanent bei plausibler Zimmertemperatur halten.
 
-{{<columns>}}
-[![Scolopendra cingulata aus Griechenland](images/scolopendra_cingulata_athen_thumb.jpg)](images/scolopendra_cingulata_athen.jpg)
-
-Scolopendra cingulata aus Athen
-<--->
-[![Scolopendra cingulata aus Israel](images/scolopendra_cingulata_israel_thumb.jpg)](images/scolopendra_cingulata_israel.jpg)
-
-Scolopendra cingulata aus Israel
-{{</columns>}}
 
 ### Scolopendra morsitans
 

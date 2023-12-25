@@ -30,8 +30,6 @@ Toft ist Bodengrund aus zersetzten Pflanzen aus Hochmoren. Im Weißtorf ist mehr
 
 Torf eignet sich hervorragend zur Haltung von Skolopendern, weil es im Gegensatz zu Humus keine Trauermücken anzieht. Gemischt mit Sand und Lehmpulver ist es trocken und nicht komplett hydrophob, hält die Feuchtigkeit gut und bleibt sowohl nass als auch trocken grabfähig.
 
-{{<clearfix>}}
-
 ### Humus
 
 {{< figure 
@@ -60,13 +58,9 @@ Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute st
 Mehr zu den [Mitbewohnern im Terrarium](../mitbewohner).
 {{</hint>}}
 
-{{<clearfix>}}
-
 ### Lehm
 
 Obschon nicht für alle Skolopender geeignet, ist für einige Arten Lehm ein großer Bestandteil des natürlichen Habitats. Beispielsweise **Scolopendra dehaani** aus Vietnam lebt u.a. in lehmreichen Gebieten. Darum sollte für manche Arten Lehm einen Teil des Substrates ausmachen.
-
-{{<clearfix>}}
 
 ### Sand
 

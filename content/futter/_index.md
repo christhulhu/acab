@@ -63,7 +63,7 @@ Aber hierzu gibt es zwei Anmerkungen:
 {{<figure 
     src="images/animonda_carny.jpg" 
     title="Animonda CARNY Katzenfutter" 
-    width="400" 
+    width="300" 
     class="fig-left" 
 >}}
 
