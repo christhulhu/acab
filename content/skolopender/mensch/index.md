@@ -69,6 +69,15 @@ Trotz seiner schaurigen Darstellung in der Folklore hat Ōmukade auch in der Pop
 
 ### Maya
 
+{{< figure 
+    src="./images/maya_centipede_ikonografie.jpg"
+    alt="Hundertfüßer-Ikonografie der Maya"
+    title="Hundertfüßer-Ikonografie der Maya"
+    attr="Quelle: Kettunen, Davis"
+    attrlink="https://www.semanticscholar.org/paper/SNAKES%2C-CENTIPEDES%2C-SNAKEPEDES%2C-AND-CENTISERPENTS%3A-Kettunen-Davis/fd88e35603282a37088ad2b84dd420e11f38498a"
+    class="fig-left"
+    width=400
+>}}
 Hundertfüßer haben eine große Bedeutung in der Kunst und Kultur der Maya. Sie erscheinen in verschiedenen Darstellungen und Kontexten, was auf ihre herausragende Bedeutung in der Maya-Kultur hindeutet.
 
 Es wurde einmal angenommen, dass er skelettartige Schlangen repräsentiert, aber neueste Forschungen haben gezeigt, dass es tatsächlich Darstellungen von Skolopendern sind.[^2014-coltman] Sie haben Verbindungen zur Triade von [Palenque, dem Sonnengott K'inich Ajaw und Bolon Yokte K'uh](https://de.wikipedia.org/wiki/G%C3%B6tter_der_Maya).[^2018-ciura]
