@@ -51,6 +51,35 @@ Gleichsam sollte man das Verletzungsrisiko im Auge behalten! **Kakteen** oder **
 
 Für tropische und subtropische Arten eignen sich eigentlich immer (kleine) **Farne** und **Moos**, da diese oftmals mit der Substratfeuchtigkeit gut klar kommen und nicht unbedingt viel Sonnenlicht benötigen. Gerade Moos hilft bei der Speicherung von Feuchtigkeit im Bodengrund und dient somit auch als Quelle für Nahrung und Wasser für das Tier. Beim Farn muss man jedoch hin und wieder mal mit der Schere ran, sollte die Pflanze zu groß werden.
 
+### Terrarienbepflanzung für Regenwald-Terrarien
+
+{{<figure 
+  src="./images/bepflanzung.jpg" 
+  alt="Regenwald-Terrarium mit Kletterfeige und Efeutute" 
+  title="Regenwald-Terrarium mit Kletterfeige und Efeutute" 
+  attr="{{<contributors/marcel>}}"
+>}}
+
+Hundertfüßer sind nicht zwingend auf Pflanzen in ihren Behältern angewiesen, jedoch erhält man durch diese ein stabileres Mikroklima, mehr Versteckmöglichkeiten und Deckung sowie eine optische Aufwertung. Vor allem in Regenwaldterrarien kann man den Tieren mit einer guten Bepflanzung ein naturnahes Umfeld bieten.
+
+Pflanzen aus dem Baumarkt oder herkömmlichen Gärtnereien sind in der Regel mit Pestiziden und/oder anderen Chemikalien belastet und sollten nicht ohne weiteres in das Terrarium eingebracht werden. Es gibt zum einen die Möglichkeit unbehandelte Pflanzen auf Terraristik-Börsen zu erwerben oder aber man kann sich auch mit nur wenig Aufwand selbst Pflanzen aus Ablegern und Stecklingen ziehen.
+
+Folgende Arten bieten sich für die Bepflanzung von Regenwaldterrarien besonders gut an, da es sich um robuste und Büro- und Zimmerpflanzen handelt: 
+
+**Kletterfeige** (Ficus pumila):  Eine kleinblättrige ungiftige Gummibaumart aus Asien, die sowohl kletternd als auch bodendeckend wächst.
+
+**Efeutute** (Epipremnum aureum): Eine horizontal und vertikal rankende Pflanze aus der Gruppe der Aronstabgewächse (Araceae), die mittlerweile in zahlreichen tropischen Gebieten verbreitet ist. 
+
+**Gefleckte Efeutute** (Scindapsus pictus): Ebenfalls ein Vertreter der Araceen aus den subtropischen und tropischen Raum Asiens mit samtigen, gemusterten Blättern.
+
+**Grünlilie** (Chlorophytum comosum): Die Grünlilie stammt aus Afrika, ist horstbildend und hat je nach Sorte mehr oder weniger ausgeprägte Grünweiß gestreifte Blätter.
+
+Alle 4 Arten haben keine hohen Ansprüche an die Beleuchtung und Temperatur (sprich herkömmliche Terrarienbeleuchtung und Zimmertemperatur). Zusätzlich mögen diese eine hohe Luftfeuchtigkeit bei feuchtem aber nicht staunassem Substrat. Die Vermehrung erfolgt vegetativ (ungeschlechtlich) durch Ausläufer bzw. Stolonen bei der Grünlilie.
+
+{{<hint "info">}}
+Zur [Vermehrung von Terrarienpflanzen aus Stecklingen](stecklinge).
+{{</hint>}}
+
 ## Wasserquelle
 
 Egal ob nun ein Skolopender aus humiden oder ariden Regionen, eine Zugänglichkeit zu Trinkwasser ist immer notwendig. Dazu kann man die üblichen Terrarien-Näpfe aus dem Fachhandel nehmen, oder auch kleine Schälchen oder Deckel von Wasserflaschen - je nach Größe von Tier und Terrarium.  
