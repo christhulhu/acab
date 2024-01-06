@@ -31,6 +31,66 @@ Obwohl die meisten Skolopender in natürlichen Habitaten wie Wäldern oder Höhl
 Wer mehr über die Verbreitung von Hundertfüßern wissen will, und sich für Beobachtungen in der freien Wildbahn interessiert, findet auf [iNaturalist.org](https://www.inaturalist.org/) eine sehr gute Ressource mit Suchfunktion und Kartenansichten.
 {{< / hint >}}
 
+## Der Genus Scolopendra nach kontinentaler Verbreitung
+
+{{<hint "warning">}}
+Diese Übersicht hat keine Gewähr auf Vollständigkeit und Richtigkeit. Geografische Zuordnungen sind zuweilen schwammig je nach Klassifikation nach politischer oder geografischer Betrachtung, Definition von Kontinent oder geografischen Unklarheiten. Die jeweilige Zuordnung der Arten erfolgte ohne politische Motivation, basierend alleine auf wissenschaftlichen Publikationen, die auf den jeweiligen Übersichtsseiten als Fussnoten angegeben sind. 
+{{</hint>}}
+
+### Europa
+
+{{<hint "info">}}
+Zu der Übersicht des [Genus Scolopendra in Europa](europa)
+{{</hint>}}
+* Scolopendra canidens
+* Scolopendra cingulata
+* Scolopendra cretica
+* Scolopendra dalmatica dalmatica
+* Scolopendra dalmatica pantokratoris
+* Scolopendra media
+* Scolopendra oraniensis
+
+### Asien
+{{<hint "info">}}
+Zu der Übersicht des [Genus Scolopendra in Asien](asien)
+{{</hint>}}
+* Scolopendra andhrensis
+* Scolopendra arborea
+* Scolopendra calcarata
+* Scolopendra canidens
+* Scolopendra cingulata
+* Scolopendra clavipes
+* Scolopendra cretica
+* Scolopendra dawydoffi
+* Scolopendra dehaani
+* Scolopendra ellorensis
+* Scolopendra gracillima gracillima
+* Scolopendra gracillima sternostriata
+* Scolopendra hainanum
+* Scolopendra hardwickei
+* Scolopendra indiae
+* Scolopendra jangii
+* Scolopendra japonica
+* Scolopendra koreana
+* Scolopendra lutea
+* Scolopendra mazbii
+* Scolopendra media
+* Scolopendra mirabilis
+* Scolopendra morsitans
+* Scolopendra multidens
+* Scolopendra negrocapitis
+* Scolopendra nuda
+* Scolopendra oraniensis
+* Scolopendra paradoxa
+* Scolopendra paranuda
+* Scoloppendra pinguis
+* Scolopendra punensis
+* Scolopendra somala
+* Scolopendra spinosissima
+* Scolopendra subcrustalis
+* Scolopendra teretipes
+* Scolopendra valida
+
 
 
 [^wikipedia]: [https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer](https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer)
