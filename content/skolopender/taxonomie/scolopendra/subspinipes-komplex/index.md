@@ -20,7 +20,7 @@ Christian Kronmüller hat 2012 den Subspinipes-Komplex aufgeräumt. Die Unterart
 
 Kronmüller begründet seine Synonymisierungen in der weiten Verbreitung und Variabilität von Scolopendra subspinipes. Es gibt keine geografischen oder taxonomischen Details, die eine eindeutige Zuordnung zu Unterarten zulassen würden.[^2012-kronmüller]
 
-Diese Annahme wurde 2018 durch Domenech et al. gestützt, die eine phylogenetische Untersuchung der philippinischen Scolopendra durchgeführt haben. Durch DNA-Barcoding wurde die maximale Ähnlichkeit verschiedener Arten verglichen.[^2018-domenech]
+Auch wenn Lewis (2010) Scolopendra dehaani gewisse morphologische Charakteristika von Scolopendra subspinipes zuschreibt, folgten molekulare Untersuchtungen von Siriwut et al. (2015) und Domenech et al. (2018), die den Artenbestand festigen.[^2018-domenech]
 
 {{<figure
     src="images/coi_ml.png"
@@ -74,7 +74,7 @@ Scolopendra subspinipes mutilans (L. Koch, 1878) wurde bereits mit Scolopendra s
 
 ### Scolopendra subspinipes gastroforeata
 
-Scolopendra subspinipes gastroforeata (L. Koch, 1878) wurde bereits mit Scolopendra subspinipes mutilans (Muralewicz, 1913) zu Scolopendra subspinipes subspinipes synonymisiert (Schileyko 2001, 2005, Lewis 2010). Entsprechend wurden diese beiden Arten nicht von Kronmüller berücksichtigt.[^2012-kronmüller]
+Scolopendra subspinipes gastroforeata (Muralewicz, 1913) wurde bereits mit Scolopendra subspinipes mutilans (L. Koch, 1878) zu Scolopendra subspinipes subspinipes synonymisiert (Schileyko 2001, 2005, Lewis 2010). Entsprechend wurden diese beiden Arten nicht von Kronmüller berücksichtigt.[^2012-kronmüller]
 
 ### Scolopendra multidens
 
