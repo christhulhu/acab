@@ -31,16 +31,24 @@ Obwohl die meisten Skolopender in natürlichen Habitaten wie Wäldern oder Höhl
 Wer mehr über die Verbreitung von Hundertfüßern wissen will, und sich für Beobachtungen in der freien Wildbahn interessiert, findet auf [iNaturalist.org](https://www.inaturalist.org/) eine sehr gute Ressource mit Suchfunktion und Kartenansichten.
 {{< / hint >}}
 
-## Der Genus Scolopendra nach kontinentaler Verbreitung
+## Die Gattung Scolopendra nach kontinentaler Verbreitung
 
 {{<hint "warning">}}
 Diese Übersicht hat keine Gewähr auf Vollständigkeit und Richtigkeit. Geografische Zuordnungen sind zuweilen schwammig je nach Klassifikation nach politischer oder geografischer Betrachtung, Definition von Kontinent oder geografischen Unklarheiten. Die jeweilige Zuordnung der Arten erfolgte ohne politische Motivation, basierend alleine auf wissenschaftlichen Publikationen, die auf den jeweiligen Übersichtsseiten als Fussnoten angegeben sind. 
 {{</hint>}}
 
+**Grundlage für die Auflistungen**
+* Europa: Lewis, 2010[^2010-lewis], Ergänzung von 2014[^2014-oeyen]
+* Asien: Lewis, 2010[^2010-lewis], Ergänzungen von 2012[^2012-kronmuller], 2016[^2016-siriwut], 2018[^2018-domenech]
+* Australien/Ozeanien: Lewis, 2010[^2010-lewis]
+* Afrika: Lewis, 2010[^2010-lewis]
+* Amerika: Shelley, 2006[^2006-shelley], Ergänzung von 2016[^2016-mercurio]
+
+
 ### Europa
 
 {{<hint "info">}}
-Zu der Übersicht des [Genus Scolopendra in Europa](europa)
+Zu der Übersicht der [Gattung Scolopendra in Europa](europa)
 {{</hint>}}
 * Scolopendra canidens
 * Scolopendra cingulata
@@ -52,11 +60,12 @@ Zu der Übersicht des [Genus Scolopendra in Europa](europa)
 
 ### Asien
 {{<hint "info">}}
-Zu der Übersicht des [Genus Scolopendra in Asien](asien)
+Zu der Übersicht der [Gattung Scolopendra in Asien](asien)
 {{</hint>}}
 * Scolopendra andhrensis
 * Scolopendra arborea
 * Scolopendra calcarata
+* Scolopendra cataracta
 * Scolopendra canidens
 * Scolopendra cingulata
 * Scolopendra clavipes
@@ -91,6 +100,72 @@ Zu der Übersicht des [Genus Scolopendra in Asien](asien)
 * Scolopendra teretipes
 * Scolopendra valida
 
+### Australien/Ozeanien
+{{<hint "info">}}
+Zu der Übersicht der [Gattung Scolopendra in Ozeanien](ozeanien)
+{{</hint>}}
+* Scolopendra laeta
+* Scolopendra metuenda
+* Scolopendra morsitans
+* Scolopendra subspinipes
+
+### Afrika
+{{<hint "info">}}
+Zu der Übersicht der [Gattung Scolopendra in Afrika](afrika)
+{{</hint>}}
+* Scolopendra abnormis
+* Scolopendra afer
+* Scolopendra arenicola
+* Scolopendra attemsi
+* Scolopendra canidens
+* Scolopendra cingulata
+* Scolopendra langi
+* Scolopendra madagascariensis
+* Scolopendra mirabilis
+* Scolopendra monticola
+* Scolopendra morsitans
+* Scolopendra oraniensis
+* Scolopendra somala
+* Scolopendra subspinipes
+* Scolopendra valida
+
+### Amerika
+{{<hint "info">}}
+Zu der Übersicht der [Gattung Scolopendra in Amerika](amerika)
+{{</hint>}}
+* Scolopendra alternans
+* Scolopendra angulata
+* Scolopendra appendiculata
+* Scolopendra armata
+* Scolopendra arthrorhabdoides
+* Scolopendra aztecorum
+* Scolopendra chlora
+* Scolopendra crudelis
+* Scolopendra cubensis
+* Scolopendra galapagoensis
+* Scolopendra gigantea
+* Scolopendra hermosa
+* Scolopendra heros
+* Scolopendra longipes
+* Scolopendra malkini
+* Scolopendra marginata
+* Scolopendra melinonii
+* Scolopendra michoacana
+* Scolopendra mima
+* Scolopendra morsitans
+* Scolopendra morsitans coerulescens
+* Scolopendra occidentalis
+* Scolopendra octodentata
+* Scolopendra pachygnatha
+* Scolopendra polymorpha
+* Scolopendra pomacea
+* Scolopendra robusta
+* Scolopendra spinipriva
+* Scolopendra subspinipes
+* Scolopendra sumichrasti
+* Scolopendra viridicornis
+* Scolopendra viridis
+
 
 
 [^wikipedia]: [https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer](https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer)
@@ -98,3 +173,9 @@ Zu der Übersicht des [Genus Scolopendra in Asien](asien)
 [^bodentier]: [https://bodentierhochvier.de/erleben/hundertfuessler/skolopender-scolopendromorpha/](https://bodentierhochvier.de/erleben/hundertfuessler/skolopender-scolopendromorpha/)
 [^2014-oeyen]: [2014 - Oeyen et al. - The Evolutionary History of the Rediscovered Austrian Population of the Giant Centipede Scolopendra cingulata Latreille 1829 (Chilopoda, Scolopendromorpha)](https://www.researchgate.net/publication/266085751_The_Evolutionary_History_of_the_Rediscovered_Austrian_Population_of_the_Giant_Centipede_Scolopendra_cingulata_Latreille_1829_Chilopoda_Scolopendromorpha)
 [^kronmüller]: 2013 - Kronmüller - "Hundertfüßer"
+[^2010-lewis]: [2010 - Lewis - A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus](https://www.researchgate.net/publication/233675148_A_key_and_annotated_list_of_the_Scolopendra_species_of_the_Old_World_with_a_reappraisal_of_Arthrorhabdus_Chilopoda_Scolopendromorpha_Scolopendridae)
+[^2012-kronmuller]: [2012 - Kronmüller - Review of the subspecies of Scolopendra subspinipes with the new description of the South Chinese member of the genus Scolopendra named Scolopendra hainanum](https://www.researchgate.net/publication/259752848_Review_of_the_subspecies_of_Scolopendra_subspinipes_Leach_1815_with_the_new_description_of_the_South_Chinese_member_of_the_genus_Scolopendra_Linnaeus_1758_named_Scolopendra_hainanum_spec_nov_Myriapoda)
+[^2018-domenech]: [2018 - Domenech, Barbera, Larriba - A phylogenetic approach to the Philippines endemic centipedes of the genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae), with the description of a new species](https://www.researchgate.net/publication/327846355_A_phylogenetic_approach_to_the_Philippines_endemic_centipedes_of_the_genus_Scolopendra_Linnaeus_1758_Scolopendromorpha_Scolopendridae_with_the_description_of_a_new_species)
+[^2016-siriwut]: [2016 - Siriwut, Edgecombe, Sutcharit, Tongkerd, Panha - A taxonomic review of the centipede genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae) in mainland Southeast Asia, with description of a new species from Laos](https://zookeys.pensoft.net/article/7950/)
+[^2006-shelley]: [2006 - Shelley - A chronological catalog of the New World species of Scolopendra L., 1758 (Chilopoda: Scolopendromorpha: Scolopendridae)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.1253.1.1)
+[^2016-mercurio]: [2016 - Mercurio - Resurrection of Scolopendra longipes Wood and Scolopendra cubensis Saussure from synonymy with Scolopendra alternans Leach (Chilopoda, Scolopendromorpha, Scolopendridae): an enigmatic species-group needing phylogeographic analysis, with an overview on the origin and distribution of centipedes in the Caribbean region](https://pubmed.ncbi.nlm.nih.gov/27394893/)

@@ -3,7 +3,7 @@ title: Scolopendra in Europa
 bookHidden: true
 ---
 
-# Der Genus Scolopendra in Europa
+# Die Gattung Scolopendra in Europa
 
 {{<figure
     src="images/distribution.png"

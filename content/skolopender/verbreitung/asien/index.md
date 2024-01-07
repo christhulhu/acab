@@ -3,7 +3,7 @@ title: Scolopendra in Asien
 bookHidden: true
 ---
 
-# Der Genus Scolopendra in Asien
+# Die Gattung Scolopendra in Asien
 
 {{<figure
     src="images/distribution.png"
@@ -23,6 +23,9 @@ bookHidden: true
 
 ## Scolopendra calcarata
 **Verbreitung in Asien**: China, Laos, Vietnam[^2010-lewis]
+
+## Scolopendra cataracta
+**Verbreitung in Asien**: Laos [^2016-siriwut]
 
 ## Scolopendra canidens
 **Verbreitung in Asien**: Türkei (Südost), Syrien, Palästina, Israel, Jordanien, Irak, Iran, Saudi-Arabien, Jemen, Armenien, Aserbaidschan, Turkmenistan, Usbekistan, Tadschikistan, Afghanistan[^2010-lewis]
@@ -152,9 +155,11 @@ Vietnam, Kambodscha, China, Japan (spezifisch: Okinawa-Inseln)[^2010-lewis]
 **Anmerkung**: Artbeschreibung basiert auf einem Exemplar. Sehr ähnlich zu Scolopendra arborea.[^2010-lewis]
 
 ## Scolopendra somala
-**Verbreitung in Asien**: Somalia, Jemen[^2010-lewis]
+**Verbreitung in Asien**: Jemen[^2010-lewis]
 
 **Anmerkung**: Scolopendra somala ist sehr ähnlich zu Scolopendra zuluana.[^2010-lewis]
+
+**Verbreitung außerhalb Asiens**: Somalia[^2010-lewis]
 
 ## Scolopendra spinosissima
 **Verbreitung in Asien**: Philippinen[^2010-lewis]
@@ -176,9 +181,12 @@ Ehemalige Scolopendra subspinipes piceoflava: Indonesia (spezifisch: Sulawesi)[^
 ## Scolopendra valida
 **Verbreitung in Asien**: Saudi-Arabien, Vereinigte Arabische Emirate (VAE), Oman, Jemen (einschließlich Socotra und Abd al Kuri), Iran, Indien[^2010-lewis]
 
+**Verbreitung außerhalb Asiens**: Kamerun, Sudan, Eritrea, Äthiopien, Somalia
 
 [^2010-lewis]: [2010 - Lewis - A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus](https://www.researchgate.net/publication/233675148_A_key_and_annotated_list_of_the_Scolopendra_species_of_the_Old_World_with_a_reappraisal_of_Arthrorhabdus_Chilopoda_Scolopendromorpha_Scolopendridae)
 
 [^2012-kronmuller]: [2012 - Kronmüller - Review of the subspecies of Scolopendra subspinipes with the new description of the South Chinese member of the genus Scolopendra named Scolopendra hainanum](https://www.researchgate.net/publication/259752848_Review_of_the_subspecies_of_Scolopendra_subspinipes_Leach_1815_with_the_new_description_of_the_South_Chinese_member_of_the_genus_Scolopendra_Linnaeus_1758_named_Scolopendra_hainanum_spec_nov_Myriapoda)
 
 [^2018-domenech]: [2018 - Domenech, Barbera, Larriba - A phylogenetic approach to the Philippines endemic centipedes of the genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae), with the description of a new species](https://www.researchgate.net/publication/327846355_A_phylogenetic_approach_to_the_Philippines_endemic_centipedes_of_the_genus_Scolopendra_Linnaeus_1758_Scolopendromorpha_Scolopendridae_with_the_description_of_a_new_species)
+
+[^2016-siriwut]: [2016 - Siriwut, Edgecombe, Sutcharit, Tongkerd, Panha - A taxonomic review of the centipede genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae) in mainland Southeast Asia, with description of a new species from Laos](https://zookeys.pensoft.net/article/7950/)
