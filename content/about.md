@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-1.0.1
+1.0.2
 
 ## Motivation
 
@@ -69,6 +69,8 @@ Hosted on Github-Pages.
 
 Info: Hier werden nur größere Änderungen protokolliert. Kleinere redaktionelle Änderungen lassen sich im [Git-Log](https://github.com/christhulhu/scolohub.com/commits/main) nachlesen.
 
+* 2024-01-07: 1.0.2
+  * Verbreitung der Gattung Scolopendra nach Kontinent
 * 2024-01-01: 1.0.1
   * Anleitung: Vermehrung von Terrarienpflanzen durch Stecklinge
 * 2023-12-27: 1.0.0
