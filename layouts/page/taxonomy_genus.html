@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article class="markdown">
+  {{ partial "docs/post-meta" . }}
+
+  {{- .Content -}}
+
+  <h2>Beschriebene Arten</h2>
+  <table>
+    <tr>
+        <th>Name</th>
+        <th>Aktueller Name</th>
+        <th>Status</th>
+    </tr>
+  {{ range sort .Site.Data.scolopendra_species "name"  }}
+    <tr>
+        <td>
+            {{.name}}<br/>
+            <small>({{.first_description}})</small>
+        </td>
+        <td>{{.current_name}}</td>
+        <td>
+            {{.status}}
+            {{with .status_remark}}<br/><small>({{.}})</small>{{end}}
+        </td>
+    </tr>
+  {{end}}
+  </table>
+  
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
