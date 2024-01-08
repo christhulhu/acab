@@ -1,3 +1,9 @@
+###############################################################################
+#
+#    Amerika
+#
+###############################################################################
+
 - name: Scolopendra cubensis
   status: valid
   status_remark: Mercurio, 2016
@@ -77,6 +83,18 @@
   first_description: Bücherl, 1946
   current_name: Scolopendra morsitans
   status: Synonym
+- name: Scolopendra morsitans scopoliana  
+  first_description: C. L. Koch 1841
+  current_name: Scolopendra morsitans
+  status: Synonym
+- name: Scolopendra amazonica 
+  first_description: Jangi 1959
+  current_name: Scolopendra morsitans
+  status: Synonym
+- name: Scolopendra jodhpurensis 
+  first_description: Khanna 1977
+  current_name: Scolopendra morsitans
+  status: Synonym
 
 - name: Scolopendra morsitans coerulescens 
   first_description: Cragin, 1885
@@ -134,77 +152,6 @@
   current_name: Scolopendra longipes
   status: valid 
   status_remark: Mercurio, 2016
-
-- name: Scolopendra subspinipes
-  first_description: Leach, 1815
-  current_name: Scolopendra subspinipes
-  status: valid 
-  status_remark: Kronmüller, 2012
-- name: Scolopendra audax
-  first_description: Gervais, 1837
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra septemspinosa
-  first_description: Brandt 1840
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra sexspinosa
-  first_description: Newport, 1844
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra childreni
-  first_description: Newport, 1844
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra placeae
-  first_description: Newport, 1845
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra gervaisii
-  first_description: Newport, 1845
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra planiceps
-  first_description: Newport, 1845
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra lutea
-  first_description: Newport, 1845
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra ornata
-  first_description: Newport, 1845
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra newporti
-  first_description: Lucas, 1849
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra byssina
-  first_description: Wood, 1861
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra atra
-  first_description: Wood, 1861
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra bispinipes
-  first_description: Wood, 1862
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra macracanthus
-  first_description: Bollman, 1889
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra gracilipes
-  first_description: Daday, 1891
-  current_name: Scolopendra subspinipes
-  status: Synonym
-- name: Scolopendra subspinipes fulgurans 
-  first_description: Bücherl, 1946
-  current_name: Scolopendra subspinipes
-  status: Synonym
-  status_remark: Kronmüller, 2012
 
 - name: Scolopendra punctiventris 
   first_description: Newport, 1844
@@ -329,4 +276,579 @@
   first_description: Silvestri, 1895
   current_name: Hemiscolopendra chilensis
   status: Synonym
+
+- name: Scolopendra crudelis 
+  first_description: C. L. Koch, 1847
+  current_name: Scolopendra crudelis
+  status: valid
+
+- name: Scolopendra pomacea
+  first_description: C. L. Koch, 1847
+  current_name: Scolopendra pomacea
+  status: valid
+- name: Scolopendra chichimeca
+  first_description: Saussure, 1860
+  current_name: Scolopendra pomacea
+  status: Synonym
+- name: Scolopendra olmeca
+  first_description: Humbert & Saussure, 1869
+  current_name: Scolopendra pomacea
+  status: Synonym
+
+- name: Scolopendra pomacea michoacana
+  first_description: Chamberlin, 1942
+  current_name: Scolopendra pomacea michoacana
+  status: valid
+- name: Scolopendra pomacea minuscula
+  first_description: Bücherl, 1946
+  current_name: Scolopendra pomacea minuscula
+  status: valid
+
+- name: Scolopendra melinonii
+  first_description: Lucas, 1853
+  current_name: Scolopendra melinonii
+  status: valid
+
+- name: Scolopendra heros
+  first_description: Girard, 1853
+  current_name: Scolopendra heros
+  status: valid
+- name: Scolopendra castaneiceps
+  first_description: Wood, 1861
+  current_name: Scolopendra heros
+  status: Synonym
+- name: Scolopendra punctiscuta
+  first_description: Wood, 1861
+  current_name: Scolopendra heros
+  status: Synonym
+- name: Scolopendra pernix
+  first_description: Kohlrausch, 1878
+  current_name: Scolopendra heros
+  status: Synonym
+- name: Scolopendra prismatica
+  first_description: Cragin, 1885
+  current_name: Scolopendra heros
+  status: Synonym
+- name: Scolopendra arizonensis
+  first_description: Kraepelin, 1903
+  current_name: Scolopendra heros
+  status: Synonym
+
+- name: Scolopendra sumichrasti 
+  first_description: Saussure, 1860
+  current_name: Scolopendra sumichrasti
+  status: valid
+
+- name: Scolopendra polymorpha
+  first_description: Wood, 1861
+  current_name: Scolopendra polymorpha
+  status: valid
+- name: Scolopendra copeiana
+  first_description: Wood, 1862
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra mysteca
+  first_description: Humbert & Saussure, 1869
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra californica
+  first_description: Humbert & Saussure, 1870
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra pachypus
+  first_description: Kohlrausch, 1878
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra leptodera
+  first_description: Kohlrausch, 1878
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra viridilimbata
+  first_description: Daday, 1891
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra gaumeri
+  first_description: Pocock, 1895
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra mohavea
+  first_description: Chamberlin, 1912
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra pueblae
+  first_description: Chamberlin, 1915
+  current_name: Scolopendra polymorpha
+  status: Synonym
+- name: Scolopendra michelbacheri
+  first_description: Verhoeff, 1938
+  current_name: Scolopendra polymorpha
+  status: Synonym
+
+- name: Scolopendra cormocephalina
+  first_description: Kohlrausch, 1878
+  current_name: Hemiscolopendra laevigata
+  status: Synonym
+- name: Scolopendra longispina
+  first_description: Meinert, 1886
+  current_name: Hemiscolopendra laevigata
+  status: Synonym
+
+- name: Scolopendra galapagoensis 
+  first_description: Bollman, 1889
+  current_name: Scolopendra galapagoensis
+  status: valid
+- name: Scolopendra gigantea weyrauchi 
+  first_description: Bücherl, 1950
+  current_name: Scolopendra galapagoensis
+  status: Synonym
+
+- name: Scolopendra appendiculata
+  first_description: Daday, 1891
+  current_name: Scolopendra appendiculata
+  status: valid
+- name: Scolopendra sanatillae
+  first_description: Bollman, 1893
+  current_name: Scolopendra sanatillae
+  status: valid
+- name: Scolopendra pachygnatha
+  first_description: Pocock, 1895
+  current_name: Scolopendra pachygnatha
+  status: valid
+
+- name: Scolopendra armata 
+  first_description: Kraepelin, 1903
+  current_name: Scolopendra armata
+  status: valid
+- name: Scolopendra amancalis amancalis 
+  first_description: Bücherl, 1943
+  current_name: Scolopendra armata amancalis
+  status: valid
+
+- name: Scolopendra robusta 
+  first_description: Kraepelin, 1903
+  current_name: Scolopendra robusta
+  status: valid
+- name: Scolopendra arthrorhabdoides 
+  first_description: Ribaut, 1913
+  current_name: Scolopendra arthrorhabdoides
+  status: valid
+- name: Scolopendra aztecorum 
+  first_description: Verhoeff, 1934
+  current_name: Scolopendra aztecorum
+  status: valid
+- name: Scolopendra octodentata 
+  first_description: Verhoeff, 1934
+  current_name: Scolopendra octodentata
+  status: valid
+- name: Scolopendra michoacana 
+  first_description: Chamberlin, 1941
+  current_name: Scolopendra michoacana
+  status: valid
+- name: Scolopendra hermosa 
+  first_description: Chamberlin, 1941
+  current_name: Scolopendra hermosa
+  status: valid
+- name: Scolopendra chlora 
+  first_description: Chamberlin, 1942
+  current_name: Scolopendra chlora
+  status: valid
+- name: Scolopendra mima 
+  first_description: Chamberlin, 1942
+  current_name: Scolopendra mima
+  status: valid
+- name: Scolopendra spinipriva 
+  first_description: Bücherl, 1946
+  current_name: Scolopendra spinipriva
+  status: valid
+- name: Scolopendra malkini 
+  first_description: Chamberlin, 1955
+  current_name: Scolopendra malkini
+  status: valid
+
+- name: Scolopendra lobidens 
+  first_description: Newport, 1844
+  current_name: Cormocephalus rubriceps
+  status: Synonym
+
+- name: Scolopendra picta 
+  first_description: Newport, 1844
+  current_name: "-"
+  status: invalid
+  status_remark: Nomen Inquirendum
+
+###############################################################################
+#
+#    Alte Welt
+#
+###############################################################################
+
+- name: Scolopendra abnormis 
+  first_description: Lewis & Daszak, 1996
+  current_name: Scolopendra abnormis
+  status: valid
+
+- name: Scolopendra afer
+  first_description: Meinert, 1886
+  current_name: Scolopendra afer
+  status: valid
+  status_remark: Lewis 2002
+- name: Scolopendra gardullana
+  first_description: Attems, 1909
+  current_name: Scolopendra afer
+  status: Synonym
+
+- name: Scolopendra andhrensis 
+  first_description: Jangi & Dass, 1984
+  current_name: Scolopendra andhrensis
+  status: valid
+
+- name: Scolopendra arborea 
+  first_description: Lewis, 1982
+  current_name: Scolopendra arborea
+  status: valid
+
+- name: Scolopendra arenicola 
+  first_description: Lawrence, 1975
+  current_name: Scolopendra arenicola
+  status: valid
+  status_remark: Lewis et al. 2006
+
+- name: Scolopendra attemsi 
+  first_description: Lewis, Minelli & Shelley, 2006
+  current_name: Scolopendra attemsi
+  status: valid
+
+- name: Scolopendra calcarata 
+  first_description: Porat, 1876
+  current_name: Scolopendra calcarata
+  status: valid
+  status_remark: Schileyko, 1995
+
+- name: Scolopendra canidens 
+  first_description: Newport, 1844
+  current_name: Scolopendra canidens
+  status: valid
+
+- name: Scolopendra cingulata
+  first_description: Latreille, 1829
+  current_name: Scolopendra cingulata
+  status: valid
+- name: Scolopendra clavipes
+  first_description: C. L. Koch, 1847
+  current_name: Scolopendra clavipes
+  status: valid
+
+- name: Scolopendra cretica 
+  first_description: Lucas, 1853
+  current_name: Scolopendra cretica
+  status: valid
+- name: Scolopendra oraniensis lusitanica var. cretica 
+  first_description: Attems 1902
+  current_name: Scolopendra cretica
+  status: Synonym
+
+- name: Scolopendra dalmatica dalmatica 
+  first_description: C. L. Koch, 1847
+  current_name: Scolopendra dalmatica dalmatica
+  status: valid
+  status_remark: Würmli 1980
+
+- name: Scolopendra dalmatica pantokratoris 
+  first_description: Attems, 1930
+  current_name: Scolopendra dalmatica pantokratoris
+  status: valid
+- name: Scolopendra oraniensis-dalmatica var. Pantokratoris 
+  first_description: Attems, 1902
+  current_name: Scolopendra dalmatica pantokratoris
+  status: Synonym
+- name: Scolopendra dalmatica var. pantocratoris 
+  first_description: Attems, 1930
+  current_name: Scolopendra dalmatica pantokratoris
+  status: Synonym
+
+- name: Scolopendra ellorensis
+  first_description: Jangi & Dass, 1984
+  current_name: Scolopendra ellorensis
+  status: valid
+
+- name: Scolopendra gracillima gracillima
+  first_description: Attems, 1898
+  current_name: Scolopendra gracillima gracillima
+  status: valid
+- name: Scolopendra gracillima sternostriata
+  first_description: Schileyko, 1995
+  current_name: Scolopendra gracillima sternostriata
+  status: valid
+- name: Scolopendra hardwickei
+  first_description: Newport, 1844
+  current_name: Scolopendra hardwickei
+  status: valid
+- name: Scolopendra indiae
+  first_description: Chamberlin, 1914
+  current_name: Scolopendra indiae
+  status: valid
+- name: Scolopendra jangii
+  first_description: Khanna & Yadav, 1997
+  current_name: Scolopendra jangii
+  status: valid
+
+- name: Scolopendra koreana
+  first_description: Verhoeff , 1934
+  current_name: Scolopendra koreana
+  status: valid
+  status_remark: Lewis et al. 2006
+
+- name: Scolopendra laeta 
+  first_description: Haase, 1887
+  current_name: Scolopendra laeta
+  status: valid
+
+- name: Scolopendra langi 
+  first_description: Chamberlin, 1927
+  current_name: Scolopendra langi
+  status: valid 
+
+- name: Scolopendra lutea
+  first_description: Attems, 1928
+  current_name: Scolopendra lutea
+  status: valid
+- name: Scolopendra occidentalis
+  first_description: Khanna & Yadav, 1997
+  current_name: Scolopendra lutea
+  status: Synonym
+  status_remark: Lewis et al., 2006
+
+- name: Scolopendra madagascariensis
+  first_description: Attems, 1910
+  current_name: Scolopendra madagascariensis
+  status: valid
+- name: Scolopendra mazbii
+  first_description: Gravely, 1912
+  current_name: Scolopendra mazbii
+  status: valid
+- name: Scolopendra media
+  first_description: Muralewicz, 1926
+  current_name: Scolopendra media
+  status: Nomen dubium
+  status_remark: Lewis, 2010
+
+- name: Scolopendra metuenda
+  first_description: Pocock, 1895
+  current_name: Scolopendra metuenda
+  status: valid
+
+- name: Scolopendra mirabilis 
+  first_description: Porat, 1876
+  current_name: Scolopendra mirabilis
+  status: valid
+- name: Scolopendra nudus 
+  first_description: Khanna & Yadav, 1997
+  current_name: Scolopendra mirabilis
+  status: Synonym
+  status_remark: Lewis, 2010
+
+- name: Scolopendra monticola 
+  first_description: Lawrence, 1975
+  current_name: Scolopendra monticola
+  status: valid
+  status_remark: Lewis et al., 2006
+
+- name: Scolopendra multidens 
+  first_description: Newport, 1844
+  current_name: Scolopendra multidens
+  status: valid
+  status_remark: Chao & Chan, 2003
+- name: Scolopendra subspinipes multidens 
+  first_description: Newport, 1844
+  current_name: Scolopendra multidens
+  status: Synonym
+  status_remark: Chao & Chan, 2003
+
+- name: Scolopendra negrocapitis 
+  first_description: Zhang & Wang, 1999
+  current_name: Scolopendra negrocapitis
+  status: valid
+
+- name: Scolopendra oraniensis 
+  first_description: Lucas, 1846
+  current_name: Scolopendra oraniensis
+  status: valid
+- name: Scolopendra canidens oraniensis 
+  first_description: Attems, 1930
+  current_name: Scolopendra oraniensis
+  status: Synonym
+
+- name: Scolopendra paranuda 
+  first_description: Khanna & Tripathi, 1987
+  current_name: Scolopendra paranuda
+  status: valid
+
+- name: Scolopendra pinguis
+  first_description: Pocock, 1891
+  current_name: Scolopendra pinguis
+  status: valid
+- name: Scolopendra punensis
+  first_description: Jangi & Dass, 1984
+  current_name: Scolopendra punensis
+  status: valid
+- name: Scolopendra somala
+  first_description: Manfredi, 1933
+  current_name: Scolopendra somala
+  status: valid
+- name: Scolopendra spinosissima
+  first_description: Kraepelin, 1903
+  current_name: Scolopendra spinosissima
+  status: valid
+  status_remark: Attems 1930
+- name: Scolopendra subspinipes spinosissima
+  first_description: Kraepelin, 1903
+  current_name: Scolopendra spinosissima
+  status: Synonym
+  status_remark: Attems 1930
+
+- name: Scolopendra subcrustalis 
+  first_description: Kronmüller, 2009
+  current_name: Scolopendra subcrustalis
+  status: valid
+
+- name: Scolopendra subspinipes subspinipes 
+  first_description: Leach, 1815
+  current_name: Scolopendra subspinipes
+  status: Synonym
+  status_remark: Kronmüller, 2012
+- name: Scolopendra subspinipes gastroforeata 
+  first_description: Muralewič, 1913
+  current_name: Scolopendra subspinipes
+  status: Synonym
+  status_remark: Lewis, 2010
+- name: Scolopendra subspinipes mutilans 
+  first_description: Attems, 1930
+  current_name: Scolopendra subspinipes
+  status: Synonym
+  status_remark: Lewis, 2010
+- name: Scolopendra subspinipes cingulatoides 
+  first_description: Attems, 1938
+  current_name: Scolopendra dawydoffi
+  status: Synonym
+  status_remark: Kronmüller, 2012
+- name: Scolopendra dawidoffi 
+  first_description: Attems, 1938
+  current_name: Scolopendra dawydoffi
+  status: valid
+  status_remark: Kronmüller, 2012
+- name: Scolopendra subspinipes
+  first_description: Leach, 1815
+  current_name: Scolopendra subspinipes
+  status: valid 
+  status_remark: Kronmüller, 2012
+- name: Scolopendra audax
+  first_description: Gervais, 1837
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra septemspinosa
+  first_description: Brandt 1840
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra sexspinosa
+  first_description: Newport, 1844
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra childreni
+  first_description: Newport, 1844
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra placeae
+  first_description: Newport, 1845
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra gervaisii
+  first_description: Newport, 1845
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra planiceps
+  first_description: Newport, 1845
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra lutea
+  first_description: Newport, 1845
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra ornata
+  first_description: Newport, 1845
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra newporti
+  first_description: Lucas, 1849
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra byssina
+  first_description: Wood, 1861
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra atra
+  first_description: Wood, 1861
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra bispinipes
+  first_description: Wood, 1862
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra macracanthus
+  first_description: Bollman, 1889
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra gracilipes
+  first_description: Daday, 1891
+  current_name: Scolopendra subspinipes
+  status: Synonym
+- name: Scolopendra subspinipes fulgurans 
+  first_description: Bücherl, 1946
+  current_name: Scolopendra subspinipes
+  status: Synonym
+  status_remark: Kronmüller, 2012
+
+- name: Scolopendra subspinipes dehaani 
+  first_description: Brandt, 1840
+  current_name: Scolopendra dehaani
+  status: Synonym
+  status_remark: Kronmüller, 2012
+- name: Scolopendra dehaani 
+  first_description: Brandt, 1840
+  current_name: Scolopendra dehaani
+  status: valid
+  status_remark: Kronmüller, 2012
+
+- name: Scolopendra subspinipes japonica 
+  first_description: Koch, 1878
+  current_name: Scolopendra japonica
+  status: Synonym
+  status_remark: Kronmüller, 2012
+- name: Scolopendra japonica
+  first_description: Koch, 1878
+  current_name: Scolopendra japonica
+  status: valid
+  status_remark: Kronmüller, 2012
+
+- name: Scolopendra subspinipes piceoflava 
+  first_description: Attems, 1934
+  current_name: Scolopendra subspinipes
+  status: Synonym
+  status_remark: Kronmüller, 2012
+
+- name: Scolopendra mutilans
+  first_description: L. Koch 1878
+  current_name: Scolopendra mutilans
+  status: valid
+  status_remark: Lewis, 2010
+
+- name: Scolopendra cingulatoides 
+  first_description: Newport, 1844
+  current_name: Scolopendra cingulata
+  status: Synonym
+  
+- name: Scolopendra teretipes 
+  first_description: Porat, 1893
+  current_name: Scolopendra teretipes
+  status: valid
+  status_remark: Lewis, 2010
 

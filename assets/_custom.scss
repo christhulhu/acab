@@ -155,6 +155,25 @@ h2 {
     }
 }
 
+table.species-list {
+    tr.valid {
+        border-color: #0F0;
+        background-color: rgba(0,255,0, 0.1);
+    } 
+    tr.synonym {
+        border-color: #555;
+        background-color: rgba(0,0,0, 0.1);
+    }
+    tr.invalid {
+        border-color: #F00;
+        background-color: rgba(255,0,0, 0.1);
+    }
+    tr.nomen-dubium {
+        border-color: #FF0;
+        background-color: rgba(255,255, 0, 0.1);
+    }
+}
+
 .internal-link {
     &::before {
         content: "INFO:";
