@@ -3,7 +3,6 @@ title: Scolopendra
 description: Der Genus Scolopendra
 bookHidden: true
 type: page
-layout: taxonomy_genus
 ---
 
 # Scolopendra

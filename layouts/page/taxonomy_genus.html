@@ -5,14 +5,14 @@
   {{- .Content -}}
 
   <h2>Beschriebene Arten</h2>
-  <table>
+  <table class="species-list">
     <tr>
         <th>Name</th>
         <th>Aktueller Name</th>
         <th>Status</th>
     </tr>
   {{ range sort .Site.Data.scolopendra_species "name"  }}
-    <tr>
+    <tr class="{{ replace .status " " "-" | lower }}">
         <td>
             {{.name}}<br/>
             <small>({{.first_description}})</small>
