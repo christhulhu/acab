@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article class="markdown species-list">
+  {{ partial "docs/post-meta" . }}
+
+  {{- .Content -}}
+
+  {{ $data := index (where .Site.Data.scolopendra_species_valid "name" "eq" .Title)}}
+  {{ $d := index $data 0}}
+
+  <h2>Anmerkungen</h2>
+  <div>
+
+    {{ range $d.notes }}
+    {{ .note }} {{.source}}<br/>
+    {{ end }}
+  </div>
+
+  <h2>Synonyme</h2>
+  <div>
+  
+    {{ range $d.synonyms }}
+    {{ .name }} {{.first_description}}<br/>
+    {{ end }}
+  </div>
+  
+  
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
