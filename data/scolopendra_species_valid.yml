@@ -1,17 +1,27 @@
-- first_description: Lewis & Daszak, 1996
-  name: Scolopendra abnormis
-  status: valid
+# Scolopendra abnormis
+- name: Scolopendra abnormis
+  first_description: Lewis & Daszak, 1996
+  status: species
   synonyms: []
-- first_description: Meinert, 1886
-  name: Scolopendra afer
-  status: valid
+
+# Scolopendra afer
+- name: Scolopendra afer
+  first_description: Meinert, 1886
+  status: species
   status_remark: Lewis 2002
   synonyms:
   - first_description: Attems, 1909
     name: Scolopendra gardullana
-- first_description: Leach, 1815
-  name: Scolopendra alternans
-  status: valid
+  - name: Scolopendra crassicornis 
+    first_description: Porat, 1893
+
+# Scolopendra alternans
+- name: Scolopendra alternans
+  first_description: Leach, 1815
+  status: species
+  notes:
+  - note: "Scolopendra alternans hatte Scolopendra cubensis und Scolopendra longipes als Synonyme. Diese wurden 2016 wieder in den eigenen Artenstand überführt"
+    source: "Mercurio, 2016"
   synonyms:
   - first_description: Gervais, 1837
     name: Scolopendra sagraea
@@ -29,120 +39,267 @@
     name: Scolopendra testacea
   - first_description: Bollman, 1893
     name: Scolopendra hirsutipes
-- first_description: Jangi & Dass, 1984
-  name: Scolopendra andhrensis
-  status: valid
+  old_synonyms:
+  - name: Scolopendra cubensis 
+    first_description: Saussure, 1858
+  - name: Scolopendra longipes
+    first_description: Wood, 1862
+
+# Scolopendra andhrensis
+- name: Scolopendra andhrensis
+  first_description: Jangi & Dass, 1984
+  notes:
+  - note: "Beschrieben auf der Basis eines juvenilen Exemplars mit nur 26mm Körperlänge."
+    source: Lewis, 2010
+  - note: "Vielleicht Scolopendra subspinipes"
+    source: Lewis, 2010
+  status: species
   synonyms: []
-- first_description: Newport, 1844
-  name: Scolopendra angulata
-  status: valid
+
+# Scolopendra angulata
+- name: Scolopendra angulata
+  first_description: Newport, 1844
+  status: species
   sub_species:
   - first_description: Chamberlin, 1914
-    name: Scolopendra angulata explorans
+    name: subspecies angulata explorans
     status: valid
-  - first_description: "B\xFCcherl, 1943"
+  - first_description: "Bücherl, 1943"
     name: Scolopendra angulata moojeni
-    status: valid
+    status: subspecies
     synonyms: []
   synonyms:
-  - first_description: C. L. Koch, 1847
-    name: Scolopendra prasina
-  - first_description: Porat, 1876
-    name: Scolopendra nitida
-  - first_description: Giebel, 1879
-    name: Scolopendra respublicana
-- first_description: Daday, 1891
-  name: Scolopendra appendiculata
-  status: valid
+  - name: Scolopendra conjungens
+    first_description: Muralewicz, 1913
+  - name: Scolopendra nitida
+    first_description: Porat, 1876
+  - name: Scolopendra prasina
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra punctiscuta
+    first_description: Wood, 1861
+  - name: Scolopendra respublicana
+    first_description: Giebel, 1879
+
+
+# Scolopendra appendiculata
+- name: Scolopendra appendiculata
+  first_description: Daday, 1891
+  status: species
   synonyms: []
-- first_description: Lewis, 1982
-  name: Scolopendra arborea
-  status: valid
+
+# Scolopendra arborea
+- name: Scolopendra arborea
+  first_description: Lewis, 1982
+  status: species
   synonyms: []
-- first_description: Lawrence, 1975
-  name: Scolopendra arenicola
-  status: valid
+
+# Scolopendra arenicola
+- name: Scolopendra arenicola
+  first_description: Lawrence, 1975
+  notes:
+  - note: Gehört eventuell der Art Scolopendra monticola an und ist nahe verwandt zu Scolopendra lutea"
+    source: Lewis, 2010
+  status: species
   status_remark: Lewis et al. 2006
   synonyms: []
-- first_description: Kraepelin, 1903
-  name: Scolopendra armata
-  status: valid
+
+# Scolopendra armata
+- name: Scolopendra armata
+  first_description: Kraepelin, 1903
+  status: species
   synonyms: []
   sub_species:
-  - first_description: "B\xFCcherl, 1943"
+  - first_description: "Bücherl, 1943"
     name: Scolopendra armata amancalis
-- first_description: Ribaut, 1913
-  name: Scolopendra arthrorhabdoides
+
+# Scolopendra arthrorhabdoides
+- name: Scolopendra arthrorhabdoides
+  first_description: Ribaut, 1913
+  status: species
+  synonyms: []
+
+# Scolopendra arttemsi
+- name: Scolopendra attemsi
+  first_description: Lewis, Minelli & Shelley, 2006
+  status: species
+  notes:
+  - note: "Beschrieben auf Basis eines Exemplars"
+    source: Lewis, 2010
+  - note: "Vielleicht Scolopendra morsitans"
+    source: Lewis, 2010
+  synonyms:
+  - name: Trachycormocephalus intermedia 
+    first_description: Attems,1928
+
+# Scolopendra aztecorum
+- name: Scolopendra aztecorum
+  first_description: Verhoeff, 1934
   status: valid
   synonyms: []
-- first_description: Lewis, Minelli & Shelley, 2006
-  name: Scolopendra attemsi
-  status: valid
-  synonyms: []
-- first_description: Verhoeff, 1934
-  name: Scolopendra aztecorum
-  status: valid
-  synonyms: []
-- first_description: Porat, 1876
-  name: Scolopendra calcarata
-  status: valid
+
+## Scolopendra calcarata
+- name: Scolopendra calcarata
+  first_description: Porat, 1876
+  status: species
   status_remark: Schileyko, 1995
   synonyms: []
-- first_description: Newport, 1844
-  name: Scolopendra canidens
-  status: valid
-  synonyms: []
+
+# Scolopendra canidens
+- name: Scolopendra canidens
+  first_description: Newport, 1844
+  notes:
+  - note: "Männliche Scolopendra canidens und Scolopendra cretica sind nicht voneinander zu unterscheiden."
+    source: Lewis, 2010
+  status: species
+  synonyms:
+  - name: Scolopendra affinis 
+    first_description: Newport, 1844
+  - name: Scolopendra aralocaspia 
+    first_description: Kessler, 1876
+  - name: Scolopendra cyrenaica 
+    first_description: Verhoeff, 1908
+  - name: Scolopendra lopadusae 
+    first_description: Pirotta, 1878
+  - name: Scolopendra spinigera 
+    first_description: Newport, 1844
+  - name: Scolopendra oraniensis africana 
+    first_description: Attems, 1902
+  - name: Scolopendra dalmatica africana 
+    first_description: Verhoeff, 1891
+  - name: Scolopendra canidens puncticornis 
+    first_description: Brolemann, 1930  
+
+# Scolopendra cataracta
+- name: Scolopendra cataracta
+  first_description: Siriwut, Edgecombe, Panha, 2016
+  status: species
+
+# Scolopendra chlora
 - first_description: Chamberlin, 1942
   name: Scolopendra chlora
-  status: valid
+  status: species
   synonyms: []
-- first_description: Latreille, 1829
-  name: Scolopendra cingulata
-  status: valid
+
+# Scolopendra cingulata
+- name: Scolopendra cingulata
+  first_description: Latreille, 1829
+  status: species
   synonyms:
-  - first_description: Newport, 1844
-    name: Scolopendra cingulatoides
+  - name: Scolopendra banatica
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra cingulatoides
+    first_description: Newport, 1844
+  - name: Scolopendra doriae
+    first_description: Pirotta, 1878
+  - name: Scolopendra fulva
+    first_description: Gervais, 1847
+  - name: Scolopendra graeca
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra hispanica
+    first_description: Newport, 1845
+  - name: Scolopendra italica 
+    first_description: C.L. Koch, 1837
+  - name: Scolopendra nigrifrons
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra obscura
+    first_description: C.L. Koch, 1863
+  - name: Rhombocephalus parvus
+    first_description: Newport, 1845
+  - name: Scolopendra penetrans
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra pulchra
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra savignyi
+    first_description: Newport, 1845
+  - name: Scolopendra venefica L.
+    first_description: Koch, 1856
+  - name: Scolopendra violantis
+    first_description: Pirotta, 1878
+  - name: Scolopendra viridifrons
+    first_description: Newport, 1844
+  - name: Scolopendra zonata
+    first_description: C.L. Koch, 1847
+  - name: Scolopendra zwickiana
+    first_description: C.L. Koch, 1863
+  - name: Scolopendra cingulata caeruleolimbata
+    first_description: Verhoeff, 1901
+  - name: Scolopendra cingulata krüperi
+    first_description: Verhoeff, 1901
+  - name: Scolopendra cingulata thracia
+    first_description: Verhoeff, 1928
   variations: 
   - name: Scolopendra cingulata var. obscuripes
     first_description: Porat, 1893
-- first_description: C. L. Koch, 1847
-  name: Scolopendra clavipes
-  status: valid
-  synonyms: []
-- first_description: Lucas, 1853
-  name: Scolopendra cretica
-  status: valid
+
+# Scoloopendra clavipes
+- name: Scolopendra clavipes
+  first_description: C. L. Koch, 1847
+  status: species
+  synonyms:
+  - name: Scolopendra clavipes kosswigi 
+    first_description: Verhoeff, 1941
+
+# Scolopendra cretica
+- name: Scolopendra cretica
+  first_description: Lucas, 1853
+  status: species
   synonyms:
   - first_description: Attems 1902
     name: Scolopendra oraniensis lusitanica var. cretica
-- first_description: C. L. Koch, 1847
-  name: Scolopendra crudelis
-  status: valid
+
+# Scolopendra crudelis
+- name: Scolopendra crudelis
+  first_description: C. L. Koch, 1847
+  status: species
   synonyms: []
-- first_description: Saussure, 1860
-  name: Scolopendra cubensis
-  status: valid
+
+# Scolopendra cubensis
+- name: Scolopendra cubensis
+  first_description: Saussure, 1860
+  notes:
+  - note: "Scolopendra cubensis war von 1903 bis 2016 Synonym für Scolopendra alternans."
+    source: Mercurio, 2016
+  status: species
   status_remark: Mercurio, 2016
   synonyms: []
-- first_description: C. L. Koch, 1847
-  name: Scolopendra dalmatica
-  status: valid
-  status_remark: "W\xFCrmli 1980"
+
+# Scolopendra dalmatica
+- name: Scolopendra dalmatica
+  first_description: C. L. Koch, 1847
+  notes:
+  - note: "Unterart Scolopendra dalmatica pantokratoris wurde lange Zeit als Variation oder Synonym angesehen. Würmli (1980) hat den eigenen Artenbestand bestätigt."
+    source: Lewis, 2010
+  status: species
+  status_remark: "Würmli 1980"
   synonyms: []
   sub_species:
   - first_description: Attems, 1930
     name: Scolopendra dalmatica pantokratoris
-    status: valid
+    status: subspecies
+    notes:
+    - note: Status als Unterart wurde bestätigt.
+      source: Würmli, 1980
+    - note: Sehr ähnlich zu Scolopendra dalmatica dalmatica.
+      source: Lewis, 2010
     synonyms:
     - first_description: Attems, 1902
       name: Scolopendra oraniensis-dalmatica var. Pantokratoris
     - first_description: Attems, 1930
       name: Scolopendra dalmatica var. pantocratoris
-- first_description: Attems, 1938
-  name: Scolopendra dawydoffi
-  status: valid
-  status_remark: "Kronm\xFCller, 2012"
-  synonyms: []
+
+# Scolopendra dawydoffi
+- name: Scolopendra dawydoffi
+  first_description: Attems, 1938
+  notes:
+  - note: Bis 2012 was Scolopendra dawydoffi bekannt als Scolopendra subspinipes cingulatoides. Kronmüller wählte den neuen Namen nach Sammler der Art, um Homonymität mit Scolopendra cingulatoides zu vermeiden.
+    source: Kronmüller, 2012
+  status: species
+  status_remark: "Kronmüller, 2012"
+  synonyms:
+  - name: Scolopendra subspinipes cingulatoides
+    first_description: Attems, 1938
+
+
 - first_description: Brandt, 1840
   name: Scolopendra dehaani
   status: valid
