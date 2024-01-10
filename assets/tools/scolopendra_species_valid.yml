@@ -57,11 +57,6 @@
   name: Scolopendra morsitans coerulescens
   status: valid
   synonyms: []
-- current_name: unbekannt
-  first_description: L., 1758
-  name: Scolopendra occidentalis
-  status: invalid
-  synonyms: []
 - current_name: Scolopendra alternans
   first_description: Leach, 1815
   name: Scolopendra alternans
@@ -321,12 +316,6 @@
   name: Scolopendra malkini
   status: valid
   synonyms: []
-- current_name: '-'
-  first_description: Newport, 1844
-  name: Scolopendra picta
-  status: invalid
-  status_remark: Nomen Inquirendum
-  synonyms: []
 - current_name: Scolopendra abnormis
   first_description: Lewis & Daszak, 1996
   name: Scolopendra abnormis
@@ -548,7 +537,7 @@
   synonyms: []
 - current_name: Scolopendra dawydoffi
   first_description: Attems, 1938
-  name: Scolopendra dawidoffi
+  name: Scolopendra dawydoffi
   status: valid
   status_remark: "Kronm\xFCller, 2012"
   synonyms: []
@@ -626,3 +615,14 @@
   status: valid
   status_remark: Lewis, 2010
   synonyms: []
+- current_name: Scolopendra valida
+  first_description: Lucas, 1840
+  name: Scolopendra valida
+  status: valid
+  sub_species:
+  - name: Scolopendra valida balfouri
+    first_description: Pocock, 1896
+- current_name: Scolopendra zuluana
+  first_description: Lawrence, 1958
+  name: Scolopendra zuluana
+  status: valid
