@@ -15,6 +15,11 @@
   - name: Scolopendra crassicornis 
     first_description: Porat, 1893
 
+# Scolopendra alcyona
+- name: Scolopendra alcyona 
+  first_description: Tsukamoto, Hiruta, Eguchi, Liao, Shimano, 2021
+  status: species
+
 # Scolopendra alternans
 - name: Scolopendra alternans
   first_description: Leach, 1815
