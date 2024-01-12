@@ -368,6 +368,11 @@
     status: valid
     synonyms: []
 
+- name: Scolopendra hainanum
+  first_description: Kronmüller, 2012
+  status: species
+  synonyms: []
+
 # Scolopendra hardwickei
 - name: Scolopendra hardwickei
   first_description: Newport, 1844
@@ -742,6 +747,9 @@
   first_description: Pocock, 1895
   status: species
   synonyms: []
+
+- name: Scolopendra paradoxa
+  first_description: Domenech, Barbera, Larriba, 2018
 
 # Scolopendra paranuda
 - first_description: Khanna & Tripathi, 1987
