@@ -4,50 +4,18 @@
 
   {{- .Content -}}
 
-    <h2>Europa</h2>
-    {{ range .Site.Data.species }}
-        <!--{{.}}<br/>-->
-        {{ $distribution := index (index . "distribution") "europe"}}
-        {{if $distribution }}
-            {{index . "name"}}<br/>
-        {{ end }}
-    {{end}}
-
-    <h2>Asien</h2>
-    {{ range .Site.Data.species }}
-        <!--{{.}}<br/>-->
-        {{ $distribution := index (index . "distribution") "asia"}}
-        {{if $distribution }}
-            {{index . "name"}}<br/>
-        {{ end }}
-    {{end}}
-
-    <h2>Afrika</h2>
-    {{ range .Site.Data.species }}
-        <!--{{.}}<br/>-->
-        {{ $distribution := index (index . "distribution") "africa"}}
-        {{if $distribution }}
-            {{index . "name"}}<br/>
-        {{ end }}
-    {{end}}
-
-    <h2>Australien und Ozeanien </h2>
-    {{ range .Site.Data.species }}
-        <!--{{.}}<br/>-->
-        {{ $distribution := index (index . "distribution") "ozeania"}}
-        {{if $distribution }}
-            {{index . "name"}}<br/>
-        {{ end }}
-    {{end}}
-
-    <h2>Amerika</h2>
-    {{ range .Site.Data.species }}
-        <!--{{.}}<br/>-->
-        {{ $distribution := index (index . "distribution") "america"}}
-        {{if $distribution }}
-            {{index . "name"}}<br/>
-        {{ end }}
-    {{end}}
+  {{range sort .Params.distributions "name" }}
+    <h2>{{.name}}</h2>
+    {{$filter := .filter}}
+    <p>
+        {{range $.Site.Data.species }}
+            {{ $distribution := index (index . "distribution") $filter}}
+            {{if $distribution }}
+                {{index . "name"}}<br/>
+            {{ end }}
+        {{end}}
+    </p>
+  {{end}}
  
 </article>
 {{ end }}
