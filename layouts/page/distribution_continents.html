@@ -5,13 +5,21 @@
   {{- .Content -}}
 
   {{range sort .Params.distributions "name" }}
+    {{$continent := index . "name"}}
     <h2>{{.name}}</h2>
+    {{if $.Page.Params.showContinentLink }}<p><a href="{{lower .name}}">Details</a></p>{{end}}
     {{$filter := .filter}}
     <p>
         {{range $.Site.Data.species }}
             {{ $distribution := index (index . "distribution") $filter}}
             {{if $distribution }}
+                {{if $.Page.Params.details }}
+                <h3>{{index . "name"}}</h3>
+                Verbreitung in {{$continent}}:<br/>
+                {{delimit $distribution ", "}}
+                {{else}}
                 {{index . "name"}}<br/>
+                {{end}}
             {{ end }}
         {{end}}
     </p>
