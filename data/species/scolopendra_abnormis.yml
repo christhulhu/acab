@@ -1,2 +1,5 @@
 name: Scolopendra abnormis
 first_description: Lewis & Daszak, 1996
+distribution:
+  africa:
+  - "Mauritius (spezifisch: Round und Serpent Islands)"

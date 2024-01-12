@@ -1,2 +1,11 @@
 name: Scolopendra dalmatica
 first_description: C. L. Koch, 1847
+notes:
+  - note: "Unterart Scolopendra dalmatica pantokratoris endemisch in Griechenland (spezifisch: Nur auf der Insel Korfu)"
+distribution:
+  europe:
+  - Kroatien
+  - Bosnien-Herzegowina
+  - Montenegro
+  - Albanien
+  - Griechenland (Festland und Insel Kreta)

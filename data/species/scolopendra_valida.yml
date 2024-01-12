@@ -1,2 +1,9 @@
 name: Scolopendra valida
 first_description: Lucas, 1840
+distribution:
+  africa:
+  - Kamerun
+  - Sudan
+  - Eritrea
+  - Äthiopien
+  - Somalia
