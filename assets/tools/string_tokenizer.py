@@ -1,4 +1,4 @@
-input = "São Tomé & Príncipe, Elfenbeinküste (Ivory Coast), Liberia, Tansania (spezifisch: Sansibar), Südafrika (spezifisch: Port Elizabeth), Seychellen, Réunion, Mauritius, Rodrigues, Madagaskar"
+input = "Saudi-Arabien, Vereinigte Arabische Emirate (VAE), Oman, Jemen (einschließlich Socotra und Abd al Kuri), Iran, Indien"
 
 for i in input.split(','):
     print(f'- {i.strip()}')

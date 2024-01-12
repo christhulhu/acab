@@ -1,5 +1,7 @@
 name: Scolopendra subspinipes
 first_description: Leach, 1815
+notes:
+- note: "Verbreitung ehemalige Scolopendra subspinipes piceoflava: Indonesia (spezifisch: Sulawesi)"
 distribution:
   ozeania:
   - Indonesien
@@ -15,3 +17,17 @@ distribution:
   - Mauritius
   - Rodrigues
   - Madagaskar
+  asia:
+  - "Russland (spezifisch: Maritime Provinz)"
+  - Indien
+  - Sri Lanka
+  - "Malaysia (Spezifisch: Halinsel Malaysia, Sarawak)"
+  - Singapur
+  - Laos
+  - "Vietnam (spezifisch: Annam)"
+  - Thailand
+  - "China (einschließlich Hongkong)"
+  - Japan
+  - Philippinen
+  - "Indonesien (spezifisch: Sumatra [Sinkip Island], Java, Krakatau, Lombok, Sunda, Sulawesi, Irian Jaya)"
+  - Andamanen und Nikobaren.

@@ -1,2 +1,6 @@
 name: Scolopendra japonica
 first_description: Koch, 1878
+distribution:
+  asia:
+  - Japan
+  - Taiwan

@@ -3,9 +3,10 @@
   {{ partial "docs/post-meta" . }}
 
   {{- .Content -}}
+  <!-- TODO Umbau auf einzelne Species-YAML -->
 
   <h2>Beschriebene Arten</h2>
-  {{ range sort .Site.Data.scolopendra_species_valid "name"  }}
+  {{ range sort .Site.Data.species "name"  }}
   <article class="species">
     <div class="species_header">
       <p class="species_name">{{.name}}</p>

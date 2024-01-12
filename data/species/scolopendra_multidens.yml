@@ -1,2 +1,9 @@
 name: Scolopendra multidens
 first_description: Newport, 1844
+distribution:
+  asia:
+  - Japan
+  - China
+  - Taiwan
+  - Philippinen
+  - "Indonesia (spezifisch: Java)"

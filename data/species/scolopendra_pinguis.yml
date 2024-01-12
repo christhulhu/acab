@@ -1,2 +1,6 @@
 name: Scolopendra pinguis
 first_description: Pocock, 1891
+distribution:
+  asia:
+  - Myanmar (Burma)
+  - "Indonesia (spezifisch: Java)"

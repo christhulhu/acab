@@ -1,2 +1,9 @@
 name: Scolopendra gracillima
 first_description: Attems, 1898
+notes:
+  - note: "Unterart Scolopendra gracillima sternostriata stammt aus Vietnam"
+distribution:
+  asia:
+  - "Indonesien (spezifisch: Java, Seram)"
+  - "Malaysia (spezifisch: Sarawak)"
+  - Vietnam
