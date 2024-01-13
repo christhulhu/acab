@@ -1,5 +1,24 @@
-name: Scolopendra laeta
-first_description: Haase, 1887
 distribution:
   ozeania:
   - Australien
+first_description: Haase, 1887
+name: Scolopendra laeta
+notes:
+- note: "Vorkommnisse von Scolopendra laeta au\xDFerhalb von Australien sind nicht\
+    \ belegt."
+  source: Lewis, 2010
+status: species
+status_remark: L. E. Koch, 1982
+synonyms:
+- first_description: Kraepelin, 1908
+  name: Scolopendra laeta fasciata
+- first_description: Kraepelin, 1908
+  name: Scolopendra laeta flavipes
+- first_description: Kraepelin, 1908
+  name: Scolopendra laeta viridis
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

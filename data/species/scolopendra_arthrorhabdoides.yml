@@ -1,2 +1,10 @@
-name: Scolopendra arthrorhabdoides
 first_description: Ribaut, 1913
+name: Scolopendra arthrorhabdoides
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

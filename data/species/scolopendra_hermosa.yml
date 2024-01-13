@@ -1,2 +1,10 @@
-name: Scolopendra hermosa
 first_description: Chamberlin, 1941
+name: Scolopendra hermosa
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

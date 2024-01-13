@@ -1,6 +1,14 @@
-name: Scolopendra mazbii
-first_description: Gravely, 1912
 distribution:
   asia:
-  - "Indien (spezifisch: Assam)"
+  - 'Indien (spezifisch: Assam)'
   - China
+first_description: Gravely, 1912
+name: Scolopendra mazbii
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

@@ -1,2 +1,28 @@
-name: Scolopendra angulata
 first_description: Newport, 1844
+name: Scolopendra angulata
+status: species
+sub_species:
+- first_description: Chamberlin, 1914
+  name: Scolopendra angulata explorans
+  status: valid
+- first_description: "B\xFCcherl, 1943"
+  name: Scolopendra angulata moojeni
+  status: subspecies
+  synonyms: []
+synonyms:
+- first_description: Muralewicz, 1913
+  name: Scolopendra conjungens
+- first_description: Porat, 1876
+  name: Scolopendra nitida
+- first_description: C.L. Koch, 1847
+  name: Scolopendra prasina
+- first_description: Wood, 1861
+  name: Scolopendra punctiscuta
+- first_description: Giebel, 1879
+  name: Scolopendra respublicana
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

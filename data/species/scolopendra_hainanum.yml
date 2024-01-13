@@ -1,5 +1,13 @@
-name: Scolopendra hainanum
-first_description: Kronmüller, 2012
 distribution:
   asia:
-  - "China (spezifisch: Hainan Insel, südliches Festland möglich)"
+  - "China (spezifisch: Hainan Insel, s\xFCdliches Festland m\xF6glich)"
+first_description: "Kronm\xFCller, 2012"
+name: Scolopendra hainanum
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

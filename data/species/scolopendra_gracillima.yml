@@ -1,9 +1,24 @@
-name: Scolopendra gracillima
-first_description: Attems, 1898
-notes:
-  - note: "Unterart Scolopendra gracillima sternostriata stammt aus Vietnam"
 distribution:
   asia:
-  - "Indonesien (spezifisch: Java, Seram)"
-  - "Malaysia (spezifisch: Sarawak)"
+  - 'Indonesien (spezifisch: Java, Seram)'
+  - 'Malaysia (spezifisch: Sarawak)'
   - Vietnam
+first_description: Attems, 1898
+name: Scolopendra gracillima
+notes:
+- note: Unterart Scolopendra gracillima sternostriata stammt aus Vietnam
+- note: "Scolopendra gracillima gracillima ist sehr \xE4hnlich zu Scolopendra pinguis."
+  source: Lewis, 2010
+status: species
+sub_species:
+- first_description: Schileyko, 1995
+  name: Scolopendra gracillima sternostriata
+  status: valid
+  synonyms: []
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

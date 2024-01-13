@@ -1,5 +1,13 @@
-name: Scolopendra abnormis
-first_description: Lewis & Daszak, 1996
 distribution:
   africa:
-  - "Mauritius (spezifisch: Round und Serpent Islands)"
+  - 'Mauritius (spezifisch: Round und Serpent Islands)'
+first_description: Lewis & Daszak, 1996
+name: Scolopendra abnormis
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

@@ -1,2 +1,10 @@
-name: Scolopendra aztecorum
 first_description: Verhoeff, 1934
+name: Scolopendra aztecorum
+status: valid
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

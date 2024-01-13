@@ -1,2 +1,10 @@
-name: Scolopendra robusta
 first_description: Kraepelin, 1903
+name: Scolopendra robusta
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

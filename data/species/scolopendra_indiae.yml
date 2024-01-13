@@ -1,5 +1,17 @@
-name: Scolopendra indiae
-first_description: Chamberlin, 1914
 distribution:
   asia:
   - Indien
+first_description: Chamberlin, 1914
+name: Scolopendra indiae
+notes:
+- note: "Beschreibung basiert auf zwei Exemplaren mit 22 und 23mm. Sp\xE4ter wurden\
+    \ zwei andere Exemplare (Yadav, 1993) mit 50mm beschrieben."
+  source: Lewis, 2010
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

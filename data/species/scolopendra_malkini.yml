@@ -1,2 +1,10 @@
-name: Scolopendra malkini
 first_description: Chamberlin, 1955
+name: Scolopendra malkini
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

@@ -1,2 +1,10 @@
-name: Scolopendra chlora
 first_description: Chamberlin, 1942
+name: Scolopendra chlora
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

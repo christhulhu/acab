@@ -1,2 +1,14 @@
-name: Scolopendra cubensis
 first_description: Saussure, 1860
+name: Scolopendra cubensis
+notes:
+- note: "Scolopendra cubensis war von 1903 bis 2016 Synonym f\xFCr Scolopendra alternans."
+  source: Mercurio, 2016
+status: species
+status_remark: Mercurio, 2016
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
