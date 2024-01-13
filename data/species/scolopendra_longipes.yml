@@ -12,3 +12,7 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "USA (spezifisch: Dry Tortugas, Florida Keys, südliches Florida, Monroe County, Dade County und Collier County)"
+  - Bahamas

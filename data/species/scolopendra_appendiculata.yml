@@ -8,3 +8,6 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Argentinien (spezifisch: Gran Chaco Resistentia)"

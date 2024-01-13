@@ -8,3 +8,6 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Mexiko (spezifisch: La Paz, Baja California Sur)"

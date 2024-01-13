@@ -11,3 +11,10 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - Venezuela
+  - nordöstlicher Amazonas
+  - Brasilien
+notes:
+- note: Scolopendra armata hat aktuell zwei anerkannte Unterarten (Bücherl (1939)), die durch Shelley (2006) in ihrer Verbreitung nicht genauer differenziert wurden, sondern alle unter Scolopendra armata zusammengefasst wurden.

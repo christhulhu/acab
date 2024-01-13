@@ -8,3 +8,6 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Peru (spezifisch: Rio Pisqui, Rio Bombo, Alto Tapiche, Pampa Hermosa, Rio Ucayali, Contayo Hills, Rio Tapiche, Upper Huallaga, Pachiza, Iquitos)"

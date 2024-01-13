@@ -12,3 +12,8 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Costa Rica (spezifisch: Cocos Island)"
+  - Ecuador (einschließlich Galápagos-Inseln und das Festland in der Region Guayas)
+  - Peru

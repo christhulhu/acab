@@ -8,3 +8,6 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Brasilien (spezifisch: Santo André, São Paulo Edo)"

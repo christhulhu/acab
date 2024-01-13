@@ -6,6 +6,43 @@ distribution:
   ozeania:
   - Australien
   - Inseln im pazifischen Ozean
+  america:
+  - Anguilla
+  - Antigua und Barbuda
+  - Bahamas
+  - Barbuda
+  - Cayman Islands
+  - Curaçao
+  - Dominica
+  - Grenadines
+  - Guadeloupe
+  - "Hispaniola (spezifisch: Haiti, Dominikanische Republik)"
+  - Jamaika
+  - Martinique
+  - Montserrat
+  - Nevis
+  - St. Barthélemy
+  - St. Kitts
+  - St. Vincent
+  - Tobago
+  - Turks- und Caicosinseln
+  - Puerto Rico
+  - US Virgin Islands
+  - "USA (spezifisch: Florida)"
+  - Mexiko
+  - Belize
+  - Costa Rica
+  - Panama
+  - Kolumbien
+  - Venezuela
+  - Guyana
+  - Surinam
+  - Französisch-Guayana
+  - Ecuador
+  - Peru
+  - Brasilien
+  - Paraguay
+  - Argentinien
 first_description: L., 1758
 name: Scolopendra morsitans
 status: species
@@ -123,3 +160,6 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+notes:
+- note: "Die Unterart Scolopendra morsitans coerulescens stammt aus USA (spezifisch Medicine Lodge, Barber Co., Kansas)"
+  source: Shelley, 2006

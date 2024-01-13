@@ -34,3 +34,25 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "USA (spezifisch: südliches Florida)"
+  - Bahamas
+  - Kuba
+  - "Hispaniola (spezifisch: Dominikanische Republik, Haiti)"
+  - Puerto Rico
+  - U.S. Virgin Islands
+  - British Virgin Islands
+  - St. Barthélemy
+  - St. Eustatius
+  - St. Kitts
+  - Saba
+  - Barbuda
+  - Antigua
+  - Montserrat
+  - Guadeloupe
+  - Dominica
+  - St. Lucia
+  - Trinidad (Teil von Trinidad und Tobago)
+  - Venezuela
+  - Brasilien
