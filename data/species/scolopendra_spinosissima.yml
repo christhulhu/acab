@@ -1,5 +1,16 @@
-name: Scolopendra spinosissima
-first_description: Kraepelin, 1903
 distribution:
   asia:
   - Philippinen
+first_description: Kraepelin, 1903
+name: Scolopendra spinosissima
+status: species
+status_remark: Attems 1930
+synonyms:
+- first_description: Kraepelin, 1903
+  name: Scolopendra subspinipes spinosissima
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

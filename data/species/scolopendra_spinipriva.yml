@@ -1,2 +1,10 @@
+first_description: "B\xFCcherl, 1946"
 name: Scolopendra spinipriva
-first_description: Bücherl, 1946
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

@@ -1,2 +1,10 @@
-name: Scolopendra octodentata
 first_description: Verhoeff, 1934
+name: Scolopendra octodentata
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

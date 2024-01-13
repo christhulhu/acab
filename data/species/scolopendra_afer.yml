@@ -1,14 +1,27 @@
-name: Scolopendra afer
-first_description: Meinert, 1886
 distribution:
   africa:
   - Sudan
-  - Äthiopien
+  - "\xC4thiopien"
   - Uganda
   - Somalia
-  - Tansania (einschließlich Sansibar)
+  - "Tansania (einschlie\xDFlich Sansibar)"
   - Kenia
   - Demokratische Republik Kongo
   - Simbabwe
   - Angola
-  - Südafrika
+  - "S\xFCdafrika"
+first_description: Meinert, 1886
+name: Scolopendra afer
+status: species
+status_remark: Lewis 2002
+synonyms:
+- first_description: Attems, 1909
+  name: Scolopendra gardullana
+- first_description: Porat, 1893
+  name: Scolopendra crassicornis
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

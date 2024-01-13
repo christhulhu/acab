@@ -1,5 +1,13 @@
-name: Scolopendra subcrustalis
-first_description: Kronmüller, 2009
 distribution:
   asia:
   - Philippinen
+first_description: "Kronm\xFCller, 2009"
+name: Scolopendra subcrustalis
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

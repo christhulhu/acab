@@ -1,7 +1,16 @@
-name: Scolopendra calcarata
-first_description: Porat, 1876
 distribution:
   asia:
   - China
   - Laos
   - Vietnam
+first_description: Porat, 1876
+name: Scolopendra calcarata
+status: species
+status_remark: Schileyko, 1995
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

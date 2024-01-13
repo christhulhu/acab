@@ -1,5 +1,19 @@
-name: Scolopendra langi
-first_description: Chamberlin, 1927
 distribution:
   africa:
   - Demokratische Republik Kongo
+first_description: Chamberlin, 1927
+name: Scolopendra langi
+notes:
+- note: Artenbeschreibung auf Grundlage eines Exemplars, dessen Attribute eher dem
+    Genus Rhysida entsprechen.
+  source: Lewis, 2010
+status: species
+synonyms:
+- first_description: Kraepelin, 1903
+  name: Trachycormocephalus langi
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

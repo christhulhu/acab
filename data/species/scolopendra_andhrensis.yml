@@ -1,5 +1,19 @@
-name: Scolopendra andhrensis
-first_description: Jangi & Dass, 1984
 distribution:
   asia:
-  - "Indien (spezifisch: Andhra Pradesh und Maharashtra)"
+  - 'Indien (spezifisch: Andhra Pradesh und Maharashtra)'
+first_description: Jangi & Dass, 1984
+name: Scolopendra andhrensis
+notes:
+- note: "Beschrieben auf der Basis eines juvenilen Exemplars mit nur 26mm K\xF6rperl\xE4\
+    nge."
+  source: Lewis, 2010
+- note: Vielleicht Scolopendra subspinipes
+  source: Lewis, 2010
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

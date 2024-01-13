@@ -1,2 +1,10 @@
-name: Scolopendra appendiculata
 first_description: Daday, 1891
+name: Scolopendra appendiculata
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

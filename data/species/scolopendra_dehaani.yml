@@ -1,16 +1,30 @@
-name: Scolopendra dehaani
-first_description: Brandt, 1840
 distribution:
-  asia: 
+  asia:
   - Indien
   - Bangladesch
   - Myanmar (Burma)
   - Malay Peninsula (Malaiische Halbinsel
   - Teil von Malaysia und Thailand)
   - Andamanen und Nikobaren (Teil von Indien)
-  - "Indonesien (spezifisch: Sumatra"
+  - 'Indonesien (spezifisch: Sumatra'
   - Java)
   - Thailand Vietnam
   - Kambodscha
   - China
-  - "Japan (spezifisch: Okinawa-Inseln)"
+  - 'Japan (spezifisch: Okinawa-Inseln)'
+first_description: Brandt, 1840
+name: Scolopendra dehaani
+notes:
+- note: Bis 2012 was Scolopendra dehaani bekannt als Scolopendra subspinipes dehaani.
+  source: "Kronm\xFCller, 2012"
+status: species
+status_remark: "Kronm\xFCller, 2012"
+synonyms:
+- first_description: Brandt, 1840
+  name: Scolopendra subspinipes dehaani
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

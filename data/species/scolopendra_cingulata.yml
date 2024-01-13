@@ -1,5 +1,17 @@
-name: Scolopendra cingulata
 distribution:
+  africa:
+  - "\xC4gypten"
+  asia:
+  - "T\xFCrkei"
+  - Zypern
+  - Tadschikistan
+  - Libanon
+  - "Pal\xE4stina"
+  - Israel
+  - Jordanien
+  - Syrien
+  - Irak
+  - Iran
   europe:
   - Portugal
   - Spanien
@@ -11,26 +23,68 @@ distribution:
   - Montenegro
   - Ehemalige jugoslawische Republik Mazedonien
   - Ungarn
-  - Rumänien
+  - "Rum\xE4nien"
   - Bulgarien
   - Albanien
   - Griechenland (Festland und Insel Kreta)
-  - Türkei
+  - "T\xFCrkei"
   - Italien (Festland und Inseln Sizilien, Sardinien)
   - Zypern
-  - Südrussland (Kaukasus)
+  - "S\xFCdrussland (Kaukasus)"
   - Krim
-  - Österreich
-  asia:
-  - Türkei
-  - Zypern
-  - Tadschikistan
-  - Libanon
-  - Palästina
-  - Israel
-  - Jordanien
-  - Syrien
-  - Irak
-  - Iran
-  africa:
-  - Ägypten
+  - "\xD6sterreich"
+first_description: Latreille, 1829
+name: Scolopendra cingulata
+status: species
+synonyms:
+- first_description: C.L. Koch, 1847
+  name: Scolopendra banatica
+- first_description: Newport, 1844
+  name: Scolopendra cingulatoides
+- first_description: Pirotta, 1878
+  name: Scolopendra doriae
+- first_description: Gervais, 1847
+  name: Scolopendra fulva
+- first_description: C.L. Koch, 1847
+  name: Scolopendra graeca
+- first_description: Newport, 1845
+  name: Scolopendra hispanica
+- first_description: C.L. Koch, 1837
+  name: Scolopendra italica
+- first_description: C.L. Koch, 1847
+  name: Scolopendra nigrifrons
+- first_description: C.L. Koch, 1863
+  name: Scolopendra obscura
+- first_description: Newport, 1845
+  name: Rhombocephalus parvus
+- first_description: C.L. Koch, 1847
+  name: Scolopendra penetrans
+- first_description: C.L. Koch, 1847
+  name: Scolopendra pulchra
+- first_description: Newport, 1845
+  name: Scolopendra savignyi
+- first_description: Koch, 1856
+  name: Scolopendra venefica L.
+- first_description: Pirotta, 1878
+  name: Scolopendra violantis
+- first_description: Newport, 1844
+  name: Scolopendra viridifrons
+- first_description: C.L. Koch, 1847
+  name: Scolopendra zonata
+- first_description: C.L. Koch, 1863
+  name: Scolopendra zwickiana
+- first_description: Verhoeff, 1901
+  name: Scolopendra cingulata caeruleolimbata
+- first_description: Verhoeff, 1901
+  name: "Scolopendra cingulata kr\xFCperi"
+- first_description: Verhoeff, 1928
+  name: Scolopendra cingulata thracia
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+variations:
+- first_description: Porat, 1893
+  name: Scolopendra cingulata var. obscuripes

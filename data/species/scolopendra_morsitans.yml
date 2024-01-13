@@ -1,10 +1,125 @@
-name: Scolopendra morsitans
-first_description: L., 1758
 distribution:
   africa:
   - Gesamt Afrika
+  asia:
+  - Gesamt Asien
   ozeania:
   - Australien
   - Inseln im pazifischen Ozean
-  asia:
-  - Gesamt Asien
+first_description: L., 1758
+name: Scolopendra morsitans
+status: species
+sub_species:
+- first_description: Cragin, 1885
+  name: Scolopendra morsitans coerulescens
+  status: subspecies
+  synonyms: []
+synonyms:
+- first_description: Porat, 1871
+  name: Scolopendra afzelii
+- first_description: Newport, 1845
+  name: Scolopendra algerina
+- first_description: Newport, 1844
+  name: Scolopendra angulipes
+- first_description: Porat, 1871
+  name: Scolopendra attenuata
+- first_description: Brandt, 1840
+  name: Scolopendra bilineata
+- first_description: Peters, 1862
+  name: Scolopendra brachypoda
+- first_description: Gervais, 1837
+  name: Scolopendra brandtiana
+- first_description: Humbert & Saussure, 1870
+  name: Scolopendra carinipes
+- first_description: Porat, 1871
+  name: Scolopendra chlorocephala
+- first_description: Porat, 1871
+  name: Scolopendra cognata
+- first_description: Wood, 1862
+  name: Scolopendra compressipes
+- first_description: Brandt, 1840
+  name: Scolopendra crassipes
+- first_description: Brandt, 1841
+  name: Scolopendra elegans
+- first_description: Brandt, 1840
+  name: Scolopendra erythrocephala
+- first_description: Newport, 1845
+  name: Scolopendra fabricii
+- first_description: Newport, 1845
+  name: Scolopendra formosa
+- first_description: Brandt, 1841
+  name: Scolopendra fulvipes
+- first_description: Saussure & Zehntner, 1902
+  name: Scolopendra grandidieri
+- first_description: Porat, 1876
+  name: Scolopendra impressa
+- first_description: C.L. Koch, 1847
+  name: Scolopendra infesta
+- first_description: Porat, 1871
+  name: Scolopendra intermedia
+- first_description: Khanna, 1977
+  name: Trachycormocephalus jodhpurensis
+- first_description: Newport, 1844
+  name: Scolopendra leachii
+- first_description: Brandt, 1840
+  name: Scolopendra limbata
+- first_description: Saussure & Zehntner, 1902
+  name: Scolopendra lineata
+- first_description: Newport, 1844
+  name: Scolopendra longicornis
+- first_description: Wood, 1862
+  name: Scolopendra modesta
+- first_description: Peters, 1862
+  name: Scolopendra mossambica
+- first_description: Wood, 1861
+  name: Scolopendra pella
+- first_description: Porat, 1871
+  name: Scolopendra picturata
+- first_description: Porat, 1871
+  name: Scolopendra pilosella
+- first_description: C.L. Koch, 1847
+  name: Scolopendra planipes
+- first_description: Newport, 1844
+  name: Scolopendra platypoides
+- first_description: Brandt, 1840
+  name: Scolopendra platypus
+- first_description: Wood, 1861
+  name: Scolopendra porphyratainia
+- first_description: Newport, 1845
+  name: Scolopendra richardsoni
+- first_description: Porat, 1871
+  name: Scolopendra saltatoria
+- first_description: Butler, 1876
+  name: Eurylithobius slateri
+- first_description: Saussure & Zehntner, 1902
+  name: Scolopendra spinosella
+- first_description: Newport, 1845
+  name: Scolopendra tigrina
+- first_description: Gervais, 1847
+  name: Scolopendra tongana
+- first_description: Newport, 1844
+  name: Scolopendra tuberculidens
+- first_description: Porat, 1871
+  name: Scolopendra vaga
+- first_description: Newport, 1845
+  name: Scolopendra varia
+- first_description: Porat, 1871
+  name: Scolopendra wahlbergi
+- first_description: "B\xFCcherl, 1946"
+  name: Scolopendra morsitans amazonica
+- first_description: Daday, 1891
+  name: Scolopendra morsitans calcarata
+- first_description: Attems, 1930
+  name: Scolopendra morsitans fasciata
+- first_description: Haase, 1887
+  name: Scolopendra morsitans procera
+- first_description: C.L. Koch, 1841
+  name: Scolopendra morsitans scopoliana
+- first_description: Haase, 1887
+  name: Scolopendra morsitans sulcipes
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

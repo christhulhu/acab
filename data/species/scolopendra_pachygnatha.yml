@@ -1,2 +1,10 @@
-name: Scolopendra pachygnatha
 first_description: Pocock, 1895
+name: Scolopendra pachygnatha
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

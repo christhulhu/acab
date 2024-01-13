@@ -1,6 +1,17 @@
-name: Scolopendra pinguis
-first_description: Pocock, 1891
 distribution:
   asia:
   - Myanmar (Burma)
-  - "Indonesia (spezifisch: Java)"
+  - 'Indonesia (spezifisch: Java)'
+first_description: Pocock, 1891
+name: Scolopendra pinguis
+note:
+- note: "Sehr \xE4hnlich zu Scolopendra gracillima."
+  source: Lewis, 2010
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

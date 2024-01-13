@@ -1,2 +1,10 @@
-name: Scolopendra sumichrasti
 first_description: Saussure, 1860
+name: Scolopendra sumichrasti
+status: valid
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

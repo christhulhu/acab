@@ -1,5 +1,13 @@
-name: Scolopendra arborea
-first_description: Lewis, 1982
 distribution:
   asia:
-  - "Malaysien (spezifisch: Sarawak)"
+  - 'Malaysien (spezifisch: Sarawak)'
+first_description: Lewis, 1982
+name: Scolopendra arborea
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

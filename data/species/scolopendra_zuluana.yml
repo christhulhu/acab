@@ -1,5 +1,20 @@
-name: Scolopendra zuluana
-first_description: Lawrence, 1958
 distribution:
   africa:
-  - "Südafrika (spezifisch: KwaZulu-Natal)"
+  - "S\xFCdafrika (spezifisch: KwaZulu-Natal)"
+first_description: Lawrence, 1958
+name: Scolopendra zuluana
+notes:
+- note: Beschrieben auf Basis von zwei Exemplaren.
+  source: Lewis, 2010
+- note: Scheinbar nahe verwandt zu Scolopendra afer.
+  source: Lewis, 2010
+status: species
+synonyms:
+- first_description: Lawrence 1958
+  name: Trachycormocephalus zuluanus
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
