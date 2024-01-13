@@ -8,3 +8,10 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Mexiko (spezifisch: San Luis Potosi, Veracruz)"
+  - Guatemala
+  - Belize
+  - Honduras
+  - Panama

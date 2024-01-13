@@ -22,3 +22,10 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - karibische Küste von Nord-Südamerika von Cordoba, Kolumbien bis Surinam
+  - Trinidad
+  - Aruba
+  - Curaçao und die Insel Margarita
+  - Venezuela

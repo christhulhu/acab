@@ -12,3 +12,6 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Kuba"

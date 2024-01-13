@@ -28,6 +28,25 @@ distribution:
   ozeania:
   - Indonesien
   - Pazifische Inseln
+  america:
+  - Antigua
+  - Barbados
+  - Bermuda
+  - Dominica
+  - Grenada
+  - Jamaika
+  - Nevis
+  - Puerto Rico
+  - St. Barthélemy
+  - St. Kitts
+  - St. Lucia
+  - St. Vincent
+  - Tobago
+  - Trinidad
+  - U.S. Virgin Islands
+  - Panama
+  - Surinam
+  - Brasilien
 first_description: Leach, 1815
 name: Scolopendra subspinipes
 notes:

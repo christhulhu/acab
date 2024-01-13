@@ -26,3 +26,15 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "U.S. Virgin Islands (spezifisch: St. Thomas)"
+  - St. Vincent
+  - Grenada
+  - Trinidad (Teil von Trinidad und Tobago)
+  - Venezuela
+  - Ecuador
+  - Bolivien
+  - "Brasilien (spezifisch: Pará, Amazonas, Roraima, Mato Grosso)"
+notes:
+- note: Scolopendra angulata hat aktuell zwei anerkannte Unterarten (Schileyko (2002)), die durch Shelley (2006) in ihrer Verbreitung nicht genauer differenziert wurden, sondern alle unter Scolopendra angulata zusammengefasst wurden.

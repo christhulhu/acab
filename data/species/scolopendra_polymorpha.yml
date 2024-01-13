@@ -28,3 +28,8 @@ taxonomy:
   genus: Scolopendra
   order: Scolopendromorpha
   sub_family: Scolopendrinae
+distribution:
+  america:
+  - "USA (spezifisch: Washington, Idaho, Montana, South Dakota)"
+  - "Mexiko (spezifisch: Guerrero)"
+  - Möglicherweise Belize, Hawaii (eingeführt)

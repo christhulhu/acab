@@ -25,3 +25,6 @@ variations:
   name: Scolopendra heros var. arizonensis
 - first_description: Girard, 1853
   name: Scolopendra heros var. heros
+distribution:
+  america:
+  - "USA (spezifisch: Arkansas-Arizona) bis mindestens Mexiko (spezifisch: Nayarit)"
