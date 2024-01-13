@@ -1,0 +1,55 @@
+{{ define "main" }}
+<article class="markdown">
+  {{ partial "docs/post-meta" . }}
+
+  {{$datafile := .Page.Param "datafile"}}
+  {{$data := index .Site.Data.species $datafile }}
+
+  <h1>{{$data.name}} <small>({{$data.first_description}})</small></h1>
+
+  {{- .Content -}}
+
+
+  
+  <h2>Taxonomie</h2>
+  Klasse: {{ $data.taxonomy.class }}<br>
+  Ordnung: {{ $data.taxonomy.order }}<br>
+  Familie: {{ $data.taxonomy.family }}<br>
+  Unterfamilie: {{ $data.taxonomy.sub_family }}<br>
+  Gattung: {{ $data.taxonomy.genus }}<br>
+
+  {{with $data.sub_species}}
+    <h2>Unterarten</h2>
+    {{range sort . "name"}}
+    {{.name}} ({{.first_description}})<br/>
+    {{end}}
+  {{end}}
+
+  {{with $data.variations}}
+    <h2>Variationen</h2>
+    {{range sort . "name"}}
+    {{.name}} ({{.first_description}})<br/>
+    {{end}}
+  {{end}}
+
+  {{with $data.distribution}}
+    <h2>Verbreitung</h2>
+    {{range $key, $value := . }}
+    {{$key}}: {{delimit $value ", "}}<br/>
+    <br/>
+    {{end}}
+  {{end}}
+
+  {{with $data.synonyms}}
+    <h2>Synonyme</h2>
+    {{range sort . "name"}}
+    {{.name}} ({{.first_description}})<br/>
+    {{end}}
+  {{end}}
+  
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
