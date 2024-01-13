@@ -14,8 +14,16 @@ distributions:
 - filter: america
   name: Amerika
 - filter: ozeania
-  name: Australien und Ozeanien
+  name: Ozeanien
 showContinentLink: true
+overview: true
 ---
 
 # Verbreitung der Gattung Scolopendra nach Kontinent
+
+{{< figure 
+    src="../images/map_scolopendra.png"
+    title="Verbreitung der Gattung Scolopendra"
+    attr="Screenshot von iNaturalist.org"
+    attrlink="https://www.inaturalist.org/observations?place_id=any&subview=map&taxon_id=53765"
+>}}

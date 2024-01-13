@@ -6,16 +6,20 @@
 
   {{range sort .Params.distributions "name" }}
     {{$continent := index . "name"}}
-    <h2>{{.name}}</h2>
-    {{if $.Page.Params.showContinentLink }}<p><a href="{{lower .name}}">Details</a></p>{{end}}
+    {{if $.Page.Params.overview }}<h2>{{.name}}</h2>{{end}}
+    {{if $.Page.Params.showContinentLink }}
+      <blockquote class="book-hint info">
+        Zur Übersicht der <a href="{{lower .name}}">Gattung Scolopendra in {{.name}}</a>
+      </blockquote>
+    {{end}}
     {{$filter := .filter}}
     <p>
         {{range $.Site.Data.species }}
             {{ $distribution := index (index . "distribution") $filter}}
             {{if $distribution }}
                 {{if $.Page.Params.details }}
-                <h3>{{index . "name"}}</h3>
-                Verbreitung in {{$continent}}:<br/>
+                <h2>{{index . "name"}}</h2>
+                <strong>Verbreitung in {{$continent}}</strong>: 
                 {{delimit $distribution ", "}}
                 {{else}}
                 {{index . "name"}}<br/>
