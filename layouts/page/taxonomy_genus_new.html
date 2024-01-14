@@ -3,13 +3,12 @@
   {{ partial "docs/post-meta" . }}
 
   {{- .Content -}}
-  <!-- TODO Umbau auf einzelne Species-YAML -->
 
   <h2>Beschriebene Arten</h2>
   {{ range sort .Site.Data.species "name"  }}
   <article class="species">
     <div class="species_header">
-      <p class="species_name">{{.name}}</p>
+      <p class="species_name"><a href="../{{ index (split .name " ") 1 }}">{{.name}}</a></p>
       <p class="first_description">{{.first_description}}</p>
     </div>
     <div class="species_body">
