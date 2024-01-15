@@ -55,7 +55,7 @@ In der Terraristik sind die bekanntesten Skolopender aus der Familie der Scolope
 Unterfamilie **Scolopendrinae**
 
 - Gattung [**Scolopendra**](scolopendra)
-- Gattung **Arthrorhabdus**
+- Gattung [**Arthrorhabdus**](arthrorhabdus)
 - Gattung **Tonkinodentus**
 - Gattung **Cormocephalus**
 - Gattung **Hemiscolopendra**

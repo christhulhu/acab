@@ -1,8 +1,8 @@
 distribution:
-  africa:
-  - "Südafrika (spezifisch: Ostkap, Port Elizabeth)"
-first_description: Pocock, 1891
-name: Arthrorhabdus formosus
+  ozeania:
+  - "Australien (spezifisch: westliches Australien, Banjiwarn)"
+first_description: L.E. Koch, 1984
+name: Arthrorhabdus paucispinus
 status: species
 synonyms: []
 taxonomy:
@@ -13,5 +13,5 @@ taxonomy:
   sub_family: Scolopendrinae
 references:
   distribution:
-  - https://chilobase.biologia.unipd.it/searches/result_species/1006
+  - https://chilobase.biologia.unipd.it/searches/result_species/729
   - "Lewis, 2010: A key and annotated list of the Scolopendra species of the Old World with a reappraisal of Arthrorhabdus"

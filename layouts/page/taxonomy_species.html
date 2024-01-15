@@ -5,7 +5,7 @@
   {{$datafile := .Page.Param "datafile"}}
   {{$genus := lower (.Page.Param "genus")}}
   {{$data := index .Site.Data.species $genus $datafile }}
-  {{$distribution := dict "asia" "Asien" "europe" "Europa" "america" "Amerika" "africa" "Africa" "oceania" "Australien/Ozeanien"}}
+  {{$distribution := dict "asia" "Asien" "europe" "Europa" "america" "Amerika" "africa" "Africa" "ozeania" "Australien/Ozeanien"}}
 
   <h1>{{$data.name}} <small>({{$data.first_description}})</small></h1>
 
