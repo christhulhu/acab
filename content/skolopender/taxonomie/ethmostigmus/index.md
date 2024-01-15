@@ -2,6 +2,9 @@
 title: Ethmostigmus
 description: Der Genus Ethmostigmus
 bookHidden: true
+type: page
+layout: taxonomy_genus_new
+genus: Ethmostigmus
 ---
 
 # Ethmostigmus
