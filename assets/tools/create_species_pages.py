@@ -18,9 +18,10 @@ def create_md_files(src_folder, dest_folder):
                         md_file.write('type: page\n')
                         md_file.write('layout: taxonomy_species\n')
                         md_file.write('datafile: ' + filename.replace('.yml', '') + '\n')
+                        md_file.write('genus: ' + data['taxonomy']['genus']+'\n')
                         md_file.write('---\n')
                         md_file.write('\n')
                         
 
 # Verwendung
-create_md_files('../../data/species', '../../content/skolopender/taxonomie/scolopendra')
+create_md_files('../../data/species/scolopendra', '../../content/skolopender/taxonomie/scolopendra')

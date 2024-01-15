@@ -3,13 +3,13 @@
   {{ partial "docs/post-meta" . }}
 
   {{$datafile := .Page.Param "datafile"}}
-  {{$data := index .Site.Data.species $datafile }}
+  {{$genus := lower (.Page.Param "genus")}}
+  {{$data := index .Site.Data.species $genus $datafile }}
+  {{$distribution := dict "asia" "Asien" "europe" "Europa" "america" "Amerika" "africa" "Africa" "oceania" "Australien/Ozeanien"}}
 
   <h1>{{$data.name}} <small>({{$data.first_description}})</small></h1>
 
   {{- .Content -}}
-
-
   
   <h2>Taxonomie</h2>
   Klasse: {{ $data.taxonomy.class }}<br>
@@ -35,7 +35,7 @@
   {{with $data.distribution}}
     <h2>Verbreitung</h2>
     {{range $key, $value := . }}
-    {{$key}}: {{delimit $value ", "}}<br/>
+    <strong>{{index $distribution $key}}</strong>: {{delimit (sort $value) ", "}}<br/>
     <br/>
     {{end}}
   {{end}}

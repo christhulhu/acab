@@ -1,0 +1,14 @@
+distribution:
+  africa:
+  - "USA (spezifisch: Texas)"
+  - Mexiko
+first_description: Pocock, 1895
+name: Arthrorhabdus pygmaeus
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Arthrorhabdus
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
