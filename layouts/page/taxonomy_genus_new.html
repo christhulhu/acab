@@ -4,39 +4,18 @@
 
   {{- .Content -}}
 
+  {{$genus := lower .Page.Params.genus}}
+  {{$species := .Site.Data.species }}
+  {{$genus_species := index $species $genus}}
+  
   <h2>Beschriebene Arten</h2>
-  {{ range sort .Site.Data.species "name"  }}
+  {{ range sort $genus_species "name"  }}
   <article class="species">
     <div class="species_header">
-      <p class="species_name"><a href="../{{ index (split .name " ") 1 }}">{{.name}}</a></p>
+      <p class="species_name"><a href="{{ index (split .name " ") 1 }}">{{.name}}</a></p>
       <p class="first_description">{{.first_description}}</p>
     </div>
     <div class="species_body">
-      <div>Status: {{.status}} {{with .status_remark}}<small>({{.}}</small>){{end}}</div>
-      {{with .sub_species}}
-        <div>
-        <span>Unterarten</span>
-        {{range . }}
-          <p class="synonym">{{.name}} <small>({{.first_description}})</small></p>
-        {{end}}
-        </div>
-      {{end}}
-      {{with .variations}}
-        <div>
-        <span>Variationen</span>
-        {{range . }}
-          <p class="synonym">{{.name}} <small>({{.first_description}})</small></p>
-        {{end}}
-        </div>
-      {{end}}
-      {{with .synonyms}}
-        <div>
-        <span>Synonyme</span>
-        {{range . }}
-          <p class="synonym">{{.name}} <small>({{.first_description}})</small></p>
-        {{end}}
-        </div>
-      {{end}}
     </div>
     <div class="species_footer"></div>
   </article>
