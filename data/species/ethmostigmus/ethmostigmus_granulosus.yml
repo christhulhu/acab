@@ -1,0 +1,17 @@
+name: Ethmostigmus granulosus 
+first_description: Pocock, 1898
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  order: Scolopendromorpha
+  sub_family: Otostigminae
+  genus: Ethmostigmus
+  tribe: Otostigmini
+distribution:
+  ozeania:
+  - Papua-Neuguinea
+references:
+  distribution:
+  - https://chilobase.biologia.unipd.it/searches/result_species/1041
