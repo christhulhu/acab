@@ -1,0 +1,17 @@
+name: Ethmostigmus pachysoma  
+first_description: L. E. Koch, 1983
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  order: Scolopendromorpha
+  sub_family: Otostigminae
+  genus: Ethmostigmus
+  tribe: Otostigmini
+distribution:
+  ozeania:
+  - "Australien (spezifisch: Westliches Australien, Banjiwarn)"
+references:
+  distribution:
+  - https://chilobase.biologia.unipd.it/searches/result_species/710

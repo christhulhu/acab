@@ -1,0 +1,17 @@
+name: Ethmostigmus venenosus 
+first_description: Attems, 1897
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  order: Scolopendromorpha
+  sub_family: Otostigminae
+  genus: Ethmostigmus
+  tribe: Otostigmini
+distribution:
+  asia:
+  - "Indonesien (spezifisch: Halmahera, Sulawesi, Molukken)" 
+references:
+  distribution:
+  - https://chilobase.biologia.unipd.it/searches/result_species/22
