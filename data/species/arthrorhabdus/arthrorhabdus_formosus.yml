@@ -1,9 +1,8 @@
 distribution:
-  america:
-  - "USA (spezifisch: Texas)"
-  - Mexiko
-first_description: Pocock, 1895
-name: Arthrorhabdus pygmaeus
+  africa:
+  - "Südafrika (spezifisch: Ostkap, Port Elizabeth)"
+first_description: Pocock, 1891
+name: Arthrorhabdus formosus
 status: species
 synonyms: []
 taxonomy:
