@@ -24,4 +24,4 @@ def create_md_files(src_folder, dest_folder):
                         
 
 # Verwendung
-create_md_files('../../data/species/scolopendra', '../../content/skolopender/taxonomie/scolopendra')
+create_md_files('../../data/species/arthrorhabdus', '../../content/skolopender/taxonomie/arthrorhabdus')

@@ -8,7 +8,7 @@
   {{$species := .Site.Data.species }}
   {{$genus_species := index $species $genus}}
   
-  <h2>Beschriebene Arten</h2>
+  <h2>Beschriebene Arten <small>({{$genus_species|len}})</small></h2>
   {{ range sort $genus_species "name"  }}
   <article class="species">
     <div class="species_header">
