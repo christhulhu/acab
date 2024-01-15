@@ -15,6 +15,7 @@
     {{$filter := .filter}}
     <p>
         {{range $.Site.Data.species }}
+          {{ range . }}
             {{ $distribution := index (index . "distribution") $filter}}
             {{if $distribution }}
                 {{if $.Page.Params.details }}
@@ -25,6 +26,7 @@
                 {{index . "name"}}<br/>
                 {{end}}
             {{ end }}
+          {{ end }}
         {{end}}
     </p>
   {{end}}
