@@ -144,3 +144,43 @@ publications:
   year: 2012
   download: https://ijm.pensoft.net/articles.php?id=1921
   doi: https://doi.org/10.3897/ijm.7.2133
+morphology:
+  source: Attems, 1930
+  body_length: 80mm - 170mm
+  antenna:
+    total_segments: 17-22
+    dorsally_glabrous: 6
+  teeth_on_toothplate: 4+4 (5+5)
+  tergits:
+    ringfurrow: absent
+    first_with_paramedian_sutures: 2-3
+    first_with_complete_margination: 5-7
+    surface: n/a
+  ulbs:
+    median_furrow: absent
+    form: rear flat-arched extended
+    sternite: n/a
+    spines_coxopleural_process: 
+      form: short conical
+      # AP: apical spine/process
+      # SAP: subapical spine/process.
+      AP: 3 (rarely 1-5)
+  sternites:
+    paramedian_sutures: complete
+  terminal_legs:
+    form: Short and stout, prefemur 1.5-2 times as long as wide. Dorsally somewhat flattened, with an articulation pit at the end.
+  prefemora_spines:
+   # LS, lateral spine/process.
+   # V: ventral spine/process.
+   # VL: ventro-lateral
+   # VM: ventro-median spine/process.
+   # M: median spine/process.
+   # DM: dorso-median spine/process.
+   # SP: spine on prefemoral process/prefemoral corner process
+    VL:  2 (rarely 1 or 3 or 4)
+    DM: 4 in 2 Rows
+    process: 
+      spines: 4 or 5 (rarely 2,3 or 6-11)
+  legs:
+    one_tarsal_spur: n/a
+  gonopods_on_males: n/a
