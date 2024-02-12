@@ -44,6 +44,9 @@ caresheets:
       - name: Scolopendra gracillima
         link: scolopendra_gracillima
         description: Kleine und unkomplizierte Art.
+      - name: Scolopendra oraniensis
+        link: scolopendra_oraniensis
+        description: Kleine unkomplizierte mitteleuropäische Art.
       - name: Scolopendra sp. "Malaysian Jewel"
         link: scolopendra_sp_malaysian_jewel
         description: Wunderschön gefärbte, bisher unbestimmte Art, die nicht zu warm gehalten werden darf.
