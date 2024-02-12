@@ -85,7 +85,7 @@ Das größte Problem ist ein Mykosebefall an den Mundwerkzeugen oder Maxillipede
 
 {{<figure 
     src="endoparasiten/images/dehaani_oozysten_1_thumb.jpg" 
-    title="Kot dehaani mit Adelina spp Oozysten" 
+    title="Kot von Scolopendra dehaani mit weißen Kügelchen" 
     attr="{{< contributors/marcel >}}" 
     class="fig-left"  
     width="400px" 
