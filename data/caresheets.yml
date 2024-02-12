@@ -59,6 +59,9 @@ caresheets:
       - name: Scolopendra sp. "White Legs"
         link: scolopendra_sp_white_legs
         description: Große, bisher nicht bestimmte Art, die häufig als Scolopendra gigantea angeboten wird.
+      - name: Scolopendra subspinipes "mutilans"
+        link: scolopendra_subspinipes_mutilans
+        description: Schön gefärbte Variante von Scolopendra subspinipes.
   - name: Scutigera
     thumbnail: images/scutigera_thumb.png
     species:
