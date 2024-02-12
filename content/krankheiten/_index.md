@@ -99,7 +99,22 @@ Endoparasiten sind Parasiten, die sich innerhalb des Körpers von Hundertfüßer
 [Zur Erkennung und Behandlung von Endoparasiten]({{< ref "endoparasiten" >}})
 {{</hint>}}
 
+{{<clearfix>}}
 
+## Darmverschluss
+
+{{<figure 
+    src="images/krankheiten_darmverschluss_thumb.jpg" 
+    title="Sichtbarer lethaler Darmverschluss bei Scolopendra cingulata." 
+    attr="{{< contributors/marcel >}}" 
+    class="fig-left"  
+    width="400px" 
+    link="images/krankheiten_darmverschluss.jpg" 
+>}}
+
+Ein Darmverschluss tritt auf, wenn der normale Durchgang von Nahrung und Flüssigkeiten durch den Darm blockiert ist. Dies kann durch verschiedene Faktoren verursacht werden, einschließlich Fremdkörper wie unverdauliches Material (z. B. Kokos-Humus) oder einen starken Befall von Endoparasiten. Symptome eines Darmverschlusses zeigen sich unter anderem in Trägheit und Aufgedunsenheit der hinteren Körpersegmente. Dabei bewegen sich die letzten Beinpaare kaum noch und werden eher "hinterhergezogen". In einigen Fällen erkennt man auch äußerlich einen Verschluss oder einen Fremdkörper, der den Anus verstopft. Ein Darmverschluss führt in den meisten Fällen zum Tod des Tieres und lässt sich nur durch eine [gesunde Ernährung](../futter) sowie die Verwendung geeigneten [Bodengrundes](../terrarienhaltung/bodengrund/) vorbeugen.
+
+{{<clearfix>}}
 
 ---
 
