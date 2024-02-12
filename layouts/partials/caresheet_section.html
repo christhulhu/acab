@@ -14,7 +14,7 @@
     <div class="section_content">
         <img class="section_thumbnail" src="{{.thumbnail}}" width="200" height="200" />
         <ul class="species_list">
-        {{range .species }}
+        {{range sort .species "name" }}
             <li class="species">
                 <div class="species_title"><a href="{{.link}}">{{.name}}</a></div>
                 <span class="description">{{.description}}</span>
