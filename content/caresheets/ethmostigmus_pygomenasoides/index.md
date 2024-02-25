@@ -1,22 +1,24 @@
 ---
-title: Ethmostigmus trigonopodus pygomenasoides
+title: Ethmostigmus pygomenasoides
 bookHidden: true
 author:
 - Christian Gehlen
 - Alessandro Tinella
 ---
-# Ethmostigmus trigonopodus pygomenasoides
+# Ethmostigmus pygomenasoides
 
 {{< hero-img 
     src="images/pygomenasoides-hero.jpg" 
-    alt="Ethmostigmus trigonopodus pygomenasoides" 
+    alt="Ethmostigmus pygomenasoides" 
     attr="{{< contributors/alessandro >}}" 
 >}}
 
 
 ## Über die Art
 
-Die Erstbeschreibung von Ethmostigmus trigonopodus pygomenasoides wurde für Tiere aus der Region Nepal und Kashmir angefertigt. Die Art heißt so, weil sie Ethmostigmus pygomegas ähnlich sieht. Doch insgesamt ist sie morphologisch näher an Etmostimus trigonopodus, weshalb sie als Unterart geführt wird.  Jiang, et all (2022) nennt Ethmostigmus pygomenasoides als eigenständige Art in einem Nachweis aus China. Aktuell scheint noch offen, ob es sich wirklich um eine Unterart von Ethmostigmus trigonopodus (mit Verbreitung in Afrika) handelt, oder ob die asiatischen Tiere eine eigenständige Art darstellen.
+Die Erstbeschreibung von Ethmostigmus pygomenasoides (Lewis, 1992) wurde für Tiere aus der Region Nepal und Kashmir angefertigt[^1992-lewis]. Die Art wurde ursprünglich so benannt, weil sie Ethmostigmus pygomegas ähnlich sieht. Doch insgesamt schienen morphologisch Ähnlichkeiten einen Unterartenstand bei Ethmostigmus trigonopodus zu rechtfertigen.
+
+Jiang, et all (2022) nennt Ethmostigmus pygomenasoides als eigenständige Art in einem Nachweis aus China[^2022-jiang]. Aktuell scheint noch offen, ob es sich wirklich um eine Unterart von Ethmostigmus trigonopodus (mit Verbreitung in Afrika) handelt, oder ob die asiatischen Tiere eine eigenständige Art darstellen.
 
 Ethmostigmus pygomenasoides ist eine langsam wachsende Art. Von der Nymphe bis zum adulten Tier vergehen sechs Jahre. Dabei haben männchen eine deutlich geringere Lebenserwartung, werden in der Regel gerade mal 3 Jahre alt und erreichen bis dahin eine Körpergröße von etwa 10cm.
 
@@ -53,3 +55,6 @@ In späteren Abendstunden kann man hingegen häufig beobachten, die pygomenasoid
 
 {{< gallery match="images/ethmostigmus*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect="enlarge" >}}
 
+[^2022-jiang]: Jiang, Liu, Pan, Chen, Luqi (2022): Molecular and morphological description of four new Ethmostigmus Pocock, 1898 (Chilopoda, Scolopendromorpha, Scolopendridae) species from China, with a key to Chinese species Molecular and morphological description of four new Ethmostigmus Pocock, 1898 (Chilopoda, Scolopendromorpha, Scolopendridae) species from  China, with a key to Chinese species
+
+[^1992-lewis]: Lewis (1992): Scolopendrid centipedes from Nepal and Kashmir (Chilopoda: Scolopendromorpha)
