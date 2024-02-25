@@ -18,7 +18,7 @@ author:
 {{< hint info>}}
 
 Diese Anleitung gilt für die Farbvarianten "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_".  
-Die Variante "_Cherry Red_" hat andere [Haltungsbedingungen]({{< ref "../cherry_red" >}}).
+Die Variante "_Cherry Red_" hat andere [Haltungsbedingungen](../cherry_red).
 
 {{< / hint >}}
 
