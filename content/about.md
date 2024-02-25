@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-1.0.3
+1.0.4
 
 ## Motivation
 
@@ -69,6 +69,9 @@ Hosted on Github-Pages.
 
 Info: Hier werden nur größere Änderungen protokolliert. Kleinere redaktionelle Änderungen lassen sich im [Git-Log](https://github.com/christhulhu/scolohub.com/commits/main) nachlesen.
 
+* 2024-02-25: 1.0.4
+  * Anleitung: Futtertiertzucht
+  * Ergänzungen zu Ethmostigmus pygomenasoides und seinen eigenen Artenstand
 * 2024-02-12: 1.0.3
   * Care-Sheet: Scolopendra oraniensis
 * 2024-01-07: 1.0.2
