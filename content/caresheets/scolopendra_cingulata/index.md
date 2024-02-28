@@ -17,13 +17,13 @@ author:
 
 Scolopendra cingulata (Latreille, 1829) ist eine weit verbreitete, vielgestaltige und vergleichsweise gut erforschte Art. Der europäische Riesenläufer, so der deutsche Trivialname dieses Hundertfüßers, findet sich im gesamten Mittelmeer-Raum, darunter dem südlichen Europa, westliche Ausläufern des asiatischen Kontinents und nördlichem Afrika.[^fn-chilobase] Die jüngsten Belege stammen aus Österreich (2014)[^fn-2014-oeyen], Irak (2017)[^fn-2017-ahmed], den Balearen (2020)[^fn-2020-cabanillas] oder Nordwest-Italien (2022)[^fn-2022-anselmo]. Lediglich Funde aus Madagaskar, Andaman und den Nicobar Inseln werden aktuell angeweifelt[^fn-chilobase], wie auch Berichte aus Deutschland als eingeschleppte Einzelfälle bewertet werden[^fn-2016-decker].
 
-Neben einer vielzahl von farblichen Variationen, ist auch die Körperlänge sehr unterschiedlich und wird von 80mm bis 170mm für Arten aus Kleinasien angegeben[^attems]. Simaiakisa beschreibt hingegen bereits eine Körperlänge von 156mm für Exemplare aus Skyros (Ägäis , Griechenland) als "gigantisch"[^2010-simaiakisa]. Gleichsam variabel wie Körperlänge und Färbung, sind auch andere morphologische Merkmale wie Bedornung an der Prefemur der Schleppläufe, die zuweilen auch asymmetrisch angeordnet sein können[^attems].
+Neben einer Vielzahl von farblichen Variationen, ist auch die Körperlänge sehr unterschiedlich und wird von 80mm bis 170mm für Arten aus Kleinasien angegeben[^attems]. Simaiakisa (2010) beschreibt hingegen bereits eine Körperlänge von 156mm für Exemplare aus Skyros (Ägäis , Griechenland) als "gigantisch"[^2010-simaiakisa]. Gleichsam variabel wie Körperlänge und Färbung, sind auch andere morphologische Merkmale wie Bedornung an der Prefemur der Schleppläufe, die zuweilen auch asymmetrisch angeordnet sein können[^attems].
 
-Auffällig einheitlich ist jedoch eine starke bläuliche Färbung der Schleppläufe und anderer körperlicher Regionen bei Jungtieren von Scolopendra cingulata. Diese Farbakzente verlieren die Tiere jedoch im Adultstadium.
+Auffällig einheitlich ist jedoch eine starke bläuliche Färbung der Schleppläufe und anderer körperlicher Regionen bei Jungtieren. Diese Farbakzente verlieren die Tiere jedoch im Adultstadium.
 
-Scolopendra cingulata sind opportunistische, bösartige Raubtiere, die fast jedes (kleinere) Tier jagen. So gibt es diverse Berichte über Kannibalismus an Jungtieren[^fn-2019-cabanillas], das Erbeuten von Reptilien[^fn-2020-deimezis] oder das Befreien aus dem inneren einer Schlange[^fn-2014-arsovski]. Die opportunistische Art zeigt sich allerdings auch bei anderen Nahrungsmitteln. So wurde bei Scolopendra cingulata auch die Aufnahme von Karotten, gekochten Kartoffeln, Brot, Papayas oder Äpfeln beobachtet, oder auch der Konsum von Feuchtigkeit durch Milch, Tee oder Kaffee[^rosenberg].
+Scolopendra cingulata sind opportunistische, "bösartige" Raubtiere, die fast jedes (kleinere) Tier jagen. So gibt es diverse Berichte über Kannibalismus an Jungtieren[^fn-2019-cabanillas], das Erbeuten von Reptilien[^fn-2020-deimezis] oder das Befreien aus dem inneren einer Schlange[^fn-2014-arsovski]. Rosenberg (2009) beschreibt zudem die Aufnahme von Karotten, gekochten Kartoffeln, Brot, Papayas oder Äpfeln beobachtet, oder auch der Konsum von Feuchtigkeit durch Milch, Tee oder Kaffee[^rosenberg].
 
-All diese Eigenschaften machen Scolopendra cingulata zu einem faszinierenden und relativ pflegeleichten Terrarientier. Obschon die genauen Anforderungen an Temperatur und Feuchtigkeit jeweils der genauen Herkunft der Art angepasst werden müssen, sind gewisse Haltungsparameter universal anwendbar:
+All diese Eigenschaften machen diese Hundertfüßerart zu einem faszinierenden und relativ pflegeleichten Terrarientier. Obschon die genauen Anforderungen an Temperatur und Feuchtigkeit jeweils der genauen Herkunft der Art angepasst werden müssen, sind gewisse Haltungsparameter universal anwendbar:
 
 Scolopendra cingulata lebt in trockenen, warmen Habitat. Trotz seiner Liebe für warme und trockene Monate[^2012-kaltsas] leben Scolopendra nicht voll-arid! Meist findet man die Tiere in freier Wildbahn unter Steinen, wo das Substrat feuchter ist. Darum sollte auch im Terrarium eine Ecke des Beckens immer leicht feucht, aber nicht nass gehalten werden, damit die Pfleglinge nicht durch übermäßige Feuchtigkeit oder Staunässe an Mykose erkranken.
 
@@ -31,7 +31,7 @@ Für das Wohlergehen und die Paarungsbereitschaft, sollte man überdies eine Win
 
 ### Trivia
 
-Bis zur Umbenennung durch Kronmüller gab es auch eine Scolopendra subspinipes-Unterart, die Scolopendra cingulata sehr ähnlich sieht und deswegen früher Scolopendra subspinipes cingulatoides hieß. Seit der Umbenennung ist sie als Scolopendra dawydoffi, benannt nach ihrem Erstbeschreiber, neu klassifiziert.[^fn-2012-kronmüller]
+Bis zur Umbenennung durch Kronmüller gab es auch eine Scolopendra subspinipes-Unterart, die Scolopendra cingulata sehr ähnlich sieht und deswegen früher Scolopendra subspinipes cingulatoides hieß. Seit der Umbenennung ist sie als Scolopendra dawydoffi (Kronmüller, 2012), benannt nach ihrem Erstbeschreiber, neu klassifiziert.[^fn-2012-kronmüller]
 
 ## Informationen
 

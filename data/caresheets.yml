@@ -27,6 +27,9 @@ caresheets:
     thumbnail: images/scolopendra_thumb.png
     more: "[Mehr über den Genus **Scolopendra** unter Taxonomie](/skolopender/taxonomie/scolopendra)"
     species:
+      - name: Scolopendra cingulata
+        link: scolopendra_cingulata
+        description: Faszinierende mitteleuropäische Art mit sehr variablem Erscheinungsbild und Größe.
       - name: Scolopendra dehaani
         link: scolopendra_dehaani
         description: Gut verfügbare, große und pflegeleichte Art, die zuweilen aggressiv sein kann. Die unterschiedlichen Farbmorphe haben individuelle Haltungsansprüche.

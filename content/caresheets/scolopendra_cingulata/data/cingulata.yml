@@ -1,6 +1,6 @@
 name: Scolopendra cingulata
 adult_size: 8-15cm
-distribution: Gesamter Mittelmeerraum
+distribution: Gesamter Mittelmeerraum und Schwarzes Meer
 climate: mediterran
 way_of_life: Nachtaktiv, versteckte Lebensweise im Boden und unter Steinen.
 behavior: Ruhig bis leicht nervös.
@@ -17,7 +17,7 @@ simulation_periods: Ja. Winterruhe ca. 2 Monate bei 8-10°C.
 substrate:
   ingredients: Sand, Torf, Lehm zu gleichen Teilen.
   height: 8-10 cm hoch, leicht angedrückt
-  humidity: Trockenheitsliebend, dennoch sollte eine Ecke permanent leicht feucht gehalten werden.
+  humidity: Semi-arid (halbtrocken), dennoch sollte eine Ecke permanent leicht feucht gehalten werden.
   cover: Laub
 
 decoration: Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein.
