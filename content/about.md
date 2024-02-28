@@ -16,7 +16,7 @@ Dr.-Gilles-Str. 20a
 
 ## Version
 
-1.0.4
+1.0.5
 
 ## Motivation
 
@@ -69,6 +69,9 @@ Hosted on Github-Pages.
 
 Info: Hier werden nur größere Änderungen protokolliert. Kleinere redaktionelle Änderungen lassen sich im [Git-Log](https://github.com/christhulhu/scolohub.com/commits/main) nachlesen.
 
+* 2024-02-28
+  * Futtermischung für Skolopender
+  * Pflegeanleitung für Scolopendra cingulata
 * 2024-02-25: 1.0.4
   * Anleitung: Futtertiertzucht
   * Ergänzungen zu Ethmostigmus pygomenasoides und seinen eigenen Artenstand
