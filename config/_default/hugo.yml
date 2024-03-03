@@ -4,4 +4,16 @@ title: ScoloHub
 theme: 
   - hugo-book
   - hugo-shortcode-gallery
-googleAnalytics: G-RSSEVRT14Z
+
+services:
+  googleAnalytics:
+    ID: G-RSSEVRT14Z
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
