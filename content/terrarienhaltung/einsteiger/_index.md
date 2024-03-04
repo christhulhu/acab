@@ -62,8 +62,8 @@ Eine Übersicht von Futtermöglichkeiten findet sich in der Unterseite zu [Futte
 
 {{< figure
     src="./images/pedeling.jpg"
-    alt="Pedeling von Ethmostigmus trigonopodus pygomenasoides"
-    title="Pedeling von Ethmostigmus trigonopodus pygomenasoides in Filmdose"
+    alt="Pedeling von Ethmostigmus pygomenasoides"
+    title="Pedeling von Ethmostigmus pygomenasoides in Filmdose"
     class="fig-left"
 >}}
 Jungtiere sind eine gute Möglichkeit, um günstig einen Skolopender zu erwerben, und ihm bei seinem faszinierenden Wachstumsprozess zu begleiten. Leider sind Nachzuchten immer noch eine Seltenheit. Zum einen sind Hundertfüßer nicht so verbreitet wie andere Terrarientiere. Und noch weniger Leute machen sich die Mühe der aufwendigen [Geschlechtsbestimmung](/skolopender/geschlechtsbestimmung) und Verpaarung.
@@ -116,25 +116,25 @@ Entsprechend sind **Scolopendra morsitans** anpassungsfähig und robust in der H
 
 {{<clearfix>}}
 
-### Ethmostigmus trigonopodus pygomenasoides
+### Ethmostigmus pygomenasoides
 
 {{< figure
     src="./images/ethmostigmus_pygomenasoides.jpg"
-    alt="Ethmostigmus trigonopodus pygomenasoides"
-    title="Ethmostigmus trigonopodus pygomenasoides"
+    alt="Ethmostigmus pygomenasoides"
+    title="Ethmostigmus pygomenasoides"
     class="fig-left"
 >}}
-Aktuell sind viele Wildfänge von **Ethmostigmus trigonopodus pygomenasoides** im Umlauf. Oftmals werden jedoch andere Handelsnamen angegeben, von simpel Ethmostigmus trigonopodus oder Ethmostigmus pygomenasoides hin zu "Ethmostigmus Niger" oder "Ethmostigmus Orange Legs". Taxonomisch ist es jedoch eine Unterart von Ethmostigmus trigonopodus, die den Namen trägt, weil sie dem Indischen Ethmostigmus pygomegas ähnlich sieht.  
+Aktuell sind viele Wildfänge von **Ethmostigmus pygomenasoides** im Umlauf. Oftmals werden jedoch andere Handelsnamen angegeben, von simpel Ethmostigmus trigonopodus oder Ethmostigmus pygomenasoides hin zu "Ethmostigmus Niger" oder "Ethmostigmus Orange Legs". Taxonomisch ist es jedoch eine ehemalige Unterart von Ethmostigmus trigonopodus, die den Namen trägt, weil sie dem Indischen Ethmostigmus pygomegas ähnlich sieht. Mittlerweile wurde die Art allerdings in den eigenen Artenstand erhoben. 
 Viele der Wildfänge kommen bereits befruchtet in das Hobby, sodass es auch eine solide Zahl an Nachwuchs gibt. Weiterhin wurde die Art auch schon erfolgreich im Hobby nachgezüchtet, sodass man aktuell eine stabile Verfügbarkeit hat, und die Art recht erschwinglich ist.
 
-**Ethmostigmus trigonopodus pygomenasoides** ist in weiten Teilen Afrikas verbreitet und kommt in unterschiedlichen Klimazonen vor. Entsprechend robust sind sie auch gegen kleinere Haltungsfehler. Man kann die Art auch schon mal was trockener halten, ohne dass sie direkt eingeht. Allerdings sollte man Ethmostigmus trigonopodus pygomenasoides keinesfalls wie einen Wüstenbewohner halten! Das Substrat sollte sogar leicht feucht sein.
+**Ethmostigmus pygomenasoides** ist in weiten Teilen Afrikas verbreitet und kommt in unterschiedlichen Klimazonen vor. Entsprechend robust sind sie auch gegen kleinere Haltungsfehler. Man kann die Art auch schon mal was trockener halten, ohne dass sie direkt eingeht. Allerdings sollte man Ethmostigmus pygomenasoides keinesfalls wie einen Wüstenbewohner halten! Das Substrat sollte sogar leicht feucht sein.
 
 Auch ansonsten ist die Art sehr pflegeleicht, frisst gerne und viel und zeigt sich in der Dämmerung gerne an der Oberfläche. Tagsüber ist sie meist versteckt unter der bereitgestellten Korkrinde. Wenn man diese anhebt, hängt der Skolopender meist kopfüber an der Rinde.
 
 Erwachsene Tiere erreichen eine Größe von ca. 18cm. Allerdings nur die Weibchen. Männliche Tiere werden nur 3 Jahre alt und erreichen in dieser Zeit eine Körperlänge von ca. 10cm. Bis die Weibchen adult sind, und ihre endgültige Größe erreicht haben, vergehen ca. 6 Jahre.
 
 {{<hint info>}}
-[Zur Pflegeanleitung von Ethmostigmus trigonopodus pygomenasoides.](/caresheets/ethmostigmus_trigonopodus_pygomenasoides)
+[Zur Pflegeanleitung von Ethmostigmus pygomenasoides.](/caresheets/ethmostigmus_pygomenasoides)
 {{</hint>}}
 
 ### Rhysida longipes
