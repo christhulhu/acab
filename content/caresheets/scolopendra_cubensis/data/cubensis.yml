@@ -1,0 +1,25 @@
+name: Scolopendra cubensis
+adult_size: 17-22cm
+distribution: Kuba (Dominikanische Republik)
+climate: tropisch
+way_of_life: Nachtaktiv, versteckte Lebensweise im Boden und unter Steinen.
+behavior: Ruhig bis leicht nervös.
+dimorphism: Keine äußerlichen Geschlechtsmerkmale.
+experience: Einfache Haltung.
+availability: Gelegentlich im Hobby verfügbar.
+
+terrarium_size: 30x30x30cm
+ventilation: Doppelbelüftung.
+temperature: 22-28°C
+humidity: 70-90%
+simulation_periods: Nein
+
+substrate:
+  ingredients: Torf
+  height: 20 cm hoch, leicht angedrückt
+  humidity: Die Hälfte des Beckens leicht feucht.
+  cover: Moos, Laub
+
+decoration: Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein.
+
+nutrition: Ausgewogene Ernährung durch Wirbellose und gelegentlicher Beigabe von Obst, z.B. Banane. 
