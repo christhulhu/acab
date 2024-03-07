@@ -56,3 +56,17 @@ Die anderen, weißen Milben auf dem Foto sind wahrscheinlich Mehlmilben, die auc
 Bei diesen Milben muss man sich keine Gedanken machen. Es gibt jedoch andere, [parasitäre Milben](../../krankheiten), die den Skolopender befallen und schädigen können.
 
 {{< clearfix >}}
+
+## Landplanarie
+
+{{<figure 
+    src="images/landplanarie_thumb.jpg" 
+    link="images/landplanarie.jpg" 
+    class="fig-left img-round"
+    width="200px" 
+>}}
+
+Landplanarien (Gattung vermutlich Microplana) kann man sich über Waldlaub ins Terrarium holen. Es sind keine Parasiten, sondern Räuber und gegebenenfalls Aasfresser. Bei der geringen Körpergröße von gerade mal um die 4mm werden diese Mitbewohner wohl eher weniger dem Skolopender gefährlich, alsdass sie eher an andere Begleiter wie Asseln oder Springschwänze gehen.  
+Trivia: Landplanarien sind die kleinen Geschwister der sogenannten Hammerhead Flatworms. 
+
+{{< clearfix >}}
