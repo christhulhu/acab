@@ -1,5 +1,7 @@
 ---
 title: Subspinipes-Komplex
+author:
+- Christian Gehlen
 ---
 
 # Subspinipes-Komplex
