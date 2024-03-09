@@ -67,6 +67,19 @@ Bei diesen Milben muss man sich keine Gedanken machen. Es gibt jedoch andere, [p
 >}}
 
 Landplanarien (Gattung vermutlich Microplana) kann man sich über Waldlaub ins Terrarium holen. Es sind keine Parasiten, sondern Räuber und gegebenenfalls Aasfresser. Bei der geringen Körpergröße von gerade mal um die 4mm werden diese Mitbewohner wohl eher weniger dem Skolopender gefährlich, alsdass sie eher an andere Begleiter wie Asseln oder Springschwänze gehen.  
-Trivia: Landplanarien sind die kleinen Geschwister der sogenannten Hammerhead Flatworms. 
+Trivia: Landplanarien sind die kleinen Geschwister der sogenannten Hammerhead Flatworms.
+
+{{< clearfix >}}
+
+## Diplopoda / Tausendfüßer
+
+{{<figure 
+    src="images/diplopoda_thumb.jpg" 
+    link="images/diplopoda.jpg" 
+    class="fig-left img-round"
+    width="200px" 
+>}}
+
+Durch Waldboden und Laub kann man sich schnell einheimische Tausendfüßer ins Terrarium holen. Diese Begleitfauna ist allerdings ungefährlich für den Skolopender und kann harmonisch mit diesem koexistieren.
 
 {{< clearfix >}}
