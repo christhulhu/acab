@@ -6,13 +6,13 @@ way_of_life: Nachtaktiv, versteckte Lebensweise im Boden und unter Steinen.
 behavior: Ruhig bis leicht nervös.
 dimorphism: Keine äußerlichen Geschlechtsmerkmale.
 experience: Einfache Haltung.
-availability: Gelegentlich im Hobby verfügbar.
+availability: Sehr selten im Hobby verfügbar.
 
 terrarium_size: 30x30x30cm
 ventilation: Doppelbelüftung.
 temperature: 22-28°C
 humidity: 70-90%
-simulation_periods: Nein
+simulation_periods: Simulation von Regen- und Trockenzeiten notwendig.
 
 substrate:
   ingredients: Torf
