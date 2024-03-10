@@ -3,7 +3,7 @@ caresheets:
     thumbnail: images/ethmostigmus_thumb.png
     more: "[Mehr über den Genus **Ethmostigmus** unter Taxonomie](/skolopender/taxonomie/ethmostigmus)"
     species:
-      - name: Ethmostigmus pygomenasoides
+      - name: Ethmostigmus cf pygomenasoides
         link: ethmostigmus_pygomenasoides
         description: Pflegeleichte und gut verfügbare Art aus Afrika.
       - name: Ethmostigmus sp. "Borneo Blue"
