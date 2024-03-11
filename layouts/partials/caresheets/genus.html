@@ -1,0 +1,31 @@
+<h2></h2>
+
+<img src="" />
+
+
+
+<div class="caresheet_section">
+    <div class="section_header">
+        <h2>Gattung {{.Title}}</h2>
+    </div>
+
+    <div class="section_footer">
+        <blockquote class="book-hint info">
+            <a href="{{.Param "taxonomy"}}">Mehr über die Gattung <strong>{{.Title}}</strong> in der Taxonomy</a>
+        </blockquote>
+    </div>
+
+    <div class="genus_content">
+        {{.Content}}
+    </div>
+
+    <div class="section_content">
+        <img class="section_thumbnail" src="images/{{.Param "thumb"}}" width="200" height="200" />
+        <ul class="species_list">
+            {{ range sort .Page.Pages }}
+            <li class="species">
+                {{ partial "caresheets/species" . }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>

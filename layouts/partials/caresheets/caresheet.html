@@ -1,0 +1,93 @@
+{{ $data := . | unmarshal  }}
+
+<div class="book-columns cs-wrap"><!--  flex flex-wrap  -->
+    <div class="cs-column markdown-inner"><!-- flex-even-->
+        <h3>Allgemeines</h3>
+
+        <div class="cs-entry">
+            <div class="cs-key">Ausgewachsene Größe</div>    
+            <div class="cs-value">{{ $data.adult_size}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Verbreitung</div>    
+            <div class="cs-value">{{ $data.distribution}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Klimazone</div>    
+            <div class="cs-value">{{ $data.climate}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Lebensweise</div>    
+            <div class="cs-value">{{ $data.way_of_life}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Verhaltensweise</div>    
+            <div class="cs-value">{{ $data.behavior}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Geschlechtsmerkmale</div>    
+            <div class="cs-value">{{ $data.dimorphism}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Anspruch</div>    
+            <div class="cs-value">{{ $data.experience}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Verfügbarkeit</div>    
+            <div class="cs-value">{{ $data.availability}}</div>
+        </div>
+    </div>
+
+    <div class="cs-column markdown-inner"><!-- flex-even-->
+        <h3>Terrarienhaltung</h3>
+
+        <div class="cs-entry">
+            <div class="cs-key">Terrariengröße</div>    
+            <div class="cs-value">{{ $data.terrarium_size}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Belüftung</div>    
+            <div class="cs-value">{{ $data.ventilation}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Temperatur</div>    
+            <div class="cs-value">{{ $data.temperature}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Rel. Luftfeuchtigkeit</div>    
+            <div class="cs-value">{{ $data.humidity}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Humide/Aride Perioden</div>    
+            <div class="cs-value">{{ $data.simulation_periods}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Substrat</div>    
+            <div class="cs-flex-wrap">
+                <div class="cs-flex-one cs-flex-key">Zusammensetzung</div>    
+                <div class="cs-flex-two cs-flex-value">{{ $data.substrate.ingredients}}</div>
+            </div>
+            <div class="cs-flex-wrap">
+                <div class="cs-flex-one cs-flex-key">Substrathöhe</div>    
+                <div class="cs-flex-two cs-flex-value">{{ $data.substrate.height}}</div>
+            </div>
+            <div class="cs-flex-wrap">
+                <div class="cs-flex-one cs-flex-key">Feuchtigkeit</div>    
+                <div class="cs-flex-two cs-flex-value">{{ $data.substrate.humidity}}</div>
+            </div>
+            <div class="cs-flex-wrap">
+                <div class="cs-flex-one cs-flex-key">Bedeckung</div>    
+                <div class="cs-flex-two cs-flex-value">{{ $data.substrate.cover}}</div>
+            </div>
+        </div>
+
+        <div class="cs-entry">
+            <div class="cs-key">Dekoration</div>    
+            <div class="cs-value">{{ $data.decoration}}</div>
+        </div>
+        <div class="cs-entry">
+            <div class="cs-key">Ernährung</div>    
+            <div class="cs-value">{{ $data.nutrition}}</div>
+        </div>
+    </div>
+</div>

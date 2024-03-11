@@ -4,8 +4,8 @@
 
   {{- .Content -}}
 
-  {{ range sort .Site.Data.caresheets.caresheets "name"  }}
-    {{ partial "caresheet_section.html" . }}
+  {{ range sort .Page.Pages }}
+    {{ partial "caresheets/genus" . }}<br/>
   {{end}}
   
 </article>

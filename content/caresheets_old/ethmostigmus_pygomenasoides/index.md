@@ -50,7 +50,6 @@ In späteren Abendstunden kann man hingegen häufig beobachten, die **pygomenaso
 
 ## Informationen
 
-{{< caresheet/caresheet "data/ethmostigmus_pygomenasoides.yml" >}}
 
 --- 
 

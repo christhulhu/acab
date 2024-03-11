@@ -1,0 +1,44 @@
+{{ define "main" }}
+<article class="markdown">
+    {{ partial "docs/post-meta" . }}
+
+    <h1>
+        {{.Title}}
+        {{if isset .Params "author" }}
+        <small>Von: {{ delimit .Params.author ", " }} </small>
+        {{end}}
+    </h1>
+
+    {{with .Page.Resources.Get "hero.md"}}
+        <figure class="hero-figure">
+            <img src="{{ .Param "src"}}" alt="{{.Param "alt"}}" class="hero-img" />
+            <figcaption>
+                <h4>{{.Param "alt" }}</h4>
+                {{ with ( .Param "attr") }}<p>Foto &copy; {{ . | markdownify }}<p>{{ end }} 
+            </figcaption>
+        </figure>
+    {{end}}
+
+    {{with .Page.Resources.Get "about.md"}}
+        <h2>Über die Art</h2>
+        {{.Content}}
+    {{end}}
+
+    {{with .Page.Resources.Get "data/caresheet.yml"}}
+        <h2>Pflegeanleitung</h2>
+        {{partial "caresheets/caresheet" .}}
+    {{end}}
+
+    {{with .Page.Resources.Get "galleries.md"}}
+        <h2>Bilder</h2>
+        {{ .Content }}
+    {{end}}
+
+
+
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
