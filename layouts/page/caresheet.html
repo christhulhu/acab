@@ -24,17 +24,26 @@
         {{.Content}}
     {{end}}
 
+    {{with .Page.Resources.Get "data/about.yml"}}
+        <h2>{{$.Page.Title}}</h2>
+        {{partial "caresheets/about" .}}
+    {{end}}
+
     {{with .Page.Resources.Get "data/caresheet.yml"}}
         <h2>Pflegeanleitung</h2>
         {{partial "caresheets/caresheet" .}}
     {{end}}
 
-    {{with .Page.Resources.Get "galleries.md"}}
+    {{$page := .Page }}
+    {{with .Page.Resources.Get "data/galleries.yml"}}
         <h2>Bilder</h2>
-        {{ .Content }}
+        {{partial "caresheets/gallery" (dict "content" . "page" $page) }}
     {{end}}
 
-
+    {{with .Page.Resources.Get "taxonomy.md"}}
+        <h2>Taxonomie und Einordnung der Art</h2>
+        {{.Content}}
+    {{end}}
 
 </article>
 {{ end }}

@@ -1,0 +1,14 @@
+{{ $data := .content | unmarshal  }}
+{{range $data }}
+    <h3>{{.title}}</h3>
+    {{$title := .title}}
+    <div class="gallery">
+    {{ range $.page.Resources.Match .pattern }}
+        {{$image := . }}
+        {{$image := $image.Fit "400x400"}}
+        {{$image := $image.Crop "400x400"}}
+        <a href="{{.RelPermalink}}"><img src="{{ $image.RelPermalink }}" width="200" alt="{{$title}}"></a>
+    {{end}}
+    </div>
+
+{{end}}

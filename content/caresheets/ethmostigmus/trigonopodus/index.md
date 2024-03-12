@@ -7,7 +7,3 @@ author:
 - Christian Gehlen
 - Alessandro Tinella
 ---
-
-# Ethmostigmus trigonopodus
-
-Lorem
