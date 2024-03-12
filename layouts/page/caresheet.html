@@ -1,7 +1,6 @@
 {{ define "main" }}
-<article class="markdown">
+<article class="markdown caresheet">
     {{ partial "docs/post-meta" . }}
-
     <h1>
         {{.Title}}
         {{if isset .Params "author" }}
@@ -21,7 +20,7 @@
 
     {{with .Page.Resources.Get "about.md"}}
         <h2>Über die Art</h2>
-        {{.Content}}
+        {{ .Content }}
     {{end}}
 
     {{with .Page.Resources.Get "data/about.yml"}}
@@ -43,6 +42,17 @@
     {{with .Page.Resources.Get "taxonomy.md"}}
         <h2>Taxonomie und Einordnung der Art</h2>
         {{.Content}}
+    {{end}}
+
+    {{with .Page.Resources.Get "trivia.md"}}
+        <h2>Trivia</h2>
+        {{.Content}}
+    {{end}}
+
+
+    {{with .Page.Resources.Get "data/references.yml"}}
+        <h2>Referenzen und Einzelnachweise</h2>
+        {{partial "caresheets/references" . }}
     {{end}}
 
 </article>

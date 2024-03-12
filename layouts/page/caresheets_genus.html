@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="markdown">
+    {{ partial "docs/post-meta" . }}
+    <h1>Pflegeanleitungen für Arten der Gattung {{.Title}}</h1>
+
+    {{- .Content -}}
+
+    {{ range sort .Page.Pages }}
+    {{ partial "caresheets/genus_section_species" . }}<br/>
+    {{end}}
+  
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

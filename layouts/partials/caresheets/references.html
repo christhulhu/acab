@@ -1,0 +1,13 @@
+{{ $data := . | unmarshal  }}
+
+<ul>
+{{range sort $data "year"}}
+    <li>
+        {{if .link }}
+            <a href="{{.link}}" id="{{.id}}">{{.author}} ({{.year}}): {{.title}}</a>
+        {{else}}
+            <span id="{{.id}}">{{.author}} ({{.year}}): {{.title}}</span>
+        {{end}}
+    </li>
+{{end}}
+</ul>

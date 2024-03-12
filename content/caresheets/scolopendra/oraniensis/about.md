@@ -1,0 +1,1 @@
+Scolopendra oraniensis ist eine der wenigen Arten der Gattung Scolopendra, die in Europa vorkommt. Die Art bleibt mit maximal 7 cm relativ klein und weist eine Färbung auf, die von ockergelb bis blassorange reicht. Manchmal sind Kopf und vordere Segmente auch leicht grünlich. Bei Beachtung der Winterruhe ist die Art leicht zu pflegen und daher auch für Anfänger geeignet.
