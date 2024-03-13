@@ -3,7 +3,12 @@
     {{ partial "docs/post-meta" . }}
     <h1>Pflegeanleitungen für Arten der Gattung {{.Title}}</h1>
 
-    {{- .Content -}}
+    <div class="genus-content-wrapper">
+      <div class="genus-thumb-wrapper">
+        <img src="../images/{{ .Param "thumb" }}" with="200" class="genus-thumb"/>
+      </div>
+      <div>{{- .Content -}}</div>
+    </div>
 
     {{ range sort .Page.Pages }}
     {{ partial "caresheets/genus_section_species" . }}<br/>
