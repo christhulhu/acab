@@ -38,18 +38,18 @@
 
     {{with .Page.Resources.Get "data/about.yml"}}
         <h2>{{$.Page.Title}}</h2>
-        {{partial "caresheets/about" .}}
+        {{partial "caresheets/caresheet/about" .}}
     {{end}}
 
     {{with .Page.Resources.Get "data/caresheet.yml"}}
         <h2>Pflegeanleitung</h2>
-        {{partial "caresheets/caresheet" .}}
+        {{partial "caresheets/caresheet/caresheet" .}}
     {{end}}
 
     {{$page := .Page }}
     {{with .Page.Resources.Get "data/galleries.yml"}}
         <h2>Bilder</h2>
-        {{partial "caresheets/gallery" (dict "content" . "page" $page) }}
+        {{partial "caresheets/caresheet/gallery" (dict "content" . "page" $page) }}
     {{end}}
 
     {{with .Page.Resources.Get "taxonomy.md"}}
@@ -63,7 +63,7 @@
     {{end}}
 
 
-    {{with .Page.Resources.Get "data/references.yml"}}
+    {{with .Page.Resources.Get "data/caresheet/references.yml"}}
         <h2>Referenzen und Einzelnachweise</h2>
         {{partial "caresheets/references" . }}
     {{end}}

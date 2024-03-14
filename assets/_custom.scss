@@ -1,3 +1,5 @@
+@import "scss/_caresheets";
+
 .book-brand {
     img {
         width: 100%;
@@ -535,17 +537,5 @@ blockquote.good {
             }
         }
     
-    }
-
-    .genus-content-wrapper {
-        display: block;
-        justify-content: center;
-        align-items: center;
-        .genus-thumb-wrapper {
-            width: 100%;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-        }
     }
 }

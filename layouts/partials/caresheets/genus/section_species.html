@@ -1,0 +1,14 @@
+
+<article class="species-wrapper">
+    <div class="species-thumb-wrapper">
+        {{with .Param "thumb"}}
+            <img src="{{$.Permalink}}/{{.}}" alt="{{$.Title}}" class="species-thumb"/>
+        {{end}}
+    </div>
+    <div class="species-content">
+        <div class="species_title"><h2><a href="{{.Permalink}}">{{.Title}}</a></h2></div>
+        <span class="description">{{.Description|markdownify}}</span>
+    </div>
+</article>
+
+

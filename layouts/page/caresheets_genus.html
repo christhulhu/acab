@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="markdown">
+<article class="markdown caresheets-genus-index">
     {{ partial "docs/post-meta" . }}
     <h1>Pflegeanleitungen für Arten der Gattung {{.Title}}</h1>
 
@@ -11,7 +11,7 @@
     </div>
 
     {{ range sort .Page.Pages }}
-    {{ partial "caresheets/genus_section_species" . }}<br/>
+    {{ partial "caresheets/genus/section_species" . }}<br/>
     {{end}}
   
 </article>
