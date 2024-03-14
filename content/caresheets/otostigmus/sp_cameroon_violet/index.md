@@ -7,4 +7,3 @@ bookhidden: true
 author:
 - Marcel K.
 ---
-# Otostigmus sp. "Cameroon Violet"
