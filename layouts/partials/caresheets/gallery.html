@@ -6,7 +6,7 @@
     {{ range $.page.Resources.Match .pattern }}
         {{$image := . }}
         {{$image := $image.Fit "400x400"}}
-        {{$image := $image.Crop "400x400"}}
+        {{$image := $image.Crop "400x400 Smart"}}
         <a href="{{.RelPermalink}}"><img src="{{ $image.RelPermalink }}" width="200" alt="{{$title}}"></a>
     {{end}}
     </div>
