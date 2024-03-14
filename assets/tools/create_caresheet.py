@@ -4,15 +4,13 @@ import yaml
 images = "images"
 data = "data"
 about = ''''''
-hero = '''
----
+hero = '''---
 src: images/-hero.jpg
 alt: 
 attr: 
 ---
 '''
-index = '''
----
+index = '''---
 title: 
 description: 
 type: page
@@ -33,7 +31,7 @@ def create_caresheet_files(target):
     create_data_file(dest_folder, 'caresheet.yml')
     create_data_file(dest_folder, 'galleries.yml')
     create_data_file(dest_folder, 'references.yml')
-    create_md_file(dest_folder, 'index.md')
+    create_md_file(dest_folder, 'index.md', index)
     create_md_file(dest_folder, 'about.md')
     create_md_file(dest_folder, 'hero.md', hero)
 
@@ -70,4 +68,4 @@ def create_data_dir(dest_folder):
 def create_caresheet_folder(dest_folder):
     create_folder(dest_folder, '')
 
-create_caresheet_files("scolopendra/test")
+create_caresheet_files("scolopendra/sp_malaysian_jewel")
