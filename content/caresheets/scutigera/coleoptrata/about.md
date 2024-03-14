@@ -1,0 +1,3 @@
+Scutigera coleoptrata, auch oft als Spinnenassel bezeichnet, fällt wie alle Vertreter der Scutigeridae durch ihrer besonders langen, dünnen Beine und ihrer schnellen Bewegungen auf. Die Art besitzt zwar Giftfänge, kann damit jedoch die menschliche Haut im Normalfall nicht durchdringen.
+
+Ein vorsichtiger Umgang mit den Tieren ist dennoch zu empfehlen, da Gliedmaßen leicht abbrechen bzw. abgeworfen werden. Diese können sich nach ein paar Häutungen wieder regenerieren.

@@ -68,4 +68,4 @@ def create_data_dir(dest_folder):
 def create_caresheet_folder(dest_folder):
     create_folder(dest_folder, '')
 
-create_caresheet_files("otostigmus/sp_cameroon_violet")
+create_caresheet_files("scutigera/coleoptrata")
