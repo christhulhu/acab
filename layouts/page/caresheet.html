@@ -18,10 +18,23 @@
         </figure>
     {{end}}
 
+    {{with .Page.Resources.Get "data/hero.yml"}}
+        {{ $data := . | unmarshal  }}
+        <figure class="hero-figure">
+            <img src="{{ $data.src }}" alt="{{$data.alt}}" class="hero-img" />
+            <figcaption>
+                <h4>{{ $data.alt }}</h4>
+                {{ with ($data.attr) }}<p>Foto &copy; {{ . | markdownify }}<p>{{ end }} 
+            </figcaption>
+        </figure>
+    {{end}}
+
     {{with .Page.Resources.Get "about.md"}}
         <h2>Über die Art</h2>
         {{ .Content }}
     {{end}}
+
+    {{.Content}}
 
     {{with .Page.Resources.Get "data/about.yml"}}
         <h2>{{$.Page.Title}}</h2>

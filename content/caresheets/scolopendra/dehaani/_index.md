@@ -1,15 +1,14 @@
 ---
 title: Scolopendra dehaani
-bookHidden: true
-authors:
-- "Alessandro Tinella"
+description: Gut verfügbare, große und pflegeleichte Art, die zuweilen sehr nervös ist. Die unterschiedlichen Farbmorphe [Cherry Red]({{< ref "cherry_red">}}) und die [Leg-Morphe]({{< ref "leg_morphs">}}) haben individuelle Haltungsansprüche.
+type: page
+layout: caresheet
+bookhidden: true
+author:
+- Alessandro Tinella
 ---
 
-# Scolopendra dehaani
-
-## Über die Art
-
-Scolopendra dehaani war ursprünglich eine Unterart von Scolopendra subspinipes. 2012 hat Christian Kronmüller jedoch den Komplex aufgeräumt und seither gilt Scolopendra dehaani als eigenständige Art.[^1] 
+Scolopendra dehaani war ursprünglich eine Unterart von Scolopendra subspinipes. 2012 hat Christian Kronmüller jedoch den Komplex aufgeräumt und seither gilt Scolopendra dehaani als eigenständige Art.[^1]
 
 Offiziell hat Scolopendra dehaani fünf anerkannte Farbmorphen:[^2]
 
@@ -36,9 +35,3 @@ Die Art ist in Asien sehr weit verbreitet und findet daher immer wieder ihren We
 ### Pflegehinweise
 
 Derweil die "Leg"-Varianten alle [ähnliche Haltungsparameter](leg_morphs) haben, muss man bei ["Cherry Red"](cherry_red) deutlich auf die Temperatur achten; diese Art mag zu hohe Temperaturen nicht.
-
-
----
-
-[^1]: 2012 - Kronmüller - Review of the subspecies of Scolopendra subspinipes with the new description of the South Chinese member of the genus Scolopendra named Scolopendra hainanum
-[^2]: 2016 - Siriwut, Edgecombe, Sutcharit, Tongkerd, Panha - A taxonomic review of the centipede genus Scolopendra in mainland Southeast Asia, with description of a new species from Laos
