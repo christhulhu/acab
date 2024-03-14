@@ -65,6 +65,15 @@ caresheets:
       - name: Scolopendra subspinipes "mutilans"
         link: scolopendra_subspinipes_mutilans
         description: Schön gefärbte Variante von Scolopendra subspinipes.
+      - name: Scolopendra alternans "Red Giant"
+        link: scolopendra_alternans_red_giant
+        description: Der "Red Giant" aus Hispaniola
+      - name: Scolopendra alternans sp "Haiti"
+        link: scolopendra_alternans_haiti
+        description: Der große Scolopendra alternans aus Haiti.
+      - name: Scolopendra cubensis
+        link: scolopendra_cubensis
+        description: Der Bruder vom "Red Giant" und Scolopendra alternans aus Kuba.
   - name: Scutigera
     thumbnail: images/scutigera_thumb.png
     species:
