@@ -1,0 +1,3 @@
+Der [Alternans-Komplex](/skolopender/taxonomie/scolopendra/alternans-komplex/) bietet aktuell noch viele ungeklärte Fragen und Diskussionspunkte. Einst wurden unter dem Namen **Scolopendra alternans** diverse Arten synonymisiert, die nach aktuellem Vorschlag von Mercurio (2016) eigentlich drei Arten darstellen {{<fn "Mercurio, 2016" 2016-mercurio>}}. Doch alleine für die Art **Scolopendra alternans** gibt es markante morphologische Unterschiede nach geografischer Herkunft. Und freilich variieren die Haltungsparameter gleichsam mit dem Ursprungsland der jeweiligen Tiere.
+
+So hat der "Red Giant" aus Hispaniola, der auf dieser Seite behandelt wird und aktuell den Neotypen für die Art darstellt, andere Anforderungen als der [**alternans** aus Haiti](../alternans_haiti).
