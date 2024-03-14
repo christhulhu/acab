@@ -22,7 +22,7 @@ author:
 '''
 
 def create_caresheet_files(target):
-    dest_folder = os.path.join('../../content/caresheets', target)
+    dest_folder = os.path.join('../content/caresheets', target)
     print(f'working dir: {dest_folder}')
     create_caresheet_folder(dest_folder)
     create_images_dir(dest_folder)
@@ -68,4 +68,4 @@ def create_data_dir(dest_folder):
 def create_caresheet_folder(dest_folder):
     create_folder(dest_folder, '')
 
-create_caresheet_files("scolopendra/dehaani/leg_morphs")
+create_caresheet_files("otostigmus/sp_cameroon_violet")
