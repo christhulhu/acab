@@ -1,0 +1,98 @@
+
+/***
+    General
+***/
+.caresheet {
+    .hero-figure {}
+
+    .galleries {
+        .gallery-wrapper {
+            .gallery {
+                img {
+                    transition: transform .2s; /* Animation */
+                    &:hover {
+                        transform: scale(1.2);
+                    }
+                }
+                
+            }
+        }
+    }
+}
+
+
+
+// Mobile 
+@media screen and (max-width: $mobile-breakpoint) {
+    .about-data-wrapper {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        .cs-entry {
+            width: 90%;
+            .cs-value {
+                 text-align: left;
+            }
+         }
+    }
+    .galleries {
+        .gallery-wrapper {
+            .gallery {
+                img {
+                    width: 150px;
+                }
+            }
+        }
+    }
+}
+
+// Desktop
+@media screen and (min-width: $container-max-width) {
+    .about-data-wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-content: space-between;
+        column-gap: 3em;
+        .cs-entry {
+           width: 40%;
+           .cs-value {
+                text-align: left;
+           }
+        }
+    }
+    
+    .caresheet-data-wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-content: space-between;
+        column-gap: 3em;
+        .cs-entry {
+           width: 40%;
+           .cs-value {
+                text-align: left;
+           }
+        }
+    }
+
+    .galleries {
+        .gallery-wrapper {
+            .gallery {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: flex-start;
+                align-items: flex-start;
+                align-content: space-between;
+                column-gap: 3em;
+                img {
+                    width: 200px;
+                }
+            }
+        }
+    }
+}

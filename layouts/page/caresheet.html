@@ -30,42 +30,60 @@
     {{end}}
 
     {{with .Page.Resources.Get "about.md"}}
-        <h2>Über die Art</h2>
-        {{ .Content }}
+        <section class="about-text">
+            <h2>Über die Art</h2>
+            {{ .Content }}
+        </section>
     {{end}}
 
-    {{.Content}}
+    {{if not (.Page.Resources.Get "about.md")}}
+        <section class="about-text">
+        {{.Content}}
+        </section>
+    {{end}}
 
     {{with .Page.Resources.Get "data/about.yml"}}
-        <h2>{{$.Page.Title}}</h2>
-        {{partial "caresheets/caresheet/about" .}}
+        <section class="about-data">
+            <h2>{{$.Page.Title}}</h2>
+            {{partial "caresheets/caresheet/about" .}}
+        </section>
     {{end}}
 
     {{with .Page.Resources.Get "data/caresheet.yml"}}
-        <h2>Pflegeanleitung</h2>
-        {{partial "caresheets/caresheet/caresheet" .}}
+        <section class="caresheet-data">
+            <h2>Pflegeanleitung</h2>
+            {{partial "caresheets/caresheet/caresheet" .}}
+        </section>
     {{end}}
 
     {{$page := .Page }}
     {{with .Page.Resources.Get "data/galleries.yml"}}
-        <h2>Bilder</h2>
-        {{partial "caresheets/caresheet/gallery" (dict "content" . "page" $page) }}
+        <section class="galleries">
+            <h2>Bilder</h2>
+            {{partial "caresheets/caresheet/gallery" (dict "content" . "page" $page) }}
+        </section>
     {{end}}
 
     {{with .Page.Resources.Get "taxonomy.md"}}
-        <h2>Taxonomie und Einordnung der Art</h2>
-        {{.Content}}
+        <section class="taxonomy">
+            <h2>Taxonomie und Einordnung der Art</h2>
+            {{.Content}}
+        </section>
     {{end}}
 
     {{with .Page.Resources.Get "trivia.md"}}
-        <h2>Trivia</h2>
-        {{.Content}}
+        <section class="trivia">
+            <h2>Trivia</h2>
+            {{.Content}}
+        </section>
     {{end}}
 
 
     {{with .Page.Resources.Get "data/caresheet/references.yml"}}
-        <h2>Referenzen und Einzelnachweise</h2>
-        {{partial "caresheets/references" . }}
+        <section class="references">
+            <h2>Referenzen und Einzelnachweise</h2>
+            {{partial "caresheets/references" . }}
+        </section>
     {{end}}
 
 </article>

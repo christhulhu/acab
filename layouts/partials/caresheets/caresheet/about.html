@@ -1,40 +1,68 @@
 {{ $data := . | unmarshal  }}
 
-<div class="book-columns cs-wrap"><!--  flex flex-wrap  -->
-    <div class="cs-column markdown-inner"><!-- flex-even-->
-        <h3>Allgemeines</h3>
+<div class="about-data-wrapper"><!--  flex flex-wrap  -->
+    <div class="cs-entry">
+        <div class="cs-key">Wissenschaftlicher Name</div>    
+        <div class="cs-value">{{ $data.scientific_name}}</div>
+    </div>
+    <div class="cs-entry">
+        <div class="cs-key">Bestätigter Artenname</div>    
+        <div class="cs-value">{{ $data.valid_name}}</div>
+    </div>
+    <div class="cs-entry">
+        <div class="cs-key">Handelsnamen</div>    
+        <div class="cs-value">
+            {{if $data.trade_names}}
+                <ul>
+                    {{range $data.trade_names }}
+                        <li>{{.}}</li>
+                    {{end}}
+                </ul>
+            {{else}}
+            {{end}}
+        </div>
+    </div>
+</div>
 
-        <div class="cs-entry">
-            <div class="cs-key">Ausgewachsene Größe</div>    
-            <div class="cs-value">{{ $data.adult_size}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Verbreitung</div>    
-            <div class="cs-value">{{ $data.distribution}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Klimazone</div>    
-            <div class="cs-value">{{ $data.climate}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Lebensweise</div>    
-            <div class="cs-value">{{ $data.way_of_life}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Verhaltensweise</div>    
-            <div class="cs-value">{{ $data.behavior}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Geschlechtsmerkmale</div>    
-            <div class="cs-value">{{ $data.dimorphism}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Anspruch</div>    
-            <div class="cs-value">{{ $data.experience}}</div>
-        </div>
-        <div class="cs-entry">
-            <div class="cs-key">Verfügbarkeit</div>    
-            <div class="cs-value">{{ $data.availability}}</div>
-        </div>
+<div class="about-data-wrapper">
+    <div class="cs-entry">
+        <div class="cs-key">Ausgewachsene Größe</div>    
+        <div class="cs-value">{{ $data.adult_size}}</div>
+    </div>
+</div>
+<div class="about-data-wrapper">
+    <div class="cs-entry">
+        <div class="cs-key">Verbreitung</div>    
+        <div class="cs-value">{{ $data.distribution}}</div>
+    </div>
+    <div class="cs-entry">
+        <div class="cs-key">Klimazone</div>    
+        <div class="cs-value">{{ $data.climate}}</div>
+    </div>
+</div>
+<div class="about-data-wrapper">
+    <div class="cs-entry">
+        <div class="cs-key">Lebensweise</div>    
+        <div class="cs-value">{{ $data.way_of_life}}</div>
+    </div>
+    <div class="cs-entry">
+        <div class="cs-key">Verhaltensweise</div>    
+        <div class="cs-value">{{ $data.behavior}}</div>
+    </div>
+</div>
+<div class="about-data-wrapper">
+    <div class="cs-entry">
+        <div class="cs-key">Geschlechtsmerkmale</div>    
+        <div class="cs-value">{{ $data.dimorphism}}</div>
+    </div>
+</div>
+<div class="about-data-wrapper">
+    <div class="cs-entry">
+        <div class="cs-key">Anspruch</div>    
+        <div class="cs-value">{{ $data.experience}}</div>
+    </div>
+    <div class="cs-entry">
+        <div class="cs-key">Verfügbarkeit</div>    
+        <div class="cs-value">{{ $data.availability}}</div>
     </div>
 </div>
