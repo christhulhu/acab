@@ -39,6 +39,13 @@
     <br/>
     {{end}}
   {{end}}
+
+  {{with .Page.Resources.Get "appearance.md"}}
+  <section class="appearance">
+      <h2>Aussehen der Gattung {{$.Title}}</h2>
+      {{ .Content }}
+  </section>
+  {{end}}
   
   {{with .Page.Resources.GetMatch "*/data/references.yml"}}
     <section class="references">

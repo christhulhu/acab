@@ -9,6 +9,12 @@ services:
   googleAnalytics:
     ID: G-RSSEVRT14Z
 
+taxonomies:
+  taxonomies: taxonomies
+  category: categories
+  internal: internal
+  tag: tags
+
 privacy:
   disqus:
     disable: true

@@ -1,1 +1,16 @@
-<span class="footnote-ref">(<a href="#{{.Get 1}}" class="footenote-ref">{{ .Get 0}}</a>)</span>
+{{ if eq (.Params|len) 2}}
+    <span class="footnote-ref">(<a href="#{{.Get 1}}" class="footenote-ref">{{ .Get 0}}</a>)</span>
+{{else}}
+    {{if $.Page.Parent.Resources.Get "data/references.yml"}}
+        {{$param := .Get 0}}
+        {{with $.Page.Parent.Resources.Get "data/references.yml"}}
+            {{$data := . | unmarshal}}
+            {{$ref := index (where $data "id" $param) 0}}
+            {{if $ref}}
+                <span class="footnote-ref">(<a href="#{{$ref.id}}" class="footenote-ref">{{$ref.author}}, {{$ref.year}}</a>)</span>
+            {{else}}
+                <span class="footnote-ref ref-not-found">(fehlende Referenz)</span>
+            {{end}}
+        {{end}}
+    {{end}}
+{{end}}

@@ -56,6 +56,14 @@
         </section>
     {{end}}
 
+
+    {{with .Page.Resources.Get "habitat.md"}}
+        <section class="habitat">
+            <h2>Habitat</h2>
+            {{.Content}}
+        </section>
+    {{end}}
+
     {{$page := .Page }}
     {{with .Page.Resources.Get "data/galleries.yml"}}
         <section class="galleries">
