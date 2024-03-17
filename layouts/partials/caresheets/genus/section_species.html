@@ -4,14 +4,22 @@
         <h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
     </div>
 
-    <div class="species-content">
+    <div class="species-content-wrapper">
         <div class="species-thumb-wrapper">
             {{with .Param "thumb"}}
                 <img src="{{$.Permalink}}/{{.}}" alt="{{$.Title}}" class="species-thumb"/>
             {{end}}
         </div>
         <div class="species-content">
-            <span class="description">{{.Description|markdownify}}</span>
+            <div class="description">{{.Description|markdownify}}</div>
+            <div class="tradenames">
+                {{with .Page.Resources.Get "data/about.yml"}}
+                    {{ $data := . | unmarshal  }}
+                    {{with $data.trade_names }}
+                    Die Art ist im Hobby auch bekannt als: <strong>{{ delimit . ", "}}</strong> {{end}}
+                {{end}}
+
+            </div>
         </div>
     </div>
 </article>

@@ -9,13 +9,21 @@
     }
     .species-wrapper {
         .species-title {}
-        .species-content{
+        .species-content-wrapper{
             .species-thumb-wrapper {
                 .species-thumb {
                     border-radius: 100%;
                 }
             }
-            .species-content {}
+            .species-content {
+                .description {
+                    font-size: 1.2em;
+                }
+                .tradenames {
+                    font-size: 0.7em;
+                    color: #555;
+                }
+            }
         }
     }
 }
@@ -32,7 +40,7 @@
 
         .species-wrapper {
             .species-title {}
-            .species-content{
+            .species-content-wrapper {
                 .species-thumb-wrapper {
                     text-align: center;
                 }
@@ -56,10 +64,11 @@
         }
 
         .species-wrapper {
+            display: flex;
             flex-flow: column;
             width: 100%;
             .species-title {}
-            .species-content {
+            .species-content-wrapper {
                 display: flex;
                 flex-flow: row;
                 gap: 2em;
@@ -68,7 +77,9 @@
                         width: 150px;
                     }
                 }
-                .species-content {}
+                .species-content {
+                    display: block;
+                }
             }
         }
     }
