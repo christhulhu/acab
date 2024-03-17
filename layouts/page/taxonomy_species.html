@@ -40,24 +40,12 @@
     {{end}}
   {{end}}
 
-  {{with $data.publications}}
-    <h2>Publikationen</h2>
-    <ul class="publications">
-    {{range sort . "year" "desc"}}
-      <li>
-        <div class="publication">
-          <div class="title">{{.title}}</div>
-          <div class="meta">({{.year}}, {{.author}})<br/>
-
-            <div class="links">
-              {{with .download}}<a href="{{.}}">Download</a>{{end}}<br/>
-              {{with .doi}}DOI: <a href="{{.}}">{{.}}</a>{{end}}
-            </div>
-          </div>
-        </div>
-      </li>
-    {{end}}
-    </ul>
+  {{.Page.Resources}}
+  {{with .Page.Resources.Get "data/references.yml"}}
+    <section class="references">
+        <h2>Referenzen und Einzelnachweise</h2>
+        {{partial "caresheets/caresheet/references" . }}
+    </section>
   {{end}}
 
   {{with $data.synonyms}}

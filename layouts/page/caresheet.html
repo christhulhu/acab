@@ -79,10 +79,10 @@
     {{end}}
 
 
-    {{with .Page.Resources.Get "data/caresheet/references.yml"}}
+    {{with .Page.Resources.Get "data/references.yml"}}
         <section class="references">
             <h2>Referenzen und Einzelnachweise</h2>
-            {{partial "caresheets/references" . }}
+            {{partial "caresheets/caresheet/references" . }}
         </section>
     {{end}}
 
