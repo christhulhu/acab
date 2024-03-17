@@ -30,7 +30,7 @@ def create_md_files(src_folder, dest_folder):
                             ref.append(current_pub)
                         
 
-                        with open(os.path.join(data_folder, 'reference.yml'), 'w') as ref_file:
+                        with open(os.path.join(data_folder, 'references.yml'), 'w') as ref_file:
                             yaml.dump(ref, ref_file)
                         
 
