@@ -1,31 +1,31 @@
 {{ define "main" }}
-<article class="markdown">
+<article class="markdown taxonomy-genus">
   {{ partial "docs/post-meta" . }}
 
-  {{- .Content -}}
+  {{$datadir := .Page.Param "datadir"}}
+  {{$data := index .Site.Data.species $datadir}}
 
-  <h2>Beschriebene Arten</h2>
-  <table class="species-list">
-    <tr>
-        <th>Name</th>
-        <th>Aktueller Name</th>
-        <th>Status</th>
-    </tr>
-  {{ range sort .Site.Data.scolopendra_species "name"  }}
-    <tr class="{{ replace .status " " "-" | lower }}">
-        <td>
-            {{.name}}<br/>
-            <small>({{.first_description}})</small>
-        </td>
-        <td>{{.current_name}}</td>
-        <td>
-            {{.status}}
-            {{with .status_remark}}<br/><small>({{.}})</small>{{end}}
-        </td>
-    </tr>
-  {{end}}
-  </table>
-  
+    {{- .Content -}}
+
+    {{with .Page.Resources.Get "about.md"}}
+      <section class="about-text">
+          <h2>Über die Gattung {{$.Title}}</h2>
+          {{ .Content }}
+      </section>
+    {{end}}
+
+    <h2>Arten {{if $data}}<small>({{$data|len}})</small>{{end}}</h2>
+    
+    {{if $data}}
+    <ul>
+    {{range $data }}
+        <li><a href="{{ index (split .name " ") 1 }}">{{.name}}</a> <small>({{.first_description}})</small></li>
+    {{end}}
+    </ul>
+ 
+    {{else}}
+        Bisher noch keine Arten erfasst.
+    {{end}}
 </article>
 {{ end }}
 

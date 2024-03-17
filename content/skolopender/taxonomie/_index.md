@@ -26,6 +26,10 @@ Derweil findet man in ganz Deutschland viele Arten der Lithobiomorpha und Geophi
 
 ## Die Ordnung Scolopendromorpha
 
+{{<hint "info">}}
+[Hier findet sich die vollständige Übersicht der Taxonomie der Ordnung Scolopendromorpha](scolopendromorpha)
+{{</hint>}}
+
 Die Arten der Ordnung Scolopendromorpha sind vielgestaltig. Die kleinsten Arten messen gerade mal 10mm, derweil die größten deutlich über 30cm werden können. Meist haben Scolopendromorpha 4 Ocelli (Augen) auf jeder Seite. Es gibt aber auch Familien, die keine Ocelli besitzen und die kleinste Familie **Mimopidae** mit der Gattung **Mimpos**, die lediglich ein Auge auf jeder Seite haben.
 
 Auch die Anzahl der Beinpaare kann innerhalb der Ordnung variieren. Derweil die meisten Arten 21 Beinpaare besitzen, hat der Genus **Scolopendropsis** in der Regel 23 Beinpaare. Doch auch hier gibt es eine Ausnahme: [**Scolopendropsis duplicata**](https://www.theguardian.com/science/2010/apr/18/new-to-nature-scolopendropsis-duplicata) hat eine variable Anzahl von 39 bis 43 Beinpaaren.
@@ -54,8 +58,8 @@ In der Terraristik sind die bekanntesten Skolopender aus der Familie der Scolope
 
 Unterfamilie **Scolopendrinae**
 
-- Gattung [**Scolopendra**](scolopendra)
-- Gattung [**Arthrorhabdus**](arthrorhabdus)
+- Gattung [**Scolopendra**](scolopendromorpha/scolopendra)
+- Gattung [**Arthrorhabdus**](scolopendromorpha/arthrorhabdus)
 - Gattung **Tonkinodentus**
 - Gattung **Cormocephalus**
 - Gattung **Hemiscolopendra**
@@ -67,11 +71,11 @@ Unterfamilie **Scolopendrinae**
 Unterfamilie **Otostigminae**
 
 - Stamm **Otostigmini**
-  - Gattung [**Otostigmus**](otostigmus)
+  - Gattung [**Otostigmus**](scolopendromorpha/otostigmus)
   - Gattung **Digitipes**
   - Gattung **Alipes**
-  - Gattung [**Ethmostigmus**](ethmostigmus)
-  - Gattung [**Rhysida**](rhysida)
+  - Gattung [**Ethmostigmus**](scolopendromorpha/ethmostigmus)
+  - Gattung [**Rhysida**](scolopendromorpha/rhysida)
   - Gattung **Alluropus**
 - Stamm **Sterropristini**
   - Gattung **Sterropristes**

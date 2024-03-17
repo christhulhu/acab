@@ -1,0 +1,51 @@
+{{ define "main" }}
+<article class="markdown">
+  {{ partial "docs/post-meta" . }}
+
+  {{$data := index .Site.Data.taxonomy }}
+
+  {{- .Content -}}
+  
+  {{range $data.taxonomy.orders }}
+    <h2>Ordnung: {{.name}}</h2>
+    {{range .families}}
+        <h3>Familie: {{.family}}</h3>
+        {{if .subfamilies}}
+            {{range .subfamilies}}
+                <h4>Unterfamilie: {{.subfamily}}</h4>
+
+                {{with .tribes}}
+                    {{range . }}
+                        Stamm: {{.tribe}}
+                        <ul>
+                        {{range .genera}}
+                            <li>Gattung: <a href="{{.|lower}}">{{.}}</a></li>
+                        {{end}}
+                        </ul>
+                    {{end}}
+                {{end}}
+
+                {{with .genera}}
+                    <ul>
+                    {{range .}}
+                        <li>Gattung: <a href="{{.|lower}}">{{.}}</a></li>
+                    {{end}}
+                    </ul>
+                {{end}}
+            {{end}}
+        {{else}}
+        <ul>
+            {{range .genera}}
+                <li>Gattung: <a href="{{.|lower}}">{{.}}</a></li>
+            {{end}}
+            </ul>
+        {{end}}
+    {{end}}
+  {{end}}
+    
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
