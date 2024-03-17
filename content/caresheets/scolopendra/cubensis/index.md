@@ -1,6 +1,7 @@
 ---
 title: Scolopendra cubensis 
-description: tbd
+description: Der Bruder vom "Red Giant" und Scolopendra alternans aus Kuba.
+thumb: images/cubensis-thumb.jpg
 type: page
 layout: caresheet
 bookhidden: true

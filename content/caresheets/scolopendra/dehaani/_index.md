@@ -1,6 +1,7 @@
 ---
 title: Scolopendra dehaani
 description: Gut verfügbare, große und pflegeleichte Art, die zuweilen sehr nervös ist. Die unterschiedlichen Farbmorphe [Cherry Red]({{< ref "cherry_red">}}) und die [Leg-Morphe]({{< ref "leg_morphs">}}) haben individuelle Haltungsansprüche.
+thumb: images/dehaani-thumb.jpg
 type: page
 layout: caresheet
 bookhidden: true

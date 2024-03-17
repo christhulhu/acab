@@ -1,6 +1,7 @@
 ---
 title: Scolopendra alternans "Red giant"
-description: tbd
+description: Der "Red Giant" aus Hispaniola.
+thumb: images/red-giant-thumb.jpg
 type: page
 layout: caresheet
 bookhidden: true
