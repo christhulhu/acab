@@ -7,7 +7,7 @@
       <div class="genus-thumb-wrapper">
         <img src="../images/{{ .Param "thumb" }}" with="200" class="genus-thumb"/>
       </div>
-      <div>{{- .Content -}}</div>
+      <div class="genus-content">{{- .Content -}}</div>
     </div>
 
     {{ range sort .Page.Pages }}

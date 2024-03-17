@@ -1,0 +1,75 @@
+.caresheets-genus-index {
+    .genus-content-wrapper {
+        .genus-thumb-wrapper {
+            .genus-thumb {
+                border-radius: 100%;
+            }
+        }
+        .genus-content {}
+    }
+    .species-wrapper {
+        .species-title {}
+        .species-content{
+            .species-thumb-wrapper {
+                .species-thumb {
+                    border-radius: 100%;
+                }
+            }
+            .species-content {}
+        }
+    }
+}
+
+// Mobile 
+@media screen and (max-width: $mobile-breakpoint) {
+    .caresheets-genus-index {
+        .genus-content-wrapper {
+            .genus-thumb-wrapper {
+                text-align: center;
+            }
+            .genus-content {}
+        }
+
+        .species-wrapper {
+            .species-title {}
+            .species-content{
+                .species-thumb-wrapper {
+                    text-align: center;
+                }
+                .species-content {}
+            }
+        }
+    }
+}
+
+// Desktop
+@media screen and (min-width: $container-max-width) {
+    .caresheets-genus-index {
+        .genus-content-wrapper {
+            display: flex;
+            flex-flow: row;
+            gap: 2em;
+            .genus-thumb-wrapper {
+                width: 50%;
+            }
+            .genus-content {}
+        }
+
+        .species-wrapper {
+            flex-flow: column;
+            width: 100%;
+            .species-title {}
+            .species-content {
+                display: flex;
+                flex-flow: row;
+                gap: 2em;
+                .species-thumb-wrapper {
+                    .species-thumb {
+                        width: 150px;
+                    }
+                }
+                .species-content {}
+            }
+        }
+    }
+}

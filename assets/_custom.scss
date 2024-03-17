@@ -96,19 +96,6 @@ h2 {
     border-bottom: solid 1px #CCC;
 }
 
-.genus-content-wrapper {
-    display: flex;
-    flex-direction: row;
-    .genus-thumb-wrapper {
-        flex-basis: 50%;
-    }
-    .genus-thumb {
-        border-radius: 100%;
-        width: 200px;
-        height: 200px;
-    }
-}
-
 .caresheet_section {
     .section_thumbnail {
         border-radius: 100%;

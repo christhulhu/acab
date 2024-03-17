@@ -6,4 +6,4 @@ type: page
 layout: caresheets_genus
 ---
 
-Arten der Gattung Scolopendra sind die größten Hundertfüßer unter den Scolopendromorpha. Meist beleben die Tiere subtropische und tropische Regionen, es gibt aber auch Vertreter aus mediteranem Klima.
+Die größten Hundertfüßer zählen zu der Gattung **Scolopendra**. Allerdings gibt es auch kleine bis mittelgroße Arten in dem Genus. Die meisten Tiere stammen aus subtropischen und tropischen Regionen. Aber es gibt auch einige Vertreter aus dem Mittelmeerraum.
