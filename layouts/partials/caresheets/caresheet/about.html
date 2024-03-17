@@ -1,68 +1,63 @@
 {{ $data := . | unmarshal  }}
 
-<div class="about-data-wrapper"><!--  flex flex-wrap  -->
-    <div class="cs-entry">
-        <div class="cs-key">Wissenschaftlicher Name</div>    
-        <div class="cs-value">{{ $data.scientific_name}}</div>
+<div class="about-table">
+    <div class="about-table-row">
+        <div class="about-table-col key">Wissenschaftlicher Name</div>
+        <div class="about-table-col value">{{ $data.scientific_name}}</div>
     </div>
-    <div class="cs-entry">
-        <div class="cs-key">Bestätigter Artenname</div>    
-        <div class="cs-value">{{ $data.valid_name}}</div>
+    <div class="about-table-row">
+        <div class="about-table-col key">Bestätigte Art</div>
+        <div class="about-table-col value">{{ $data.valid_name}}</div>
     </div>
-    <div class="cs-entry">
-        <div class="cs-key">Handelsnamen</div>    
-        <div class="cs-value">
+    <div class="about-table-row">
+        <div class="about-table-col key">Handels- und Trivialnamen</div>
+        <div class="about-table-col value">
             {{if $data.trade_names}}
-                <ul>
-                    {{range $data.trade_names }}
-                        <li>{{.}}</li>
-                    {{end}}
-                </ul>
+            <ul class="tradenames">
+                {{range $data.trade_names }}
+                    <li>{{.}}</li>
+                {{end}}
+            </ul>
             {{else}}
             {{end}}
         </div>
     </div>
-</div>
 
-<div class="about-data-wrapper">
-    <div class="cs-entry">
-        <div class="cs-key">Ausgewachsene Größe</div>    
-        <div class="cs-value">{{ $data.adult_size}}</div>
+    <div class="about-table-row">
+        <div class="about-table-col key">Ausgewachsene Größe</div>
+        <div class="about-table-col value">{{ $data.adult_size}}</div>
     </div>
-</div>
-<div class="about-data-wrapper">
-    <div class="cs-entry">
-        <div class="cs-key">Verbreitung</div>    
-        <div class="cs-value">{{ $data.distribution}}</div>
+
+    <div class="about-table-row">
+        <div class="about-table-col key">Lebensweise</div>    
+        <div class="about-table-col value">{{ $data.way_of_life}}</div>
     </div>
-    <div class="cs-entry">
-        <div class="cs-key">Klimazone</div>    
-        <div class="cs-value">{{ $data.climate}}</div>
+    <div class="about-table-row">
+        <div class="about-table-col key">Verhaltensweise</div>    
+        <div class="about-table-col value">{{ $data.behavior}}</div>
     </div>
-</div>
-<div class="about-data-wrapper">
-    <div class="cs-entry">
-        <div class="cs-key">Lebensweise</div>    
-        <div class="cs-value">{{ $data.way_of_life}}</div>
+
+    <div class="about-table-row">
+        <div class="about-table-col key">Geschlechtsmerkmale</div>    
+        <div class="about-table-col value">{{ $data.dimorphism}}</div>
     </div>
-    <div class="cs-entry">
-        <div class="cs-key">Verhaltensweise</div>    
-        <div class="cs-value">{{ $data.behavior}}</div>
+    <div class="about-table-row">
+        <div class="about-table-col key">Anspruch</div>    
+        <div class="about-table-col value">{{ $data.experience}}</div>
     </div>
-</div>
-<div class="about-data-wrapper">
-    <div class="cs-entry">
-        <div class="cs-key">Geschlechtsmerkmale</div>    
-        <div class="cs-value">{{ $data.dimorphism}}</div>
+    <div class="about-table-row">
+        <div class="about-table-col key">Verfügbarkeit</div>    
+        <div class="about-table-col value">{{ $data.availability}}</div>
     </div>
-</div>
-<div class="about-data-wrapper">
-    <div class="cs-entry">
-        <div class="cs-key">Anspruch</div>    
-        <div class="cs-value">{{ $data.experience}}</div>
+
+    <div class="about-table-row">
+        <div class="about-table-col key">Klimazone</div>    
+        <div class="about-table-col value">{{ $data.climate}}</div>
     </div>
-    <div class="cs-entry">
-        <div class="cs-key">Verfügbarkeit</div>    
-        <div class="cs-value">{{ $data.availability}}</div>
+
+    <div class="about-table-row">
+        <div class="about-table-col key">Verbreitung</div>    
+        <div class="about-table-col value">{{ $data.distribution}}</div>
     </div>
+
 </div>
