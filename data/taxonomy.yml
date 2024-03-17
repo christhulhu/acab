@@ -1,0 +1,68 @@
+taxonomy:
+  class: Chilopoda
+  orders: 
+  - name: Scolopendromorpha
+    families: 
+    - family: Cryptopidae
+      subfamilies:
+      - subfamily: Cryptopinae
+        genera:
+        - Cryptops
+        - Paracryptops
+      - subfamily: Plutoniuminae
+        genera:
+        - Plutonium
+        - Theatops
+    - family: Mimopidae
+      genera: 
+      - Mimops
+    - family: Scolopendridae
+      subfamilies:
+      - subfamily: Otostigminae
+        tribes:
+        - tribe: Otostigmini
+          genera: 
+          - Alipes
+          - Alluropus
+          - Digitipes
+          - Edentistoma
+          - Ethmostigmus
+          - Otostigmus
+          - Rhysida
+        - tribe: Sterropristini
+          genera: 
+          - Sterropristes
+      - subfamily: Scolopendrinae
+        genera:
+        - Akymnopellis
+        - Arthrorhabdus
+        - Asanada
+        - Asanadopsis
+        - Campylostigmus
+        - Cormocephalus
+        - Hemiscolopendra
+        - Notiasemus
+        - Procryptops
+        - Psiloscolopendra
+        - Rhoda
+        - Scolopendra
+        - Scolopendropsis
+        - Tonkinodentus
+    - family: Scolopocryptopidae
+      subfamilies:
+      - subfamily: Eectonocryptopinae
+        genera:
+        - Ectonocryptoides
+        - Ectonocryptops
+      - subfamily: Kethopinae
+        genera:
+        - Kethops
+        - Thalkethops
+      - subfamily: Newportiinae
+        genera:
+        - Newportia
+        - Tidops
+      - subfamily: Scolopocryptopinae
+        genera:
+        - Dinocryptops
+        - Scolopocryptops

@@ -1,0 +1,30 @@
+first_description: Girard, 1853
+name: Scolopendra heros
+status: species
+synonyms:
+- first_description: Wood, 1861
+  name: Scolopendra castaneiceps
+- first_description: Wood, 1861
+  name: Scolopendra punctiscuta
+- first_description: Kohlrausch, 1878
+  name: Scolopendra pernix
+- first_description: Cragin, 1885
+  name: Scolopendra prismatica
+- first_description: Kraepelin, 1903
+  name: Scolopendra arizonensis
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+variations:
+- first_description: H. C. Wood, 1861
+  name: Scolopendra heros var. castaneiceps
+- first_description: Kraepelin, 1908
+  name: Scolopendra heros var. arizonensis
+- first_description: Girard, 1853
+  name: Scolopendra heros var. heros
+distribution:
+  america:
+  - "USA (spezifisch: Arkansas-Arizona) bis mindestens Mexiko (spezifisch: Nayarit)"

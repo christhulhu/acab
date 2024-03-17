@@ -1,0 +1,17 @@
+distribution:
+  europe:
+  - Aserbaidschan
+first_description: Muralewicz, 1926
+name: Scolopendra media
+notes:
+- note: Wahrscheinlich Scolopendra canidens.
+  source: Lewis, 2010
+status: Nomen dubium
+status_remark: Lewis, 2010
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

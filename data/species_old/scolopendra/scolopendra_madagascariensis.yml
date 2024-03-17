@@ -1,0 +1,16 @@
+distribution:
+  africa:
+  - Madagaskar
+first_description: Attems, 1910
+name: Scolopendra madagascariensis
+notes:
+- note: Mangelhafte Artenbeschreibung eines einzelnen Exemplars.
+  source: Lewis, 2010
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

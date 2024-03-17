@@ -1,0 +1,19 @@
+distribution:
+  africa:
+  - Namibia
+  asia:
+  - Indien
+first_description: Attems, 1928
+name: Scolopendra lutea
+status: species
+synonyms:
+- first_description: Khanna & Yadav, 1997
+  name: Scolopendra occidentalis
+- first_description: Attems, 1909
+  name: Trachycormocephalus occidentalis
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

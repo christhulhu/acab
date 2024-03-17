@@ -1,0 +1,20 @@
+first_description: Kraepelin, 1903
+name: Scolopendra armata
+status: species
+sub_species:
+- first_description: "B\xFCcherl, 1943"
+  name: Scolopendra armata amancalis
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - Venezuela
+  - nordöstlicher Amazonas
+  - Brasilien
+notes:
+- note: Scolopendra armata hat aktuell zwei anerkannte Unterarten (Bücherl (1939)), die durch Shelley (2006) in ihrer Verbreitung nicht genauer differenziert wurden, sondern alle unter Scolopendra armata zusammengefasst wurden.

@@ -1,0 +1,26 @@
+distribution:
+  africa:
+  - Somalia
+  asia:
+  - Jemen
+first_description: Manfredi, 1933
+name: Scolopendra somala
+notes:
+- note: "Vom Genus Arthrorhabdus in die Gattung Scolopendra durch Lewis (2010) \xFC\
+    berf\xFChrt."
+  source: Lewis, 2010
+- note: "\xC4hnlich zu Scolopendra mirabilis."
+  source: Lewis, 2010
+- note: "\xC4hnlich zu Scolopendra zuluana."
+  source: Lewis, 2010
+status: species
+status_remark: Lewis, 2010
+synonyms:
+- first_description: Manfredi 1933
+  name: Arthrorhabdus somalus
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

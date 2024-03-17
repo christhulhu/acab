@@ -1,0 +1,51 @@
+distribution:
+  asia:
+  - Philippinen
+first_description: Kraepelin, 1903
+name: Scolopendra spinosissima
+status: species
+status_remark: Attems 1930
+synonyms:
+- first_description: Kraepelin, 1903
+  name: Scolopendra subspinipes spinosissima
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+morphology:
+  source: Domonech, 2018
+  antenna:
+    total_segments: 19
+    dorsally_glabrous: 4
+  teeth_on_toothplate: 6+7
+  tergits:
+    first_with_paramedian_sutures: 8
+    first_with_complete_margination: 5
+    surface: smooth
+  ulbs:
+    median_furrow: absent
+    sternite: with depression
+    spines_coxopleural_process: 
+      # AP: apical spine/process
+      # SAP: subapical spine/process.
+      AP: 1
+      SAP: 1
+  sternites:
+    paramedian_sutures: absent
+  prefemora_spines:
+   # LS, lateral spine/process.
+   # V: ventral spine/process.
+   # VM: ventro-median spine/process.
+   # M: median spine/process.
+   # DM: dorso-median spine/process.
+   # SP: spine on prefemoral process/prefemoral corner process
+    V: 3(2-4)
+    VM: 2(1)
+    M: 1(0)
+    DM: 2(1)
+    SP: 1(2)
+  legs:
+    one_tarsal_spur: 1-19
+  gonopods_on_males: absent

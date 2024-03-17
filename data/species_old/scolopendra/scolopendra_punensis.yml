@@ -1,0 +1,16 @@
+distribution:
+  asia:
+  - 'Indien (spezifisch: Maharashtra, Pune Distrikt)'
+first_description: Jangi & Dass, 1984
+name: Scolopendra punensis
+notes:
+- note: Beschrieben auf Basis eines einzelnen Exemplars.
+  source: Lewis, 2010
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

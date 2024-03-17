@@ -1,0 +1,67 @@
+name: Ethmostigmus rubripes
+first_description: Brandt, 1840
+distribution:
+  asia:
+  - Taiwan
+  - Bismarck Archipelago
+  - Kambodscha
+  - "Indonesin (spezifisch: Irian Jaya, Java, Molukken)"
+  - Laos
+  - Myanmar
+  - Papua-Neuguinea
+  - "Malaysia (spezifisch: Malaiische Halbinsel, Sarawak)"
+  - Philippinen
+  - Sri Lanka
+  - Thailand
+  - Vietnam
+  - Tuvalu
+  ozeania:
+  - "Australien (spezifisch: Queensland)"
+status: species
+subspecies:
+- name: Ethmostigmus rubripes platycephalus 
+  first_description: Newport, 1845
+- name: Ethmostigmus rubripes spinosus 
+  first_description: Newport, 1845
+- name: Ethmostigmus rubripes rubripes 
+  first_description: Brandt, 1840
+synonyms: 
+- name: Ethmostigmus australianus 
+  first_description: Chamberlin, 1920
+- name: Heterostoma bisulcatum 
+  first_description: Tömösváry, 1885
+- name: Heterostoma crassipes 
+  first_description: Silvestri, 1894
+- name: Heterostoma fasciata 
+  first_description: Newport, 1845
+- name: Heterostoma flava 
+  first_description: Newport G., 1845
+- name: Scolopendra megacephala 
+  first_description: Newport, 1844
+- name: Scolopendra rapax 
+  first_description: Gervais, 1847
+- name: Scolopendra scabriventris 
+  first_description: Newport, 1844
+- name: Scolopendra spinulosa 
+  first_description: Brandt, 1840
+- name: Scolopendra squalidens 
+  first_description: Newport, 1844
+- name: Scolopendra sulcicornis 
+  first_description: Newport, 1844
+- name: Scolopendra sulcidens 
+  first_description: Newport, 1844
+- name: Heterostoma rubripes grossipes 
+  first_description: Pocock, 1891
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  order: Scolopendromorpha
+  sub_family: Otostigminae
+  genus: Ethmostigmus
+  tribe: Otostigmini
+notes: []
+references:
+  distribution:
+  - "Jiang, Liu, Pan, Chen, Huang, 2022: Molecular and morphological description of four new Ethmostigmus Pocock, 1898 (Chilopoda, Scolopendromorpha, Scolopendridae) species from China, with a key to Chinese species"
+  - https://chilobase.biologia.unipd.it/searches/result_species/101
+  species:

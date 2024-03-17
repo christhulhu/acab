@@ -1,0 +1,20 @@
+name: Ethmostigmus curtipes
+first_description: L. E. Koch, 1983
+distribution:
+  ozeania:
+  - "Australien"
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  order: Scolopendromorpha
+  sub_family: Otostigminae
+  genus: Ethmostigmus
+  tribe: Otostigmini
+notes: []
+references:
+  distribution:
+  - "Jiang, Liu, Pan, Chen, Huang, 2022: Molecular and morphological description of four new Ethmostigmus Pocock, 1898 (Chilopoda, Scolopendromorpha, Scolopendridae) species from China, with a key to Chinese species"
+  - https://chilobase.biologia.unipd.it/searches/result_species/707
+  species:

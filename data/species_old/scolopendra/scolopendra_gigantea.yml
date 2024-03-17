@@ -1,0 +1,31 @@
+first_description: L., 1758
+name: Scolopendra gigantea
+notes:
+- note: Obschon Yadav (1997) auch von Funden von Scolopendra gigantea in Indien berichtete,
+    sind diese Berichte zweifelhaft.
+  source: Lewis, 2010
+status: species
+synonyms:
+- first_description: Leach, 1815
+  name: Scolopendra gigas
+- first_description: Gervais, 1844
+  name: Scolopendra insignis
+- first_description: Wood, 1861
+  name: Scolopendra prasinipes
+- first_description: Wood, 1861
+  name: Scolopendra epileptica
+- first_description: Lucas, 1884
+  name: Scolopendra annulipes
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - karibische Küste von Nord-Südamerika von Cordoba, Kolumbien bis Surinam
+  - Trinidad
+  - Aruba
+  - Curaçao und die Insel Margarita
+  - Venezuela

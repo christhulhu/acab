@@ -1,0 +1,18 @@
+first_description: Wood, 1862
+name: Scolopendra longipes
+notes:
+- note: "Scolopendra longipes war von 1903 bis 2016 Synonym f\xFCr Scolopendra alternans."
+  source: Mercurio, 2016
+status: species
+status_remark: Mercurio, 2016
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - "USA (spezifisch: Dry Tortugas, Florida Keys, südliches Florida, Monroe County, Dade County und Collier County)"
+  - Bahamas

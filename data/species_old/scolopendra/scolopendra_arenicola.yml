@@ -1,0 +1,18 @@
+distribution:
+  africa:
+  - Namibia
+first_description: Lawrence, 1975
+name: Scolopendra arenicola
+notes:
+- note: "Geh\xF6rt eventuell der Art Scolopendra monticola an und ist nahe verwandt\
+    \ zu Scolopendra lutea\""
+  source: Lewis, 2010
+status: species
+status_remark: Lewis et al. 2006
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

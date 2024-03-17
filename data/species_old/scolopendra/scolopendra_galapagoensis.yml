@@ -1,0 +1,19 @@
+first_description: Bollman, 1889
+name: Scolopendra galapagoensis
+status: species
+synonyms:
+- first_description: "B\xFCcherl, 1950"
+  name: Scolopendra gigantea weyrauchi
+- first_description: Chamberlin, 1955
+  name: Hemiscolopendra galapagosa
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - "Costa Rica (spezifisch: Cocos Island)"
+  - Ecuador (einschließlich Galápagos-Inseln und das Festland in der Region Guayas)
+  - Peru

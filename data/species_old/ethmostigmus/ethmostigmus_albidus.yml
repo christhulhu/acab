@@ -1,0 +1,19 @@
+name: Ethmostigmus albidus
+first_description: Tömösváry, 1885
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  order: Scolopendromorpha
+  sub_family: Otostigminae
+  genus: Ethmostigmus
+  tribe: Otostigmini
+notes:
+- note: Laut Attems (1930) nur unzureichend beschriebene Art.
+distribution:
+  asia:
+  - Singapur 
+references:
+  distribution:
+  - https://chilobase.biologia.unipd.it/searches/result_species/1228

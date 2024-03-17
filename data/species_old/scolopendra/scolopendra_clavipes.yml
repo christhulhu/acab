@@ -1,0 +1,16 @@
+distribution:
+  asia:
+  - "T\xFCrkei (s\xFCdwesten)"
+  - Libanon1
+first_description: C. L. Koch, 1847
+name: Scolopendra clavipes
+status: species
+synonyms:
+- first_description: Verhoeff, 1941
+  name: Scolopendra clavipes kosswigi
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

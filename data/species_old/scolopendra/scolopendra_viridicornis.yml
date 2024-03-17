@@ -1,0 +1,31 @@
+first_description: Newport, 1844
+name: Scolopendra viridicornis
+status: species
+sub_species:
+- first_description: "B\xFCcherl, 1939"
+  name: Scolopendra viridicornis nigra
+synonyms:
+- first_description: Newport, 1844
+  name: Scolopendra punctidens
+- first_description: Newport, 1844
+  name: Scolopendra variegatus
+- first_description: C. L. Koch, 1847
+  name: Scolopendra herculeana
+- first_description: Porat, 1876
+  name: Scolopendra cristata
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - Guyana
+  - Surinam
+  - Venezuela
+  - "Kolumbien (spezifisch: Medellin)"
+  - "Brasilien (Städte und Bundesstaaten: São Paulo, Mato Grosso, Guanabara, Rio de Janeiro, Espirito Santo, Bahia, Maranhão, Sergipe, Ceara, Amazonas, Paraná, Santa Catarina, Pará, Rio Grande do Sul, Minas Gerais, Pernambuco, Alagoas, Rondônia)"
+  - "Paraguay (spezifisch: Asunción, Capiata)"
+  - Bolivien
+  - "Argentinien (Orte und Provinzen: Palmar, Buenos Aires, Córdoba, Jujuy, Salta, San Juan, San Luis, Santa Cruz, Santiago del Estero)"

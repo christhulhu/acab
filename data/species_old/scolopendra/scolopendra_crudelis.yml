@@ -1,0 +1,13 @@
+first_description: C. L. Koch, 1847
+name: Scolopendra crudelis
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - "St. Barthélemy"

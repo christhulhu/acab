@@ -1,0 +1,186 @@
+distribution:
+  africa:
+  - "\xC4gypten"
+  asia:
+  - "T\xFCrkei"
+  - Zypern
+  - Tadschikistan
+  - Libanon
+  - "Pal\xE4stina"
+  - Israel
+  - Jordanien
+  - Syrien
+  - Irak
+  - Iran
+  europe:
+  - Portugal
+  - Spanien
+  - Frankreich (Festland und Insel Korsika)
+  - Slowenien
+  - Kroatien
+  - Bosnien-Herzegowina
+  - Serbien
+  - Montenegro
+  - Ehemalige jugoslawische Republik Mazedonien
+  - Ungarn
+  - "Rum\xE4nien"
+  - Bulgarien
+  - Albanien
+  - Griechenland (Festland und Insel Kreta)
+  - "T\xFCrkei"
+  - Italien (Festland und Inseln Sizilien, Sardinien)
+  - Zypern
+  - "S\xFCdrussland (Kaukasus)"
+  - Krim
+  - "\xD6sterreich"
+first_description: Latreille, 1829
+name: Scolopendra cingulata
+status: species
+synonyms:
+- first_description: C.L. Koch, 1847
+  name: Scolopendra banatica
+- first_description: Newport, 1844
+  name: Scolopendra cingulatoides
+- first_description: Pirotta, 1878
+  name: Scolopendra doriae
+- first_description: Gervais, 1847
+  name: Scolopendra fulva
+- first_description: C.L. Koch, 1847
+  name: Scolopendra graeca
+- first_description: Newport, 1845
+  name: Scolopendra hispanica
+- first_description: C.L. Koch, 1837
+  name: Scolopendra italica
+- first_description: C.L. Koch, 1847
+  name: Scolopendra nigrifrons
+- first_description: C.L. Koch, 1863
+  name: Scolopendra obscura
+- first_description: Newport, 1845
+  name: Rhombocephalus parvus
+- first_description: C.L. Koch, 1847
+  name: Scolopendra penetrans
+- first_description: C.L. Koch, 1847
+  name: Scolopendra pulchra
+- first_description: Newport, 1845
+  name: Scolopendra savignyi
+- first_description: Koch, 1856
+  name: Scolopendra venefica L.
+- first_description: Pirotta, 1878
+  name: Scolopendra violantis
+- first_description: Newport, 1844
+  name: Scolopendra viridifrons
+- first_description: C.L. Koch, 1847
+  name: Scolopendra zonata
+- first_description: C.L. Koch, 1863
+  name: Scolopendra zwickiana
+- first_description: Verhoeff, 1901
+  name: Scolopendra cingulata caeruleolimbata
+- first_description: Verhoeff, 1901
+  name: "Scolopendra cingulata kr\xFCperi"
+- first_description: Verhoeff, 1928
+  name: Scolopendra cingulata thracia
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+variations:
+- first_description: Porat, 1893
+  name: Scolopendra cingulata var. obscuripes
+publications:
+- title: Review of the subspecies of Scolopendra subspinipes Leach, 1815 with the new description of the South Chinese member of the genus Scolopendra Linnaeus, 1758 named Scolopendra hainanum spec. nov.
+  author: Kronmüller
+  year: 2012
+  download: https://www.researchgate.net/publication/259752848_Review_of_the_subspecies_of_Scolopendra_subspinipes_Leach_1815_with_the_new_description_of_the_South_Chinese_member_of_the_genus_Scolopendra_Linnaeus_1758_named_Scolopendra_hainanum_spec_nov_Myriapoda
+  doi: 
+  description: Begründung für die Umbenennung von Scolopendra subspinipes cingulatoides in Scolopendra dawydoffi
+- title: First record of two Scolopendromorph centipedes; Scolopendra subspinipes Leach, (1815) and Scolopendra polymorpha Wood, (1861) with additional notes on Scolopendra cingulata Latreille, (1829) in Iraq
+  author: Ahmed
+  year: 2017
+  download: https://www.researchgate.net/publication/312490740_First_record_of_two_Scolopendromorph_centipedes_Scolopendra_subspinipes_Leach_1815_and_Scolopendra_polymorpha_Wood_1861_with_additional_notes_on_Scolopendra_cingulata_Latreille_1829_in_Iraq
+  description: Beleg für Scolopendra cingulata in Irak.
+- title: The Evolutionary History of the Rediscovered Austrian Population of the Giant Centipede Scolopendra cingulata Latreille 1829 (Chilopoda, Scolopendromorpha)
+  author: Oeyen
+  year: 2014
+  download: https://www.researchgate.net/publication/266085751_The_Evolutionary_History_of_the_Rediscovered_Austrian_Population_of_the_Giant_Centipede_Scolopendra_cingulata_Latreille_1829_Chilopoda_Scolopendromorpha
+  description: Beleg für Scolopendra cingulata in Österreich.
+- title: "Rote Liste und Gesamtartenliste der Hundertfüßer (Myriapoda: Chilopoda) Deutschlands, 1. Fassung, Stand Juli 2014"
+  author: Decker et al.
+  year: 2016
+  description: Anmerkungen zu Scolopendra cingulata in Deutschland.
+  download: https://www.researchgate.net/profile/Hans-Reip/publication/322156351_Rote_Liste_und_Gesamtartenliste_der_Hundertfusser_Myriapoda_Chilopoda_Deutschlands/links/5a48ecef458515f6b0582104/Rote-Liste-und-Gesamtartenliste-der-Hundertfuesser-Myriapoda-Chilopoda-Deutschlands.pdf
+- title: "A rare case of saurophagy by Scolopendra cingulata (Chilopoda: Scolopendridae) in the central Aegean Archipelago: A role for insularity?" 
+  author: Deimezis-Tsikoutas et al.
+  year: 2020
+  description: Saurophagie durch Scolopendra cingulata.
+  download: https://www.researchgate.net/publication/343135032_A_rare_case_of_saurophagy_by_Scolopendra_cingulata_Chilopoda_Scolopendridae_in_the_central_Aegean_Archipelago_A_role_for_insularity
+- title: "First observation of filial cannibalism in Scolopendra cingulata Latreille, 1829 (Chilopoda: Scolopendromorpha: Scolopendridae)"
+  author: Cabanillas et al.
+  year: 2019
+  download: https://www.researchgate.net/publication/333402249_First_observation_of_filial_cannibalism_in_Scolopendra_cingulata_Latreille_1829_Chilopoda_Scolopendromorpha_Scolopendridae
+- title: "Two fangs good, a hundred legs better: Juvenile viper devoured by an adult centipede it had ingested"
+  author: Arsovski et al.
+  year: 2014
+  download: https://www.researchgate.net/publication/260478571_Two_fangs_good_a_hundred_legs_better_Juvenile_viper_devoured_by_an_adult_centipede_it_had_ingested
+  description: Beschreibung von Scolopendra cingulata, der sich aus dem Inneren einer Viper herausfrisst.
+- title: "First record of Scolopendra cingulata Latreille 1829 (Chilopoda: Scolopendromorpha: Scolopendridae) in NW Italy and biotope characterization"
+  author: Anselmo, Selvaggi
+  year: 2022
+  download: https://sisn.pagepress.org/index.php/nhs/article/view/589#:~:text=An%20isolated%20population%20of%20Scolopendra,cingulata%20population.
+  description: Beleg für Scolopendra cingulata in nord-west Italien.
+- title: First record of Scolopendra cingulata Latreille, 1829 (Chilopoda, Scolopendromorpha, Scolopendridae) in the Balearic Islands (Spain)
+  author: Cabanillas et. al.
+  year: 2020
+  download: https://www.researchgate.net/publication/339687881_First_record_of_Scolopendra_cingulata_Latreille_1829_Chilopoda_Scolopendromorpha_Scolopendridae_in_the_Balearic_Islands_Spain
+  description: Beleg für Scolopendra cingulata auf den Balearen.
+- title: "Morphometric and meristic diversity of the species Scolopendra cingulata Latreille, 1829 (Chilopoda: Scolopendridae) in the Mediterranean region"
+  author: Simaiakisa, Giokasb, Korsósc 
+  year: 2010
+  download: https://www.sciencedirect.com/science/article/abs/pii/S0044523110000732?via%3Dihub
+  doi: https://doi.org/10.1016/j.jcz.2010.11.006
+- title: Seasonal patterns of activity of Scolopendra cretica and S. cingulata (Chilopoda, Scolopendromorpha) in East Mediterranean maquis ecosystems
+  author: Kaltsas, Simaiakis 
+  year: 2012
+  download: https://ijm.pensoft.net/articles.php?id=1921
+  doi: https://doi.org/10.3897/ijm.7.2133
+morphology:
+  source: Attems, 1930
+  body_length: 80mm - 170mm
+  antenna:
+    total_segments: 17-22
+    dorsally_glabrous: 6
+  teeth_on_toothplate: 4+4 (5+5)
+  tergits:
+    ringfurrow: absent
+    first_with_paramedian_sutures: 2-3
+    first_with_complete_margination: 5-7
+    surface: n/a
+  ulbs:
+    median_furrow: absent
+    form: rear flat-arched extended
+    sternite: n/a
+    spines_coxopleural_process: 
+      form: short conical
+      # AP: apical spine/process
+      # SAP: subapical spine/process.
+      AP: 3 (rarely 1-5)
+  sternites:
+    paramedian_sutures: complete
+  terminal_legs:
+    form: Short and stout, prefemur 1.5-2 times as long as wide. Dorsally somewhat flattened, with an articulation pit at the end.
+  prefemora_spines:
+   # LS, lateral spine/process.
+   # V: ventral spine/process.
+   # VL: ventro-lateral
+   # VM: ventro-median spine/process.
+   # M: median spine/process.
+   # DM: dorso-median spine/process.
+   # SP: spine on prefemoral process/prefemoral corner process
+    VL:  2 (rarely 1 or 3 or 4)
+    DM: 4 in 2 Rows
+    process: 
+      spines: 4 or 5 (rarely 2,3 or 6-11)
+  legs:
+    one_tarsal_spur: n/a
+  gonopods_on_males: n/a

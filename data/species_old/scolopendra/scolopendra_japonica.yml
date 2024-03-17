@@ -1,0 +1,20 @@
+distribution:
+  asia:
+  - Japan
+  - Taiwan
+first_description: Koch, 1878
+name: Scolopendra japonica
+notes:
+- note: Bis 2012 was Scolopendra japonica bekannt als Scolopendra subspinipes japonica.
+  source: "Kronm\xFCller, 2012"
+status: species
+status_remark: "Kronm\xFCller, 2012"
+synonyms:
+- first_description: Koch, 1878
+  name: Scolopendra subspinipes japonica
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

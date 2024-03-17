@@ -1,0 +1,57 @@
+distribution:
+  africa:
+  - Marokko
+  - Algerien
+  - Tunesien
+  - Libyen
+  - "\xC4gypten"
+  asia:
+  - "T\xFCrkei (S\xFCdost)"
+  - Syrien
+  - "Pal\xE4stina"
+  - Israel
+  - Jordanien
+  - Irak
+  - Iran
+  - Saudi-Arabien
+  - Jemen
+  - Armenien
+  - Aserbaidschan
+  - Turkmenistan
+  - Usbekistan
+  - Tadschikistan
+  - Afghanistan
+  europe:
+  - 'Italien (spezifisch: Nur auf der Insel Lampedusa)'
+  - Armenien
+  - Aserbaidschan
+first_description: Newport, 1844
+name: Scolopendra canidens
+notes:
+- note: "M\xE4nnliche Scolopendra canidens und Scolopendra cretica sind nicht voneinander\
+    \ zu unterscheiden."
+  source: Lewis, 2010
+status: species
+synonyms:
+- first_description: Newport, 1844
+  name: Scolopendra affinis
+- first_description: Kessler, 1876
+  name: Scolopendra aralocaspia
+- first_description: Verhoeff, 1908
+  name: Scolopendra cyrenaica
+- first_description: Pirotta, 1878
+  name: Scolopendra lopadusae
+- first_description: Newport, 1844
+  name: Scolopendra spinigera
+- first_description: Attems, 1902
+  name: Scolopendra oraniensis africana
+- first_description: Verhoeff, 1891
+  name: Scolopendra dalmatica africana
+- first_description: Brolemann, 1930
+  name: Scolopendra canidens puncticornis
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

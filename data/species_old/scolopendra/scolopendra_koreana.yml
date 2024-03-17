@@ -1,0 +1,17 @@
+distribution:
+  asia:
+  - Korea
+  - 'China (spezifisch: Manchuria)'
+first_description: Verhoeff , 1934
+name: Scolopendra koreana
+status: species
+status_remark: Lewis et al. 2006
+synonyms:
+- first_description: Kraepelin, 1903
+  name: Trachycormocephalus koreana
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

@@ -1,0 +1,49 @@
+distribution:
+  africa:
+  - "\xC4gypten"
+  - Sudan
+  - Somalia
+  - Eritrea
+  - "\xC4thiopien"
+  - "Tansania (einschlie\xDFlich Sansibar)"
+  asia:
+  - Israel
+  - "Pal\xE4stina"
+  - Jordanien
+  - Saudi-Arabien
+  - Kuwait
+  - Vereinigte Arabische Emirate (VAE)
+  - Oman
+  - Jemen
+  - Irak
+  - Iran
+  - Turkmenistan
+  - Tadschikistan
+  - Usbekistan
+  - Afghanistan
+  - Indien
+  - Vietnam
+first_description: Porat, 1876
+name: Scolopendra mirabilis
+status: species
+synonyms:
+- first_description: Khanna & Yadav, 1997
+  name: Scolopendra nudus
+- first_description: Kohlrausch, 1878
+  name: Cormocephalus acanthophorus
+- first_description: Khanna, 1977
+  name: Trachycormocephalus hayati
+- first_description: Attems, 1928
+  name: Trachycormocephalus pardus
+- first_description: Silvestri, 1895
+  name: Cormocephalus spinosissimus
+- first_description: Pocock, 1889
+  name: Scolopendra truncaticeps
+- first_description: Turk, 1951
+  name: Trachycormocephalus occidentalis iraqensis
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

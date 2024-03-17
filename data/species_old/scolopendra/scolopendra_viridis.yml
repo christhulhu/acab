@@ -1,0 +1,43 @@
+first_description: Say, 1821
+name: Scolopendra viridis
+status: species
+sub_species:
+- first_description: Verhoeff, 1934
+  name: Scolopendra viridis genuina
+- first_description: Verhoeff, 1934
+  name: Scolopendra viridis lagunensis
+- first_description: Verhoeff, 1934
+  name: "Scolopendra viridis stork\xE1ni"
+- first_description: Saussure, 1860
+  name: Scolopendra viridis tolteca
+- first_description: Saussure, 1860
+  name: Scolopendra viridis maya
+synonyms:
+- first_description: Saussure, 1860
+  name: Scolopendra azteca
+- first_description: Saussure, 1860
+  name: Scolopendra otomita
+- first_description: Bollman, 1889
+  name: Scolopendra microcanthus
+- first_description: Pocock, 1891
+  name: Scolopendra cuivis
+- first_description: Bollman, 1893
+  name: Scolopendra nicaraguensis
+- first_description: Pocock, 1895
+  name: Scolopendra tenuitarsis
+- first_description: Chamberlin, 1925
+  name: Scolopendra utahana
+- first_description: Bollman, 1893
+  name: Scolopendra sanatillae
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - "USA (spezifisch: Ein Bereich der sich von Südost-North Carolina bis Süd-Nevada erstreckt)"
+  - Mexiko
+  - Länder in Zentralamerika die sich bis Zentral-Panama erstrecken (dazu gehören beispielsweise Guatemala, Honduras, El Salvador, Nicaragua und Costa Rica)
+  - "Panama (spezifisch: Ehemalige Kanalzone und die Perleninseln)"

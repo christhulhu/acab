@@ -1,0 +1,35 @@
+first_description: Wood, 1861
+name: Scolopendra polymorpha
+status: species
+synonyms:
+- first_description: Wood, 1862
+  name: Scolopendra copeiana
+- first_description: Humbert & Saussure, 1869
+  name: Scolopendra mysteca
+- first_description: Humbert & Saussure, 1870
+  name: Scolopendra californica
+- first_description: Kohlrausch, 1878
+  name: Scolopendra pachypus
+- first_description: Kohlrausch, 1878
+  name: Scolopendra leptodera
+- first_description: Daday, 1891
+  name: Scolopendra viridilimbata
+- first_description: Pocock, 1895
+  name: Scolopendra gaumeri
+- first_description: Chamberlin, 1912
+  name: Scolopendra mohavea
+- first_description: Chamberlin, 1915
+  name: Scolopendra pueblae
+- first_description: Verhoeff, 1938
+  name: Scolopendra michelbacheri
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
+distribution:
+  america:
+  - "USA (spezifisch: Washington, Idaho, Montana, South Dakota)"
+  - "Mexiko (spezifisch: Guerrero)"
+  - Möglicherweise Belize, Hawaii (eingeführt)

@@ -1,0 +1,16 @@
+distribution:
+  asia:
+  - 'Inden (spezifisch: Pune, Maharashtra)'
+first_description: Khanna & Yadav, 1997
+name: Scolopendra jangii
+notes:
+- note: Nahe verwandt mit oder sogar Scolopendra morsitans.
+  source: Lewis, 2010
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae

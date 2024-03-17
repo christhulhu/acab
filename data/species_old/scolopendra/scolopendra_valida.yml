@@ -1,0 +1,42 @@
+distribution:
+  africa:
+  - Kamerun
+  - Sudan
+  - Eritrea
+  - "\xC4thiopien"
+  - Somalia
+  asia:
+  - Saudi-Arabien
+  - Vereinigte Arabische Emirate (VAE)
+  - Oman
+  - "Jemen (einschlie\xDFlich Socotra und Abd al Kuri)"
+  - Iran
+  - Indien
+first_description: Lucas, 1840
+name: Scolopendra valida
+notes:
+- note: "Obwohl die meisten Unterarten von Scolopendra valida mittlerweile mit der\
+    \ Art synonymisiert wurden, erkennt Lewis (2010) Scolopendra valida balfouri als\
+    \ g\xFCltige Unterart an."
+  source: Lewis, 2010
+status: species
+sub_species:
+- first_description: Pocock, 1896
+  name: Scolopendra valida balfouri
+synonyms:
+- first_description: Lucas, 1840
+  name: Scolopendra angusta
+- first_description: Karsch, 1884
+  name: Collaria morsitans
+- first_description: Pocock, 1896
+  name: Scolopendra valida deserticola
+- first_description: Pocock, 1896
+  name: Scolopendra valida persica
+- first_description: Attems, 1902
+  name: Scolopendra valida simonyi
+taxonomy:
+  class: Chilopoda
+  family: Scolopendridae
+  genus: Scolopendra
+  order: Scolopendromorpha
+  sub_family: Scolopendrinae
