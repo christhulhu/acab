@@ -1,0 +1,107 @@
+@startwbs
+
+*[#fb4934]:Unterstamm
+<b>Myriapoda</b>
+(Tausendfüßer);
+
+**[#d3869b]:Klasse
+<b>Pauropoda</b>
+(Wenigfüßer);
+**[#d3869b]:Klasse
+<b>Symphyla</b>
+(Zwergfüßer);
+**[#d3869b]:Klasse
+<b>Diplopoda</b>
+(Doppelfüßer);
+
+**[#d3869b]:Klasse
+<b>Chilopoda</b>
+(Hundertfüßer);
+
+***[#b8bb26]:Ordnung
+<b>Scutigeromorpha</b>
+(Spinnenläufer);
+***[#b8bb26]:Ordnung
+<b>Lithobiomorpha</b>
+(Steinläufer);
+***[#b8bb26]:Ordnung
+<b>Craterostigmomorpha</b>;
+***[#b8bb26]:Ordnung
+<b>Geophilomorpha</b>
+(Erdläufer);
+
+***[#b8bb26]:Ordnung
+<b>Scolopendromorpha</b>
+(Riesenläufer);
+
+****[#fabd2f]:Familie
+<b>Cryptopidae</b>;
+*****[#83a598]:Unterfamilie
+<b>Cryptopinae</b>;
+******_ Gattung <b>Cryptops</b>
+******_ Gattung <b>Paracryptops</b>
+*****[#83a598]:Unterfamilie
+<b>Plutoniuminae</b>;
+******_ Gattung <b>Plutonium</b>
+******_ Gattung <b>Theatops</b>
+
+****[#fabd2f]:Familie 
+<b>Mimopidae</b>;
+*****_ Gattung <b>Mimpos</b>
+
+****[#fabd2f]:Familie
+<b>Scolopendridae</b>;
+*****[#83a598]:Unterfamilie
+<b>Otostigminae</b>;
+******[#a89984]:Stamm
+<b>Otostigmini</b>;
+*******_ Gattung <b>Alipes</b>
+*******_ Gattung <b>Alluropus</b>
+*******_ Gattung <b>Digitipes</b>
+*******_ Gattung <b>Edentistoma</b>
+*******_ Gattung <b>Ethmostigmus</b>
+*******_ Gattung <b>Otostigmus</b>
+*******_ Gattung <b>Rhysida</b>
+******[#a89984]:Stamm
+<b>Sterropristini</b>;
+*******_ Gattung <b>Sterropristes</b>
+*****[#83a598]:Unterfamilie
+<b>Scolopendrinae</b>;
+******_ Gattung <b>Akymnopellis</b>
+******_ Gattung <b>Arthrorhabdus</b>
+******_ Gattung <b>Asanada</b>
+******_ Gattung <b>Asanadopsis</b>
+******_ Gattung <b>Campylostigmus</b>
+******_ Gattung <b>Cormocephalus</b>
+******_ Gattung <b>Hemiscolopendra</b>
+******_ Gattung <b>Notiasemus</b>
+******_ Gattung <b>Procryptops</b>
+******_ Gattung <b>Psiloscolopendra</b>
+******_ Gattung <b>Rhoda</b>
+******_ Gattung <b>Scolopendra</b>
+******_ Gattung <b>Scolopendropsis</b>
+******_ Gattung <b>Tonkinodentus</b>
+
+****[#fabd2f]:Familie 
+<b>Scolopocryptopidae</b>;
+*****[#83a598]:Unterfamilie
+<b>Eectonocryptopinae</b>;
+******_ Gattung <b>Ectonocryptoides</b>
+******_ Gattung <b>Ectonocryptops</b>
+
+*****[#83a598]:Unterfamilie
+<b>Kethopinae</b>;
+******_ Gattung <b>Kethops</b>
+******_ Gattung <b>Thalkethops</b>
+
+*****[#83a598]:Unterfamilie
+<b>Newportiinae</b>;
+******_ Gattung <b>Newportia</b>
+******_ Gattung <b>Tidops</b>
+
+*****[#83a598]:Unterfamilie
+<b>Scolopocryptopinae</b>;
+******_ Gattung <b>Dinocryptops</b>
+******_ Gattung <b>Scolopocryptops</b>
+
+@endwbs
