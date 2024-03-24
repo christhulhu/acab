@@ -22,9 +22,9 @@ Wissenschaftliche Namen in der Biologie sind nicht ausschließlich lateinisch, o
   src="images/taxonomie_myriapoda.png"
   link="images/taxonomie_myriapoda.png"
 >}}
-**Chilopoda** (Hundertfüßer) sind neben Pauropoda (Wenigfüßer), Symphyla (Zwergfüßer) und Diplopoda (Doppelfüßer) eine Klasse der **Myriapoda** (Vielfüßer).
+**Chilopoda** (Hundertfüßer) sind neben **Pauropoda** (Wenigfüßer), **Symphyla** (Zwergfüßer) und **Diplopoda** (Doppelfüßer) eine Klasse der **Myriapoda** (Vielfüßer).
 
-In der deutschen Sprache bietet das leider sehr viel Verwirrungspotential. Der wissenschaftliche Begriff Myriapoda wird allgemein mit _Tausendfüßer_ übersetzt. So hat man unter den _Tausendfüßer_ die eigentlichen Tausendfüßer (Diplopoda) aber auch die Hundertfüßer (Chilopoda). Dass man unter den _Tausendfüßern_ noch die Wenigfüßer (Pauropoda) einordnet, macht die Verwirrung vollständig...
+In der deutschen Sprache bietet das leider sehr viel Verwirrungspotential. Der wissenschaftliche Begriff **Myriapoda** wird allgemein mit _Tausendfüßer_ übersetzt. So hat man unter den _Tausendfüßer_ die eigentlichen Tausendfüßer (**Diplopoda**) aber auch die Hundertfüßer (**Chilopoda**). Dass man unter den _Tausendfüßern_ noch die Wenigfüßer (**Pauropoda**) einordnet, macht die Verwirrung vollständig...
 
 {{<clearfix>}}
 
@@ -34,7 +34,7 @@ In der deutschen Sprache bietet das leider sehr viel Verwirrungspotential. Der w
   src="images/taxonomie_chilopoda.png"
   link="images/taxonomie_chilopoda.png"
 >}}
-Hundertfüßer ist nicht gleich Hundertfüßer. Die Klasse hat insgesamt fünf Ordnungen, die sich in der morphologie deutlich voneinander unterscheiden. Dabei kennt man vielleicht Vertreter der Ordnungen Lithobiomorpha und Geophilomorpha aus dem Wald oder eigenen Garten, wo diese Tiere unter Steinen oder im Erdreich leben.
+Hundertfüßer ist nicht gleich Hundertfüßer. Die Klasse hat insgesamt fünf Ordnungen, die sich in der Morphologie deutlich voneinander unterscheiden. Dabei kennt man vielleicht Vertreter der Ordnungen **Lithobiomorpha** und **Geophilomorpha** aus dem Wald oder eigenen Garten, wo diese Tiere unter Steinen oder im Erdreich leben.
 
 Die fünf Ordnungen der Chilopoda:
 
@@ -44,7 +44,7 @@ Die fünf Ordnungen der Chilopoda:
 - **Geophilomorpha** (Erdläufer)
 - **Scolopendromorpha** (Riesenläufer)
 
-Derweil findet man in ganz Deutschland viele Arten der Lithobiomorpha und Geophilomorpha in Garten und Wald, während man Tiere aus den Ordnungen Scutigeromorpha und auch Scolopendromorpha nur in einzelnen Regionen nachweisen kann. Wer sich mehr für die einheimischen Hundertfüßer interessiert, bekommt auf der Webseite [bodentierhochvier.de](https://bodentierhochvier.de/) weitere Informationen.
+Derweil findet man in ganz Deutschland viele Arten der **Lithobiomorpha** und **Geophilomorpha** in Garten und Wald, während man Tiere aus den Ordnungen **Scutigeromorpha** und auch **Scolopendromorpha** nur in einzelnen Regionen nachweisen kann. Wer sich mehr für die einheimischen Hundertfüßer interessiert, bekommt auf der Webseite [bodentierhochvier.de](https://bodentierhochvier.de/) weitere Informationen.
 
 ## Die Ordnung Scolopendromorpha
 
@@ -57,7 +57,7 @@ Derweil findet man in ganz Deutschland viele Arten der Lithobiomorpha und Geophi
   link="images/taxonomie_scolopendromorpha_families.png"
 >}}
 
-Der Name Skolopender eher ein Sammelbegriff für Riesenläufer im Allgemeinen und bezieht sich nicht ausschließlich auf die Gattung Scolopendra; vielmehr versteht man darunter Tiere der Ordnung Scolopendromporpha.
+Der Name Skolopender eher ein Sammelbegriff für Riesenläufer im Allgemeinen und bezieht sich nicht ausschließlich auf die Gattung **Scolopendra**; vielmehr versteht man darunter Tiere der Ordnung **Scolopendromporpha**.
 
 Die Arten dieser Ordnung sind vielgestaltig. Die kleinsten Arten messen gerade mal 10mm, derweil die größten deutlich über 30cm werden können. Meist haben Scolopendromorpha 4 Ocelli (Augen) auf jeder Seite. Es gibt aber auch Familien, die keine Ocelli besitzen und die kleinste Familie **Mimopidae** mit der Gattung **Mimpos**, die lediglich ein Auge auf jeder Seite haben.
 
