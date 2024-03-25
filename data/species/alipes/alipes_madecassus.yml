@@ -1,0 +1,16 @@
+name: Alipes madecassus
+first_description: Saussure & Zehntner, 1902
+distribution:
+  africa:
+  - Madagaskar
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+  
+notes: []

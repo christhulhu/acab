@@ -1,0 +1,16 @@
+name: Alipes calcipes 
+first_description: Cook, 1897
+distribution:
+  africa:
+  - Angola
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+  
+notes: []

@@ -1,10 +1,10 @@
 ---
-title: Alipes appendiculatus
-description: Species Alipes appendiculatus
+title: Alipes madecassus
+description: Species Alipes madecassus
 bookHidden: true
 type: page
 layout: taxonomy_species
-datafile: alipes_appendiculatus
+datafile: alipes_madecassus
 genus: Alipes
 ---
 
