@@ -31,14 +31,21 @@
     {{.name}} ({{.first_description}})<br/>
     {{end}}
   {{end}}
-
-  {{with $data.distribution}}
+  
+  <section class="distribution">
     <h2>Verbreitung</h2>
-    {{range $key, $value := . }}
-    <strong>{{index $distribution $key}}</strong>: {{delimit (sort $value) ", "}}<br/>
-    <br/>
+    {{with $data.distribution}}
+      <h2>Verbreitung</h2>
+      {{range $key, $value := . }}
+      <strong>{{index $distribution $key}}</strong>: {{delimit (sort $value) ", "}}<br/>
+      <br/>
+      {{end}}
     {{end}}
-  {{end}}
+
+    {{with .Page.Resources.Get "distribution.md"}}
+        {{ .Content }}
+    {{end}}
+  </section>
 
   {{with .Page.Resources.Get "appearance.md"}}
   <section class="appearance">

@@ -6,8 +6,12 @@ distribution:
   - Guinea
   - Sierra Leone
   - Kamerun
+  - Tansania
+  - Uganda
 status: species
-synonyms: []
+synonyms:
+- first_description: Chamberlin, 1927
+  name: Alipes congoensis
 taxonomy:
   class: Chilopoda
   order: Scolopendromorpha
