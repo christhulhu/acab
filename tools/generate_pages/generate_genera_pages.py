@@ -44,4 +44,4 @@ def create_md_files(src_file, dest_folder):
                         
 
 # Verwendung
-create_md_files('../../data/taxonomy.yml', '../../content/skolopender/taxonomy/genus/')
+create_md_files('../../data/taxonomy.yml', '../../content/skolopender/taxonomie/scolopendromorpha/')

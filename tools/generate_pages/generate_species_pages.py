@@ -28,4 +28,4 @@ def create_md_files(src_folder, dest_folder):
                         
 
 # Verwendung
-create_md_files('../../data/species/', '../../content/skolopender/taxonomie/genus/')
+create_md_files('../../data/species/', '../../content/skolopender/taxonomie/scolopendromorpha/')
