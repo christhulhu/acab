@@ -1,0 +1,19 @@
+name: Alipes grandidieri
+first_description: Lucas, 1864
+distribution:
+  africa:
+  - Kenia
+  - Tansania
+  - Uganda
+
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+  
+notes: []

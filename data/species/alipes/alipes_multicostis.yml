@@ -1,0 +1,19 @@
+name: Alipes multicostis
+first_description: Imhoff, 1854
+distribution:
+  africa:
+  - Ghana
+  - Guinea
+  - Sierra Leone
+  - Kamerun
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+  
+notes: []

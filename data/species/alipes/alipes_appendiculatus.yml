@@ -1,0 +1,19 @@
+
+name: Alipes appendiculatus
+first_description: Pocock, 1896
+distribution:
+  africa:
+  - Malawi
+  - Mosambik
+
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+  
+notes: []
