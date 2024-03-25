@@ -26,6 +26,13 @@
     {{else}}
         Bisher noch keine Arten erfasst.
     {{end}}
+
+    {{with .Page.Resources.Get "data/references.yml"}}
+      <section class="references">
+          <h2>Referenzen und Einzelnachweise</h2>
+          {{partial "caresheets/caresheet/references" . }}
+      </section>
+    {{end}}
 </article>
 {{ end }}
 
