@@ -11,8 +11,7 @@ taxonomy:
   class: Chilopoda
   order: Scolopendromorpha
   family: Scolopendridae
-  sub_family: Otostigminae
-  tribe: Otostigmini
-  genus: Alipes
+  sub_family: Scolopendrinae
+  genus: Akymnopellis
   
 notes: []
