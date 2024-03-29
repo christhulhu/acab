@@ -1,0 +1,18 @@
+name: Akymnopellis chilensis
+first_description: Gervais, 1847
+distribution:
+  america:
+  - Argentinien
+  - Chile
+
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+  
+notes: []

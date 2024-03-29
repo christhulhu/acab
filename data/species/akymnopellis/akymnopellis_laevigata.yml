@@ -1,0 +1,22 @@
+name: Akymnopellis laevigata
+first_description: Porat, 1876
+distribution:
+  america:
+  - Argentinien
+  - Peru
+  - Brasilien
+  - Uruguay
+  - Französisch Guiana
+  - Venezuela
+  - Kolumbien
+  - Chile
+status: species
+synonyms: []
+taxonomy:
+  class: Chilopoda
+  order: Scolopendromorpha
+  family: Scolopendridae
+  sub_family: Otostigminae
+  tribe: Otostigmini
+  genus: Alipes
+notes: []
