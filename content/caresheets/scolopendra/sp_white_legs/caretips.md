@@ -1,0 +1,1 @@
+Das Substrat sollte stets trocken sein, aber eine feuchte Ecke zum verstecken vorhanden sein. Um den "White Legs" nach einer Verpaarung zur Eiablage zu animieren, muss man den Tieren eine feuchtere Umgebung bieten.

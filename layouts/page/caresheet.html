@@ -29,9 +29,16 @@
         </figure>
     {{end}}
 
+    {{with .Page.Resources.Get "data/about.yml"}}
+        <section class="about-data">
+            <h2>Über die Art: {{$.Page.Title}}</h2>
+            {{partial "caresheets/caresheet/about" .}}
+        </section>
+    {{end}}
+
     {{with .Page.Resources.Get "about.md"}}
         <section class="about-text">
-            <h2>Über die Art</h2>
+            <!-- h2>Über die Art</h2-->
             {{ .Content }}
         </section>
     {{end}}
@@ -42,13 +49,6 @@
         </section>
     {{end}}
 
-    {{with .Page.Resources.Get "data/about.yml"}}
-        <section class="about-data">
-            <h2>{{$.Page.Title}}</h2>
-            {{partial "caresheets/caresheet/about" .}}
-        </section>
-    {{end}}
-
     {{with .Page.Resources.Get "data/caresheet.yml"}}
         <section class="caresheet-data">
             <h2>Pflegeanleitung</h2>
@@ -56,7 +56,14 @@
         </section>
     {{end}}
 
+    {{with .Page.Resources.Get "caretips.md"}}
+        <section class="about-text">
+            <h2>Allgemeine Haltungshinweise</h2>
+            {{ .Content }}
+        </section>
+    {{end}}
 
+<!--
     {{with .Page.Resources.Get "habitat.md"}}
         <section class="habitat">
             <h2>Habitat</h2>
@@ -93,7 +100,7 @@
             {{partial "caresheets/caresheet/references" . }}
         </section>
     {{end}}
-
+    -->
 </article>
 {{ end }}
 

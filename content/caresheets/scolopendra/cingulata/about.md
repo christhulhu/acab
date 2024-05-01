@@ -1,8 +1,10 @@
-Scolopendra cingulata sind opportunistische, "bösartige" Raubtiere, die fast jedes (kleinere) Tier jagen. So gibt es diverse Berichte über Kannibalismus an Jungtieren{{<fn "Cabanillas, 2019" 2019-cabanillas>}}, das Erbeuten von Reptilien{{<fn "Deimezis, 2020" 2020-deimezis>}} oder das Befreien aus dem inneren einer Schlange{{<fn "Arsovski, 2014" 2014-arsovski>}}. Rosenberg (2009) beschreibt zudem die Aufnahme von Karotten, gekochten Kartoffeln, Brot, Papayas oder Äpfeln beobachtet, oder auch der Konsum von Feuchtigkeit durch Milch, Tee oder Kaffee{{<fn "Rosenberg, 2009" rosenberg >}}.
+---
+---
 
-All diese Eigenschaften machen diese Hundertfüßerart zu einem faszinierenden und relativ pflegeleichten Terrarientier. Obschon die genauen Anforderungen an Temperatur und Feuchtigkeit jeweils der genauen Herkunft der Art angepasst werden müssen, sind gewisse Haltungsparameter universal anwendbar:
+**Scolopendra cingulata** sind opportunistische, "bösartige" Raubtiere, die fast jedes (kleinere) Tier jagen. So gibt es diverse Berichte über Kannibalismus an Jungtieren<!--{{<fn "Cabanillas, 2019" 2019-cabanillas>}}-->, das Erbeuten von Reptilien<!--{{<fn "Deimezis, 2020" 2020-deimezis>}}--> oder das Befreien aus dem inneren einer Schlange<!--{{<fn "Arsovski, 2014" 2014-arsovski>}}-->. Rosenberg (2009) beschreibt zudem die Aufnahme von Karotten, gekochten Kartoffeln, Brot, Papayas oder Äpfeln beobachtet, oder auch der Konsum von Feuchtigkeit durch Milch, Tee oder Kaffee<!--{{<fn "Rosenberg, 2009" rosenberg >}}-->.
 
-Scolopendra cingulata lebt in trockenen, warmen Habitat. Trotz seiner Liebe für warme und trockene Monate{{<fn "Kaltsas, 2012" 2012-kaltsas>}} leben Scolopendra nicht voll-arid! Meist findet man die Tiere in freier Wildbahn unter Steinen, wo das Substrat feuchter ist. Darum sollte auch im Terrarium eine Ecke des Beckens immer leicht feucht, aber nicht nass gehalten werden, damit die Pfleglinge nicht durch übermäßige Feuchtigkeit oder Staunässe an Mykose erkranken.
+All diese Eigenschaften machen diese Hundertfüßerart zu einem faszinierenden und relativ pflegeleichten Terrarientier.
 
-Für das Wohlergehen und die Paarungsbereitschaft, sollte man überdies eine Winterruhe mit Temperaturabsenkung durchführen. Je nach Herkunft kann die Abkühlung auf bis zu 5-10 Grad über zwei Monate erfolgen. Andere Arten haben allerdings keinen so drastischen Temperaturabfall im Winter und eine Absenkung auf etwas unter 20°C ist in diesen Fällen ausreichend. Tendenziell erscheint eine simulierte Winterperiode in den Monaten Dezember bis Februar am naturnahesten.
-
+{{<hint "info">}}
+Mehr Informationen zur [Gattung **Scolopendra**](/skolopender/taxonomie/scolopendromorpha/scolopendra/) und zur Art [**Scolopendra cingulata**](/skolopender/taxonomie/scolopendromorpha/scolopendra/cingulata) in der [Taxonomie](/skolopender/taxonomie/).
+{{</hint>}}

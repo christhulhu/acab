@@ -1,10 +1,12 @@
-**Scolopendra dehaani** ist weit verbreitet und hat viele Farbvariationen. Derweil es eine monochromatische Variante "[Cherry Red](../dehaani_cherry_red/)" gibt, sind die anderen Morphe zweifarbig. Diese Varianten unterscheiden sich am deutlichsten in der Färbung ihrer Laufbeine, was zu den unterschiedlichen Trivialnamen geführt hat: "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_".
+**Scolopendra dehaani** ist eine weit verbreitete und relativ vielgestaltige Art. Neben der monochromatischen Hochland-Variante "[Cherry Red](../dehaani_cherry_red/)" gibt es noch diverse Morphen mit unterschiedlich gefärbten Laufbeinen. Zu den bestätigten Variationen gehören die "Yellow Leg", "Orange Leg", "Red Leg" und "Flame Leg". Aber es gibt aktuell auch Vermutungen, dass rein schwarze Tiere aus Java genau so zu **Scolopendra dehaani** gehören, wie die "Toxic Tips".
 
-Im Hobby sind die "Yellow Leg" und "Orange Leg" am verbreitetsten. Darum ist ihr Anschaffungspreis mit ca. EUR 40 auch relativ günstig. Die Varianten "Red Leg" und "Flame Leg" sind deutlich schwerer zu bekommen.
+Durch die weite Verbreitung und gute Verfügbarkeit der Art, eignet sich **Scolopendra dehaani** sehr gut für den Einstieg in das Hobby. Der Anschaffungspreis ist mit ca. EUR 40 relativ günstig und seit einigen Jahren gleichsam stabil. Dies ist mitunter darin begründet, dass diese Hundertfüßer im asiatischen Raum mitunter kommerziell für den Verzehr und traditionelle Medizin gezüchtet werden, und somit einfach für den Export vorhanden sind.  
+Nur muss man hier gewisse Abstriche in der Farbauswahl machen; "Yellow Leg" und "Orange Leg" scheinen besser verfügbar als "Red Leg" und "Flame Leg". Von der schwarzen Variante aus Java oder den "Toxic Tips" muss man an dieser Stelle gar nicht sprechen.
+
+Weiterhin ist **Scolopendra dehaani** sehr anspruchslos in der Haltung, was ihn für den Einstieg in das Hobby weiterhin prädestiniert.
 
 <!--Mehr Informationen über Scolopendra dehaani und seine Farbvarianten auf der [Übersichtsseite der Art]({{< ref ".." >}}).-->
 
 {{<hint "info">}}
-Diese Anleitung gilt für die Farbvarianten "_Yellow Leg_", "_Orange Leg_", "_Red Leg_" und "_Flame Leg_".  
-Die Variante "_Cherry Red_" hat andere [Haltungsbedingungen](../dehaani_cherry_red/).
+Mehr Informationen zur [Gattung **Scolopendra**](/skolopender/taxonomie/scolopendromorpha/scolopendra/) und zur Art [**Scolopendra dehaani**](/skolopender/taxonomie/scolopendromorpha/scolopendra/dehaani) in der [Taxonomie](/skolopender/taxonomie/).
 {{</hint>}}

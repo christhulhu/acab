@@ -1,3 +1,5 @@
-Scolopendra piceoflava scheidet aktuell die Gemüter. Zunächst war die Art eine Unterart von Scolopendra subspinipes, bis Kronmüller sie 2012 aus dem Komplex entfernt und mit Scolopendra subspinipes synonymisierte {{<fn "Kronmüller, 2012" 2012-kronmüller>}}.
-
-Doch bereits 2016 wird diese Entscheidung bereits wieder angezweifelt {{<fn "Siriwut, 2016" 2016-siriwut>}}. Aktuell ist die Frage noch nicht abschließend geklärt, ob es sich um eine eigenständige Art handelt, oder ob es weiterhin die Unterart Scolopendra subspinipes piceoflava sein wird.
+---
+---
+{{<hint "info">}}
+Mehr Informationen zur [Gattung **Scolopendra**](/skolopender/taxonomie/scolopendromorpha/scolopendra/) und zur potentiellen Art [**Scolopendra subspinipes**](/skolopender/taxonomie/scolopendromorpha/scolopendra/subspinipes) in der [Taxonomie](/skolopender/taxonomie/). Dort finden sich auch mehr Hintergründe zum [Subspinipes-Komplex](/skolopender/taxonomie/subspinipes-komplex/).
+{{</hint>}}

@@ -1,0 +1,1 @@
+Ein vorsichtiger Umgang mit den Tieren ist zu empfehlen, da Gliedmaßen leicht abbrechen bzw. abgeworfen werden. Diese können sich nach ein paar Häutungen wieder regenerieren.

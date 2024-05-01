@@ -8,4 +8,3 @@ bookhidden: true
 author:
 - 
 ---
-# Scolopendra sp "White Legs"

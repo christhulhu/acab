@@ -1,0 +1,3 @@
+Es sind aktuell zwei Unterarten bekannt: **Scolopendra gracillima gracillima** (Attems, 1898) <!--{{<fn "Attems, 1933" 1933-attems>}}--> und **Scolopendra gracillima sternostriata** (Schileyko, 1995). Letztere wurde bisher nur in Vietnam nachgewiesen <!--{{<fn "Tran, 2018" 2018-tran>}}-->. Zudem besteht große Ähnlichkeit aufgrund überlappender Variabilität zu **Scolopendra pinguis** <!--{{<fn "Siriwut, 2015" 2015-siriwut>}}{{<fn "Lewis, 2010" 2010-lewis>}}-->. 
+
+Markant ist bei **Scolopendra gracillima** die größtenteils hell gefärbte Kopfplatte, welche jedoch nicht als typisches Bestimmungsmerkmal zu betrachten ist und auch bei Tieren aus Java einfarbig grau sein kann.

@@ -1,0 +1,1 @@
+Der "Borneo Blue" verträgt keine zu trockene Haltung. Das Substrat muss immer feucht bis leicht nass sein.

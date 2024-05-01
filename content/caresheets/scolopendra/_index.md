@@ -6,4 +6,9 @@ type: page
 layout: caresheets_genus
 ---
 
-Die größten Hundertfüßer zählen zu der Gattung **Scolopendra**. Allerdings gibt es auch kleine bis mittelgroße Arten in dem Genus. Die meisten Tiere stammen aus subtropischen und tropischen Regionen. Aber es gibt auch einige Vertreter aus dem Mittelmeerraum.
+**Scolopendra** ist die am weitesten verbreitete Gattung unter den Scolopendromorpha. Man findet Arten in allen tropischen und subtropischen Regionen, aber auch im Mittelmeerraum und mittleren Osten. Mit Körpergrößen von über 33-35cm gehören die größten Hundertfüßer zu dieser Gattung. Allerdings gibt es auch deutlich kleinere Arten mit weniger als 10cm Körperlänge.  
+Je nach Quelle existieren zwischen 70-90 Arten von **Scolopendra**, die im Hobby die verbreitetste Gattung darstellt.
+
+{{<hint "info">}}
+Mehr Informationen zur Gattung [**Scolopendra** findet man unter Taxonomie](/skolopender/taxonomie/scolopendromorpha/scolopendra/).
+{{</hint>}}

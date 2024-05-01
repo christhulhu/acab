@@ -1,0 +1,1 @@
+Zu beachten ist, dass die Tiere die meiste Zeit versteckt in der Erde verbringen und bei Gefahr die langen Schleppbeine abwerfen können (welche sich aber mit der Folgehäutung wieder regenerieren).

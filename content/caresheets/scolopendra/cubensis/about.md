@@ -1,1 +1,5 @@
-**Scolopendra cubensis** wurde lange Zeit als Synonym für **Scolopendra alternans** angesehen. Doch nach aktuellem Vorschlag von Mercurio (2016), wurde der [Alternans-Komplex](/skolopender/taxonomie/scolopendra/alternans-komplex/) einer neuen Aufteilung vorgeschlagen {{<fn "Mercurio, 2016" 2016-mercurio>}}. Nach dieser wird **Scolopendra cubensis** wieder als eigenständige Art anerkannt. Dennoch bleiben aktuell noch viele ungeklärte Fragen und Diskussionspunkte.
+---
+---
+{{<hint "info">}}
+Mehr Informationen zur [Gattung **Scolopendra**](/skolopender/taxonomie/scolopendromorpha/scolopendra/) und zur Art [**Scolopendra cubensis**](/skolopender/taxonomie/scolopendromorpha/scolopendra/cubensis) in der [Taxonomie](/skolopender/taxonomie/). Dort finden sich auch mehr Hintergründe zum [Alternans-Komplex](/skolopender/taxonomie/alternans-komplex/).
+{{</hint>}}

@@ -8,4 +8,3 @@ bookhidden: true
 author:
 - Alessandro Tinella
 ---
-# Scolopendra sp. "Malaysian Jewel"

@@ -1,1 +1,5 @@
-Das Substrat sollte stets trocken sein, aber eine feuchte Ecke zum verstecken vorhanden sein. Um die Tiere nach einer Verpaarung zur Eiablage zu animieren, muss man Scolopendra galapagoensis eine feuchtere Umgebung bieten.
+---
+---
+{{<hint "info">}}
+Mehr Informationen zur [Gattung **Scolopendra**](/skolopender/taxonomie/scolopendromorpha/scolopendra/) und zur Art [**Scolopendra galapagoensis**](/skolopender/taxonomie/scolopendromorpha/scolopendra/galapagoensis) in der [Taxonomie](/skolopender/taxonomie/).
+{{</hint>}}

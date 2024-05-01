@@ -6,6 +6,10 @@ type: page
 layout: caresheets_genus
 ---
 
-Die Gattung **Ethmostigmus** wurde von Pocock 1898 zum ersten mal beschrieben. Die Arten dieses Genus finden sich vornehmlich in Asien, derweil vereinzelte Arten auch in Afrika und der Türkei vorkommen.
+Die Gattung **Ethmostigmus** ist hauptsächlich in Asien und Ozeanien verbreitet. Gerade in Asien wurden in jüngster Vergangenheit (_Jiang & Huang, 2022_) einige neue Arten beschrieben. Auch in Afrika wurden drei Arten der Gattung dokumentiert. Bis auf wenige Ausnahmen ist jedoch der afrikanische **Ethmostigmus trigonopodus** die wohl verbreitetste Art im Hobby, die relativ gut verfügbar und sehr pflegeleicht ist.  
+Aktuell sind ca. 25 Arten von **Ethmostigmus** beschrieben.
 
-Im Hobby ist **Ethmostigmus trigonopodus** weit verbreitet und gut verfügbar.
+{{<hint "info">}}
+Mehr Informationen zur Gattung [**Ethmostigmus** findet man unter Taxonomie](/skolopender/taxonomie/scolopendromorpha/ethmostigmus/).
+{{</hint>}}
+

@@ -1,5 +1,5 @@
-"Borneo Blue" wird im Hobby häufig als Ethmostigmus rubripes rubripes gehandelt. Diese Einordnung erscheint jedoch nicht ganz so einfach. Ursprünglich wurde Ethmostigmus bisulcatus durch Attems für das Herkunftsgebiet Borneo, Java und Siam beschrieben, mit unterschieden zu Ethmostigmus rubripes {{<fn "Attems, 1933" 1933-attems>}}. 2004 untersuchten jedoch Schileyko und Stagl die Sammlung des naturhistorischen Museums Wien und stellten Variationen für Ethmostigmus rubripes rubripes fest {{<fn "Jiang, 2022" 2022-jiang>}}. Als Resultat wurde Ethmostigmus bisulcatus mit Ethmostigmus rubripes rubripes synonymisiert {{<fn "Jiang, 2022" 2022-jiang>}}. Eine abschließende Untersuchung und Abgrenzung ist aktuell noch offen, lediglich für Ethmostigmus rubripes rubripes aus China gibt es eine aktuelle morphologische und molekulare Untersuchung {{<fn "Schileyko, 2004" 2004-schilekyo>}}.
-
-Aktuell ist die Vermutung, dass die Farbgebung von Ethmostigmus rubripes rubripes aus der australischen Region Kuranda für eine vorschnelle Einordnung des "Borneo Blues" verantwortlich ist.
-
-Der "Borneo Blue" verträgt keine zu trockene Haltung. Das Substrat muss immer feucht bis leicht nass sein.
+---
+---
+{{<hint "info">}}
+Mehr Informationen zur [Gattung **Ethmostigmus**](/skolopender/taxonomie/scolopendromorpha/ethmostigmus/) und zur mutmaßlichen [Art **Ethmostigmus rubripes**](/skolopender/taxonomie/scolopendromorpha/ethmostigmus/rubripes/) in der [Taxonomie](/skolopender/taxonomie/).
+{{</hint>}}

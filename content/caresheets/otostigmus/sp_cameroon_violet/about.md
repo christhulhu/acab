@@ -1,3 +1,9 @@
-Otostigmus sp. "Cameroon Violet" ist bzw. war im Hobby fälschlicherweise der Gattung Rhysida zugeordnet. Die Position der Stigmen entspricht jedoch der Gattung Otostigmus.
+**Otostigmus** sp. "Cameroon Violet" ist bzw. war im Hobby fälschlicherweise der Gattung **Rhysida** zugeordnet. Die Position der Stigmen entspricht jedoch der Gattung **Otostigmus**.
 
 Diese markante Art scheint seit 2020 nicht mehr im europäischen Hobby vertreten zu sein.
+
+---
+---
+{{<hint "info">}}
+Mehr Informationen zur [Gattung **Otostigmus**](/skolopender/taxonomie/scolopendromorpha/otostigmus/) in der [Taxonomie](/skolopender/taxonomie/).
+{{</hint>}}
