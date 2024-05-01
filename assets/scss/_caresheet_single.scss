@@ -22,6 +22,13 @@
         }
     }
 
+    .caresheet-data {
+        .section-title {
+            font-size: 1.2em;
+            //font-weight: bold;
+            color: #555;
+        }
+    }
     .caresheet-table {
         .key {
             font-weight: bold;
@@ -32,10 +39,6 @@
         }
         .value {
             padding-left: 1em;
-        }
-        .section-title {
-            font-weight: bold;
-            color: #555;
         }
     }
 
@@ -85,11 +88,18 @@
                 }
             }
         }
+
+        blockquote.info {
+            font-size: 0.8em;
+        }
         
 
         .about-table {
             .about-table-row {
                 margin-top: 2em;
+            }
+            .value {
+                text-align: left;
             }
         }
 
@@ -99,6 +109,10 @@
             }
             .caresheet-table-row {
                 margin-top: 1.5em;
+            }
+            margin-bottom: 1em;
+            .value {
+                text-align: left;
             }
         }
 
@@ -153,6 +167,7 @@
         }
 
         .about-table {
+            width: 100%;
             display: table;
             border-spacing: 0.5em;
             .about-table-row {
@@ -160,10 +175,17 @@
             }
             .about-table-col {
                 display: table-cell;
+                
+            }
+            .key {
+                //color:#f00;
+                text-align: right;
+                width: 25%;
             }
         }
 
         .caresheet-table {
+            width: 100%;
             display: table;
             border-spacing: 0.5em;
             .caresheet-table-row {
@@ -172,6 +194,14 @@
             .caresheet-table-col {
                 display: table-cell;
             }
+
+            .key {
+                //color:#f00;
+                text-align: right;
+                width: 25%;
+            }
+            
+            margin-bottom: 1em;
         }
         
         .galleries {

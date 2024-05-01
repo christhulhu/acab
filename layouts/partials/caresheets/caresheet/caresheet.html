@@ -1,9 +1,9 @@
 {{ $data := . | unmarshal  }}
 
-<div class="caresheet-table">
-    <div class="caresheet-table-row section">
-        <div class="caresheet-table-col section-title">Terrarium</div>
-        <div class="caresheet-table-col">
+<div class="caresheet-data">
+    <!--<div class="caresheet-table-row section">-->
+        <div class="section-title">Terrarium</div>
+        <!--<div class="caresheet-table-col">-->
             <div class="caresheet-table">
                 <div class="caresheet-table-row">
                     <div class="caresheet-table-col key">Terrariengröße</div>    
@@ -26,11 +26,11 @@
                     <div class="caresheet-table-col value">{{ $data.simulation_periods}}</div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="caresheet-table-row section">
-        <div class="caresheet-table-col section-title">Substrat</div>
-        <div class="caresheet-table-col">
+        <!-- </div>-->
+    <!-- </div>-->
+    <!--<div class="caresheet-table-row section">-->
+        <div class="section-title">Substrat</div>
+        <!--<div class="caresheet-table-col">-->
             <div class="caresheet-table">
                 <div class="caresheet-table-row">
                     <div class="caresheet-table-col key">Zusammensetzung</div>    
@@ -52,11 +52,11 @@
                     <div class="caresheet-table-col value">{{ $data.substrate.cover}}</div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="caresheet-table-row section">
-        <div class="caresheet-table-col section-title">Sonstige Haltungshinweise</div>
-        <div class="caresheet-table-col">
+        <!-- </div>-->
+    <!---</div>-->
+    <!--<div class="caresheet-table-row section"> -->
+        <div class="section-title">Sonstige Hinweise</div>
+        <!--<div class="caresheet-table-col">-->
             <div class="caresheet-table">
                 <div class="caresheet-table-row">
                     <div class="caresheet-table-col key">Dekoration</div>    
@@ -69,6 +69,6 @@
                     <div class="caresheet-table-col value">{{ $data.nutrition}}</div>
                 </div>
             </div>
-        </div>
-    </div>
+        <!--</div>-->
+    <!--</div>-->
 </div>
