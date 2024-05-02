@@ -1,8 +1,9 @@
 name: Scolopendra cubensis
 scientific_name: Scolopendra cubensis
-valid_name: Seit Mercurio (2016) ist Scolopendra cubensis wieder eine gültige Art.
-trade_names:
-- "-"
+valid_name: Scolopendra cubensis
+#valid_name: Seit Mercurio (2016) ist Scolopendra cubensis wieder eine gültige Art.
+#trade_names:
+#- "-"
 adult_size: 17-22cm
 distribution: Kuba, Hispaniola (Haiti, Dominikanische Republik)
 climate: tropisch

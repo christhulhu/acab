@@ -1,27 +1,37 @@
 {{ $data := . | unmarshal  }}
 
 <div class="about-table">
-    <div class="about-table-row">
+    <!-- <div class="about-table-row">
         <div class="about-table-col key">Wissenschaftlicher Name</div>
         <div class="about-table-col value">{{ $data.scientific_name}}</div>
     </div>
-    <div class="about-table-row">
-        <div class="about-table-col key">Bestätigte Art</div>
-        <div class="about-table-col value">{{ $data.valid_name}}</div>
-    </div>
-    <div class="about-table-row">
-        <div class="about-table-col key">Handels- und Trivialnamen</div>
-        <div class="about-table-col value">
-            {{if $data.trade_names}}
-            <ul class="tradenames">
-                {{range $data.trade_names }}
-                    <li>{{.}}</li>
-                {{end}}
-            </ul>
-            {{else}}
-            {{end}}
+    -->
+    {{if $data.valid_name }}
+        <div class="about-table-row">
+            <div class="about-table-col key">Bestätigte Art</div>
+            <div class="about-table-col value">{{ $data.valid_name}}</div>
         </div>
-    </div>
+    {{ else if $data.presumed_name}}
+        <div class="about-table-row">
+            <div class="about-table-col key">Mutmaßliche Art</div>
+            <div class="about-table-col value">{{ $data.presumed_name}}</div>
+        </div>
+    {{end}}
+    {{ if $data.trade_names}}
+        <div class="about-table-row">
+            <div class="about-table-col key">Handels- und Trivialnamen</div>
+            <div class="about-table-col value">
+                {{if $data.trade_names}}
+                <ul class="tradenames">
+                    {{range $data.trade_names }}
+                        <li>{{.}}</li>
+                    {{end}}
+                </ul>
+                {{else}}
+                {{end}}
+            </div>
+        </div>
+    {{end}}
 
     <div class="about-table-row">
         <div class="about-table-col key">Ausgewachsene Größe</div>

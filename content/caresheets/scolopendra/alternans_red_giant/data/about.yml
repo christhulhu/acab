@@ -1,6 +1,7 @@
 name: Scolopendra alternans "Red giant"
-valid_name: Diese Morphe stellt den Neotypen. Details siehe Taxonomie und Einordnung.
+#valid_name: Diese Morphe stellt den Neotypen. Details siehe Taxonomie und Einordnung.
 scientific_name: Scolopendra alternans
+valid_name: Scolopendra alternans
 trade_names:
 - "Red Giant"
 - "Goatkiller"

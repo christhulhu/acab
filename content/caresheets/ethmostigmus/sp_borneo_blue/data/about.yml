@@ -1,6 +1,7 @@
 name: Ethmostigmus sp. "Borneo Blue"
-scientific_name: Ethmostigmus rubripes rubripes (ex Ethmostigmus bisulcatus)
-valid_name: Aktuell ist die Einordnung als Ethmostigmus rubripes rubripes nicht bestätigt, siehe Taxonomie und Einordnung der Art.
+scientific_name: Ethmostigmus rubripes rubripes
+#valid_name: Aktuell ist die Einordnung als Ethmostigmus rubripes rubripes nicht bestätigt, siehe Taxonomie und Einordnung der Art.
+presumed_name: Ethmostigmus rubripes rubripes
 trade_names:
 - Borneo Blue
 adult_size: 12cm
