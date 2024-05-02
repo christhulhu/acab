@@ -5,7 +5,12 @@
 .caresheet {
     .hero-figure {}
 
+
     .about-table {
+        border: 1px solid #555;
+        margin-bottom: 1em;
+        padding: 0.5em;
+
         .key {
             font-weight: bold;
             font-size: 0.7em;
@@ -23,10 +28,18 @@
     }
 
     .caresheet-data {
+        section {
+            border: 1px solid #555;
+            margin-bottom: 1em;
+            padding: 0.5em;
+        }
         .section-title {
             font-size: 1.2em;
             //font-weight: bold;
             color: #555;
+        }
+        .section-body {
+            padding: 0.8em;
         }
     }
     .caresheet-table {

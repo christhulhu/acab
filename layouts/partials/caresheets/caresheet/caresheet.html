@@ -1,74 +1,68 @@
 {{ $data := . | unmarshal  }}
 
-<div class="caresheet-data">
-    <!--<div class="caresheet-table-row section">-->
-        <div class="section-title">Terrarium</div>
-        <!--<div class="caresheet-table-col">-->
-            <div class="caresheet-table">
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Terrariengröße</div>    
-                    <div class="caresheet-table-col value">{{ $data.terrarium_size}}</div>
-                </div>
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Belüftung</div>    
-                    <div class="caresheet-table-col value">{{ $data.ventilation}}</div>
-                </div>
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Temperatur</div>    
-                    <div class="caresheet-table-col value">{{ $data.temperature}}</div>
-                </div>
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Rel. Luftfeuchtigkeit</div>    
-                    <div class="caresheet-table-col value">{{ $data.humidity}}</div>
-                </div>
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Humide/Aride Perioden</div>    
-                    <div class="caresheet-table-col value">{{ $data.simulation_periods}}</div>
-                </div>
-            </div>
-        <!-- </div>-->
-    <!-- </div>-->
-    <!--<div class="caresheet-table-row section">-->
-        <div class="section-title">Substrat</div>
-        <!--<div class="caresheet-table-col">-->
-            <div class="caresheet-table">
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Zusammensetzung</div>    
-                    <div class="caresheet-table-col value">{{ $data.substrate.ingredients}}</div>
-                </div>
-            
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Substrathöhe</div>    
-                    <div class="caresheet-table-col value">{{ $data.substrate.height}}</div>
-                </div>
-            
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Feuchtigkeit</div>    
-                    <div class="caresheet-table-col value">{{ $data.substrate.humidity}}</div>
-                </div>
-            
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Bedeckung</div>    
-                    <div class="caresheet-table-col value">{{ $data.substrate.cover}}</div>
-                </div>
-            </div>
-        <!-- </div>-->
-    <!---</div>-->
-    <!--<div class="caresheet-table-row section"> -->
-        <div class="section-title">Sonstige Hinweise</div>
-        <!--<div class="caresheet-table-col">-->
-            <div class="caresheet-table">
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Dekoration</div>    
-                    <div class="caresheet-table-col value">{{ $data.decoration}}</div>
-                </div>
-            </div>
-            <div class="caresheet-table">
-                <div class="caresheet-table-row">
-                    <div class="caresheet-table-col key">Ernährung</div>    
-                    <div class="caresheet-table-col value">{{ $data.nutrition}}</div>
-                </div>
-            </div>
-        <!--</div>-->
-    <!--</div>-->
-</div>
+<section>
+    <div class="section-title">Terrarium</div>
+    <div class="caresheet-table">
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Terrariengröße</div>    
+            <div class="caresheet-table-col value">{{ $data.terrarium_size}}</div>
+        </div>
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Belüftung</div>    
+            <div class="caresheet-table-col value">{{ $data.ventilation}}</div>
+        </div>
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Temperatur</div>    
+            <div class="caresheet-table-col value">{{ $data.temperature}}</div>
+        </div>
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Rel. Luftfeuchtigkeit</div>    
+            <div class="caresheet-table-col value">{{ $data.humidity}}</div>
+        </div>
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Humide/Aride Perioden</div>    
+            <div class="caresheet-table-col value">{{ $data.simulation_periods}}</div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="section-title">Substrat</div>
+    <div class="caresheet-table">
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Zusammensetzung</div>    
+            <div class="caresheet-table-col value">{{ $data.substrate.ingredients}}</div>
+        </div>
+
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Substrathöhe</div>    
+            <div class="caresheet-table-col value">{{ $data.substrate.height}}</div>
+        </div>
+
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Feuchtigkeit</div>    
+            <div class="caresheet-table-col value">{{ $data.substrate.humidity}}</div>
+        </div>
+
+        <div class="caresheet-table-row">
+            <div class="caresheet-table-col key">Bedeckung</div>    
+            <div class="caresheet-table-col value">{{ $data.substrate.cover}}</div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="section-title">Dekoration und Einrichtung im Terrarium</div>
+    <div class="section-body">
+        {{ $data.decoration}}
+    </div>
+</section>
+
+<section>
+    <div class="section-title">Futter und Ernährung</div>
+    <div class="section-body">
+        {{ $data.nutrition}}
+    </div>
+</section>
+
+
