@@ -2,8 +2,6 @@
 
 Diese markante Art scheint seit 2020 nicht mehr im europäischen Hobby vertreten zu sein.
 
----
----
 {{<hint "info">}}
 Mehr Informationen zur [Gattung **Otostigmus**](/skolopender/taxonomie/scolopendromorpha/otostigmus/) in der [Taxonomie](/skolopender/taxonomie/).
 {{</hint>}}

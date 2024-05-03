@@ -32,22 +32,32 @@
     {{with .Page.Resources.Get "data/about.yml"}}
         <section class="about-data">
             <h2>Über die Art: {{$.Page.Title}}</h2>
-            {{partial "caresheets/caresheet/about" .}}
+
+            <div class="characteristics">
+                {{partial "caresheets/caresheet/about" .}}
+            </div>
+
+
+            {{with $.Page.Resources.Get "about.md"}}
+                <div class="charakteristics-wrapper">
+                    <div class="about-text">{{ .Content }}</div>
+                    {{with $.Param "feature_image"}}
+                        <div class="feature_image">
+                            {{$image := $.Resources.Get . }}
+                            {{$image := $image.Fit "400x400"}}
+                            <a href="{{.}}"><img src="{{ $image.RelPermalink }}" width="400" alt="{{$.Page.Title}}"></a>
+                        </div>
+                    {{end}}
+                </div>
+
+            {{end}}
+
         </section>
     {{end}}
 
-    {{with .Page.Resources.Get "about.md"}}
-        <section class="about-text">
-            <!-- h2>Über die Art</h2-->
-            {{ .Content }}
-        </section>
-    {{end}}
+    
 
-    {{if not (.Page.Resources.Get "about.md")}}
-        <section class="about-text">
-        {{.Content}}
-        </section>
-    {{end}}
+    
 
     {{with .Page.Resources.Get "data/caresheet.yml"}}
         <section class="caresheet-data">
