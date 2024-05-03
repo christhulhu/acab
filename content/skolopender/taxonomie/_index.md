@@ -47,11 +47,11 @@ Die fünf Ordnungen der Chilopoda:
 Derweil findet man in ganz Deutschland viele Arten der **Lithobiomorpha** und **Geophilomorpha** in Garten und Wald, während man Tiere aus den Ordnungen **Scutigeromorpha** und auch **Scolopendromorpha** nur in einzelnen Regionen nachweisen kann. Wer sich mehr für die einheimischen Hundertfüßer interessiert, bekommt auf der Webseite [bodentierhochvier.de](https://bodentierhochvier.de/) weitere Informationen.
 
 ## Die Ordnung Scolopendromorpha
-
+<!--
 {{<hint "info">}}
 [Hier findet sich die vollständige Übersicht der Taxonomie der Ordnung Scolopendromorpha](scolopendromorpha)
 {{</hint>}}
-
+-->
 {{<figure 
   src="images/taxonomie_scolopendromorpha_families.png"
   link="images/taxonomie_scolopendromorpha_families.png"

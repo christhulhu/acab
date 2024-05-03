@@ -31,10 +31,11 @@ Obwohl die meisten Skolopender in natürlichen Habitaten wie Wäldern oder Höhl
 Wer mehr über die Verbreitung von Hundertfüßern wissen will, und sich für Beobachtungen in der freien Wildbahn interessiert, findet auf [iNaturalist.org](https://www.inaturalist.org/) eine sehr gute Ressource mit Suchfunktion und Kartenansichten.
 {{< / hint >}}
 
+<!--
 {{<hint info>}}
 Zur [Übersicht der Gattung Scolopendra nach kontinentaler Verbreitung](kontinente)</a>.
 {{</hint>}}
-
+-->
 
 [^wikipedia]: [https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer](https://de.wikipedia.org/wiki/Hundertf%C3%BC%C3%9Fer)
 [^chilobase]: [https://chilobase.biologia.unipd.it/pages/about-chilobase](https://chilobase.biologia.unipd.it/pages/about-chilobase)
