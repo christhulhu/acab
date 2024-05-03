@@ -179,18 +179,10 @@
             }
         }
 
-        .charakteristics-wrapper {
-            display: flex;
-            .about-text {
-                width: 50%;
-            }
-            .feature_image {
-                width:50%; 
-                padding: 1em; 
-                padding-right:0; 
-                text-align: right;
-            }
+        .feature_image {        
+            text-align: center;
         }
+        
 
         .about-table {
             width: 100%;

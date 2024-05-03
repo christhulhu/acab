@@ -6,7 +6,3 @@ Nur muss man hier gewisse Abstriche in der Farbauswahl machen; "Yellow Leg" und 
 Weiterhin ist **Scolopendra dehaani** sehr anspruchslos in der Haltung, was ihn für den Einstieg in das Hobby weiterhin prädestiniert.
 
 <!--Mehr Informationen über Scolopendra dehaani und seine Farbvarianten auf der [Übersichtsseite der Art]({{< ref ".." >}}).-->
-
-{{<hint "info">}}
-Mehr Informationen zur [Gattung **Scolopendra**](/skolopender/taxonomie/scolopendromorpha/scolopendra/) und zur Art [**Scolopendra dehaani**](/skolopender/taxonomie/scolopendromorpha/scolopendra/dehaani) in der [Taxonomie](/skolopender/taxonomie/).
-{{</hint>}}

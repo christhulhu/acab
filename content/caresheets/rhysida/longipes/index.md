@@ -8,5 +8,8 @@ thumb: images/longipes-thumb.png
 feature_image: images/rhysida_longipes.jpg
 author:
 - Marcel K.
+taxonomy:
+    species: /scolopendromorpha/rhysida/longipes/
+    genus: /scolopendromorpha/rhysida/
 ---
 

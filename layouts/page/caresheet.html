@@ -33,23 +33,20 @@
         <section class="about-data">
             <h2>Über die Art: {{$.Page.Title}}</h2>
 
-            <div class="characteristics">
+            <div class="charakteristics">
                 {{partial "caresheets/caresheet/about" .}}
             </div>
-
-
+                
             {{with $.Page.Resources.Get "about.md"}}
-                <div class="charakteristics-wrapper">
-                    <div class="about-text">{{ .Content }}</div>
-                    {{with $.Param "feature_image"}}
-                        <div class="feature_image">
-                            {{$image := $.Resources.Get . }}
-                            {{$image := $image.Fit "400x400"}}
-                            <a href="{{.}}"><img src="{{ $image.RelPermalink }}" width="400" alt="{{$.Page.Title}}"></a>
-                        </div>
-                    {{end}}
-                </div>
+                <div class="about-text">{{ .Content }}</div>
+            {{end}}
 
+            {{with $.Param "feature_image"}}
+                <div class="feature_image">
+                    {{$image := $.Resources.Get . }}
+                    {{$image := $image.Fit "900x900"}}
+                    <a href="{{.}}"><img src="{{ $image.RelPermalink }}" width="900" alt="{{$.Page.Title}}"></a>
+                </div>
             {{end}}
 
         </section>

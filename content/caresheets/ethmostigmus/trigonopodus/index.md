@@ -9,4 +9,7 @@ bookHidden: true
 author:
 - Christian Gehlen
 - Alessandro Tinella
+taxonomy:
+    species: scolopendromorpha/ethmostigmus/trigonopodus/
+    genus: scolopendromorpha/ethmostigmus/
 ---

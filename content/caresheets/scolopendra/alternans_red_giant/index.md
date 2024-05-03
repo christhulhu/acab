@@ -8,5 +8,8 @@ layout: caresheet
 bookhidden: true
 author:
 - Alessandro Tinella
+taxonomy:
+    genus: /scolopendromorpha/scolopendra/
+    species: /scolopendromorpha/scolopendra/alternans
 ---
 # Scolopendra alternans "Red giant"

@@ -9,5 +9,8 @@ bookhidden: true
 author:
 - Marcel K.
 - Christian Gehlen
+taxonomy:
+    genus: /scolopendromorpha/scolopendra/
+    species: /scolopendromorpha/scolopendra/cingulata
 ---
 # Scolopendra cingulata
