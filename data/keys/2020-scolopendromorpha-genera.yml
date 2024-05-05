@@ -1,0 +1,292 @@
+source:
+  title: "An overview of the extant genera and subgenera of the order Scolopendromorpha (Chilopoda): a new identification key and updated diagnoses"
+  authors:
+    - Arkady A. Schuleyko
+    - Varpu Vahtera
+    - Greogory D. Edgecombe
+  year: 2020
+  doi: https://doi.org/10.11646/zootaxa.4825.1.1
+  url: https://zoobank.org/References/F230F199-1C94-4E2E-9CE4-5F56212C015F
+key:
+- step: 1
+  branches:
+  - branch: single convex unpigmented ocellus on each side of cephalic plate. North China (Shaanxi, Henan).
+    intermediate_result: family Mimopidae
+    result: Mimops
+  - branch: Four ocelli on each side of cephalic plate or ocelli absent.
+    next: 2
+- step: 2
+  branches:
+  - branch: 23 LBS, ocelli absent.
+    intermediate_result: family Scolopocryptopidae
+    next: 3
+  - branch: 21 (very rarely a higher number, for example 23, 39 or 43) LBS, ocelli present or 21 LBS, ocelli absent
+    next: 10
+- step: 3
+  previous: 2
+  branches: 
+  - branch: Prefemur of ultimate legs with 1 or 2 spinous processes. North, Central and South America, Caribbean islands; China, Japan, Korea, Vietnam, Philippines, Sunda Archipelago, New Guinea, Fiji, West Africa. 
+    intermediate_result: subfamily Scolopocryptopinae
+    result: Scolopocryptops
+  - branch: Prefemur of ultimate legs with 3–6 spinous processes or 3–7 saw teeth, very rarely without projections. 
+    next: 4
+- step: 4
+  previous: 3
+  branches:
+  - branch: Ultimate legs cryptopiform, their tibia and tarsus 1 with characteristic saw teeth.
+    intermediate_result: subfamily Kethopinae 
+    next: 5
+  - branch: Ultimate legs elongated, their tibia and tarsus 1 lacking saw teeth, their tarsus 2 considerably transformed, i.e. consisting of numerous secondary articles or absent (rarely very small)
+    intermediate_result: subfamily Newportiinae, Newportia
+    next: 6
+- step: 5
+  previous: 4
+  branches: 
+  - branch: Sternites distinctly margined laterally, with both median and transverse sutures. Central California, Northern Utah, Northern New Mexico (all USA).
+    result: Kethops
+  - branch: Sternites without lateral margination, without median and transverse sutures. Southern New Mexico (USA).
+    result: Thalkethops
+- step: 6
+  previous: 4
+  branches: 
+  - branch: All legs without tarsal spurs; ultimate legs subclavate, tarsus 1 inflated, tarsus 2 small, consisting either of a single small article or absent.
+    next: 7
+  - branch: Tarsal spurs present on most legs; long tarsus 2 of ultimate legs divided into several (4 – ca 40) variably-distinct secondary articles.
+    next: 8
+- step: 7
+  previous: 6
+  branches: 
+  - branch: Tibia of ultimate legs considerably longer than corresponding femur or prefemur; ultimate leg tarsus 2 small and rounded. Colima (South-West Mexico). 
+    result: Newportia (Ectonocryptops)
+  - branch: Ultimate leg tibia, femur and prefemur of very similar length; tarsus 2 of ultimate leg absent (rarely very small) and cannot be seen at magnification less than 40x. Central and South-West Mexico, Belize.
+    result: Newportia (Ectonocryptoides)
+- step: 8
+  previous: 6
+  branches:
+  - branch: Forcipular tarsungula long, overlapping each other by at least 1/3 of their length when adducted; anterior margin of forcipular coxosternite without well recognizable projections.
+    next: 9
+  - branch: Forcipular tarsungula very short, barely overlapping each other when adducted (Fig. 22); anterior margin of forcipular coxosternite with two well recognizable blunt projections. Lesser Antilles (?); Grenada; Guyana; French Guiana; Venezuela; Brazil; Bolivia; Paraguay.
+    result: Newportia (Tidops)
+- step: 9
+  previous: 8
+  branches:
+    - branch: Ultimate legs with well-developed claw-shaped pretarsus. Honduras, Pará, Amazonas (Brazil), Guyana; Bolivar (Venezuela).
+      result: Newportia (Newportides)
+    - branch: "Ultimate legs without claw-shaped pretarsus (extremely rarely with rudimentary/minute claw). Neotropics: from Mexico to Paraguay, including Cocos Isl. and Caribbean islands." 
+      result: Newportia (Newportia)
+- step: 10
+  previous: 2
+  branches: 
+  - branch: Ocelli absent. 
+    next: 11
+  - branch: Cluster of four ocelli present.
+    intermediate_result: family Scolopendridae (except for Tonkinodentus and three species of Cormocephalus)
+    next: 18
+- step: 11
+  previous: 10
+  branches:
+  - branch: Well-developed forcipular tooth-plates absent, tibia and tarsus 1 of cryptopiform ultimate legs with saw teeth.
+    intermediate_result: family Cryptopidae, Cryptops
+    next: 15
+  - branch: Forcipular tooth-plates present, tibia and tarsus 1 of ultimate legs without saw teeth.
+    next: 12
+- step: 12
+  previous: 11
+  branches:
+  - branch: Ultimate LBS considerably elongated (nearly twice as long as penultimate one), anterior part of head with flat depigmented eye spots laterally.
+    intermediate_result: family Plutoniumidae
+    next: 13
+  - branch: Ultimate LBS not elongated (Fig. 38), head without depigmented eye spots (Fig. 39).
+    intermediate_result: subfamily Scolopendrinae (1)
+    next: 14
+- step: 13
+  previous: 12
+  branches:
+  - branch: 19 pairs of spiracles. Southern Iberian Peninsula, Southern Italian Peninsula, Sardinia, Sicily.
+    result: Plutonium
+  - branch: 9 or 10 pairs of spiracles. Iberian and Balkan peninsulas (South Europe); South-West, East and South-East of USA, Northern Mexico; Sichuan, Hunan, Gansu (China). 
+    result: Theatops
+- step: 14
+  previous: 12
+  branches: 
+  - branch: Legs with tarsal spurs. Southern and Central Vietnam.
+    result: Tonkinodentus
+  - branch: All legs without tarsal spurs. Western Australia. 
+    result: Cormocephalus (Cormocephalus) (1)
+- step: 15
+  previous: 11
+  branches: 
+  - branch: Forcipular tarsungula long, overlapping each other by at least 1/3 of their length when adducted. Tropical, subtropical and warm temperate regions.
+    next: 16
+  - branch: "Forcipular tarsungula very short, barely overlapping each other when adducted. India, Vietnam, Malaysia, Singapore, Indonesia, New Guinea; Neotropics: Dominica (Caribbean), Guyana."
+    result: Cryptops (Paracryptops)
+- step: 16
+  previous: 15
+  branches:
+  - branch: Clypeus with 1 or 2 setose plates, well delimited by sutures; sternites 1–5/6 with complete trigonal sutures. Spain; Cuba, Peru, South-East Brazil, East Argentina; Northern and Central Africa; India, Vietnam, West and North-East Australia, Sumba, East Timor, New Guinea, Solomon Islands, New Caledonia, New Zealand, Fiji.
+    result: Cryptops (Trigonocryptops)
+  - branch: Clypeus without setose plates (Fig. 29), delimited by sutures; anterior sternites without trigonal sutures.
+    next: 17
+- step: 17
+  previous: 16
+  branches: 
+  - branch: Pretarsus of maxillae 2 with or without rounded ventral process; apical setae of dorsal brush of maxillae 2 from much longer to slightly shorter than pretarsus. All tropical, subtropical and warm temperate regions.
+    result: Cryptops (Cryptops)
+  - branch: Pretarsus of maxillae 2 without rounded ventral process; apical setae of dorsal brush of maxillae 2 minute, considerably shorter than pretarsus. Guerrero State (Mexico). 
+    result: Cryptops (Haplocryptops)
+- step: 18
+  previous: 10
+  branches:
+  - branch: Spiracles triangular, with slit-shaped opening; spiracular atrium divided into outer and inner cavities by three-flapped valve 
+    intermediate_result: subfamily Scolopendrinae (2) 
+    next: 19
+  - branch: Spiracles round or ovate/auriculate without valves 
+    intermediate_result: subfamily Otostigminae
+    next: 30
+- step: 19
+  previous: 18
+  branches:
+  - branch: Coxopleuron with pores.
+    intermediate_result: former tribe Scolopendrini
+    next: 20
+  - branch: Coxopleuron without pores.
+    intermediate_result: former tribe Asanadini
+    next: 29
+- step: 20
+  previous: 19
+- step: 20
+  previous: 19
+  branches:
+  - branch: Tarsus 2 of locomotory legs longer than tarsus 1; coxopleuron without process North-East, East and Central Brazil.
+    result: Scolopendropsis
+  - branch: Tarsus 2 of locomotory legs shorter than tarsus 1 (very rarely both tarsal articles of very similar length); coxopleuron with well-developed process (rarely this process very small or absent).
+    next: 21
+- step: 21
+  previous: 20
+  branches:
+    - branch: Legs with tarsal spurs.
+      next: 22
+    - branch: All legs without tarsal spurs. 
+      next: 24
+- step: 22
+  previous: 21
+  branches:
+  - branch: Forcipular tooth-plates of variable length, but never extending beyond the trochantero-prefemoral process; pretarsus of ultimate legs with accessory spines in most species. Tropical, subtropical and warm temperate regions.
+    result: Scolopendra
+  - branch: Forcipular tooth-plates definitely longer than wide (rarely as long as wide), considerably extending beyond the trochantero-prefemoral process; pretarsus of ultimate legs without accessory spines. 
+    next: 23
+- step: 23
+  previous: 22
+  branches:
+  - branch: Cephalic plate overlapping anterior margin of tergite 1; inner surface of both femur and tibia of ultimate legs with numerous, irregularly arranged strong spines. West and North Australia.
+    result: former genus Kanparka (= Scolopendra)
+  - branch: Cephalic plate abuts tergite 1; femur and tibia of ultimate legs without spines. South Africa; Dinajpur (Bangladesh), Australia; Mexico, USA (Texas).
+    result: Arthrorhabdus
+- step: 24
+  previous: 21
+  branches:
+  - branch: Dorsal edge of spiracular peritrema recurved ventrally; opening between spiracular flaps curved ventrally. New Caledonia. 
+    result: Cormocephalus (Campylostigmus)
+  - branch: Edges of spiracular peritrema straight or symmetrically curved, opening between spiracular flaps straight, horizontal 
+    next: 25
+- step: 25
+  previous: 24
+  branches: 
+  - branch: Cephalic plate with paramedian sutures and, in most species, with well-developed basal plates. All tropical and subtropical regions with temperate climate.
+    result: Cormocephalus (Cormocephalus) (2)
+  - branch: Cephalic plate without paramedian sutures and basal plates. 
+    next: 26
+- step: 26
+  previous: 25
+  branches:
+  - branch: Cephalic plate with poorly developed median suture in posterior two-thirds. Coxopleural process and corner spine of ultimate prefemur with a single apical spine. Myanmar.
+    result: Psiloscolopendra
+  - branch: Cephalic plate without median suture. Coxopleural process with some apical + in most species with lateral spines. Corner spine of ultimate prefemur with a few/some spines.
+    next: 27
+- step: 27
+  previous: 26
+  branches:
+  - branch: Tergite 1 with both anterior transverse suture and paramedian sutures. Southern USA, Mexico.
+    result: Hemiscolopendra
+  - branch: Tergite 1 without any sutures. 
+    next: 28
+- step: 28
+  previous: 26
+  branches:
+  - branch: "Ultimate sternite without median sulcus; coxopleuron with long, thin, cylindrical process. South America: from Venezuela to Northern Chile and Central Argentina."
+    result: Akymnopellis
+  - banch: Ultimate sternite with well-developed median longitudinal sulcus; coxopleuron with very short, conical process. Perth region (South-West Australia).
+    result: Notiasemus
+- step: 29
+  previous: 19
+  branches:
+  - branch: Antennae short, reaching the anterior margin of tergite 1 (in most species 2 or 3) when reflexed, cephalic plate without sutures. North-East, East and Central Africa, Saudi Arabia, Yemen, Afghanistan, India, Vietnam, Thailand, South-East Indonesia, Philippines, New Guinea, Australia (NE Queensland).
+    result: Asanada
+  - branch: "Antennae very short, not reaching the anterior margin of tergite 1 when reflexed, cephalic plate with very short paired sutures in the middle. South-East Indonesia: East Sumba."
+    result: Asanadopsis
+- step: 30
+  previous: 18
+  branches:
+  - branch: LBS 7 without spiracles.
+    intermediate_result: tribe Otostigmini (1)
+    next: 31
+  - branch: LBS 7 with spiracles.
+    next: 35
+- step: 31
+  previous: 30
+  branches:
+  - branch: Tibia and tarsus of ultimate legs of similar proportions to those of locomotory legs.
+    next: 32
+  - branch: Tibia and tarsus of ultimate legs flattened, leaf-like. South, South-East and Central Africa.
+    result: Alipes
+- step: 32
+  previous: 31
+  branches:
+  - branch: Femur of the ultimate legs in both sexes lacking both dorso-medial longitudinal depression and distomedial process
+    next: 33
+  - branch: Femur of the ultimate legs in males with well-developed longitudinal depression on inner side and with obtuse conical disto-medial process. Western part of Central Africa, Southern India, Myanmar.
+    result: Digitipes
+- step: 33
+  previous: 32
+  branches:
+  - branch: Coxopleural process in most cases well-developed (in a few species much reduced) and with apical spines; prefemur of the ultimate legs with ventral spines (Fig. 83). From the Canary Islands through Africa and Asia to Australia, New Zealand and Pacific Islands.
+    result: Otostigmus (Otostigmus)
+  - branch: Coxopleural process lacking or short without apical spines, very rarely with spine(s) at its place; prefemur of the ultimate legs without spines.
+    next: 34
+- step: 34
+  previous: 33
+  branches:
+  - branch: Pretarsus of maxillae 2 with accessory spine(s) in most species, the second article of the corresponding telopodite with distal spur; ultimate tergite without any caudal prolongation; coxopleuron without spined process. Central and South America, including Caribbean; North-Eastern, Eastern, Southern and West-Central tropical Africa.
+    result: Otostigmus (Parotostigmus)
+  - branch: Pretarsus of maxillae 2 without accessory spine(s), the second article of the corresponding telopodite without distal spur; ultimate tergite in males with caudal digitiform prolongation, which is longer than this tergite; pointed coxopleural process, when present, without any other spines. Brazil; North-East Argentina (Corrientes Province).
+    result: Otostigmus (Dactylotergitius)
+- step: 35
+  previous: 10
+  branches:
+  - branch: Ultimate legs in most genera of similar proportions to those of locomotory legs, their prefemur always with ventral spines.
+    result: tribe Otostigmini (2)
+    next: 36
+  - branch: Ultimate legs relatively short and much broadened, their prefemur without ventral spines 
+    intermediate_result: tribe Sterropristini + genus Edentistoma
+    next: 38
+- step: 36
+  previous: 35
+  branches:
+  - branch: Forcipular trochantero-prefemoral process rudimentary or absent. India, Nepal, Bhutan, Sri Lanka, China, Taiwan, Indochina, Philippines, Indonesia; West and North-East New Guinea, Bismarck Archipelago, North and West Australia, Solomon Islands, Polynesia; Turkey, all Africa and neighboring islands.
+    result: Ethmostigmus
+  - branch: Forcipular trochantero-prefemoral process well-developed 
+    next: 37
+- step: 37
+  previous: 36
+  branches:
+  - branch: Prefemur of the ultimate leg lacking corner spine (sometimes with 1(2) spines at its place). Legs 1 without prefemoral spur; tarsus 1 of the ultimate legs of similar proportions to those of locomotory legs. Indo-Australia, Arabian Peninsula (Oman), Africa, Neotropics.
+    result: Rhysida
+  - branch: Prefemur of the ultimate leg with well-developed corner spine. Legs 1 with prefemoral spur; tarsus 1 of the ultimate legs of male considerably swollen, with prominent dorsodistal projection. Vietnam, Thailand, Laos, Cambodia.
+    result: Alluropus
+- step: 38
+  previous: 35
+  branches:
+  - branch: Forcipular tarsungula long and thin, inner margin of tarsungula smooth; forcipular tooth-plates absent. Sarawak (Malaysia), Palawan Island (Philippines).
+    result: Edentistoma
+  - branch: Forcipular tarsungula short and broad, nearly triangular, inner margin of tarsungula saw-like; forcipular tooth-plates well-developed. Malaysia, Sulawesi, Similan and Surin Isl. (South-West Thailand).
+    result: Sterropristes
