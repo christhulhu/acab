@@ -16,6 +16,7 @@ key:
   - branch: Four ocelli on each side of cephalic plate or ocelli absent.
     next: 2
 - step: 2
+  previous: 1
   branches:
   - branch: 23 LBS, ocelli absent.
     intermediate_result: family Scolopocryptopidae
@@ -154,8 +155,6 @@ key:
     next: 29
 - step: 20
   previous: 19
-- step: 20
-  previous: 19
   branches:
   - branch: Tarsus 2 of locomotory legs longer than tarsus 1; coxopleuron without process North-East, East and Central Brazil.
     result: Scolopendropsis
@@ -261,10 +260,10 @@ key:
   - branch: Pretarsus of maxillae 2 without accessory spine(s), the second article of the corresponding telopodite without distal spur; ultimate tergite in males with caudal digitiform prolongation, which is longer than this tergite; pointed coxopleural process, when present, without any other spines. Brazil; North-East Argentina (Corrientes Province).
     result: Otostigmus (Dactylotergitius)
 - step: 35
-  previous: 10
+  previous: 30
   branches:
   - branch: Ultimate legs in most genera of similar proportions to those of locomotory legs, their prefemur always with ventral spines.
-    result: tribe Otostigmini (2)
+    intermediate_result: tribe Otostigmini (2)
     next: 36
   - branch: Ultimate legs relatively short and much broadened, their prefemur without ventral spines 
     intermediate_result: tribe Sterropristini + genus Edentistoma
