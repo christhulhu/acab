@@ -1,8 +1,17 @@
 @startwbs
 
-* Gattung: Newportia
-** Untergattung: Tidops
-** Untergattung: Ectonocryptops
-** Untergattung: Ectonocryptoides
-** Untergattung: Newportides
+* Familie: Scolopocryptopidae
+** Unterfamilie: Scolopocryptopinae
+*** Gattung: Scolopocryptops
+' TBD: In Taxonomie-Übersicht entfernen
+*** Gattung: <s>Dinocryptops
+** Unterfamilie: Kethopinae
+*** Gattung: Kethops
+*** Gattung: Thalkethops
+** Unterfamilie: Newportiinae
+*** Gattung: Newportia
+**** Untergattung: Tidops
+**** Untergattung: Ectonocryptops
+**** Untergattung: Ectonocryptoides
+**** Untergattung: Newportides
 @endwbs
